@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://noehale.github.io/rssfeed/index.html</id>
+    <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T06:11:28.696Z</updated>
+    <updated>2021-05-21T06:15:31.542Z</updated>
     <generator>osmosfeed 1.7.2</generator>
-    <link rel="alternate" href="https://noehale.github.io/rssfeed/index.html"/>
-    <link rel="self" href="https://noehale.github.io/rssfeed/feed.atom"/>
+    <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
+    <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[JSON in CSS]]></title>
         <id>https://css-tricks.com/?p=340599</id>
