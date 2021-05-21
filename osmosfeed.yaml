@@ -1,3 +1,4 @@
 cacheUrl: https://noehale.github.io/lastest/cache.json
 sources:
   - href: https://prettypeterparkr.tumblr.com/rss
+  - href: https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen
