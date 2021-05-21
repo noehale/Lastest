@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,27 +15,36 @@
 <body>
   <header>
     <dl>
-      <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
-      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
-      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
-      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
+      <dt><b>Ferret Latest News</b></dt><dd>{{siteTitle}}</dd>
     </dl>
   </header>
 
-  {{#each articles}}
-  <article>
-      <h1><a href={{link}}>{{title}}</a></h1>
-      <div>
-        <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-        <span>Date: <time>{{isoPublishDate}}</time></span> |
-        <span>Timestamp: <time>{{publishedOn}}</time></span> |
-        <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-        <span>Word count: <time>{{wordCount}}</time></span>
-      </div>
-      <p>{{description}}</p>
-    </details>
-  </article>
+
+  <ul>
+  {{#each dates}}
+    <li>
+      <section>
+      <h1>{{isoPublishDate}}</h1>
+
+      {{#each articles}}
+      <article>
+          <h2><a href={{link}}>{{title}}</a></h2>
+          <div>
+            <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
+            <span>Date: <time>{{isoPublishDate}}</time></span> |
+            <span>Timestamp: <time>{{publishedOn}}</time></span> |
+            <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
+            <span>Word count: <time>{{wordCount}}</time></span>
+          </div>
+          <p>{{description}}</p>
+        </details>
+      </article>
+      {{/each}}
+
+      </section>
+    </li>
   {{/each}}
+  </ul>
 </body>
 
 </html>
