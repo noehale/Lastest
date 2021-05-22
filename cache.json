@@ -206,86 +206,401 @@
       ]
     },
     {
-      "title": "&quot;ferret&quot; - Google News",
-      "feedUrl": "https://full-rss-generator.herokuapp.com/makefulltextfeed.php?url=sec%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3Dferret%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&max=10&links=preserve&exc=&summary=1&submit=Create+Feed",
+      "title": "\"ferret\" - Google News",
+      "feedUrl": "https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen",
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
         {
+          "id": "CAIiEJpwMYSniuWzUU9dZ2c8ruMqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "Concerns raised over 'seclusion' at Glasgow primary school  The Ferret",
+          "link": "https://theferret.scot/concerns-raised-over-seclusion-at-glasgow-primary/",
+          "publishedOn": "2021-05-22T05:00:00.000Z",
+          "wordCount": 3395,
+          "title": "Concerns raised over 'seclusion' at Glasgow primary school - The Ferret"
+        },
+        {
           "id": "CAIiECglKH5Tu5yjG4G53Swft_4qMwgEKioIACIQdTnG68Y52GfSnLkdJlW3kSoUCAoiEHU5xuvGOdhn0py5HSZVt5EwjcWKBw",
           "author": null,
-          "description": "Dorset-based animal rescue centre Margaret Green is hoping to find loving homes for two pigs, two ferrets and a cat this week. Pudding and Pie are two adorable rescue pigs looking for a home together. They are very friendly and active pigs who ended up in the care of Margaret Green when their previous owner…",
+          "description": "Pigs, ferrets and cats looking for forever homes in Dorset  Bournemouth Echo",
           "link": "https://www.bournemouthecho.co.uk/news/19319581.pigs-ferrets-cats-looking-forever-homes-dorset/",
           "publishedOn": "2021-05-22T04:00:00.000Z",
           "wordCount": 976,
           "title": "Pigs, ferrets and cats looking for forever homes in Dorset - Bournemouth Echo"
         },
         {
+          "id": "CBMiUmh0dHBzOi8vd3d3LnRocmlsbGlzdC5jb20vZW50ZXJ0YWlubWVudC9uYXRpb24vbWFyZS1vZi1lYXN0dG93bi1xdWVzdGlvbnMtdGhlb3JpZXPSAVpodHRwczovL3d3dy50aHJpbGxpc3QuY29tL2FtcGh0bWwvZW50ZXJ0YWlubWVudC9uYXRpb24vbWFyZS1vZi1lYXN0dG93bi1xdWVzdGlvbnMtdGhlb3JpZXM",
+          "author": null,
+          "description": "All Our Burning 'Mare of Easttown' Questions That Still Need Answers  Thrillist",
+          "link": "https://www.thrillist.com/entertainment/nation/mare-of-easttown-questions-theories",
+          "publishedOn": "2021-05-21T19:37:08.000Z",
+          "wordCount": 2444,
+          "title": "All Our Burning 'Mare of Easttown' Questions That Still Need Answers - Thrillist"
+        },
+        {
           "id": "CBMihgFodHRwczovL3d3dy5leHByZXNzLmNvLnVrL3Nob3diaXovdHYtcmFkaW8vMTQzOTUzMi9CcmFkbGV5LVdhbHNoLXdhbGstb2ZmLVRoZS1DaGFzZS1TaGF1bi1XYWxsYWNlLWFuc3dlci1ibHVuZGVyLW1vbGUtZmVycmV0LUlUVi12aWRlb9IBigFodHRwczovL3d3dy5leHByZXNzLmNvLnVrL3Nob3diaXovdHYtcmFkaW8vMTQzOTUzMi9CcmFkbGV5LVdhbHNoLXdhbGstb2ZmLVRoZS1DaGFzZS1TaGF1bi1XYWxsYWNlLWFuc3dlci1ibHVuZGVyLW1vbGUtZmVycmV0LUlUVi12aWRlby9hbXA",
           "author": null,
-          "description": "The possible answers were a mole, a ferret or a badger.  Bradley mocked Ryan's reasonings for ferret: \"Can you imagine a mole taking the cables through?\"  \"It’s not that, it’s seeing him come through the hole like ‘Where do you want this lads? Anyone got my gloves? Right Baz, put that down… ma’am’.",
+          "description": "Bradley Walsh walks off The Chase in hysterics after Shaun Wallace’s answer blunder  Daily Express",
           "link": "https://www.express.co.uk/showbiz/tv-radio/1439532/Bradley-Walsh-walk-off-The-Chase-Shaun-Wallace-answer-blunder-mole-ferret-ITV-video",
           "publishedOn": "2021-05-21T17:04:00.000Z",
-          "wordCount": 1431,
+          "wordCount": 1430,
           "title": "Bradley Walsh walks off The Chase in hysterics after Shaun Wallace’s answer blunder - Daily Express"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIxL2xhbmRvLW5vcnJpcy1zaWducy1jb250cmFjdC1leHRlbnNpb24td2l0aC1tY2xhcmVuL9IBAA",
+          "author": null,
+          "description": "Lando Norris signs contract extension with McLaren  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/21/lando-norris-signs-contract-extension-with-mclaren/",
+          "publishedOn": "2021-05-21T16:04:03.000Z",
+          "wordCount": 821,
+          "title": "Lando Norris signs contract extension with McLaren - SportingFerret"
+        },
+        {
+          "id": "CBMigQFodHRwczovL21hbm9tZXRjdXJyZW50LmNvbS9vbmxpbmUtcGVyc29uYWwtdHJhaW5lci1zb2Z0d2FyZS1tYXJrZXQtcXVhbGl0eS1xdWFudGl0eS1hbmFseXNpcy1hY3VpdHktc2NoZWR1bGluZy1maXRzdy13b3Jrb3V0bGFicy_SAQA",
+          "author": null,
+          "description": "Online Personal Trainer Software Market Quality & Quantity Analysis | Acuity Scheduling, FitSW, WorkoutLabs – The Manomet Current  The Manomet Current",
+          "link": "https://manometcurrent.com/online-personal-trainer-software-market-quality-quantity-analysis-acuity-scheduling-fitsw-workoutlabs/",
+          "publishedOn": "2021-05-21T15:29:29.000Z",
+          "wordCount": 1355,
+          "title": "Online Personal Trainer Software Market Quality & Quantity Analysis | Acuity Scheduling, FitSW, WorkoutLabs – The Manomet Current - The Manomet Current"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIxL2NoYW1waW9ucy1sZWFndWUtd2hvLXN0aWxsLXN0YW5kcy1hLWNoYW5jZS_SAQA",
+          "author": null,
+          "description": "Champions League: Who still stands a chance?  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/21/champions-league-who-still-stands-a-chance/",
+          "publishedOn": "2021-05-21T13:59:07.000Z",
+          "wordCount": 2057,
+          "title": "Champions League: Who still stands a chance? - SportingFerret"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vZGNpc3QuY29tL3N0b3J5LzIxLzA1LzIxL2RjLW1kLXZhLW1vcm5pbmctbmV3cy1yb3VuZHVwLTA1LTIxLTIwMjEv0gEA",
+          "author": null,
+          "description": "Morning Roundup: The Panda Cub Is Making His Public Debut Today  DCist",
+          "link": "https://dcist.com/story/21/05/21/dc-md-va-morning-news-roundup-05-21-2021/",
+          "publishedOn": "2021-05-21T12:59:00.000Z",
+          "wordCount": 167,
+          "title": "Morning Roundup: The Panda Cub Is Making His Public Debut Today - DCist"
+        },
+        {
+          "id": "CBMiR2h0dHBzOi8vZGV0cm9pdG1pLmdvdi9uZXdzL3JhYmllcy1kZXRlY3RlZC1kb2ctZGV0cm9pdC1maXJzdC1zdGF0ZS0yMDEx0gEA",
+          "author": null,
+          "description": "Rabies detected in dog in Detroit, first in state since 2011  Detroit Police Department",
+          "link": "https://detroitmi.gov/news/rabies-detected-dog-detroit-first-state-2011",
+          "publishedOn": "2021-05-21T12:00:00.000Z",
+          "wordCount": 720,
+          "title": "Rabies detected in dog in Detroit, first in state since 2011 - Detroit Police Department"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIxL2Rvbm92YW4tbWl0Y2hlbGwtZXhwZWN0ZWQtdG8tcGxheS1vbi10aGUtcGxheW9mZi1zdW5kYXktb3BlbmVyL9IBAA",
+          "author": null,
+          "description": "Donovan Mitchell expected to play on the Playoff Sunday opener  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/21/donovan-mitchell-expected-to-play-on-the-playoff-sunday-opener/",
+          "publishedOn": "2021-05-21T11:40:29.000Z",
+          "wordCount": 682,
+          "title": "Donovan Mitchell expected to play on the Playoff Sunday opener - SportingFerret"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIxL3N1cGVyLXJ1Z2J5LXRyYW5zLXRhc21hbi1hY3Rpb24tYXdhaXRzLWRvd24tdW5kZXIv0gEA",
+          "author": null,
+          "description": "Super Rugby Trans-Tasman: Action awaits down-under  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/21/super-rugby-trans-tasman-action-awaits-down-under/",
+          "publishedOn": "2021-05-21T11:30:16.000Z",
+          "wordCount": 1692,
+          "title": "Super Rugby Trans-Tasman: Action awaits down-under - SportingFerret"
+        },
+        {
+          "id": "CBMiVGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIwL2hhcnJ5LWthbmUtcHV0cy10b3R0ZW5oYW0tZnV0dXJlLWluLWRvdWJ0L9IBAA",
+          "author": null,
+          "description": "Harry Kane Puts Tottenham Future in Doubt  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/20/harry-kane-puts-tottenham-future-in-doubt/",
+          "publishedOn": "2021-05-21T10:57:20.000Z",
+          "wordCount": 857,
+          "title": "Harry Kane Puts Tottenham Future in Doubt - SportingFerret"
         },
         {
           "id": "CAIiEImOGpLNg_ITR6aNVULX93gqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
           "author": null,
-          "description": "We use cookies on our website that help us remember your preferences and provide the best multi-media service we possibly can. By clicking “Accept”, you consent to allow all cookies. However you can adjust your Cookie Settings to disable non-essential cookies.",
+          "description": "Bee-killing pesticide treatment for fish farms backed by Scottish Government  The Ferret",
           "link": "https://theferret.scot/pesticide-treatment-fish-farms-scottish-government/",
           "publishedOn": "2021-05-21T10:50:00.000Z",
           "wordCount": 2693,
           "title": "Bee-killing pesticide treatment for fish farms backed by Scottish Government - The Ferret"
         },
         {
+          "id": "CBMiUmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIwL25iYS1yZXN1bHRzLWZyb20tdGhlLXBsYXktaW4tdG91cm5hbWVudC_SAQA",
+          "author": null,
+          "description": "NBA: Results from the Play-in tournament  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/20/nba-results-from-the-play-in-tournament/",
+          "publishedOn": "2021-05-21T10:01:57.000Z",
+          "wordCount": 918,
+          "title": "NBA: Results from the Play-in tournament - SportingFerret"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIxL2pvc2gtdGF5bG9yLXZzLWpvc2UtcmFtaXJlei1leWVzLW9uLXRoZS1wcml6ZS_SAQA",
+          "author": null,
+          "description": "Josh Taylor vs Jose Ramirez: Eyes on the Prize  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/21/josh-taylor-vs-jose-ramirez-eyes-on-the-prize/",
+          "publishedOn": "2021-05-21T09:03:05.000Z",
+          "wordCount": 766,
+          "title": "Josh Taylor vs Jose Ramirez: Eyes on the Prize - SportingFerret"
+        },
+        {
+          "id": "CAIiEMqUgkjRJTklmpKemGvssAAqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "FFS explains: Scottish independence, the EU and a 'hard border'  The Ferret",
+          "link": "https://theferret.scot/ffs-explains-scottish-independence-border-issue/",
+          "publishedOn": "2021-05-21T08:22:06.000Z",
+          "wordCount": 2249,
+          "title": "FFS explains: Scottish independence, the EU and a 'hard border' - The Ferret"
+        },
+        {
+          "id": "CBMi3AFodHRwczovL3d3dy5kb2N3aXJlbmV3cy5jb20vYWJzdHJhY3RzL3NlcXVlbnRpYWwtaW5mZWN0aW9uLXdpdGgtaDFuMS1hbmQtc2Fycy1jb3YtMi1hZ2dyYXZhdGVkLWNvdmlkLTE5LXBhdGhvZ2VuZXNpcy1pbi1hLW1hbW1hbGlhbi1tb2RlbC1hbmQtY28tdmFjY2luYXRpb24tYXMtYW4tZWZmZWN0aXZlLW1ldGhvZC1vZi1wcmV2ZW50aW9uLW9mLWNvdmlkLTE5LWFuZC1pbmZsdWVuemEv0gHgAWh0dHBzOi8vd3d3LmRvY3dpcmVuZXdzLmNvbS9hYnN0cmFjdHMvc2VxdWVudGlhbC1pbmZlY3Rpb24td2l0aC1oMW4xLWFuZC1zYXJzLWNvdi0yLWFnZ3JhdmF0ZWQtY292aWQtMTktcGF0aG9nZW5lc2lzLWluLWEtbWFtbWFsaWFuLW1vZGVsLWFuZC1jby12YWNjaW5hdGlvbi1hcy1hbi1lZmZlY3RpdmUtbWV0aG9kLW9mLXByZXZlbnRpb24tb2YtY292aWQtMTktYW5kLWluZmx1ZW56YS9hbXAv",
+          "author": null,
+          "description": "Sequential infection with H1N1 and SARS-CoV-2 aggravated COVID-19 pathogenesis in a mammalian model, and co-vaccination as an effective method of prevention of COVID-19 and influenza  DocWire News",
+          "link": "https://www.docwirenews.com/abstracts/sequential-infection-with-h1n1-and-sars-cov-2-aggravated-covid-19-pathogenesis-in-a-mammalian-model-and-co-vaccination-as-an-effective-method-of-prevention-of-covid-19-and-influenza/",
+          "publishedOn": "2021-05-21T06:00:00.000Z",
+          "wordCount": 802,
+          "title": "Sequential infection with H1N1 and SARS-CoV-2 aggravated COVID-19 pathogenesis in a mammalian model, and co-vaccination as an effective method of prevention of COVID-19 and influenza - DocWire News"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LnBvcHN1Z2FyLmNvbS9wZXRzL2Jlc3Qtc21hbGwtcGV0cy1mb3ItY3VkZGxpbmctNDgzMDg5MTDSAUdodHRwczovL3d3dy5wb3BzdWdhci5jb20vcGV0cy9iZXN0LXNtYWxsLXBldHMtZm9yLWN1ZGRsaW5nLTQ4MzA4OTEwL2FtcA",
+          "author": null,
+          "description": "8 Small Pets That Are Soft, Affectionate, and Perfect for Cuddling  POPSUGAR",
+          "link": "https://www.popsugar.com/pets/best-small-pets-for-cuddling-48308910",
+          "publishedOn": "2021-05-20T23:25:06.000Z",
+          "wordCount": 949,
+          "title": "8 Small Pets That Are Soft, Affectionate, and Perfect for Cuddling - POPSUGAR"
+        },
+        {
+          "id": "CBMif2h0dHBzOi8vd3d3LnJlY29yZC1jb3VyaWVyLmNvbS9zdG9yeS9uZXdzLzIwMjEvMDUvMjAvcmF2ZW5uYS1wb2xpY2Utb2ZmaWNlcnMtcmVmbGVjdC1saWZlc2F2aW5nLXJlc2N1ZS1wb3J0YWdlLW9oaW8vNTE4MjkxODAwMS_SAS1odHRwczovL2FtcC5yZWNvcmQtY291cmllci5jb20vYW1wLzUxODI5MTgwMDE",
+          "author": null,
+          "description": "Lifesaving Ravenna house fire rescue seen on police body camera footage  Record-Courier",
+          "link": "https://www.record-courier.com/story/news/2021/05/20/ravenna-police-officers-reflect-lifesaving-rescue-portage-ohio/5182918001/",
+          "publishedOn": "2021-05-20T20:27:08.000Z",
+          "wordCount": 909,
+          "title": "Lifesaving Ravenna house fire rescue seen on police body camera footage - Record-Courier"
+        },
+        {
           "id": "CBMifGh0dHBzOi8vd3d3Lndhc2hpbmd0b25pYW4uY29tLzIwMjEvMDUvMjAvYW4tYWRvcmFibGUtYW5kLXJhcmUtYmxhY2stZm9vdGVkLWZlcnJldC1raXQtd2FzLWJvcm4tYXQtdGhlLXNtaXRoc29uaWFuLWluc3RpdHV0ZS_SAQA",
-          "author": "Jane Recker",
-          "description": "A black-footed ferret kit was born around 3 PM yesterday at the Smithsonian’s Conservation Biology Institute in Front Royal, Virginia. Animal care staff are monitoring mom, Potpie, for additional kits born in the litter.This is the third litter for Potpie, and the third litter for dad Daly.",
+          "author": null,
+          "description": "An Adorable Black-Footed Ferret Kit Was Born at a Smithsonian Institute  Washingtonian",
           "link": "https://www.washingtonian.com/2021/05/20/an-adorable-and-rare-black-footed-ferret-kit-was-born-at-the-smithsonian-institute/",
           "publishedOn": "2021-05-20T18:23:26.000Z",
           "wordCount": 808,
           "title": "An Adorable Black-Footed Ferret Kit Was Born at a Smithsonian Institute - Washingtonian"
         },
         {
+          "id": "CBMiXWh0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL3dvb2RzdG9jay10b3duZS1sYWtlLWFyZWEtZXZlbnRzLXNlZS13aGF0cy1jb21pbmctd2Vla2VuZNIBcmh0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL2FtcC8yOTUyOTIzNS93b29kc3RvY2stdG93bmUtbGFrZS1hcmVhLWV2ZW50cy1zZWUtd2hhdHMtY29taW5nLXVwLXRoaXMtd2Vla2VuZA",
+          "author": null,
+          "description": "Woodstock-Towne Lake Area Events: See Whats Coming Up This Weekend  Patch.com",
+          "link": "https://patch.com/georgia/woodstock/woodstock-towne-lake-area-events-see-whats-coming-weekend",
+          "publishedOn": "2021-05-20T16:08:39.000Z",
+          "wordCount": 1223,
+          "title": "Woodstock-Towne Lake Area Events: See Whats Coming Up This Weekend - Patch.com"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2JyZWFraW5ndmlld3MvY2FwaXRhbC1jYWxscy1tb3JnYW4tc3RhbmxleXMtc3RhcnMtcmVhbGlnbi0yMDIxLTA1LTIwL9IBAA",
+          "author": null,
+          "description": "Capital Calls: Morgan Stanley's stars realign  Reuters",
+          "link": "https://www.reuters.com/breakingviews/capital-calls-morgan-stanleys-stars-realign-2021-05-20/",
+          "publishedOn": "2021-05-20T15:40:00.000Z",
+          "wordCount": 690,
+          "title": "Capital Calls: Morgan Stanley's stars realign - Reuters"
+        },
+        {
+          "id": "CAIiEAUp54wm3aku2Bj-oqMPUesqMwgEKioIACIQ65Pnd-s87Ky7YVAI7KgDCSoUCAoiEOuT53frPOysu2FQCOyoAwkwhYLEBg",
+          "author": null,
+          "description": "Graham Sibley leads new podcast celebrating endangered species  Mongabay.com",
+          "link": "https://news.mongabay.com/2021/05/graham-sibley-leads-new-podcast-celebrating-endangered-species/",
+          "publishedOn": "2021-05-20T15:37:13.000Z",
+          "wordCount": 2195,
+          "title": "Graham Sibley leads new podcast celebrating endangered species - Mongabay.com"
+        },
+        {
+          "id": "CBMihAFodHRwczovL3d3dy5oZWFsaW8uY29tL25ld3MvaW5mZWN0aW91cy1kaXNlYXNlLzIwMjEwNTE0L3F1ZXN0aW9ucy1yZW1haW4tYWZ0ZXItd2hvLXRlYW0tdmlzaXRzLXd1aGFuLWxvb2tpbmctZm9yLWFuc3dlcnMtdG8tc2Fyc2NvdjLSAQA",
+          "author": null,
+          "description": "Questions remain after WHO team visits Wuhan looking for answers to SARS-CoV-2  Healio",
+          "link": "https://www.healio.com/news/infectious-disease/20210514/questions-remain-after-who-team-visits-wuhan-looking-for-answers-to-sarscov2",
+          "publishedOn": "2021-05-20T15:20:32.000Z",
+          "wordCount": 1950,
+          "title": "Questions remain after WHO team visits Wuhan looking for answers to SARS-CoV-2 - Healio"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LmJlbWlkamlwaW9uZWVyLmNvbS9uZXdzbWQvd2VsbG5lc3MvNzAzNTY0OC1IZWFsdGgtRnVzaW9uLVRoZS1wb3dlci1vZi1wZXRzLWNhbi1wcm9kdWNlLXNtaWxlc9IBAA",
+          "author": null,
+          "description": "Health Fusion: The power of pets can produce smiles  Bemidji Pioneer",
+          "link": "https://www.bemidjipioneer.com/newsmd/wellness/7035648-Health-Fusion-The-power-of-pets-can-produce-smiles",
+          "publishedOn": "2021-05-20T12:45:00.000Z",
+          "wordCount": 1073,
+          "title": "Health Fusion: The power of pets can produce smiles - Bemidji Pioneer"
+        },
+        {
+          "id": "CBMiywFodHRwczovL2tzdXNlbnRpbmVsLmNvbS8yMDIxLzA1LzIwL29ubGluZS1wZXJzb25hbC10cmFpbmVyLXNvZnR3YXJlLW1hcmtldC1vdXRsb29rLTIwMjEtYW5hbHlzaXMtYW5kLWZvcmVjYXN0LXRvLTIwMjgtYnktbWFudWZhY3R1cmVycy1hY3VpdHktc2NoZWR1bGluZy1jbHVibWFuYWdlci1maXRzdy1nb21vdGl2ZS1maXQtZmVycmV0LXdvcmtvdXRsYWJzL9IBAA",
+          "author": null,
+          "description": "Online Personal Trainer Software Market Outlook 2021, Analysis and Forecast to 2028 by Manufacturers| Acuity Scheduling, ClubManager, FitSW, GoMotive, Fit Ferret, WorkoutLabs – KSU | The Sentinel Newspaper  KSU | The Sentinel Newspaper",
+          "link": "https://ksusentinel.com/2021/05/20/online-personal-trainer-software-market-outlook-2021-analysis-and-forecast-to-2028-by-manufacturers-acuity-scheduling-clubmanager-fitsw-gomotive-fit-ferret-workoutlabs/",
+          "publishedOn": "2021-05-20T06:11:52.000Z",
+          "wordCount": 1243,
+          "title": "Online Personal Trainer Software Market Outlook 2021, Analysis and Forecast to 2028 by Manufacturers| Acuity Scheduling, ClubManager, FitSW, GoMotive, Fit Ferret, WorkoutLabs – KSU | The Sentinel Newspaper - KSU | The Sentinel Newspaper"
+        },
+        {
           "id": "CBMiaGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L25ld3MvYmxhY2stZm9vdGVkLWZlcnJldHMtYXJlLWJvcm4tc21pdGhzb25pYW4tY29uc2VydmF0aW9uLWJpb2xvZ3ktaW5zdGl0dXRl0gEA",
           "author": null,
-          "description": "Video Carnivore keepers at the Smithsonian Conservation Biology Institute (SCBI) in Front Royal, Virginia, are welcoming a litter of endangered black-footed ferret kits. Three-year-old female Potpie has birthed one kit already, which was born at 3:41 p.m. and can be viewed via the Black-Footed Ferret Cam. Animal care staff are closely monitoring the soundless, black-and-white…",
+          "description": "Black-Footed Ferrets Are Born at the Smithsonian Conservation Biology Institute  Smithsonian's National Zoo and Conservation Biology Institute",
           "link": "https://nationalzoo.si.edu/news/black-footed-ferrets-are-born-smithsonian-conservation-biology-institute",
           "publishedOn": "2021-05-19T20:05:55.000Z",
           "wordCount": 1728,
-          "title": "Black-Footed Ferrets Are Born at the Smithsonian Conservation Biology Institute - Smithsonian&#039;s National Zoo and Conservation Biology Institute"
-        },
-        {
-          "id": "CBMiTmh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ib3VudHktaHVudGVyLWNvbnRyYWN0cy1mb3ItdGF4YWJsZS0zNDUzNjA4L9IBAA",
-          "author": null,
-          "description": "A “tax ferret contract” is an agreement to locate property that has been under appraised or omitted from the tax rolls altogether. Tax ferrets are by no means Good Samaritans seeking to safeguard the tax base. On the contrary, they are private profiteers seeking to line their own pockets at the expense of the property…",
-          "link": "https://www.jdsupra.com/legalnews/bounty-hunter-contracts-for-taxable-3453608/",
-          "publishedOn": "2021-05-19T19:52:22.000Z",
-          "wordCount": 1325,
-          "title": "Bounty Hunter Contracts for Taxable Property: Illegal Contracts for Legal Services Do Not Defeat Jurisdiction - JD Supra"
+          "title": "Black-Footed Ferrets Are Born at the Smithsonian Conservation Biology Institute - Smithsonian's National Zoo and Conservation Biology Institute"
         },
         {
           "id": "CBMiLWh0dHBzOi8vd3d3Lmt1bm0ub3JnL3Bvc3QvYmxhY2stZm9vdGVkLWZlcnJldNIBAA",
           "author": null,
-          "description": "Sat. 5/22 9a: This week we explore a creature that used to live throughout the mountain west United States, the elusive black footed ferret. Once declared extinct, the highly endangered specialist predator may make a comeback in the North American prairie thanks in part to our guest, Paul Marinari, Senior Curator at the Smithsonian Conservation Biology Institute at the…",
+          "description": "Black Footed Ferret  KUNM",
           "link": "https://www.kunm.org/post/black-footed-ferret",
           "publishedOn": "2021-05-19T17:21:40.000Z",
           "wordCount": 369,
           "title": "Black Footed Ferret - KUNM"
         },
         {
+          "id": "CBMiV2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE5L3RoZS1uYmEtcGxheS1pbi10b3VybmFtZW50LWFuZC10aGUtbXZwLWF3YXJkL9IBAA",
+          "author": null,
+          "description": "The NBA Play-in Tournament and the MVP Award  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/19/the-nba-play-in-tournament-and-the-mvp-award/",
+          "publishedOn": "2021-05-19T12:01:28.000Z",
+          "wordCount": 775,
+          "title": "The NBA Play-in Tournament and the MVP Award - SportingFerret"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE5L21jbGFyZW4tYnJpbmdzLW91dC1uZXctY29sb3JzLWZvci1tb25hY28tZ3JhbmQtcHJpeC_SAQA",
+          "author": null,
+          "description": "McLaren brings out new colors for Monaco Grand Prix  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/19/mclaren-brings-out-new-colors-for-monaco-grand-prix/",
+          "publishedOn": "2021-05-19T09:17:03.000Z",
+          "wordCount": 815,
+          "title": "McLaren brings out new colors for Monaco Grand Prix - SportingFerret"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE5L2EtZ2FtZS1vZi10d28taGFsdmVzL9IBAA",
+          "author": null,
+          "description": "A Game of Two Halves. Life Lessons Learnt  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/19/a-game-of-two-halves/",
+          "publishedOn": "2021-05-19T07:18:44.000Z",
+          "wordCount": 773,
+          "title": "A Game of Two Halves. Life Lessons Learnt - SportingFerret"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE5L21hdGNoLXJlcG9ydC1zcHVycy0xLTItYXN0b24tdmlsbGEv0gEA",
+          "author": null,
+          "description": "Match Report: Spurs 1 - 2 Aston Villa  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/19/match-report-spurs-1-2-aston-villa/",
+          "publishedOn": "2021-05-19T07:00:00.000Z",
+          "wordCount": 819,
+          "title": "Match Report: Spurs 1 - 2 Aston Villa - SportingFerret"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE4L2xhbGlnYS10aXRsZS1jb21pbmctZG93bi10by1hLWZpbmFsLXNwcmludC_SAQA",
+          "author": null,
+          "description": "LaLiga Title Coming Down to a Final Sprint  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/18/laliga-title-coming-down-to-a-final-sprint/",
+          "publishedOn": "2021-05-18T20:29:02.000Z",
+          "wordCount": 1255,
+          "title": "LaLiga Title Coming Down to a Final Sprint - SportingFerret"
+        },
+        {
+          "id": "CBMicWh0dHBzOi8vd3d3LmJsb2dwcmVzdG9uLmNvLnVrLzIwMjEvMDUvbGl2ZS1tdXNpYy1yZXR1cm5zLWluLXByZXN0b24tYXMtdGhlLWZlcnJldC10by1ob3N0LXNvY2lhbGx5LWRpc3RhbmNlZC1naWcv0gF1aHR0cHM6Ly93d3cuYmxvZ3ByZXN0b24uY28udWsvMjAyMS8wNS9saXZlLW11c2ljLXJldHVybnMtaW4tcHJlc3Rvbi1hcy10aGUtZmVycmV0LXRvLWhvc3Qtc29jaWFsbHktZGlzdGFuY2VkLWdpZy9hbXAv",
+          "author": null,
+          "description": "Live music returns in Preston as The Ferret to host socially distanced gig  Blog Preston",
+          "link": "https://www.blogpreston.co.uk/2021/05/live-music-returns-in-preston-as-the-ferret-to-host-socially-distanced-gig/",
+          "publishedOn": "2021-05-18T06:00:00.000Z",
+          "wordCount": 458,
+          "title": "Live music returns in Preston as The Ferret to host socially distanced gig - Blog Preston"
+        },
+        {
+          "id": "CBMi3AFodHRwczovL3Rlc3RtZWFzdXJlbWVudC5jb20uYXUvbmV3cy8xNDk1OTIvY29tcHJlaGVuc2l2ZS1yZXBvcnQtb24tJUVGJUJCJUJGZmVycmV0LWZvb2QtbWFya2V0LTIwMjEtdHJlbmRzLWdyb3d0aC1kZW1hbmQtb3Bwb3J0dW5pdGllcy1mb3JlY2FzdC10by0yMDI3LWphbWVzLXdlbGxiZWxvdmVkLWtub3ctYmV0dGVyLXBldC1mb29kLXlvdW5nLWFnYWluLXBldC1mb29kLXZpdGFsaW4v0gEA",
+          "author": null,
+          "description": "Comprehensive Report on ﻿Ferret Food Market 2021 | Trends, Growth Demand, Opportunities & Forecast To 2027 | James Wellbeloved, Know Better Pet Food, Young Again Pet Food, Vitalin – Test & Measurement  Test & Measurement",
+          "link": "https://testmeasurement.com.au/news/149592/comprehensive-report-on-%EF%BB%BFferret-food-market-2021-trends-growth-demand-opportunities-forecast-to-2027-james-wellbeloved-know-better-pet-food-young-again-pet-food-vitalin/",
+          "publishedOn": "2021-05-17T15:35:17.000Z",
+          "wordCount": 1539,
+          "title": "Comprehensive Report on ﻿Ferret Food Market 2021 | Trends, Growth Demand, Opportunities & Forecast To 2027 | James Wellbeloved, Know Better Pet Food, Young Again Pet Food, Vitalin – Test & Measurement - Test & Measurement"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE3L2JibC1wbGF5b2ZmLWZpbmFsLWVhZ2xlcy1lZGdlLXRoZS1saW9ucy_SAQA",
+          "author": null,
+          "description": "BBL PLAYOFF FINAL: EAGLES EDGE THE LIONS  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/17/bbl-playoff-final-eagles-edge-the-lions/",
+          "publishedOn": "2021-05-17T09:59:49.000Z",
+          "wordCount": 2372,
+          "title": "BBL PLAYOFF FINAL: EAGLES EDGE THE LIONS - SportingFerret"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE1L3RoZS10b3AtZm91ci1yYWNlLXdoby13aWxsLWNvbWUtb3V0LW9uLXRvcC_SAQA",
+          "author": null,
+          "description": "The Top Four Race: Who will come out on top?  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/15/the-top-four-race-who-will-come-out-on-top/",
+          "publishedOn": "2021-05-15T09:07:49.000Z",
+          "wordCount": 1687,
+          "title": "The Top Four Race: Who will come out on top? - SportingFerret"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE1L21vdG9ncC1sZS1tYW5zLXJlYWR5LXRvLXRlc3QtcmlkZXJzLWluLXJvdW5kLTUv0gEA",
+          "author": null,
+          "description": "MotoGP: Le Mans ready to test riders in Round 5  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/05/15/motogp-le-mans-ready-to-test-riders-in-round-5/",
+          "publishedOn": "2021-05-15T08:03:52.000Z",
+          "wordCount": 1874,
+          "title": "MotoGP: Le Mans ready to test riders in Round 5 - SportingFerret"
+        },
+        {
+          "id": "CAIiEHJ52NqfUtFvU1i-ywuLgXEqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "FFS explains: Scottish Greens and Independent Green Voice  The Ferret",
+          "link": "https://theferret.scot/ffs-scottish-greens-independent-green-voice/",
+          "publishedOn": "2021-05-14T12:08:52.000Z",
+          "wordCount": 2166,
+          "title": "FFS explains: Scottish Greens and Independent Green Voice - The Ferret"
+        },
+        {
+          "id": "CBMiwgFodHRwczovL3d3dy5ib3plbWFuZGFpbHljaHJvbmljbGUuY29tL3BvbGljZV9yZXBvcnRzL2R1Y2tsaW5ncy10cmFjdG9ycy1hbmQtZmVycmV0cy13aXRoLWEtbWlzdGFrZW4taWRlbnRpdHktcG9saWNlLXJlcG9ydHMtZm9yLXdlZG5lc2RheS1tYXktMTIvYXJ0aWNsZV9hY2MxOGZmOS03NDUyLTUyMTktODc5Yy1iYjE0ZTI3NTNmZTMuaHRtbNIBAA",
+          "author": null,
+          "description": "Ducklings, tractors and ferrets with a mistaken identity: Police Reports for Wednesday, May 12  The Bozeman Daily Chronicle",
+          "link": "https://www.bozemandailychronicle.com/police_reports/ducklings-tractors-and-ferrets-with-a-mistaken-identity-police-reports-for-wednesday-may-12/article_acc18ff9-7452-5219-879c-bb14e2753fe3.html",
+          "publishedOn": "2021-05-13T19:15:00.000Z",
+          "wordCount": 1408,
+          "title": "Ducklings, tractors and ferrets with a mistaken identity: Police Reports for Wednesday, May 12 - The Bozeman Daily Chronicle"
+        },
+        {
+          "id": "CAIiEMHfEUKBUChgrBg1T0EJFSgqFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY",
+          "author": null,
+          "description": "Campaign Said to Have Targeted Trump 'Enemies' in Government  The New York Times",
+          "link": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+          "publishedOn": "2021-05-13T07:00:00.000Z",
+          "wordCount": 2825,
+          "title": "Campaign Said to Have Targeted Trump 'Enemies' in Government - The New York Times"
+        },
+        {
           "id": "CBMidGh0dHBzOi8vb2JzZXJ2ZXItcmVwb3J0ZXIuY29tL25ld3MvbG9jYWxuZXdzL2ZyaWVuZGx5LWZlcnJldC1mb3VuZC9hcnRpY2xlXzQwNDlmY2EwLWFkY2YtMTFlYi1hODg2LWYzY2MxNTVhYWI5YS5odG1s0gF4aHR0cHM6Ly9vYnNlcnZlci1yZXBvcnRlci5jb20vbmV3cy9sb2NhbG5ld3MvZnJpZW5kbHktZmVycmV0LWZvdW5kL2FydGljbGVfNDA0OWZjYTAtYWRjZi0xMWViLWE4ODYtZjNjYzE1NWFhYjlhLmFtcC5odG1s",
           "author": null,
-          "description": "Codey Haddad was surprised by a friendly visitor outside his Second Street house in Washington Saturday. A ferret had been roaming the neighborhood about 11 a.m. near the Seventh Ward playground. Haddad was able to catch it and put it in a cat carrier.",
+          "description": "Friendly ferret found  Observer-Reporter",
           "link": "https://observer-reporter.com/news/localnews/friendly-ferret-found/article_4049fca0-adcf-11eb-a886-f3cc155aab9a.html",
           "publishedOn": "2021-05-06T07:00:00.000Z",
           "wordCount": 1292,
           "title": "Friendly ferret found - Observer-Reporter"
         },
         {
+          "id": "CBMiL2h0dHBzOi8vd3d3LnBuYXMub3JnL2NvbnRlbnQvMTE4LzE4L2UyMDI1NjAxMTE40gEA",
+          "author": null,
+          "description": "Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting  pnas.org",
+          "link": "https://www.pnas.org/content/118/18/e2025601118",
+          "publishedOn": "2021-05-04T07:00:00.000Z",
+          "wordCount": 5896,
+          "title": "Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting - pnas.org"
+        },
+        {
           "id": "CBMiY2h0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljcy9pbmZvZ3JhcGhpYy1ob3ctdG8tZmVycmV0LW91dC1zYXJzLWNvdi0yLWluLXNld2FnZS02ODcwN9IBAA",
           "author": null,
-          "description": "Raw sewage collected from the outflow of buildings, or the influent flow of sewage treatment works, is dispensed into multiwell plates containing Nanotrap® magnetic virus particles (Ceres Nano) and loaded into the KingFisher Flex liquid handling robot (Thermo Scientific), wherein viral RNA is concentrated and extracted. Aliquots of the RNA are then mixed with PCR…",
+          "description": "Infographic: How to Ferret Out SARS-CoV-2 in Sewage  The Scientist",
           "link": "https://www.the-scientist.com/infographics/infographic-how-to-ferret-out-sars-cov-2-in-sewage-68707",
           "publishedOn": "2021-05-01T07:00:00.000Z",
           "wordCount": 231,
@@ -294,7 +609,7 @@
         {
           "id": "CBMiVmh0dHBzOi8vYWJjc3Rsb3Vpcy5jb20vbmV3cy9vZmZiZWF0L3ZpZGVvLWZlcnJldC1mYW4tc2V0cy11cC1yaWRlcy1mb3ItaGlzLWNoZWVreS1wZXRz0gFZaHR0cDovL2FiY3N0bG91aXMuY29tL2FtcC9uZXdzL29mZmJlYXQvdmlkZW8tZmVycmV0LWZhbi1zZXRzLXVwLXJpZGVzLWZvci1oaXMtY2hlZWt5LXBldHM",
           "author": null,
-          "description": "[unable to retrieve full-text content]VIDEO: Ferret fan sets up rides for his cheeky pets  ABC St. Louis",
+          "description": "VIDEO: Ferret fan sets up rides for his cheeky pets  ABC St. Louis",
           "link": "https://abcstlouis.com/news/offbeat/video-ferret-fan-sets-up-rides-for-his-cheeky-pets",
           "publishedOn": "2021-04-26T07:00:00.000Z",
           "wordCount": 21,
