@@ -1,4 +1,4 @@
 cacheUrl: https://noehale.github.io/lastest/cache.json
 sources:
   - href: https://prettypeterparkr.tumblr.com/rss
-  - href: https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen
+  - href: https://full-rss-generator.herokuapp.com/makefulltextfeed.php?url=sec%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3Dferret%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&max=10&links=preserve&exc=&summary=1&submit=Create+Feed
