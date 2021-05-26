@@ -2,10 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T02:22:28.710Z</updated>
+    <updated>2021-05-26T02:49:23.845Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[thelifeofmyferrets:😍]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652197149672701952</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652197149672701952"/>
+        <updated>2021-05-25T23:01:10.000Z</updated>
+        <summary type="html"><![CDATA[thelifeofmyferrets:
+
+😍]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Zoo black-footed ferrets - KTAR.com]]></title>
+        <id>CBMiQGh0dHBzOi8va3Rhci5jb20vc3RvcnkvZ2FsbGVyeS9waG9lbml4LXpvby1ibGFjay1mb290ZWQtZmVycmV0cy_SAQA</id>
+        <link href="https://ktar.com/story/gallery/phoenix-zoo-black-footed-ferrets/"/>
+        <updated>2021-05-25T22:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Phoenix Zoo black-footed ferrets  KTAR.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premier League Darts odds and picks: Picking Jonny Clayton versus Peter Wright on night 15 - The Athletic]]></title>
+        <id>CBMihQFodHRwczovL3RoZWF0aGxldGljLmNvbS8yNjA4NDE3LzIwMjEvMDUvMjUvcHJlbWllci1sZWFndWUtZGFydHMtb2Rkcy1hbmQtcGlja3MtcGlja2luZy1qb25ueS1jbGF5dG9uLXZlcnN1cy1wZXRlci13cmlnaHQtb24tbmlnaHQtMTUv0gGJAWh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzI2MDg0MTcvMjAyMS8wNS8yNS9wcmVtaWVyLWxlYWd1ZS1kYXJ0cy1vZGRzLWFuZC1waWNrcy1waWNraW5nLWpvbm55LWNsYXl0b24tdmVyc3VzLXBldGVyLXdyaWdodC1vbi1uaWdodC0xNS8_YW1w</id>
+        <link href="https://theathletic.com/2608417/2021/05/25/premier-league-darts-odds-and-picks-picking-jonny-clayton-versus-peter-wright-on-night-15/"/>
+        <updated>2021-05-25T22:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Premier League Darts odds and picks: Picking Jonny Clayton versus Peter Wright on night 15  The Athletic]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yelm Expands Capacity to Help Animals in Need - Nisqually Valley News]]></title>
+        <id>CBMiVmh0dHA6Ly93d3cueWVsbW9ubGluZS5jb20vc3Rvcmllcy95ZWxtLWV4cGFuZHMtY2FwYWNpdHktdG8taGVscC1hbmltYWxzLWluLW5lZWQsMjY2NzY20gEA</id>
+        <link href="http://www.yelmonline.com/stories/yelm-expands-capacity-to-help-animals-in-need,266766"/>
+        <updated>2021-05-25T22:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Yelm Expands Capacity to Help Animals in Need  Nisqually Valley News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jordan Clarkson wins Sixth man of the year award - SportingFerret]]></title>
+        <id>CBMiW2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzI1L2pvcmRhbi1jbGFya3Nvbi13aW5zLXNpeHRoLW1hbi1vZi10aGUteWVhci1hd2FyZC_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/05/25/jordan-clarkson-wins-sixth-man-of-the-year-award/"/>
+        <updated>2021-05-25T22:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Jordan Clarkson wins Sixth man of the year award  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Torchlight 3 interview: A look at Echtra's final update - Shacknews]]></title>
+        <id>CBMiXmh0dHBzOi8vd3d3LnNoYWNrbmV3cy5jb20vYXJ0aWNsZS8xMjQ1MzgvdG9yY2hsaWdodC0zLWludGVydmlldy1hLWxvb2stYXQtZWNodHJhcy1maW5hbC11cGRhdGXSAWhodHRwczovL3d3dy5zaGFja25ld3MuY29tL2FydGljbGUvMTI0NTM4L3RvcmNobGlnaHQtMy1pbnRlcnZpZXctYS1sb29rLWF0LWVjaHRyYXMtZmluYWwtdXBkYXRlP2FtcGh0bWw9MQ</id>
+        <link href="https://www.shacknews.com/article/124538/torchlight-3-interview-a-look-at-echtras-final-update"/>
+        <updated>2021-05-25T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Torchlight 3 interview: A look at Echtra's final update  Shacknews]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Zoo welcomes 21 endangered black-footed ferret kits - KVOA Tucson News]]></title>
+        <id>CBMiaGh0dHBzOi8va3ZvYS5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjEvMDUvMjUvcGhvZW5peC16b28td2VsY29tZXMtMjEtZW5kYW5nZXJlZC1ibGFjay1mb290ZWQtZmVycmV0LWtpdHMv0gEA</id>
+        <link href="https://kvoa.com/news/local-news/2021/05/25/phoenix-zoo-welcomes-21-endangered-black-footed-ferret-kits/"/>
+        <updated>2021-05-25T19:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Phoenix Zoo welcomes 21 endangered black-footed ferret kits  KVOA Tucson News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[m-muscle-chan:
+allthenamesilikearetaken:
+
+sweet-cherry-fairy:
+
+la...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652166930247122945</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652166930247122945"/>
+        <updated>2021-05-25T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[m-muscle-chan:
+
+allthenamesilikearetaken:
+sweet-cherry-fairy:
+ladynorbert:
+raisehelia:
+nonespark:
+strikercorbie:
+g8dtier:
+avodaco:
+me when i get my student loan
+this is the money cat. reblog in 30 seconds and you will find yourself with more wealth
+#this is the only money cat i will reblog because it’s actually doing the manekineko pose151,646 notes (via lolwhutninja)
+OMG YOU’RE RIGHT
+
+
+and it has its right paw up! the correct paw for this.
+and from the markings on its ears, it looks like it might be a calico cat. which is the luckiest kind!
+extremely lucky cat
+I don’t even care if it actually works, I’m mostly reblogging because it’s freaking adorable.
+cute cat and need money, good post, 10/10
+in case anyones interested in the other versions
+
+http://www.namaii.com/manekineko/maneki-neko-types.html
+
+
+Y’know I reblogged this a bit ago and was saved from financial probation and getting kicked out of school because of it, just mere months from graduation. Got a call from the financial aid advisor telling me that they made a mistake with filing my account (or some other sort of clerical error) and said that, basically, they owe me money. Welp.]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Water Yields New Pattern - The Record Newspapers - TheRecordLive.com]]></title>
+        <id>CBMiXmh0dHBzOi8vd3d3LnRoZXJlY29yZGxpdmUuY29tL3N0b3J5LzIwMjEvMDUvMjYvc3BvcnRzL2hpZ2gtd2F0ZXIteWllbGRzLW5ldy1wYXR0ZXJuLzMwMjUzLmh0bWzSAQA</id>
+        <link href="https://www.therecordlive.com/story/2021/05/26/sports/high-water-yields-new-pattern/30253.html"/>
+        <updated>2021-05-25T14:39:18.000Z</updated>
+        <summary type="html"><![CDATA[High Water Yields New Pattern - The Record Newspapers  TheRecordLive.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slipknot announce Knotfest 2021 lineup: Faith No More, Megadeth, Gojira, Knocked Loose, Turnstile, more - Brooklyn Vegan]]></title>
+        <id>CBMigAFodHRwczovL3d3dy5icm9va2x5bnZlZ2FuLmNvbS9zbGlwa25vdC1hbm5vdW5jZS1rbm90ZmVzdC0yMDIxLWxpbmV1cC1mYWl0aC1uby1tb3JlLW1lZ2FkZXRoLWdvamlyYS1rbm9ja2VkLWxvb3NlLXR1cm5zdGlsZS1tb3JlL9IBAA</id>
+        <link href="https://www.brooklynvegan.com/slipknot-announce-knotfest-2021-lineup-faith-no-more-megadeth-gojira-knocked-loose-turnstile-more/"/>
+        <updated>2021-05-25T13:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Slipknot announce Knotfest 2021 lineup: Faith No More, Megadeth, Gojira, Knocked Loose, Turnstile, more  Brooklyn Vegan]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Ferret influencers’ pull real-world ‘Ratatouille’ with viral cooking videos - La Crosse Tribune]]></title>
+        <id>CBMisAFodHRwczovL2xhY3Jvc3NldHJpYnVuZS5jb20vbGlmZXN0eWxlcy9mb29kLWFuZC1jb29raW5nL2ZlcnJldC1pbmZsdWVuY2Vycy1wdWxsLXJlYWwtd29ybGQtcmF0YXRvdWlsbGUtd2l0aC12aXJhbC1jb29raW5nLXZpZGVvcy92aWRlb18wMTMxMzkyZi0zZDQ0LTU2NmYtYjI1MS1hODMwYjg1MDNjZTkuaHRtbNIBtAFodHRwczovL2xhY3Jvc3NldHJpYnVuZS5jb20vbGlmZXN0eWxlcy9mb29kLWFuZC1jb29raW5nL2ZlcnJldC1pbmZsdWVuY2Vycy1wdWxsLXJlYWwtd29ybGQtcmF0YXRvdWlsbGUtd2l0aC12aXJhbC1jb29raW5nLXZpZGVvcy92aWRlb18wMTMxMzkyZi0zZDQ0LTU2NmYtYjI1MS1hODMwYjg1MDNjZTkuYW1wLmh0bWw</id>
+        <link href="https://lacrossetribune.com/lifestyles/food-and-cooking/ferret-influencers-pull-real-world-ratatouille-with-viral-cooking-videos/video_0131392f-3d44-566f-b251-a830b8503ce9.html"/>
+        <updated>2021-05-25T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[‘Ferret influencers’ pull real-world ‘Ratatouille’ with viral cooking videos  La Crosse Tribune]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonlight Movies & Wine Tastings - Independence Day at The Gifted Ferret - July 3, 2021 - AJC - Atlanta Journal Constitution]]></title>
+        <id>CBMiWWh0dHBzOi8vZXZlbnRzLmFqYy5jb20vZXZlbnQvbW9vbmxpZ2h0LW1vdmllcy13aW5lLXRhc3RpbmdzLS0taW5kZXBlbmRlbmNlLWRheS11OThxZ3NwaW5o0gEA</id>
+        <link href="https://events.ajc.com/event/moonlight-movies-wine-tastings---independence-day-u98qgspinh"/>
+        <updated>2021-05-25T02:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Moonlight Movies & Wine Tastings - Independence Day at The Gifted Ferret - July 3, 2021 - AJC  Atlanta Journal Constitution]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premier League Darts betting preview (updated): The Ferret continues his roll, Michael van Gerwen to seize... - The Athletic]]></title>
+        <id>CBMimwFodHRwczovL3RoZWF0aGxldGljLmNvbS8yNjA4NDE3LzIwMjEvMDUvMjQvcHJlbWllci1sZWFndWUtZGFydHMtYmV0dGluZy1wcmV2aWV3LXVwZGF0ZWQtdGhlLWZlcnJldC1jb250aW51ZXMtaGlzLXJvbGwtbWljaGFlbC12YW4tZ2Vyd2VuLXRvLXNlaXplLW1vbWVudHVtL9IBnwFodHRwczovL3RoZWF0aGxldGljLmNvbS8yNjA4NDE3LzIwMjEvMDUvMjQvcHJlbWllci1sZWFndWUtZGFydHMtYmV0dGluZy1wcmV2aWV3LXVwZGF0ZWQtdGhlLWZlcnJldC1jb250aW51ZXMtaGlzLXJvbGwtbWljaGFlbC12YW4tZ2Vyd2VuLXRvLXNlaXplLW1vbWVudHVtLz9hbXA</id>
+        <link href="https://theathletic.com/2608417/2021/05/24/premier-league-darts-betting-preview-updated-the-ferret-continues-his-roll-michael-van-gerwen-to-seize-momentum/"/>
+        <updated>2021-05-25T02:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Premier League Darts betting preview (updated): The Ferret continues his roll, Michael van Gerwen to seize...  The Athletic]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Capability Connection connects manufacturers with suppliers – Ferret - Ferret]]></title>
         <id>CBMiW2h0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9jYXBhYmlsaXR5LWNvbm5lY3Rpb24tY29ubmVjdHMtbWFudWZhY3R1cmVycy13aXRoLXN1cHBsaWVycy_SAQA</id>
@@ -263,6 +426,16 @@ And one that I cant tell if he’s cinnamon, chocolate, or siamese. That’s Mon
         <link href="https://theferret.scot/arms-firms-israel-10m-scottish-enterprise-grants/"/>
         <updated>2021-05-23T10:00:48.000Z</updated>
         <summary type="html"><![CDATA[Firms arming Israel received £10m from Scottish Enterprise  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA: The main challenges for the playoff teams - SportingFerret]]></title>
+        <id>CBMiWGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzIzL25iYS10aGUtbWFpbi1jaGFsbGVuZ2VzLWZvci10aGUtcGxheW9mZi10ZWFtcy_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/05/23/nba-the-main-challenges-for-the-playoff-teams/"/>
+        <updated>2021-05-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NBA: The main challenges for the playoff teams  SportingFerret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -790,6 +963,16 @@ Yesterday, Insight landed safely on mars. Today is Tilly’s birthday and she ge
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FOUND FERRET: Near Alki | West Seattle Blog... - West Seattle Blog]]></title>
+        <id>CBMiN2h0dHBzOi8vd2VzdHNlYXR0bGVibG9nLmNvbS9wZXQvZm91bmQtZmVycmV0LW5lYXItYWxraS_SAQA</id>
+        <link href="https://westseattleblog.com/pet/found-ferret-near-alki/"/>
+        <updated>2021-05-19T01:06:00.000Z</updated>
+        <summary type="html"><![CDATA[FOUND FERRET: Near Alki | West Seattle Blog...  West Seattle Blog]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[His flexibility puts cats to shame]]></title>
         <id>https://prettypeterparkr.tumblr.com/post/651562960590946304</id>
         <link href="https://prettypeterparkr.tumblr.com/post/651562960590946304"/>
@@ -885,6 +1068,16 @@ Yesterday, Insight landed safely on mars. Today is Tilly’s birthday and she ge
         <link href="https://www.sportingferret.com/2021/05/17/josh-taylor-vs-jose-carlos-ramirez-preview-and-predictions/"/>
         <updated>2021-05-17T07:12:19.000Z</updated>
         <summary type="html"><![CDATA[Josh Taylor vs Jose Carlos Ramirez: Preview and Predictions  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Ferret out the truth': CHR urges gov't to probe arrest of Naga City youth leader - Manila Bulletin]]></title>
+        <id>CAIiEGyii_sbvP3HFoY1vB-RC9sqGQgEKhAIACoHCAowg5WHCzCitYUDMNrXlgY</id>
+        <link href="https://mb.com.ph/2021/05/17/ferret-out-the-truth-chr-urges-govt-to-probe-arrest-of-naga-city-youth-leader/"/>
+        <updated>2021-05-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA['Ferret out the truth': CHR urges gov't to probe arrest of Naga City youth leader  Manila Bulletin]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -1148,6 +1341,16 @@ I really hope my neighbors can’t hear me in my unit, because if they can, toda
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ferret which jumped into car at Tranent Cemetery reunited with its owner - East Lothian Courier]]></title>
+        <id>CBMiY2h0dHBzOi8vd3d3LmVhc3Rsb3RoaWFuY291cmllci5jb20vbmV3cy8xOTI4OTkzOS5mZXJyZXQtanVtcGVkLWNhci10cmFuZW50LWNlbWV0ZXJ5LXJldW5pdGVkLW93bmVyL9IBAA</id>
+        <link href="https://www.eastlothiancourier.com/news/19289939.ferret-jumped-car-tranent-cemetery-reunited-owner/"/>
+        <updated>2021-05-11T13:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Ferret which jumped into car at Tranent Cemetery reunited with its owner  East Lothian Courier]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Scotland's public land sold off to luxury property developers - The Ferret]]></title>
         <id>CAIiEDSFQrQlOpAPPX0Cdk4ODAoqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
         <link href="https://theferret.scot/scotlands-public-land-sold-off-to-property-developers/"/>
@@ -1243,26 +1446,6 @@ I really hope my neighbors can’t hear me in my unit, because if they can, toda
         <link href="https://www.news-medical.net/news/20210430/Furin-cleavage-site-crucial-in-SARS-CoV-2-for-viral-transmission-in-ferrets-finds-study.aspx"/>
         <updated>2021-04-30T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[Furin cleavage site crucial in SARS-CoV-2 for viral transmission in ferrets, finds study  News-Medical.Net]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIDEO: Ferret fan sets up rides for his cheeky pets - ABC St. Louis]]></title>
-        <id>CBMiVWh0dHA6Ly9hYmNzdGxvdWlzLmNvbS9uZXdzL29mZmJlYXQvdmlkZW8tZmVycmV0LWZhbi1zZXRzLXVwLXJpZGVzLWZvci1oaXMtY2hlZWt5LXBldHPSAVlodHRwOi8vYWJjc3Rsb3Vpcy5jb20vYW1wL25ld3Mvb2ZmYmVhdC92aWRlby1mZXJyZXQtZmFuLXNldHMtdXAtcmlkZXMtZm9yLWhpcy1jaGVla3ktcGV0cw</id>
-        <link href="http://abcstlouis.com/news/offbeat/video-ferret-fan-sets-up-rides-for-his-cheeky-pets"/>
-        <updated>2021-04-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VIDEO: Ferret fan sets up rides for his cheeky pets  ABC St. Louis]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIDEO: Ferret fan sets up rides for his cheeky pets - ABC St. Louis]]></title>
-        <id>CBMiVmh0dHBzOi8vYWJjc3Rsb3Vpcy5jb20vbmV3cy9vZmZiZWF0L3ZpZGVvLWZlcnJldC1mYW4tc2V0cy11cC1yaWRlcy1mb3ItaGlzLWNoZWVreS1wZXRz0gFZaHR0cDovL2FiY3N0bG91aXMuY29tL2FtcC9uZXdzL29mZmJlYXQvdmlkZW8tZmVycmV0LWZhbi1zZXRzLXVwLXJpZGVzLWZvci1oaXMtY2hlZWt5LXBldHM</id>
-        <link href="https://abcstlouis.com/news/offbeat/video-ferret-fan-sets-up-rides-for-his-cheeky-pets"/>
-        <updated>2021-04-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VIDEO: Ferret fan sets up rides for his cheeky pets  ABC St. Louis]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
