@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T02:49:23.845Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T03:09:37.059Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[He’s an angry little man]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652287762249236480</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652287762249236480"/>
+        <updated>2021-05-26T23:01:25.000Z</updated>
+        <summary type="html"><![CDATA[He’s an angry little man]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big-hitting Dream Maker sets up Ferret showdown - RTE.ie]]></title>
+        <id>CBMiYWh0dHBzOi8vd3d3LnJ0ZS5pZS9zcG9ydC9kYXJ0cy8yMDIxLzA1MjYvMTIyNDEzNS1iaWctaGl0dGluZy1kcmVhbS1tYWtlci1zZXRzLXVwLWZlcnJldC1zaG93ZG93bi_SAR9odHRwczovL2FtcC5ydGUuaWUvYW1wLzEyMjQxMzUv</id>
+        <link href="https://www.rte.ie/sport/darts/2021/0526/1224135-big-hitting-dream-maker-sets-up-ferret-showdown/"/>
+        <updated>2021-05-26T22:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Big-hitting Dream Maker sets up Ferret showdown  RTE.ie]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essex Co. rabies clinics planned | Local News | pressrepublican.com - Plattsburgh Press Republican]]></title>
+        <id>CBMigQFodHRwczovL3d3dy5wcmVzc3JlcHVibGljYW4uY29tL25ld3MvbG9jYWxfbmV3cy9lc3NleC1jby1yYWJpZXMtY2xpbmljcy1wbGFubmVkL2FydGljbGVfNWJlYzc3NWItODY0ZS01OGFhLWFkOGUtYTNhMDgzN2Y1ZDE2Lmh0bWzSAQA</id>
+        <link href="https://www.pressrepublican.com/news/local_news/essex-co-rabies-clinics-planned/article_5bec775b-864e-58aa-ad8e-a3a0837f5d16.html"/>
+        <updated>2021-05-26T22:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Essex Co. rabies clinics planned | Local News | pressrepublican.com  Plattsburgh Press Republican]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niagara County Department of Health confirms third rabid raccoon in Newfane this spring - WKBW-TV]]></title>
+        <id>CBMiiAFodHRwczovL3d3dy53a2J3LmNvbS9uZXdzL3Byb3RlY3RpbmcteW91ci1mYW1pbHkvbmlhZ2FyYS1jb3VudHktZGVwYXJ0bWVudC1vZi1oZWFsdGgtY29uZmlybXMtdGhpcmQtcmFiaWQtcmFjY29vbi1pbi1uZXdmYW5lLXRoaXMtc3ByaW5n0gGSAWh0dHBzOi8vd3d3LndrYncuY29tL25ld3MvcHJvdGVjdGluZy15b3VyLWZhbWlseS9uaWFnYXJhLWNvdW50eS1kZXBhcnRtZW50LW9mLWhlYWx0aC1jb25maXJtcy10aGlyZC1yYWJpZC1yYWNjb29uLWluLW5ld2ZhbmUtdGhpcy1zcHJpbmc_X2FtcD10cnVl</id>
+        <link href="https://www.wkbw.com/news/protecting-your-family/niagara-county-department-of-health-confirms-third-rabid-raccoon-in-newfane-this-spring"/>
+        <updated>2021-05-26T20:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Niagara County Department of Health confirms third rabid raccoon in Newfane this spring  WKBW-TV]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatham pet store offerings wild, wonderful | News | chathamstartribune.com - Chatham Star-Tribune]]></title>
+        <id>CBMiWWh0dHBzOi8vd3d3LmNoYXRoYW1zdGFydHJpYnVuZS5jb20vbmV3cy9hcnRpY2xlX2I2NDJlY2YyLWJlNTgtMTFlYi04ZTVhLWE3NDg2YjNlYzFlZi5odG1s0gEA</id>
+        <link href="https://www.chathamstartribune.com/news/article_b642ecf2-be58-11eb-8e5a-a7486b3ec1ef.html"/>
+        <updated>2021-05-26T19:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Chatham pet store offerings wild, wonderful | News | chathamstartribune.com  Chatham Star-Tribune]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists have trained ferrets to sniff out bird flu virus in duck poo - ABC News]]></title>
+        <id>CAIiEExwh8EEflG_BRpIAnr-vpMqFwgEKg4IACoGCAow3vI9MPeaCDDoiokG</id>
+        <link href="https://www.abc.net.au/news/science/2021-05-27/ferrets-smell-bird-flu-virus-in-duck-poo/100163362"/>
+        <updated>2021-05-26T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientists have trained ferrets to sniff out bird flu virus in duck poo  ABC News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schenectady County to hold rabies vaccination clinic - NEWS10 ABC]]></title>
+        <id>CBMiUWh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9zY2hlbmVjdGFkeS1jb3VudHktdG8taG9sZC1yYWJpZXMtdmFjY2luYXRpb24tY2xpbmljL9IBVWh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9zY2hlbmVjdGFkeS1jb3VudHktdG8taG9sZC1yYWJpZXMtdmFjY2luYXRpb24tY2xpbmljL2FtcC8</id>
+        <link href="https://www.news10.com/news/schenectady-county-to-hold-rabies-vaccination-clinic/"/>
+        <updated>2021-05-26T18:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Schenectady County to hold rabies vaccination clinic  NEWS10 ABC]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trained ferrets can smell avian flu in duck poo! - EurekAlert]]></title>
+        <id>CBMiP2h0dHBzOi8vd3d3LmV1cmVrYWxlcnQub3JnL3B1Yl9yZWxlYXNlcy8yMDIxLTA1L3AtdGZjMDUxOTIxLnBocNIBAA</id>
+        <link href="https://www.eurekalert.org/pub_releases/2021-05/p-tfc051921.php"/>
+        <updated>2021-05-26T18:02:28.000Z</updated>
+        <summary type="html"><![CDATA[Trained ferrets can smell avian flu in duck poo!  EurekAlert]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[daughterofsarenrae:Merry Christmas!]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652257523269828608</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652257523269828608"/>
+        <updated>2021-05-26T15:00:47.000Z</updated>
+        <summary type="html"><![CDATA[daughterofsarenrae:
+
+Merry Christmas!]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFS explains: SNP mandate and a second referendum - The Ferret]]></title>
+        <id>CAIiELMoIT7kcZdSIDMjcYnQaxkqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkfLhBg</id>
+        <link href="https://theferret.scot/ffs-explains-snp-mandate-second-referendum/"/>
+        <updated>2021-05-26T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[FFS explains: SNP mandate and a second referendum  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UEFA Champions League - 2021/22 group stage - SportingFerret]]></title>
+        <id>CBMiVGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzI2L3VlZmEtY2hhbXBpb25zLWxlYWd1ZS0yMDIxLTIyLWdyb3VwLXN0YWdlL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/05/26/uefa-champions-league-2021-22-group-stage/"/>
+        <updated>2021-05-26T08:02:45.000Z</updated>
+        <summary type="html"><![CDATA[UEFA Champions League - 2021/22 group stage  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret Toys Market – Detailed Analysis Of Current Industry Figures With Forecasts Growth By 2029 – The Courier - The Courier]]></title>
+        <id>CBMieWh0dHBzOi8vd3d3Lm1jY291cmllci5jb20vZmVycmV0LXRveXMtbWFya2V0LWRldGFpbGVkLWFuYWx5c2lzLW9mLWN1cnJlbnQtaW5kdXN0cnktZmlndXJlcy13aXRoLWZvcmVjYXN0cy1ncm93dGgtYnktMjAyOS_SAQA</id>
+        <link href="https://www.mccourier.com/ferret-toys-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2029/"/>
+        <updated>2021-05-26T07:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Ferret Toys Market – Detailed Analysis Of Current Industry Figures With Forecasts Growth By 2029 – The Courier  The Courier]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[thelifeofmyferrets:😍]]></title>
         <id>https://prettypeterparkr.tumblr.com/post/652197149672701952</id>
@@ -79,6 +201,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Darts Live - Sky Sports]]></title>
+        <id>CAIiEDZI67OVJHGk7V9EhkPM1Z0qGQgEKhAIACoHCAow2LCYCzDvurADMPjE0AY</id>
+        <link href="https://www.skysports.com/darts/live-blog/27975/12316470/premier-league-darts-night-14-live-michael-van-gerwen-dimitri-van-den-bergh-and-jose-de-sousa-in-action"/>
+        <updated>2021-05-25T17:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Darts Live  Sky Sports]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[m-muscle-chan:
 allthenamesilikearetaken:
 
@@ -145,6 +277,16 @@ Y’know I reblogged this a bit ago and was saved from financial probation and g
         <link href="https://lacrossetribune.com/lifestyles/food-and-cooking/ferret-influencers-pull-real-world-ratatouille-with-viral-cooking-videos/video_0131392f-3d44-566f-b251-a830b8503ce9.html"/>
         <updated>2021-05-25T13:10:00.000Z</updated>
         <summary type="html"><![CDATA[‘Ferret influencers’ pull real-world ‘Ratatouille’ with viral cooking videos  La Crosse Tribune]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQA assessments 'lost credibility' and 'destroyed trust' - The Ferret]]></title>
+        <id>CAIiEJ9NSRvdX-5Fbpt-S0GksVMqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/sqa-assessments-have-destroyed-trust/"/>
+        <updated>2021-05-25T08:58:07.000Z</updated>
+        <summary type="html"><![CDATA[SQA assessments 'lost credibility' and 'destroyed trust'  The Ferret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -1008,6 +1150,16 @@ Yesterday, Insight landed safely on mars. Today is Tilly’s birthday and she ge
         <link href="https://www.blogpreston.co.uk/2021/05/live-music-returns-in-preston-as-the-ferret-to-host-socially-distanced-gig/"/>
         <updated>2021-05-18T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[Live music returns in Preston as The Ferret to host socially distanced gig  Blog Preston]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will You Help Levi Find a Home on Cape Cod? - CapeCod.com News]]></title>
+        <id>CBMiTWh0dHBzOi8vd3d3LmNhcGVjb2QuY29tL2xpZmVzdHlsZS93aWxsLXlvdS1oZWxwLWxldmktZmluZC1hLWhvbWUtb24tY2FwZS1jb2Qv0gEA</id>
+        <link href="https://www.capecod.com/lifestyle/will-you-help-levi-find-a-home-on-cape-cod/"/>
+        <updated>2021-05-18T05:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Will You Help Levi Find a Home on Cape Cod?  CapeCod.com News]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
