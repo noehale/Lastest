@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T03:52:15.503Z</updated>
+    <updated>2021-05-30T04:05:53.359Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[bob-artist:bob-artist:
+bob-artist:
+No April Fool’s jokes this...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652559506349391872</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652559506349391872"/>
+        <updated>2021-05-29T23:00:41.000Z</updated>
+        <summary type="html"><![CDATA[bob-artist:
+
+bob-artist:
+
+bob-artist:
+No April Fool’s jokes this year.  Just a fool.
+
+
+New year, same old fool.
+
+fool]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kissimmee fire displaces 24 people, damages 6 apartments, officials say - WKMG News 6 & ClickOrlando]]></title>
+        <id>CAIiEJm1UWEXcyq_C2_lG0lussgqGQgEKhAIACoHCAowjsP-CjDlzvYCMJmz3gU</id>
+        <link href="https://www.clickorlando.com/news/local/2021/05/29/kissimmee-fire-displaces-24-people-damages-6-apartments-officials-say/"/>
+        <updated>2021-05-29T17:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Kissimmee fire displaces 24 people, damages 6 apartments, officials say  WKMG News 6 & ClickOrlando]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket likes to play “Couch Troll.” Any other noodles play this...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652529302323232768</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652529302323232768"/>
+        <updated>2021-05-29T15:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Rocket likes to play “Couch Troll.” Any other noodles play this game?]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA: Clippers bounce back versus Dallas - SportingFerret]]></title>
+        <id>CBMiUWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzI5L25iYS1jbGlwcGVycy1ib3VuY2UtYmFjay12ZXJzdXMtZGFsbGFzL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/05/29/nba-clippers-bounce-back-versus-dallas/"/>
+        <updated>2021-05-29T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[NBA: Clippers bounce back versus Dallas  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo: Fun With Frozen Ferrets – Reason.com - Reason]]></title>
+        <id>CAIiEPAgdHqlvT4QsaxJqpQmOoQqFggEKg0IACoGCAow_p4GMNBYMIqzrwY</id>
+        <link href="https://reason.com/2021/05/29/photo-fun-with-frozen-ferrets/"/>
+        <updated>2021-05-29T12:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Fun With Frozen Ferrets – Reason.com  Reason]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A plasterer who goes by the name of The Ferret – A look at Jonny Clayton’s rise - Yahoo Eurosport UK]]></title>
+        <id>CBMiT2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3BsYXN0ZXJlci1nb2VzLW5hbWUtZmVycmV0LWxvb2stMDg0NTQ1Mzk1Lmh0bWzSAVdodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL3BsYXN0ZXJlci1nb2VzLW5hbWUtZmVycmV0LWxvb2stMDg0NTQ1Mzk1Lmh0bWw</id>
+        <link href="https://uk.sports.yahoo.com/news/plasterer-goes-name-ferret-look-084545395.html"/>
+        <updated>2021-05-29T08:45:45.000Z</updated>
+        <summary type="html"><![CDATA[A plasterer who goes by the name of The Ferret – A look at Jonny Clayton’s rise  Yahoo Eurosport UK]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angels for Animals to offer rabies and COVID vaccination clinics - WFMJ]]></title>
         <id>CBMiZGh0dHBzOi8vd3d3LndmbWouY29tL3N0b3J5LzQzOTkxMDgyL2FuZ2Vscy1mb3ItYW5pbWFscy10by1vZmZlci1yYWJpZXMtYW5kLWNvdmlkLXZhY2NpbmF0aW9uLWNsaW5pY3PSAQA</id>
@@ -49,6 +121,16 @@ liking abba is not your taste in music it’s a way of life and people who don�
         <link href="https://www.the-review.com/story/news/2021/05/28/alliance-area-news-brief-may-29/7488583002/"/>
         <updated>2021-05-28T20:02:34.000Z</updated>
         <summary type="html"><![CDATA[Area news in brief for May 29  The-review]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A liposome-displayed hemagglutinin vaccine platform protects mice and ferrets from heterologous influenza virus challenge - pnas.org]]></title>
+        <id>CBMiL2h0dHBzOi8vd3d3LnBuYXMub3JnL2NvbnRlbnQvMTE4LzIyL2UyMDI1NzU5MTE40gEA</id>
+        <link href="https://www.pnas.org/content/118/22/e2025759118"/>
+        <updated>2021-05-28T19:02:02.000Z</updated>
+        <summary type="html"><![CDATA[A liposome-displayed hemagglutinin vaccine platform protects mice and ferrets from heterologous influenza virus challenge  pnas.org]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -1849,26 +1931,6 @@ I really hope my neighbors can’t hear me in my unit, because if they can, toda
         <link href="https://www.the-scientist.com/infographics/infographic-how-to-ferret-out-sars-cov-2-in-sewage-68707"/>
         <updated>2021-05-01T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[Infographic: How to Ferret Out SARS-CoV-2 in Sewage  The Scientist]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Planet Needs Cute Monsters - WSJ - The Wall Street Journal]]></title>
-        <id>CAIiEFDJCU4ORDCK72TedPzSqmAqGAgEKg8IACoHCAow1tzJATDnyxUw_cfPBg</id>
-        <link href="https://www.wsj.com/articles/why-the-planet-needs-cute-monsters-11619787831"/>
-        <updated>2021-04-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why the Planet Needs Cute Monsters - WSJ  The Wall Street Journal]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Furin cleavage site crucial in SARS-CoV-2 for viral transmission in ferrets, finds study - News-Medical.Net]]></title>
-        <id>CAIiEJZ_om81VTbBJ8BXZjEseioqMwgEKioIACIQZdRflS9INK7zM5FkBi3R3CoUCAoiEGXUX5UvSDSu8zORZAYt0dwww8TIBg</id>
-        <link href="https://www.news-medical.net/news/20210430/Furin-cleavage-site-crucial-in-SARS-CoV-2-for-viral-transmission-in-ferrets-finds-study.aspx"/>
-        <updated>2021-04-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Furin cleavage site crucial in SARS-CoV-2 for viral transmission in ferrets, finds study  News-Medical.Net]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
