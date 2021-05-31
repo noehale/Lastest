@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T04:05:53.359Z</updated>
+    <updated>2021-05-31T04:13:11.345Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A bit too hyper before bed]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652650117940281344</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652650117940281344"/>
+        <updated>2021-05-30T23:00:55.000Z</updated>
+        <summary type="html"><![CDATA[A bit too hyper before bed]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bob-artist:When you lie on the floor in the same room where you...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652619911684833281</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652619911684833281"/>
+        <updated>2021-05-30T15:00:48.000Z</updated>
+        <summary type="html"><![CDATA[bob-artist:
+
+When you lie on the floor in the same room where you keep the treats.]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highland landowner breaching access rights, say locals - The Ferret]]></title>
+        <id>CAIiEGQrJyW9pe2ZxFq3eH4Twb0qMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/highland-landowner-breaching-public-access/"/>
+        <updated>2021-05-30T10:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Highland landowner breaching access rights, say locals  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bob-artist:bob-artist:
 bob-artist:
@@ -452,6 +484,16 @@ Merry Christmas!]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Best Champions League Finals of All Time - SportingFerret]]></title>
+        <id>CBMiV2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzI2L3RoZS1iZXN0LWNoYW1waW9ucy1sZWFndWUtZmluYWxzLW9mLWFsbC10aW1lL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/05/26/the-best-champions-league-finals-of-all-time/"/>
+        <updated>2021-05-26T10:01:45.000Z</updated>
+        <summary type="html"><![CDATA[The Best Champions League Finals of All Time  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UEFA Champions League - 2021/22 group stage - SportingFerret]]></title>
         <id>CBMiVGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzI2L3VlZmEtY2hhbXBpb25zLWxlYWd1ZS0yMDIxLTIyLWdyb3VwLXN0YWdlL9IBAA</id>
         <link href="https://www.sportingferret.com/2021/05/26/uefa-champions-league-2021-22-group-stage/"/>
@@ -467,6 +509,16 @@ Merry Christmas!]]></summary>
         <link href="https://www.mccourier.com/ferret-toys-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2029/"/>
         <updated>2021-05-26T07:19:31.000Z</updated>
         <summary type="html"><![CDATA[Ferret Toys Market – Detailed Analysis Of Current Industry Figures With Forecasts Growth By 2029 – The Courier  The Courier]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21 baby black-footed ferrets born at the Phoenix Zoo, part of the zoo's conservation breeding program - ABC15 Arizona]]></title>
+        <id>CBMijgFodHRwczovL3d3dy5hYmMxNS5jb20vZW50ZXJ0YWlubWVudC9ldmVudHMvMjEtYmFieS1ibGFjay1mb290ZWQtZmVycmV0cy1ib3JuLWF0LXRoZS1waG9lbml4LXpvby1wYXJ0LW9mLXRoZS16b29zLWNvbnNlcnZhdGlvbi1icmVlZGluZy1wcm9ncmFt0gGYAWh0dHBzOi8vd3d3LmFiYzE1LmNvbS9lbnRlcnRhaW5tZW50L2V2ZW50cy8yMS1iYWJ5LWJsYWNrLWZvb3RlZC1mZXJyZXRzLWJvcm4tYXQtdGhlLXBob2VuaXgtem9vLXBhcnQtb2YtdGhlLXpvb3MtY29uc2VydmF0aW9uLWJyZWVkaW5nLXByb2dyYW0_X2FtcD10cnVl</id>
+        <link href="https://www.abc15.com/entertainment/events/21-baby-black-footed-ferrets-born-at-the-phoenix-zoo-part-of-the-zoos-conservation-breeding-program"/>
+        <updated>2021-05-26T01:08:00.000Z</updated>
+        <summary type="html"><![CDATA[21 baby black-footed ferrets born at the Phoenix Zoo, part of the zoo's conservation breeding program  ABC15 Arizona]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -1916,21 +1968,21 @@ I really hope my neighbors can’t hear me in my unit, because if they can, toda
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting - pnas.org]]></title>
-        <id>CBMiL2h0dHBzOi8vd3d3LnBuYXMub3JnL2NvbnRlbnQvMTE4LzE4L2UyMDI1NjAxMTE40gEA</id>
-        <link href="https://www.pnas.org/content/118/18/e2025601118"/>
-        <updated>2021-05-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting  pnas.org]]></summary>
+        <title type="html"><![CDATA[HSBC AM hires Aberdeen's institutional solutions director | Fund Managers - Asian Investor]]></title>
+        <id>CBMiZWh0dHBzOi8vd3d3LmFzaWFuaW52ZXN0b3IubmV0L2FydGljbGUvaHNiYy1hbS1oaXJlcy1hYmVyZGVlbnMtaW5zdGl0dXRpb25hbC1zb2x1dGlvbnMtZGlyZWN0b3IvNDY5NDA10gEA</id>
+        <link href="https://www.asianinvestor.net/article/hsbc-am-hires-aberdeens-institutional-solutions-director/469405"/>
+        <updated>2021-05-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HSBC AM hires Aberdeen's institutional solutions director | Fund Managers  Asian Investor]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Infographic: How to Ferret Out SARS-CoV-2 in Sewage - The Scientist]]></title>
-        <id>CBMiY2h0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljcy9pbmZvZ3JhcGhpYy1ob3ctdG8tZmVycmV0LW91dC1zYXJzLWNvdi0yLWluLXNld2FnZS02ODcwN9IBAA</id>
-        <link href="https://www.the-scientist.com/infographics/infographic-how-to-ferret-out-sars-cov-2-in-sewage-68707"/>
-        <updated>2021-05-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Infographic: How to Ferret Out SARS-CoV-2 in Sewage  The Scientist]]></summary>
+        <title type="html"><![CDATA[Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting - pnas.org]]></title>
+        <id>CBMiL2h0dHBzOi8vd3d3LnBuYXMub3JnL2NvbnRlbnQvMTE4LzE4L2UyMDI1NjAxMTE40gEA</id>
+        <link href="https://www.pnas.org/content/118/18/e2025601118"/>
+        <updated>2021-05-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting  pnas.org]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
