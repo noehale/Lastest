@@ -2,10 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T04:35:22.376Z</updated>
-    <generator>osmosfeed 1.10.1</generator>
+    <updated>2021-06-02T04:30:38.842Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[bob-artist:Even Kit’s FEET get so super fluffy in winter, and I...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652831310218444800</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652831310218444800"/>
+        <updated>2021-06-01T23:00:53.000Z</updated>
+        <summary type="html"><![CDATA[bob-artist:
+
+Even Kit’s FEET get so super fluffy in winter, and I can’t handle it.]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Questions We Still Have After the 'Mare of Easttown' Finale - Thrillist]]></title>
+        <id>CBMiYWh0dHBzOi8vd3d3LnRocmlsbGlzdC5jb20vZW50ZXJ0YWlubWVudC9uYXRpb24vbWFyZS1vZi1lYXN0dG93bi1lcGlzb2RlLTctZmluYWxlLWVuZGluZy1leHBsYWluZWTSAWlodHRwczovL3d3dy50aHJpbGxpc3QuY29tL2FtcGh0bWwvZW50ZXJ0YWlubWVudC9uYXRpb24vbWFyZS1vZi1lYXN0dG93bi1lcGlzb2RlLTctZmluYWxlLWVuZGluZy1leHBsYWluZWQ</id>
+        <link href="https://www.thrillist.com/entertainment/nation/mare-of-easttown-episode-7-finale-ending-explained"/>
+        <updated>2021-06-01T21:28:54.000Z</updated>
+        <summary type="html"><![CDATA[12 Questions We Still Have After the 'Mare of Easttown' Finale  Thrillist]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boys or Girls? Ferret Kits Receive First Exam - Smithsonian's National Zoo and Conservation Biology Institute]]></title>
+        <id>CBMiVGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L2FuaW1hbHMvbmV3cy9ib3lzLW9yLWdpcmxzLWZlcnJldC1raXRzLXJlY2VpdmUtZmlyc3QtZXhhbdIBAA</id>
+        <link href="https://nationalzoo.si.edu/animals/news/boys-or-girls-ferret-kits-receive-first-exam"/>
+        <updated>2021-06-01T20:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Boys or Girls? Ferret Kits Receive First Exam  Smithsonian's National Zoo and Conservation Biology Institute]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the baby animals making their debuts at Southwick Zoo - Yahoo News]]></title>
+        <id>CBMiRWh0dHBzOi8vbmV3cy55YWhvby5jb20vbWVldC1iYWJ5LWFuaW1hbHMtbWFraW5nLWRlYnV0cy0xOTIxMzI5NDIuaHRtbNIBTWh0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9tZWV0LWJhYnktYW5pbWFscy1tYWtpbmctZGVidXRzLTE5MjEzMjk0Mi5odG1s</id>
+        <link href="https://news.yahoo.com/meet-baby-animals-making-debuts-192132942.html"/>
+        <updated>2021-06-01T19:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Meet the baby animals making their debuts at Southwick Zoo  Yahoo News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endangered ferrets born at zoo in Arizona - Yahoo Singapore News]]></title>
+        <id>CBMiTGh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vZW5kYW5nZXJlZC1mZXJyZXRzLWJvcm4tem9vLWFyaXpvbmEtMTYzMzU3MTcxLmh0bWzSAVRodHRwczovL3NnLm5ld3MueWFob28uY29tL2FtcGh0bWwvZW5kYW5nZXJlZC1mZXJyZXRzLWJvcm4tem9vLWFyaXpvbmEtMTYzMzU3MTcxLmh0bWw</id>
+        <link href="https://sg.news.yahoo.com/endangered-ferrets-born-zoo-arizona-163357171.html"/>
+        <updated>2021-06-01T16:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Endangered ferrets born at zoo in Arizona  Yahoo Singapore News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pet store fire in Staunton - The News Leader]]></title>
+        <id>CAIiEPDGZ1REZhK8eLBqc7zKIH0qGQgEKhAIACoHCAowl5OACzCi64sDMKzl9wU</id>
+        <link href="https://www.newsleader.com/story/news/2021/06/01/fire-reported-staunton-pet-store/5289893001/"/>
+        <updated>2021-06-01T15:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Pet store fire in Staunton  The News Leader]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Some people hide their sadness very well."]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652801102811660288</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652801102811660288"/>
+        <updated>2021-06-01T15:00:45.000Z</updated>
+        <summary type="html"><![CDATA[“Some people hide their sadness very well.”
+ - Khaled Hosseini, And The Mountains Echoed (via bl-ossomed)]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endangered ferrets born at Phoenix Zoo - Statesville Record & Landmark]]></title>
+        <id>CBMifGh0dHBzOi8vc3RhdGVzdmlsbGUuY29tL25ld3MvbmF0aW9uYWwvZW5kYW5nZXJlZC1mZXJyZXRzLWJvcm4tYXQtcGhvZW5peC16b28vdmlkZW9fZDliNjNkZDQtYjI1YS01NTZhLTkzNGItZTE0OTZiYjc2YmExLmh0bWzSAYABaHR0cHM6Ly9zdGF0ZXN2aWxsZS5jb20vbmV3cy9uYXRpb25hbC9lbmRhbmdlcmVkLWZlcnJldHMtYm9ybi1hdC1waG9lbml4LXpvby92aWRlb19kOWI2M2RkNC1iMjVhLTU1NmEtOTM0Yi1lMTQ5NmJiNzZiYTEuYW1wLmh0bWw</id>
+        <link href="https://statesville.com/news/national/endangered-ferrets-born-at-phoenix-zoo/video_d9b63dd4-b25a-556a-934b-e1496bb76ba1.html"/>
+        <updated>2021-06-01T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Endangered ferrets born at Phoenix Zoo  Statesville Record & Landmark]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adopt A Pet From Weston Area Shelters: New Dogs, Cats Added This Week - Weston, MA Patch]]></title>
+        <id>CAIiEJisvY3SR7P3xIoRYSX-XwoqGQgEKhAIACoHCAow64SECzDbpYADMPad9gU</id>
+        <link href="https://patch.com/massachusetts/weston/adopt-pet-weston-area-shelters-new-dogs-cats-added-week-0"/>
+        <updated>2021-06-01T14:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Adopt A Pet From Weston Area Shelters: New Dogs, Cats Added This Week  Weston, MA Patch]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival - KCENTV.com]]></title>
+        <id>CBMiqAFodHRwczovL3d3dy5rY2VudHYuY29tL3ZpZGVvL2VudGVydGFpbm1lbnQvYnV6ejYwL3RoZXNlLWVuZGFuZ2VyZWQtZmVycmV0LWJhYmllcy1hcmUtY3V0ZS1hbmQtY3J1Y2lhbC10by10aGVpci1zcGVjaWVzLXN1cnZpdmFsLzYwMC1hNTE1ZGI5My1hODY4LTQyZTktOGIyMi0yNjBlNmMxMWViYTXSAQA</id>
+        <link href="https://www.kcentv.com/video/entertainment/buzz60/these-endangered-ferret-babies-are-cute-and-crucial-to-their-species-survival/600-a515db93-a868-42e9-8b22-260e6c11eba5"/>
+        <updated>2021-06-01T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival  KCENTV.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2021: 6 Players to look out for - SportingFerret]]></title>
+        <id>CBMiTmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAxL2V1cm8tMjAyMS02LXBsYXllcnMtdG8tbG9vay1vdXQtZm9yL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/01/euro-2021-6-players-to-look-out-for/"/>
+        <updated>2021-06-01T13:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2021: 6 Players to look out for  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2021: Mason Greenwood out due to injury - SportingFerret]]></title>
+        <id>CBMiVmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAxL2V1cm8tMjAyMS1tYXNvbi1ncmVlbndvb2Qtb3V0LWR1ZS10by1pbmp1cnkv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/06/01/euro-2021-mason-greenwood-out-due-to-injury/"/>
+        <updated>2021-06-01T11:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2021: Mason Greenwood out due to injury  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA: Suns tie the Series, Davis groin injury - SportingFerret]]></title>
+        <id>CBMiVWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzMxL25iYS1zdW5zLXRpZS10aGUtc2VyaWVzLWRhdmlzLWdyb2luLWluanVyeS_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/05/31/nba-suns-tie-the-series-davis-groin-injury/"/>
+        <updated>2021-06-01T09:46:06.000Z</updated>
+        <summary type="html"><![CDATA[NBA: Suns tie the Series, Davis groin injury  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA: Clippers even out series vs Dallas - SportingFerret]]></title>
+        <id>CBMiUWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzMxL25iYS1jbGlwcGVycy1ldmVuLW91dC1zZXJpZXMtdnMtZGFsbGFzL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/05/31/nba-clippers-even-out-series-vs-dallas/"/>
+        <updated>2021-06-01T09:46:06.000Z</updated>
+        <summary type="html"><![CDATA[NBA: Clippers even out series vs Dallas  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AML3D partners with Flinders University on wire arc metal alloys - Ferret]]></title>
+        <id>CBMiYGh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9hbWwzZC1wYXJ0bmVycy13aXRoLWZsaW5kZXJzLXVuaXZlcnNpdHktb24td2lyZS1hcmMtbWV0YWwtYWxsb3lzL9IBAA</id>
+        <link href="https://www.ferret.com.au/news/aml3d-partners-with-flinders-university-on-wire-arc-metal-alloys/"/>
+        <updated>2021-06-01T04:31:27.000Z</updated>
+        <summary type="html"><![CDATA[AML3D partners with Flinders University on wire arc metal alloys  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New hydrogen-powered Toyota Mirai FCEV leased to CSIRO - Ferret]]></title>
+        <id>CBMiVmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9uZXctaHlkcm9nZW4tcG93ZXJlZC10b3lvdGEtbWlyYWktZmNldi1sZWFzZWQtdG8tY3Npcm8v0gEA</id>
+        <link href="https://www.ferret.com.au/news/new-hydrogen-powered-toyota-mirai-fcev-leased-to-csiro/"/>
+        <updated>2021-06-01T04:28:39.000Z</updated>
+        <summary type="html"><![CDATA[New hydrogen-powered Toyota Mirai FCEV leased to CSIRO  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cleoselene:
 lord-blongus:
@@ -75,6 +238,16 @@ every time this post comes around, my favorite part is the “I know it’s the
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yorkie convinces ferret to chase her around the house - Yahoo Entertainment]]></title>
+        <id>CBMiVGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L3lvcmtpZS1jb252aW5jZXMtZmVycmV0LWNoYXNlLWhlci0xNDMwMDMxMzQuaHRtbNIBXGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9hbXBodG1sL2VudGVydGFpbm1lbnQveW9ya2llLWNvbnZpbmNlcy1mZXJyZXQtY2hhc2UtaGVyLTE0MzAwMzEzNC5odG1s</id>
+        <link href="https://www.yahoo.com/entertainment/yorkie-convinces-ferret-chase-her-143003134.html"/>
+        <updated>2021-05-31T14:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Yorkie convinces ferret to chase her around the house  Yahoo Entertainment]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ferret Toys Market To Undertake Strapping Growth During 2031 | - openPR]]></title>
         <id>CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8yMjk0NTMwL2ZlcnJldC10b3lzLW1hcmtldC10by11bmRlcnRha2Utc3RyYXBwaW5nLWdyb3d0aC1kdXJpbmctMjAzMdIBAA</id>
         <link href="https://www.openpr.com/news/2294530/ferret-toys-market-to-undertake-strapping-growth-during-2031"/>
@@ -100,6 +273,16 @@ every time this post comes around, my favorite part is the “I know it’s the
         <link href="https://www.leaderherald.com/news/local-news/2021/05/rabies-clinics-planned-for-june/"/>
         <updated>2021-05-31T12:16:28.000Z</updated>
         <summary type="html"><![CDATA[Rabies clinics planned for June | News, Sports, Jobs  Gloversville Leader-Herald]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MotoGP: Fabio coasts to victory in Tuscan hills - SportingFerret]]></title>
+        <id>CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzMxL21vdG9ncC1mYWJpby1jb2FzdHMtdG8tdmljdG9yeS1pbi10dXNjYW4taGlsbHMv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/05/31/motogp-fabio-coasts-to-victory-in-tuscan-hills/"/>
+        <updated>2021-05-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MotoGP: Fabio coasts to victory in Tuscan hills  SportingFerret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
