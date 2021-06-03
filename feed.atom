@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T04:30:38.842Z</updated>
+    <updated>2021-06-03T04:10:38.052Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photo]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652921913537150976</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652921913537150976"/>
+        <updated>2021-06-02T23:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Ferrets as pets need special attention and extra care - Ferret Valley]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jake Paul vs Tyron Woodley confirmed for August bout - SportingFerret]]></title>
+        <id>CBMiX2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAyL2pha2UtcGF1bC12cy10eXJvbi13b29kbGV5LWNvbmZpcm1lZC1mb3ItYXVndXN0LWJvdXQv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/06/02/jake-paul-vs-tyron-woodley-confirmed-for-august-bout/"/>
+        <updated>2021-06-02T22:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Jake Paul vs Tyron Woodley confirmed for August bout  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[England Euro 2021 Squad Announcement - SportingFerret]]></title>
+        <id>CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAyL2VuZ2xhbmQtZXVyby0yMDIxLXNxdWFkLWFubm91bmNlbWVudC_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/02/england-euro-2021-squad-announcement/"/>
+        <updated>2021-06-02T22:09:21.000Z</updated>
+        <summary type="html"><![CDATA[England Euro 2021 Squad Announcement  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancelotti appointed Real Madrid manager - SportingFerret]]></title>
+        <id>CBMiUmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAyL2FuY2Vsb3R0aS1hcHBvaW50ZWQtcmVhbC1tYWRyaWQtbWFuYWdlci_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/02/ancelotti-appointed-real-madrid-manager/"/>
+        <updated>2021-06-02T22:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Ancelotti appointed Real Madrid manager  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naomi Osaka French Open Exit: An Unfortunate and Premature End - SportingFerret]]></title>
+        <id>CBMiaGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAyL25hb21pLW9zYWthLWZyZW5jaC1vcGVuLWV4aXQtYW4tdW5mb3J0dW5hdGUtYW5kLXByZW1hdHVyZS1lbmQv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/06/02/naomi-osaka-french-open-exit-an-unfortunate-and-premature-end/"/>
+        <updated>2021-06-02T21:46:51.000Z</updated>
+        <summary type="html"><![CDATA[Naomi Osaka French Open Exit: An Unfortunate and Premature End  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA: Denver withstands Lillard's 55 point performance - SportingFerret]]></title>
+        <id>CBMiXmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAyL25iYS1kZW52ZXItd2l0aHN0YW5kcy1saWxsYXJkcy01NS1wb2ludC1wZXJmb3JtYW5jZS_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/02/nba-denver-withstands-lillards-55-point-performance/"/>
+        <updated>2021-06-02T21:28:07.000Z</updated>
+        <summary type="html"><![CDATA[NBA: Denver withstands Lillard's 55 point performance  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rabies clinics planned in June for dogs, cats, and ferrets - WKRG News 5]]></title>
+        <id>CBMiWWh0dHBzOi8vd3d3LndrcmcuY29tL2xvY2FsLW5ld3MvcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1pbi1qdW5lLWZvci1kb2dzLWNhdHMtYW5kLWZlcnJldHMv0gFdaHR0cHM6Ly93d3cud2tyZy5jb20vbG9jYWwtbmV3cy9yYWJpZXMtY2xpbmljcy1wbGFubmVkLWluLWp1bmUtZm9yLWRvZ3MtY2F0cy1hbmQtZmVycmV0cy9hbXAv</id>
+        <link href="https://www.wkrg.com/local-news/rabies-clinics-planned-in-june-for-dogs-cats-and-ferrets/"/>
+        <updated>2021-06-02T20:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Rabies clinics planned in June for dogs, cats, and ferrets  WKRG News 5]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arlington Pet of the Week: Elima - ARLnow]]></title>
+        <id>CBMiQmh0dHBzOi8vd3d3LmFybG5vdy5jb20vMjAyMS8wNi8wMi9hcmxpbmd0b24tcGV0LW9mLXRoZS13ZWVrLWVsaW1hL9IBAA</id>
+        <link href="https://www.arlnow.com/2021/06/02/arlington-pet-of-the-week-elima/"/>
+        <updated>2021-06-02T16:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Arlington Pet of the Week: Elima  ARLnow]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Co. Health Dept. offers low-cost rabies vaccinations - NBC 15 WPMI]]></title>
+        <id>CBMiWGh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9tb2JpbGUtY28taGVhbHRoLWRlcHQtb2ZmZXJzLWxvdy1jb3N0LXJhYmllcy12YWNjaW5hdGlvbnPSAVxodHRwczovL215bmJjMTUuY29tL2FtcC9uZXdzL2xvY2FsL21vYmlsZS1jby1oZWFsdGgtZGVwdC1vZmZlcnMtbG93LWNvc3QtcmFiaWVzLXZhY2NpbmF0aW9ucw</id>
+        <link href="https://mynbc15.com/news/local/mobile-co-health-dept-offers-low-cost-rabies-vaccinations"/>
+        <updated>2021-06-02T15:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Mobile Co. Health Dept. offers low-cost rabies vaccinations  NBC 15 WPMI]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/652891695525068800</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/652891695525068800"/>
+        <updated>2021-06-02T15:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Ferrets as pets need special attention and extra care - Ferret Valley]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye, Zizou! Zidane Leaves Real Once Again - SportingFerret]]></title>
+        <id>CBMiVmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAyL2dvb2RieWUteml6b3UtemlkYW5lLWxlYXZlcy1yZWFsLW9uY2UtYWdhaW4v0gEA</id>
+        <link href="https://www.sportingferret.com/2021/06/02/goodbye-zizou-zidane-leaves-real-once-again/"/>
+        <updated>2021-06-02T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Goodbye, Zizou! Zidane Leaves Real Once Again  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you seen missing ferret Bambi in Doncaster? - Doncaster Free Press]]></title>
+        <id>CBMiaGh0dHBzOi8vd3d3LmRvbmNhc3RlcmZyZWVwcmVzcy5jby51ay9uZXdzL3Blb3BsZS9oYXZlLXlvdS1zZWVuLW1pc3NpbmctZmVycmV0LWJhbWJpLWluLWRvbmNhc3Rlci0zMjU4NDc40gGxAWh0dHBzOi8vd3d3LmRvbmNhc3RlcmZyZWVwcmVzcy5jby51ay9uZXdzL3Blb3BsZS9oYXZlLXlvdS1zZWVuLW1pc3NpbmctZmVycmV0LWJhbWJpLWluLWRvbmNhc3Rlci0zMjU4NDc4P2FtcCZmYmNsaWQ9SXdBUjFEalJody1jMWNUUmVIUVpTOVZPZ05iUEZYaS0wcWZWU2hjZDZfb0VEeFlHU1NvTVpydnhkM2NRSQ</id>
+        <link href="https://www.doncasterfreepress.co.uk/news/people/have-you-seen-missing-ferret-bambi-in-doncaster-3258478"/>
+        <updated>2021-06-02T11:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you seen missing ferret Bambi in Doncaster?  Doncaster Free Press]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Flu's Mutations Threaten Birds, Pigs and Humans - Bloomberg]]></title>
+        <id>CAIiEP2uxYc6RJovm3zwOMmiYcYqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-02/how-flu-s-mutations-threaten-birds-pigs-and-humans-quicktake"/>
+        <updated>2021-06-02T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[How Flu's Mutations Threaten Birds, Pigs and Humans  Bloomberg]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bob-artist:Even Kit’s FEET get so super fluffy in winter, and I...]]></title>
         <id>https://prettypeterparkr.tumblr.com/post/652831310218444800</id>
@@ -100,6 +230,16 @@ Even Kit’s FEET get so super fluffy in winter, and I can’t handle it.]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival - KHOU.com]]></title>
+        <id>CBMipgFodHRwczovL3d3dy5raG91LmNvbS92aWRlby9lbnRlcnRhaW5tZW50L2J1eno2MC90aGVzZS1lbmRhbmdlcmVkLWZlcnJldC1iYWJpZXMtYXJlLWN1dGUtYW5kLWNydWNpYWwtdG8tdGhlaXItc3BlY2llcy1zdXJ2aXZhbC82MDAtYTUxNWRiOTMtYTg2OC00MmU5LThiMjItMjYwZTZjMTFlYmE10gEA</id>
+        <link href="https://www.khou.com/video/entertainment/buzz60/these-endangered-ferret-babies-are-cute-and-crucial-to-their-species-survival/600-a515db93-a868-42e9-8b22-260e6c11eba5"/>
+        <updated>2021-06-01T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival  KHOU.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival - KCENTV.com]]></title>
         <id>CBMiqAFodHRwczovL3d3dy5rY2VudHYuY29tL3ZpZGVvL2VudGVydGFpbm1lbnQvYnV6ejYwL3RoZXNlLWVuZGFuZ2VyZWQtZmVycmV0LWJhYmllcy1hcmUtY3V0ZS1hbmQtY3J1Y2lhbC10by10aGVpci1zcGVjaWVzLXN1cnZpdmFsLzYwMC1hNTE1ZGI5My1hODY4LTQyZTktOGIyMi0yNjBlNmMxMWViYTXSAQA</id>
         <link href="https://www.kcentv.com/video/entertainment/buzz60/these-endangered-ferret-babies-are-cute-and-crucial-to-their-species-survival/600-a515db93-a868-42e9-8b22-260e6c11eba5"/>
@@ -125,6 +265,16 @@ Even Kit’s FEET get so super fluffy in winter, and I can’t handle it.]]></su
         <link href="https://www.sportingferret.com/2021/06/01/euro-2021-mason-greenwood-out-due-to-injury/"/>
         <updated>2021-06-01T11:52:07.000Z</updated>
         <summary type="html"><![CDATA[Euro 2021: Mason Greenwood out due to injury  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biologists find invasive snails using new DNA-detection technique - EurekAlert]]></title>
+        <id>CBMiQWh0dHBzOi8vd3d3LmV1cmVrYWxlcnQub3JnL3B1Yl9yZWxlYXNlcy8yMDIxLTA2L3VvaS1iZmkwNTI1MjEucGhw0gEA</id>
+        <link href="https://www.eurekalert.org/pub_releases/2021-06/uoi-bfi052521.php"/>
+        <updated>2021-06-01T11:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Biologists find invasive snails using new DNA-detection technique  EurekAlert]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -377,6 +527,16 @@ fool]]></summary>
         <link href="https://reason.com/2021/05/29/photo-fun-with-frozen-ferrets/"/>
         <updated>2021-05-29T12:30:34.000Z</updated>
         <summary type="html"><![CDATA[Photo: Fun With Frozen Ferrets – Reason.com  Reason]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A plasterer who goes by the name of The Ferret – A look at Jonny Clayton's rise - BT]]></title>
+        <id>CBMidGh0dHBzOi8vd3d3LmJ0LmNvbS9zcG9ydC9uZXdzLzIwMjEvbWF5L2EtcGxhc3RlcmVyLXdoby1nb2VzLWJ5LXRoZS1uYW1lLW9mLXRoZS1mZXJyZXQtYS1sb29rLWF0LWpvbm55LWNsYXl0b24tcy1yaXNl0gEA</id>
+        <link href="https://www.bt.com/sport/news/2021/may/a-plasterer-who-goes-by-the-name-of-the-ferret-a-look-at-jonny-clayton-s-rise"/>
+        <updated>2021-05-29T09:00:19.000Z</updated>
+        <summary type="html"><![CDATA[A plasterer who goes by the name of The Ferret – A look at Jonny Clayton's rise  BT]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -2274,16 +2434,6 @@ I really hope my neighbors can’t hear me in my unit, because if they can, toda
         <link href="https://www.asianinvestor.net/article/hsbc-am-hires-aberdeens-institutional-solutions-director/469405"/>
         <updated>2021-05-05T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[HSBC AM hires Aberdeen's institutional solutions director | Fund Managers  Asian Investor]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting - pnas.org]]></title>
-        <id>CBMiL2h0dHBzOi8vd3d3LnBuYXMub3JnL2NvbnRlbnQvMTE4LzE4L2UyMDI1NjAxMTE40gEA</id>
-        <link href="https://www.pnas.org/content/118/18/e2025601118"/>
-        <updated>2021-05-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Host barriers to SARS-CoV-2 demonstrated by ferrets in a high-exposure domestic setting  pnas.org]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
