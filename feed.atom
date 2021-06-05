@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T03:13:42.186Z</updated>
+    <updated>2021-06-05T03:03:56.841Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We’re on some thief shit today]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/653103103318638592</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/653103103318638592"/>
+        <updated>2021-06-04T23:00:55.000Z</updated>
+        <summary type="html"><![CDATA[We’re on some thief shit today]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden administration to tighten protection around endangered species | TheHill - The Hill]]></title>
+        <id>CBMieGh0dHBzOi8vdGhlaGlsbC5jb20vY2hhbmdpbmctYW1lcmljYS9zdXN0YWluYWJpbGl0eS9lbnZpcm9ubWVudC81NTY5MzEtYmlkZW4tYWRtaW5pc3RyYXRpb24tdG8tdGlnaHRlbi1wcm90ZWN0aW9uLWFyb3VuZNIBfGh0dHBzOi8vdGhlaGlsbC5jb20vY2hhbmdpbmctYW1lcmljYS9zdXN0YWluYWJpbGl0eS9lbnZpcm9ubWVudC81NTY5MzEtYmlkZW4tYWRtaW5pc3RyYXRpb24tdG8tdGlnaHRlbi1wcm90ZWN0aW9uLWFyb3VuZD9hbXA</id>
+        <link href="https://thehill.com/changing-america/sustainability/environment/556931-biden-administration-to-tighten-protection-around"/>
+        <updated>2021-06-04T20:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Biden administration to tighten protection around endangered species | TheHill  The Hill]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GC Cheat Sheet: The Hottest Corporate News Of The Week - Law360]]></title>
+        <id>CBMia2h0dHBzOi8vd3d3LmxhdzM2MC5jb20vbGVnYWxpbmR1c3RyeS9hcnRpY2xlcy8xMzkwNzk0L2djLWNoZWF0LXNoZWV0LXRoZS1ob3R0ZXN0LWNvcnBvcmF0ZS1uZXdzLW9mLXRoZS13ZWVr0gEraHR0cHM6Ly93d3cubGF3MzYwLmNvbS9hbXAvYXJ0aWNsZXMvMTM5MDc5NA</id>
+        <link href="https://www.law360.com/legalindustry/articles/1390794/gc-cheat-sheet-the-hottest-corporate-news-of-the-week"/>
+        <updated>2021-06-04T20:19:00.000Z</updated>
+        <summary type="html"><![CDATA[GC Cheat Sheet: The Hottest Corporate News Of The Week  Law360]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourth rabid raccoon case in Niagara County this spring reported in Somerset - WKBW-TV]]></title>
+        <id>CBMicWh0dHBzOi8vd3d3LndrYncuY29tL25ld3MvbG9jYWwtbmV3cy9mb3VydGgtcmFiaWQtcmFjY29vbi1jYXNlLWluLW5pYWdhcmEtY291bnR5LXRoaXMtc3ByaW5nLXJlcG9ydGVkLWluLXNvbWVyc2V00gF7aHR0cHM6Ly93d3cud2tidy5jb20vbmV3cy9sb2NhbC1uZXdzL2ZvdXJ0aC1yYWJpZC1yYWNjb29uLWNhc2UtaW4tbmlhZ2FyYS1jb3VudHktdGhpcy1zcHJpbmctcmVwb3J0ZWQtaW4tc29tZXJzZXQ_X2FtcD10cnVl</id>
+        <link href="https://www.wkbw.com/news/local-news/fourth-rabid-raccoon-case-in-niagara-county-this-spring-reported-in-somerset"/>
+        <updated>2021-06-04T18:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Fourth rabid raccoon case in Niagara County this spring reported in Somerset  WKBW-TV]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoo adds to animal residents - The Garden City Telegram]]></title>
+        <id>CBMiVmh0dHBzOi8vd3d3LmdjdGVsZWdyYW0uY29tL3N0b3J5L25ld3MvMjAyMS8wNi8wNC96b28tYWRkcy1hbmltYWwtcmVzaWRlbnRzLzc1Mzc2MjIwMDIv0gEpaHR0cHM6Ly9hbXAuZ2N0ZWxlZ3JhbS5jb20vYW1wLzc1Mzc2MjIwMDI</id>
+        <link href="https://www.gctelegram.com/story/news/2021/06/04/zoo-adds-animal-residents/7537622002/"/>
+        <updated>2021-06-04T16:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Zoo adds to animal residents  The Garden City Telegram]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No tp hording here]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/653072920189566976</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/653072920189566976"/>
+        <updated>2021-06-04T15:01:10.000Z</updated>
+        <summary type="html"><![CDATA[No tp hording here]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claim Scotland has “lowest amount” of TV licence payment is Unsupported - The Ferret]]></title>
+        <id>CAIiEDyLpn6-ctnroizv6U8L8MwqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/scotland-lowest-tv-licence-payment-unsupported/"/>
+        <updated>2021-06-04T13:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Claim Scotland has “lowest amount” of TV licence payment is Unsupported  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return to normality in Round 4 of Super Rugby? - SportingFerret]]></title>
+        <id>CBMiWGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzA0L3JldHVybi10by1ub3JtYWxpdHktaW4tcm91bmQtNC1vZi1zdXBlci1ydWdieS_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/04/return-to-normality-in-round-4-of-super-rugby/"/>
+        <updated>2021-06-04T10:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Return to normality in Round 4 of Super Rugby?  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA: Suns eliminate the Lakers - The Sporting Ferret - SportingFerret]]></title>
+        <id>CBMiSGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzA0L25iYS1zdW5zLWVsaW1pbmF0ZS10aGUtbGFrZXJzL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/04/nba-suns-eliminate-the-lakers/"/>
+        <updated>2021-06-04T09:51:48.000Z</updated>
+        <summary type="html"><![CDATA[NBA: Suns eliminate the Lakers - The Sporting Ferret  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Nottinghamshire woman who runs a ferret rescue centre from her garden - Nottinghamshire Live]]></title>
+        <id>CAIiEGoDYLtYLBieWZeaw5VYvgoqGQgEKhAIACoHCAowh8KhCTCJ3ZYCMPq95QY</id>
+        <link href="https://www.nottinghampost.com/news/nottingham-news/life-nottinghamshire-woman-who-runs-5488286"/>
+        <updated>2021-06-04T05:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Meet the Nottinghamshire woman who runs a ferret rescue centre from her garden  Nottinghamshire Live]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olympics President says Games will proceed despite concerns - SportingFerret]]></title>
         <id>CBMiZmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzAzL29seW1waWNzLXByZXNpZGVudC1zYXlzLWdhbWVzLXdpbGwtcHJvY2VlZC1kZXNwaXRlLWNvbmNlcm5zL9IBAA</id>
@@ -72,6 +172,16 @@ Today I buried a toy.]]></summary>
         <link href="https://www.ukiahdailyjournal.com/2021/06/03/hows-the-real-estate-market-title-insurance-is-a-worthy-investment-part-i"/>
         <updated>2021-06-03T19:07:15.000Z</updated>
         <summary type="html"><![CDATA[How’s the real estate market? Title insurance is a worthy investment: Part I  Ukiah Daily Journal]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City of Greenville hires Granicus to crack down on unlawful Airbnb's - GREENVILLE JOURNAL - Greenville Journal]]></title>
+        <id>CBMiamh0dHBzOi8vZ3JlZW52aWxsZWpvdXJuYWwuY29tL25ld3MvY2l0eS1vZi1ncmVlbnZpbGxlLXNjLWhpcmVzLWdyYW5pY3VzLXRvLWNyYWNrLWRvd24tb24tdW5sYXdmdWwtYWlyYm5icy_SAQA</id>
+        <link href="https://greenvillejournal.com/news/city-of-greenville-sc-hires-granicus-to-crack-down-on-unlawful-airbnbs/"/>
+        <updated>2021-06-03T16:35:33.000Z</updated>
+        <summary type="html"><![CDATA[City of Greenville hires Granicus to crack down on unlawful Airbnb's - GREENVILLE JOURNAL  Greenville Journal]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -352,6 +462,16 @@ Even Kit’s FEET get so super fluffy in winter, and I can’t handle it.]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival - KING5.com]]></title>
+        <id>CBMipwFodHRwczovL3d3dy5raW5nNS5jb20vdmlkZW8vZW50ZXJ0YWlubWVudC9idXp6NjAvdGhlc2UtZW5kYW5nZXJlZC1mZXJyZXQtYmFiaWVzLWFyZS1jdXRlLWFuZC1jcnVjaWFsLXRvLXRoZWlyLXNwZWNpZXMtc3Vydml2YWwvNjAwLWE1MTVkYjkzLWE4NjgtNDJlOS04YjIyLTI2MGU2YzExZWJhNdIBAA</id>
+        <link href="https://www.king5.com/video/entertainment/buzz60/these-endangered-ferret-babies-are-cute-and-crucial-to-their-species-survival/600-a515db93-a868-42e9-8b22-260e6c11eba5"/>
+        <updated>2021-06-01T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival  KING5.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival - ABC10.com KXTV]]></title>
         <id>CBMipwFodHRwczovL3d3dy5hYmMxMC5jb20vdmlkZW8vZW50ZXJ0YWlubWVudC9idXp6NjAvdGhlc2UtZW5kYW5nZXJlZC1mZXJyZXQtYmFiaWVzLWFyZS1jdXRlLWFuZC1jcnVjaWFsLXRvLXRoZWlyLXNwZWNpZXMtc3Vydml2YWwvNjAwLWE1MTVkYjkzLWE4NjgtNDJlOS04YjIyLTI2MGU2YzExZWJhNdIBAA</id>
         <link href="https://www.abc10.com/video/entertainment/buzz60/these-endangered-ferret-babies-are-cute-and-crucial-to-their-species-survival/600-a515db93-a868-42e9-8b22-260e6c11eba5"/>
@@ -507,6 +627,16 @@ Oh my god this is a lucky universe
 every time this post comes around, my favorite part is the “I know it’s the Mets” qualifier at the beginning lmao like how baseball that this zillion note posts starts with “sorry for putting this hellteam on your dash, bUT”]]></summary>
         <author>
             <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Weeks Woodstock-Towne Lake Area Events - Patch.com]]></title>
+        <id>CBMiSmh0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL3dlZWtzLXdvb2RzdG9jay10b3duZS1sYWtlLWFyZWEtZXZlbnRz0gFcaHR0cHM6Ly9wYXRjaC5jb20vZ2VvcmdpYS93b29kc3RvY2svYW1wLzI5NTYxODc4L3RoaXMtd2Vla3Mtd29vZHN0b2NrLXRvd25lLWxha2UtYXJlYS1ldmVudHM</id>
+        <link href="https://patch.com/georgia/woodstock/weeks-woodstock-towne-lake-area-events"/>
+        <updated>2021-05-31T16:15:43.000Z</updated>
+        <summary type="html"><![CDATA[This Weeks Woodstock-Towne Lake Area Events  Patch.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -2566,26 +2696,6 @@ I really hope my neighbors can’t hear me in my unit, because if they can, toda
         <link href="https://www.gov.ie/en/publication/ffadc-commercial-dog-cat-or-ferret-movements/"/>
         <updated>2021-05-07T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[gov.ie - Commercial Dog, Cat or Ferret Movements (www.gov.ie)  Gov.ie]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloning Wildlife and Editing their Genes to Protect Them and Us - NEO.LIFE]]></title>
-        <id>CBMiWWh0dHBzOi8vbmVvLmxpZmUvMjAyMS8wNS9jbG9uaW5nLXdpbGRsaWZlLWFuZC1lZGl0aW5nLXRoZWlyLWdlbmVzLXRvLXByb3RlY3QtdGhlbS1hbmQtdXMv0gEA</id>
-        <link href="https://neo.life/2021/05/cloning-wildlife-and-editing-their-genes-to-protect-them-and-us/"/>
-        <updated>2021-05-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloning Wildlife and Editing their Genes to Protect Them and Us  NEO.LIFE]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friendly ferret found - Observer-Reporter]]></title>
-        <id>CBMidGh0dHBzOi8vb2JzZXJ2ZXItcmVwb3J0ZXIuY29tL25ld3MvbG9jYWxuZXdzL2ZyaWVuZGx5LWZlcnJldC1mb3VuZC9hcnRpY2xlXzQwNDlmY2EwLWFkY2YtMTFlYi1hODg2LWYzY2MxNTVhYWI5YS5odG1s0gF4aHR0cHM6Ly9vYnNlcnZlci1yZXBvcnRlci5jb20vbmV3cy9sb2NhbG5ld3MvZnJpZW5kbHktZmVycmV0LWZvdW5kL2FydGljbGVfNDA0OWZjYTAtYWRjZi0xMWViLWE4ODYtZjNjYzE1NWFhYjlhLmFtcC5odG1s</id>
-        <link href="https://observer-reporter.com/news/localnews/friendly-ferret-found/article_4049fca0-adcf-11eb-a886-f3cc155aab9a.html"/>
-        <updated>2021-05-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Friendly ferret found  Observer-Reporter]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
