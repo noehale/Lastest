@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T03:09:06.524Z</updated>
+    <updated>2021-06-08T02:46:38.349Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How’s the market? Title insurance is a worthy investment – Part I - The Willits News]]></title>
+        <id>CBMiZWh0dHBzOi8vd3d3LndpbGxpdHNuZXdzLmNvbS8yMDIxLzA2LzA3L2hvd3MtdGhlLW1hcmtldC10aXRsZS1pbnN1cmFuY2UtaXMtYS13b3J0aHktaW52ZXN0bWVudC1wYXJ0LWkv0gFpaHR0cHM6Ly93d3cud2lsbGl0c25ld3MuY29tLzIwMjEvMDYvMDcvaG93cy10aGUtbWFya2V0LXRpdGxlLWluc3VyYW5jZS1pcy1hLXdvcnRoeS1pbnZlc3RtZW50LXBhcnQtaS9hbXAv</id>
+        <link href="https://www.willitsnews.com/2021/06/07/hows-the-market-title-insurance-is-a-worthy-investment-part-i/"/>
+        <updated>2021-06-08T02:30:51.000Z</updated>
+        <summary type="html"><![CDATA[How’s the market? Title insurance is a worthy investment – Part I  The Willits News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public health officials report first rabid bat exposure of the season in Bonneville and Payette Counties - East Idaho News]]></title>
+        <id>CBMijwFodHRwczovL3d3dy5lYXN0aWRhaG9uZXdzLmNvbS8yMDIxLzA2L3B1YmxpYy1oZWFsdGgtb2ZmaWNpYWxzLXJlcG9ydC1maXJzdC1yYWJpZC1iYXQtZXhwb3N1cmUtb2YtdGhlLXNlYXNvbi1pbi1ib25uZXZpbGxlLWFuZC1wYXlldHRlLWNvdW50aWVzL9IBAA</id>
+        <link href="https://www.eastidahonews.com/2021/06/public-health-officials-report-first-rabid-bat-exposure-of-the-season-in-bonneville-and-payette-counties/"/>
+        <updated>2021-06-08T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Public health officials report first rabid bat exposure of the season in Bonneville and Payette Counties  East Idaho News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azerbaijan Grand Prix: Thrills and Spills in abundance - SportingFerret]]></title>
+        <id>CBMiYGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzA3L2F6ZXJiYWlqYW4tZ3JhbmQtcHJpeC10aHJpbGxzLWFuZC1zcGlsbHMtaW4tYWJ1bmRhbmNlL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/07/azerbaijan-grand-prix-thrills-and-spills-in-abundance/"/>
+        <updated>2021-06-07T23:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Azerbaijan Grand Prix: Thrills and Spills in abundance  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bob-artist:bob-artist:No April Fool’s jokes this year.  Just a...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/653374899358941184</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/653374899358941184"/>
+        <updated>2021-06-07T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[bob-artist:
+
+bob-artist:
+
+No April Fool’s jokes this year.  Just a fool.
+
+
+New year, same old fool.]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Ruling is a Win for Investigative Journalists and Civil Rights Researchers - ACLU]]></title>
+        <id>CBMihgFodHRwczovL3d3dy5hY2x1Lm9yZy9uZXdzL3ByaXZhY3ktdGVjaG5vbG9neS9zdXByZW1lLWNvdXJ0LXJ1bGluZy1pcy1hLXdpbi1mb3ItaW52ZXN0aWdhdGl2ZS1qb3VybmFsaXN0cy1hbmQtY2l2aWwtcmlnaHRzLXJlc2VhcmNoZXJzL9IBAA</id>
+        <link href="https://www.aclu.org/news/privacy-technology/supreme-court-ruling-is-a-win-for-investigative-journalists-and-civil-rights-researchers/"/>
+        <updated>2021-06-07T19:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Supreme Court Ruling is a Win for Investigative Journalists and Civil Rights Researchers  ACLU]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Weeks Upcoming Woodstock-Towne Lake Area Events - Patch.com]]></title>
+        <id>CBMiU2h0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL3dlZWtzLXVwY29taW5nLXdvb2RzdG9jay10b3duZS1sYWtlLWFyZWEtZXZlbnRz0gFlaHR0cHM6Ly9wYXRjaC5jb20vZ2VvcmdpYS93b29kc3RvY2svYW1wLzI5NTgzNDYxL3RoaXMtd2Vla3MtdXBjb21pbmctd29vZHN0b2NrLXRvd25lLWxha2UtYXJlYS1ldmVudHM</id>
+        <link href="https://patch.com/georgia/woodstock/weeks-upcoming-woodstock-towne-lake-area-events"/>
+        <updated>2021-06-07T16:27:08.000Z</updated>
+        <summary type="html"><![CDATA[This Weeks Upcoming Woodstock-Towne Lake Area Events  Patch.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He wants the soda btw i washed the bottle befor i let her play...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/653344705403371520</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/653344705403371520"/>
+        <updated>2021-06-07T15:01:05.000Z</updated>
+        <summary type="html"><![CDATA[He wants the soda btw i washed the bottle befor i let her play with it so no worrys]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Sedalia Regulations On Pets You Might Not Know - ksisradio.com]]></title>
+        <id>CBMiR2h0dHBzOi8va3Npc3JhZGlvLmNvbS81LXNlZGFsaWEtcmVndWxhdGlvbnMtb24tcGV0cy15b3UtbWlnaHQtbm90LWtub3cv0gEA</id>
+        <link href="https://ksisradio.com/5-sedalia-regulations-on-pets-you-might-not-know/"/>
+        <updated>2021-06-07T11:00:28.000Z</updated>
+        <summary type="html"><![CDATA[5 Sedalia Regulations On Pets You Might Not Know  ksisradio.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Alice the rat was so special': readers on their brilliant, beloved pet tattoos - The Guardian]]></title>
+        <id>CAIiEPl4dYtxjWteagF9APqITbsqFggEKg4IACoGCAowl6p7MN-zCTCcwRU</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/jun/07/readers-pet-tattoos-cats-dogs-ferret-rat"/>
+        <updated>2021-06-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA['Alice the rat was so special': readers on their brilliant, beloved pet tattoos  The Guardian]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adorable family of pet ferrets take part in hilarious cooking skits - Yahoo! Voices]]></title>
         <id>CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9ub3cvYWRvcmFibGUtZmFtaWx5LXBldC1mZXJyZXRzLXBhcnQtMDAwMTQxMzEzLmh0bWzSAVFodHRwczovL3d3dy55YWhvby5jb20vYW1waHRtbC9ub3cvYWRvcmFibGUtZmFtaWx5LXBldC1mZXJyZXRzLXBhcnQtMDAwMTQxMzEzLmh0bWw</id>
@@ -24,6 +121,16 @@
         <summary type="html"><![CDATA[Cute ferret vs. Work boot]]></summary>
         <author>
             <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happened in Wuhan? Why questions still linger on the origin of the coronavirus - 60 Minutes - CBS News]]></title>
+        <id>CAIiEHKaV8FYsBoMFCkg3QnFgNQqGQgEKhAIACoHCAowyNj6CjDyiPICMJyFxQU</id>
+        <link href="https://www.cbsnews.com/news/covid-19-wuhan-origins-60-minutes-2021-06-06/"/>
+        <updated>2021-06-06T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[What happened in Wuhan? Why questions still linger on the origin of the coronavirus - 60 Minutes  CBS News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -269,6 +376,16 @@ BURGUNDY = I get excited when I see posts from you]]></summary>
         <link href="https://www.sportingferret.com/2021/06/04/nba-suns-eliminate-the-lakers/"/>
         <updated>2021-06-04T09:51:48.000Z</updated>
         <summary type="html"><![CDATA[NBA: Suns eliminate the Lakers - The Sporting Ferret  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F1: Baku back with a bang in 2021 - SportingFerret]]></title>
+        <id>CBMiS2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzA0L2YxLWJha3UtYmFjay13aXRoLWEtYmFuZy1pbi0yMDIxL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/04/f1-baku-back-with-a-bang-in-2021/"/>
+        <updated>2021-06-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[F1: Baku back with a bang in 2021  SportingFerret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -573,6 +690,16 @@ Even Kit’s FEET get so super fluffy in winter, and I can’t handle it.]]></su
         <link href="https://www.thrillist.com/entertainment/nation/mare-of-easttown-episode-7-finale-ending-explained"/>
         <updated>2021-06-01T21:28:54.000Z</updated>
         <summary type="html"><![CDATA[12 Questions We Still Have After the 'Mare of Easttown' Finale  Thrillist]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akron Recycle Right resumes - Spectrum News 1]]></title>
+        <id>CBMiUWh0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vb2gvY29sdW1idXMvbmV3cy8yMDIxLzA2LzAxL2Frcm9uLXJlY3ljbGUtcmlnaHQtcmVzdW1lc9IBAA</id>
+        <link href="https://spectrumnews1.com/oh/columbus/news/2021/06/01/akron-recycle-right-resumes"/>
+        <updated>2021-06-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Akron Recycle Right resumes  Spectrum News 1]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -1837,6 +1964,16 @@ Y’know I reblogged this a bit ago and was saved from financial probation and g
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Covid-19 vaccines were subject to animal trials - AFP Factcheck]]></title>
+        <id>CBMiRmh0dHBzOi8vZmFjdGNoZWNrLmFmcC5jb20vY292aWQtMTktdmFjY2luZXMtd2VyZS1zdWJqZWN0LWFuaW1hbC10cmlhbHPSAQA</id>
+        <link href="https://factcheck.afp.com/covid-19-vaccines-were-subject-animal-trials"/>
+        <updated>2021-05-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Covid-19 vaccines were subject to animal trials  AFP Factcheck]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jonny Clayton: 'The Ferret' eyeing play-offs spot to cap Premier League debut - BBC Sport]]></title>
         <id>CBMiKmh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9kYXJ0cy81NzE3MjU4M9IBLGh0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZGFydHMvNTcxNzI1ODMuYW1w</id>
         <link href="https://www.bbc.co.uk/sport/darts/57172583"/>
@@ -2470,6 +2607,16 @@ Yesterday, Insight landed safely on mars. Today is Tilly’s birthday and she ge
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bounty Hunter Contracts for Taxable Property: Illegal Contracts for Legal Services Do Not Defeat Jurisdiction - JD Supra]]></title>
+        <id>CBMiTmh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9ib3VudHktaHVudGVyLWNvbnRyYWN0cy1mb3ItdGF4YWJsZS0zNDUzNjA4L9IBAA</id>
+        <link href="https://www.jdsupra.com/legalnews/bounty-hunter-contracts-for-taxable-3453608/"/>
+        <updated>2021-05-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bounty Hunter Contracts for Taxable Property: Illegal Contracts for Legal Services Do Not Defeat Jurisdiction  JD Supra]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Match Report: Spurs 1 - 2 Aston Villa - SportingFerret]]></title>
         <id>CBMiTWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE5L21hdGNoLXJlcG9ydC1zcHVycy0xLTItYXN0b24tdmlsbGEv0gEA</id>
         <link href="https://www.sportingferret.com/2021/05/19/match-report-spurs-1-2-aston-villa/"/>
@@ -2893,26 +3040,6 @@ I really hope my neighbors can’t hear me in my unit, because if they can, toda
         <link href="https://wjla.com/news/local/maryland-based-vaccine-company-combo-flu-covid-shot-novavax"/>
         <updated>2021-05-10T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[Maryland-based company says combo flu/COVID vaccine tested well in hamsters, ferrets  WJLA]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland's public land sold off to luxury property developers - The Ferret]]></title>
-        <id>CAIiEDSFQrQlOpAPPX0Cdk4ODAoqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
-        <link href="https://theferret.scot/scotlands-public-land-sold-off-to-property-developers/"/>
-        <updated>2021-05-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scotland's public land sold off to luxury property developers  The Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coopertown House Fire Claims 2 Dogs But Ferrets Survive - Smokey Barn News]]></title>
-        <id>CBMiT2h0dHBzOi8vc21va2V5YmFybi5jb20vY29vcGVydG93bi1ob3VzZS1maXJlLWNsYWltcy0yLWRvZ3MtYnV0LWZlcnJldHMtc3Vydml2ZS_SAQA</id>
-        <link href="https://smokeybarn.com/coopertown-house-fire-claims-2-dogs-but-ferrets-survive/"/>
-        <updated>2021-05-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Coopertown House Fire Claims 2 Dogs But Ferrets Survive  Smokey Barn News]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
