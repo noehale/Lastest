@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T01:58:32.096Z</updated>
+    <updated>2021-06-14T01:57:49.387Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AP source: Justice Dept secretly subpoenaed McGahn’s records - Raleigh News & Observer]]></title>
+        <id>CBMiQGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9idXNpbmVzcy9hcnRpY2xlMjUyMDkwNjczLmh0bWzSAUBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvYnVzaW5lc3MvYXJ0aWNsZTI1MjA5MDY3My5odG1s</id>
+        <link href="https://www.newsobserver.com/news/business/article252090673.html"/>
+        <updated>2021-06-14T00:24:00.000Z</updated>
+        <summary type="html"><![CDATA[AP source: Justice Dept secretly subpoenaed McGahn’s records  Raleigh News & Observer]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sleepy moose.. he got to play in a pit full of snow and he’s all...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/653918472563245056</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/653918472563245056"/>
+        <updated>2021-06-13T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Sleepy moose.. he got to play in a pit full of snow and he’s all out of energy now]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AP source: Justice Department secretly subpoenaed McGahn’s records - WEAR]]></title>
+        <id>CBMiaWh0dHBzOi8vd3d3LndlYXJ0di5jb20vbmV3cy9uYXRpb24td29ybGQvYXAtc291cmNlLWp1c3RpY2UtZGVwYXJ0bWVudC1zZWNyZXRseS1zdWJwb2VuYWVkLW1jZ2FobnMtcmVjb3Jkc9IBaWh0dHBzOi8vd2VhcnR2LmNvbS9hbXAvbmV3cy9uYXRpb24td29ybGQvYXAtc291cmNlLWp1c3RpY2UtZGVwYXJ0bWVudC1zZWNyZXRseS1zdWJwb2VuYWVkLW1jZ2FobnMtcmVjb3Jkcw</id>
+        <link href="https://www.weartv.com/news/nation-world/ap-source-justice-department-secretly-subpoenaed-mcgahns-records"/>
+        <updated>2021-06-13T22:42:09.000Z</updated>
+        <summary type="html"><![CDATA[AP source: Justice Department secretly subpoenaed McGahn’s records  WEAR]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAPPENIN' OTSEGO: Audition for performance, 'The Haunting of Hill House' 06-14-21 - AllOTSEGO]]></title>
+        <id>CBMiZ2h0dHBzOi8vd3d3LmFsbG90c2Vnby5jb20vaGFwcGVuaW4tb3RzZWdvLWF1ZGl0aW9uLWZvci1wZXJmb3JtYW5jZS10aGUtaGF1bnRpbmctb2YtaGlsbC1ob3VzZS0wNi0xNC0yMS_SAQA</id>
+        <link href="https://www.allotsego.com/happenin-otsego-audition-for-performance-the-haunting-of-hill-house-06-14-21/"/>
+        <updated>2021-06-13T21:01:34.000Z</updated>
+        <summary type="html"><![CDATA[HAPPENIN' OTSEGO: Audition for performance, 'The Haunting of Hill House' 06-14-21  AllOTSEGO]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘A death sentence’: Animal charity says more small pets abandoned at Mill Creek Park - WKBN.com]]></title>
+        <id>CBMid2h0dHBzOi8vd3d3LndrYm4uY29tL25ld3MvbG9jYWwtbmV3cy9hLWRlYXRoLXNlbnRlbmNlLWFuaW1hbC1jaGFyaXR5LXNheXMtbW9yZS1zbWFsbC1wZXRzLWFiYW5kb25lZC1hdC1taWxsLWNyZWVrLXBhcmsv0gF7aHR0cHM6Ly93d3cud2tibi5jb20vbmV3cy9sb2NhbC1uZXdzL2EtZGVhdGgtc2VudGVuY2UtYW5pbWFsLWNoYXJpdHktc2F5cy1tb3JlLXNtYWxsLXBldHMtYWJhbmRvbmVkLWF0LW1pbGwtY3JlZWstcGFyay9hbXAv</id>
+        <link href="https://www.wkbn.com/news/local-news/a-death-sentence-animal-charity-says-more-small-pets-abandoned-at-mill-creek-park/"/>
+        <updated>2021-06-13T19:43:09.000Z</updated>
+        <summary type="html"><![CDATA[‘A death sentence’: Animal charity says more small pets abandoned at Mill Creek Park  WKBN.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/653888254050975744</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/653888254050975744"/>
+        <updated>2021-06-13T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Ferrets as pets need special attention and extra care - Ferret Valley]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lab Leaks And Covid-19: Why The Lab Leak Hypothesis Doesn’t Mean The Virus Was Engineered - Forbes]]></title>
+        <id>CAIiEC_ojjBZ3o0bzO1x7jsf59AqFQgEKg0IACoGCAowrqkBMKBFMMGBAg</id>
+        <link href="https://www.forbes.com/sites/stevensalzberg/2021/06/13/lab-leaks-and-covid-19-why-the-lab-leak-hypothesis-doesnt-mean-the-virus-was-engineered/"/>
+        <updated>2021-06-13T11:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Lab Leaks And Covid-19: Why The Lab Leak Hypothesis Doesn’t Mean The Virus Was Engineered  Forbes]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Radical' vision for Scotland as a 40% woodland nation - The Ferret]]></title>
+        <id>CAIiECm_b2G2arBRJ7IVrV-sZ3gqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/scotland-40-per-cent-woodland-nation/"/>
+        <updated>2021-06-13T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA['Radical' vision for Scotland as a 40% woodland nation  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full responses from Scottish health boards to Ferret mental health discharge investigation - HeraldScotland]]></title>
+        <id>CBMigAFodHRwczovL3d3dy5oZXJhbGRzY290bGFuZC5jb20vbmV3cy8xOTM2ODc4Mi5mdWxsLXJlc3BvbnNlcy1zY290dGlzaC1oZWFsdGgtYm9hcmRzLWZlcnJldC1tZW50YWwtaGVhbHRoLWRpc2NoYXJnZS1pbnZlc3RpZ2F0aW9uL9IBAA</id>
+        <link href="https://www.heraldscotland.com/news/19368782.full-responses-scottish-health-boards-ferret-mental-health-discharge-investigation/"/>
+        <updated>2021-06-13T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Full responses from Scottish health boards to Ferret mental health discharge investigation  HeraldScotland]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AP Top News at 2:42 pm EDT - Las Vegas Sun]]></title>
+        <id>CBMiQ2h0dHBzOi8vbGFzdmVnYXNzdW4uY29tL25ld3MvMjAyMS9qdW4vMTMvYXAtdG9wLW5ld3MtYXQtMjQyLXBtLWVkdC_SAQA</id>
+        <link href="https://lasvegassun.com/news/2021/jun/13/ap-top-news-at-242-pm-edt/"/>
+        <updated>2021-06-13T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AP Top News at 2:42 pm EDT  Las Vegas Sun]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[victoria-is-trash:
 asexualizing:
@@ -111,6 +211,16 @@ liking abba is not your taste in music it’s a way of life and people who don�
         <summary type="html"><![CDATA[Otis and Milo love their walks out 🥰]]></summary>
         <author>
             <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For urban beekeepers in New York City, the sweetest time of the year is here once again - WJAC Johnstown]]></title>
+        <id>CBMifGh0dHA6Ly9vcmlnaW4ud2phY3R2LmNvbS9uZXdzL29mZmJlYXQvZm9yLXVyYmFuLWJlZWtlZXBlcnMtaW4tbmV3LXlvcmstY2l0eS10aGUtc3dlZXRlc3QtdGltZS1vZi10aGUteWVhci1pcy1oZXJlLW9uY2UtYWdhaW7SAXlodHRwOi8vd2phY3R2LmNvbS9hbXAvbmV3cy9vZmZiZWF0L2Zvci11cmJhbi1iZWVrZWVwZXJzLWluLW5ldy15b3JrLWNpdHktdGhlLXN3ZWV0ZXN0LXRpbWUtb2YtdGhlLXllYXItaXMtaGVyZS1vbmNlLWFnYWlu</id>
+        <link href="http://origin.wjactv.com/news/offbeat/for-urban-beekeepers-in-new-york-city-the-sweetest-time-of-the-year-is-here-once-again"/>
+        <updated>2021-06-11T20:21:47.000Z</updated>
+        <summary type="html"><![CDATA[For urban beekeepers in New York City, the sweetest time of the year is here once again  WJAC Johnstown]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1259,6 +1369,16 @@ You spin me right round baby right round 🎶]]></summary>
         <link href="https://www.wkrg.com/local-news/rabies-clinics-planned-in-june-for-dogs-cats-and-ferrets/"/>
         <updated>2021-06-02T20:57:44.000Z</updated>
         <summary type="html"><![CDATA[Rabies clinics planned in June for dogs, cats, and ferrets  WKRG News 5]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transmission and Protection against Reinfection in the Ferret Model with the SARS-CoV-2 USA-WA1/2020 Reference Isolate | Journal of Virology - Journal of Virology]]></title>
+        <id>CBMiMWh0dHBzOi8vam91cm5hbHMuYXNtLm9yZy9kb2kvMTAuMTEyOC9KVkkuMDIyMzItMjDSAQA</id>
+        <link href="https://journals.asm.org/doi/10.1128/JVI.02232-20"/>
+        <updated>2021-06-02T17:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Transmission and Protection against Reinfection in the Ferret Model with the SARS-CoV-2 USA-WA1/2020 Reference Isolate | Journal of Virology  Journal of Virology]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -3485,107 +3605,6 @@ What’s the password?]]></summary>
         <link href="https://prettypeterparkr.tumblr.com/post/651260978255757312"/>
         <updated>2021-05-15T15:01:08.000Z</updated>
         <summary type="html"><![CDATA[Catching zzz’s after a good playtime session]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Future: Gaming Franchises Brought to Mobile - SportingFerret]]></title>
-        <id>CBMiXWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE1L2Fub3RoZXItZnV0dXJlLWdhbWluZy1mcmFuY2hpc2VzLWJyb3VnaHQtdG8tbW9iaWxlL9IBAA</id>
-        <link href="https://www.sportingferret.com/2021/05/15/another-future-gaming-franchises-brought-to-mobile/"/>
-        <updated>2021-05-15T13:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Another Future: Gaming Franchises Brought to Mobile  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preview: Women's Champions League Final - SportingFerret]]></title>
-        <id>CBMiUGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE1L3ByZXZpZXctd29tZW5zLWNoYW1waW9ucy1sZWFndWUtZmluYWwv0gEA</id>
-        <link href="https://www.sportingferret.com/2021/05/15/preview-womens-champions-league-final/"/>
-        <updated>2021-05-15T10:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Preview: Women's Champions League Final  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top Four Race: Who will come out on top? - SportingFerret]]></title>
-        <id>CBMiVWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE1L3RoZS10b3AtZm91ci1yYWNlLXdoby13aWxsLWNvbWUtb3V0LW9uLXRvcC_SAQA</id>
-        <link href="https://www.sportingferret.com/2021/05/15/the-top-four-race-who-will-come-out-on-top/"/>
-        <updated>2021-05-15T09:07:49.000Z</updated>
-        <summary type="html"><![CDATA[The Top Four Race: Who will come out on top?  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MotoGP: Le Mans ready to test riders in Round 5 - SportingFerret]]></title>
-        <id>CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE1L21vdG9ncC1sZS1tYW5zLXJlYWR5LXRvLXRlc3QtcmlkZXJzLWluLXJvdW5kLTUv0gEA</id>
-        <link href="https://www.sportingferret.com/2021/05/15/motogp-le-mans-ready-to-test-riders-in-round-5/"/>
-        <updated>2021-05-15T08:03:52.000Z</updated>
-        <summary type="html"><![CDATA[MotoGP: Le Mans ready to test riders in Round 5  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cannonball-the-ferret:shartgod420:
-
-you guys know what’s super important?
-bee butts
-
-Couldn’t help...]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/651200594048155648</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/651200594048155648"/>
-        <updated>2021-05-14T23:01:21.000Z</updated>
-        <summary type="html"><![CDATA[cannonball-the-ferret:
-
-shartgod420:
-you guys know what’s super important?
-
-bee butts
-
-Couldn’t help but add Bumblebee’s ferret butt to this post.  Maybe this is how he got his name.]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mjaydziarand:
-instructor144:
-
-bowtomypointlesswords:
-
-hurtlittleb...]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/651170387189743616</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/651170387189743616"/>
-        <updated>2021-05-14T15:01:13.000Z</updated>
-        <summary type="html"><![CDATA[mjaydziarand:
-
-instructor144:
-bowtomypointlesswords:
-hurtlittleboy:
-bama-5sos:
-copperbadge:
-drgaellon:
-racethewind10:
-rowsdower-saves-us:
-your-uncle-dave:
-tinyfloatingwhales:
-kikithegirl:
-uriesays:
-clatterbane:
-haydengise:
-ultrafacts:
-groovypirate:
-bee-the-gatekeeper:
-chauvinistsushi:
-bebinn:
-hellkatsally:
-ultrafacts:
-Source 
-These dudes are fucking legit.  They don’t just show up one day in court, either, they actually make friends with the kids and let them know they have a support system and that there a…]]></summary>
         <author>
             <name>Ferret Viewer</name>
         </author>
