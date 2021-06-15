@@ -6,6 +6,24 @@
       "siteUrl": "https://prettypeterparkr.tumblr.com/",
       "articles": [
         {
+          "id": "https://prettypeterparkr.tumblr.com/post/654009096433025024",
+          "author": null,
+          "description": "prollyright:\n\nnapping together is my kind of date",
+          "link": "https://prettypeterparkr.tumblr.com/post/654009096433025024",
+          "publishedOn": "2021-06-14T23:01:17.000Z",
+          "wordCount": 233,
+          "title": "prollyright:\nnapping together is my kind of date"
+        },
+        {
+          "id": "https://prettypeterparkr.tumblr.com/post/653978873810354177",
+          "author": null,
+          "description": "One minute, he’s cute. The next, he’s pooping in a random corner. 🤷🏼‍♀️",
+          "link": "https://prettypeterparkr.tumblr.com/post/653978873810354177",
+          "publishedOn": "2021-06-14T15:00:55.000Z",
+          "wordCount": 89,
+          "title": "One minute, he’s cute. The next, he’s pooping in a random..."
+        },
+        {
           "id": "https://prettypeterparkr.tumblr.com/post/653918472563245056",
           "author": null,
           "description": "Sleepy moose.. he got to play in a pit full of snow and he’s all out of energy now",
@@ -526,24 +544,6 @@
           "publishedOn": "2021-05-16T15:01:12.000Z",
           "wordCount": 226,
           "title": "thatweirdferretlady:What’s the password?"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/651291205588664320",
-          "author": null,
-          "description": "I’m not sure how he sleeps like this.",
-          "link": "https://prettypeterparkr.tumblr.com/post/651291205588664320",
-          "publishedOn": "2021-05-15T23:01:35.000Z",
-          "wordCount": 68,
-          "title": "I’m not sure how he sleeps like this."
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/651260978255757312",
-          "author": null,
-          "description": "Catching zzz’s after a good playtime session",
-          "link": "https://prettypeterparkr.tumblr.com/post/651260978255757312",
-          "publishedOn": "2021-05-15T15:01:08.000Z",
-          "wordCount": 58,
-          "title": "Catching zzz’s after a good playtime session"
         }
       ]
     },
@@ -552,6 +552,105 @@
       "feedUrl": "https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen",
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMieGh0dHBzOi8vd3d3LnJyc3Rhci5jb20vc3RvcnkvbmV3cy8yMDIxLzA2LzE0L2ZpcmVmaWdodGVycy1iYXR0bGluZy1tYXNzaXZlLWluZHVzdHJpYWwtYmxhemUtcm9ja3Rvbi1pbGxpbm9pcy83NjgzNTY3MDAyL9IBJWh0dHBzOi8vYW1wLnJyc3Rhci5jb20vYW1wLzc2ODM1NjcwMDI",
+          "author": null,
+          "description": "Massive chemical fire at Chemtool in Rockton could burn for days  Rockford Register Star",
+          "link": "https://www.rrstar.com/story/news/2021/06/14/firefighters-battling-massive-industrial-blaze-rockton-illinois/7683567002/",
+          "publishedOn": "2021-06-14T22:07:30.000Z",
+          "wordCount": 1053,
+          "title": "Massive chemical fire at Chemtool in Rockton could burn for days - Rockford Register Star"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3LnN0YXJ0cmlidW5lLmNvbS9qYW5lLWF1c3Rlbi1mYW1pbHktbGluay10by1hYm9saXRpb24tbW92ZW1lbnQtY29tZXMtdG8tbGlnaHQvNjAwMDY4MDg0L9IBAA",
+          "author": null,
+          "description": "Jane Austen family link to abolition movement comes to light  Minneapolis Star Tribune",
+          "link": "https://www.startribune.com/jane-austen-family-link-to-abolition-movement-comes-to-light/600068084/",
+          "publishedOn": "2021-06-14T20:51:24.000Z",
+          "wordCount": 2290,
+          "title": "Jane Austen family link to abolition movement comes to light - Minneapolis Star Tribune"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE0L2Rqb2tvdmljcy1yb2FkLXRvLXRoZS1mcmVuY2gtb3Blbi10aXRsZS_SAQA",
+          "author": null,
+          "description": "Djokovic's road to the French Open title  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/06/14/djokovics-road-to-the-french-open-title/",
+          "publishedOn": "2021-06-14T20:05:23.000Z",
+          "wordCount": 1727,
+          "title": "Djokovic's road to the French Open title - SportingFerret"
+        },
+        {
+          "id": "CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzU1ODM0NS1mZWRlcmFsLWFnZW50cy1hZG1pdC10by1mYWxzZWx5LWFjY3VzaW5nLWNoaW5lc2UtcHJvZmVzc29yLW9mLWJlaW5n0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9yZWd1bGF0aW9uL2NvdXJ0LWJhdHRsZXMvNTU4MzQ1LWZlZGVyYWwtYWdlbnRzLWFkbWl0LXRvLWZhbHNlbHktYWNjdXNpbmctY2hpbmVzZS1wcm9mZXNzb3Itb2YtYmVpbmc_YW1w",
+          "author": null,
+          "description": "Federal agents admit to falsely accusing Chinese professor of being a spy | TheHill  The Hill",
+          "link": "https://thehill.com/regulation/court-battles/558345-federal-agents-admit-to-falsely-accusing-chinese-professor-of-being",
+          "publishedOn": "2021-06-14T19:20:26.000Z",
+          "wordCount": 885,
+          "title": "Federal agents admit to falsely accusing Chinese professor of being a spy | TheHill - The Hill"
+        },
+        {
+          "id": "CBMiamh0dHA6Ly9lc2NhbWJpYS5mbG9yaWRhaGVhbHRoLmdvdi9uZXdzcm9vbS8yMDIxLzA2LzIwMjEtMDYtMTQtc3VtbWVyLXNhZmV0eS1vdXRkb29yLWluanVyeS1wcmV2ZW50aW9uLmh0bWzSAQA",
+          "author": null,
+          "description": "PRACTICE SAFETY WHEN ENJOYING THE WATER AND OTHER OUTDOOR ACTIVITIES Reduce Risks For Injuries and Infections | Florida Department of Health in Escambia  Escambia County Health Department",
+          "link": "http://escambia.floridahealth.gov/newsroom/2021/06/2021-06-14-summer-safety-outdoor-injury-prevention.html",
+          "publishedOn": "2021-06-14T14:45:41.000Z",
+          "wordCount": 1045,
+          "title": "PRACTICE SAFETY WHEN ENJOYING THE WATER AND OTHER OUTDOOR ACTIVITIES Reduce Risks For Injuries and Infections | Florida Department of Health in Escambia - Escambia County Health Department"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LnRlY2hub2xvZ3luZXR3b3Jrcy5jb20vaW1tdW5vbG9neS9uZXdzL2ZlcnJldHMtdHJhaW5lZC10by1kZXRlY3QtYXZpYW4tZmx1LWluLWR1Y2stcG9vLTM0OTc3MtIBAA",
+          "author": null,
+          "description": "Ferrets Trained To Detect Avian Flu in Duck Poo  Technology Networks",
+          "link": "https://www.technologynetworks.com/immunology/news/ferrets-trained-to-detect-avian-flu-in-duck-poo-349772",
+          "publishedOn": "2021-06-14T12:45:00.000Z",
+          "wordCount": 1795,
+          "title": "Ferrets Trained To Detect Avian Flu in Duck Poo - Technology Networks"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMS8wNi8xNC9hcC1zb3VyY2UtanVzdGljZS1kZXBhcnRtZW50LXNlY3JldGx5LXN1YnBvZW5hZWQtbWNnYWhucy1yZWNvcmRzL9IBAA",
+          "author": null,
+          "description": "AP source: Justice Department secretly subpoenaed McGahn's records  WWNY",
+          "link": "https://www.wwnytv.com/2021/06/14/ap-source-justice-department-secretly-subpoenaed-mcgahns-records/",
+          "publishedOn": "2021-06-14T12:13:00.000Z",
+          "wordCount": 979,
+          "title": "AP source: Justice Department secretly subpoenaed McGahn's records - WWNY"
+        },
+        {
+          "id": "CAIiEHA-IPyze-vJ3vVAFLBoogwqFAgEKg0IACoGCAowmYoBMKAdMLhK",
+          "author": null,
+          "description": "Why Scientists Tweak Lab Viruses to Make Them More Contagious  Scientific American",
+          "link": "https://www.scientificamerican.com/article/why-scientists-tweak-lab-viruses-to-make-them-more-contagious1/",
+          "publishedOn": "2021-06-14T10:47:35.000Z",
+          "wordCount": 2115,
+          "title": "Why Scientists Tweak Lab Viruses to Make Them More Contagious - Scientific American"
+        },
+        {
+          "id": "CAIiEJZ2VGP8qRu35tvMqhDDXa8qGQgEKhAIACoHCAowjMqjCjCJhZwBMN-rzwY",
+          "author": null,
+          "description": "Peter de Sève’s “Local Fauna”  The New Yorker",
+          "link": "https://www.newyorker.com/culture/cover-story/cover-story-2021-06-21",
+          "publishedOn": "2021-06-14T10:00:00.000Z",
+          "wordCount": 670,
+          "title": "Peter de Sève’s “Local Fauna” - The New Yorker"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3Lm9zYS1vcG4ub3JnL2hvbWUvbmV3c3Jvb20vMjAyMS9qdW5lL2luZnJhcmVkX2NhbWVyYV9yb290c19vdXRfaW52YXNpdmVfc25ha2VzL9IBAA",
+          "author": null,
+          "description": "Infrared Camera Roots Out Invasive Snakes  Optics & Photonics News",
+          "link": "https://www.osa-opn.org/home/newsroom/2021/june/infrared_camera_roots_out_invasive_snakes/",
+          "publishedOn": "2021-06-14T10:00:00.000Z",
+          "wordCount": 1072,
+          "title": "Infrared Camera Roots Out Invasive Snakes - Optics & Photonics News"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vZm94OC5jb20vbmV3cy9hLWRlYXRoLXNlbnRlbmNlLWFuaW1hbC1jaGFyaXR5LXNheXMtc21hbGwtcGV0cy1hYmFuZG9uZWQtYXQtbm9ydGhlYXN0LW9oaW8tcGFyay_SAWtodHRwczovL2ZveDguY29tL25ld3MvYS1kZWF0aC1zZW50ZW5jZS1hbmltYWwtY2hhcml0eS1zYXlzLXNtYWxsLXBldHMtYWJhbmRvbmVkLWF0LW5vcnRoZWFzdC1vaGlvLXBhcmsvYW1wLw",
+          "author": null,
+          "description": "‘A death sentence’: Animal charity says small pets abandoned at Northeast Ohio park  fox8.com",
+          "link": "https://fox8.com/news/a-death-sentence-animal-charity-says-small-pets-abandoned-at-northeast-ohio-park/",
+          "publishedOn": "2021-06-14T09:37:52.000Z",
+          "wordCount": 1364,
+          "title": "‘A death sentence’: Animal charity says small pets abandoned at Northeast Ohio park - fox8.com"
+        },
         {
           "id": "CBMiQGh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9idXNpbmVzcy9hcnRpY2xlMjUyMDkwNjczLmh0bWzSAUBodHRwczovL2FtcC5uZXdzb2JzZXJ2ZXIuY29tL25ld3MvYnVzaW5lc3MvYXJ0aWNsZTI1MjA5MDY3My5odG1s",
           "author": null,
@@ -569,6 +668,15 @@
           "publishedOn": "2021-06-13T22:42:09.000Z",
           "wordCount": 19,
           "title": "AP source: Justice Department secretly subpoenaed McGahn’s records - WEAR"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vbGFzdmVnYXNzdW4uY29tL25ld3MvMjAyMS9qdW4vMTMvYXAtdG9wLW5ld3MtYXQtNTQ1LXBtLWVkdC_SAQA",
+          "author": null,
+          "description": "AP Top News at 5:45 pm EDT  Las Vegas Sun",
+          "link": "https://lasvegassun.com/news/2021/jun/13/ap-top-news-at-545-pm-edt/",
+          "publishedOn": "2021-06-13T21:45:00.000Z",
+          "wordCount": 1456,
+          "title": "AP Top News at 5:45 pm EDT - Las Vegas Sun"
         },
         {
           "id": "CBMiZ2h0dHBzOi8vd3d3LmFsbG90c2Vnby5jb20vaGFwcGVuaW4tb3RzZWdvLWF1ZGl0aW9uLWZvci1wZXJmb3JtYW5jZS10aGUtaGF1bnRpbmctb2YtaGlsbC1ob3VzZS0wNi0xNC0yMS_SAQA",
@@ -605,6 +713,15 @@
           "publishedOn": "2021-06-13T09:50:00.000Z",
           "wordCount": 3023,
           "title": "'Radical' vision for Scotland as a 40% woodland nation - The Ferret"
+        },
+        {
+          "id": "CAIiEFakneMQCnO_SVDRV8R7rPQqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "Mental health discharges delayed by more than three years  The Ferret",
+          "link": "https://theferret.scot/mental-health-discharges-delayed-by-three-years/",
+          "publishedOn": "2021-06-13T07:28:51.000Z",
+          "wordCount": 4441,
+          "title": "Mental health discharges delayed by more than three years - The Ferret"
         },
         {
           "id": "CBMigAFodHRwczovL3d3dy5oZXJhbGRzY290bGFuZC5jb20vbmV3cy8xOTM2ODc4Mi5mdWxsLXJlc3BvbnNlcy1zY290dGlzaC1oZWFsdGgtYm9hcmRzLWZlcnJldC1tZW50YWwtaGVhbHRoLWRpc2NoYXJnZS1pbnZlc3RpZ2F0aW9uL9IBAA",
@@ -758,6 +875,15 @@
           "publishedOn": "2021-06-11T09:06:00.000Z",
           "wordCount": 1090,
           "title": "Livingston County plans rabies vaccination clinic in Nunda - The Livingston County News"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzExL2V1cm8tMjAyMC10ZWFtLWd1aWRlL9IBAA",
+          "author": null,
+          "description": "Euro 2020/21 Full Team Guide - The Sporting Ferret  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/06/11/euro-2020-team-guide/",
+          "publishedOn": "2021-06-11T07:00:00.000Z",
+          "wordCount": 4412,
+          "title": "Euro 2020/21 Full Team Guide - The Sporting Ferret - SportingFerret"
         },
         {
           "id": "CBMiTWh0dHBzOi8vdGhlZmVycmV0LnNjb3QvbW9yYXktZXN0YXRlLWlsbGVnYWxseS1ibG9ja2luZy1sYW5kLWFjY2Vzcy1sb2NhbC1tc3Av0gEA",
@@ -965,6 +1091,15 @@
           "publishedOn": "2021-06-09T08:03:20.000Z",
           "wordCount": 1487,
           "title": "Personal Trainer Software Market Share by Manufacturer (Everfit, Exercise.com, Fit Ferret, Fitii Ltd, MINDBODY) – COVID-19 Impact and Global Analysis By Deployment (On premise, Cloud), End User (Professionals, Healthcare institutions, Gyms) to 2028 – K - KSU | The Sentinel Newspaper"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzA5L25iYS1uaWtvbGEtam9raWMtd2lucy10aGUtbXZwLWF3YXJkL9IBAA",
+          "author": null,
+          "description": "NBA: Nikola Jokic wins the MVP award  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/06/09/nba-nikola-jokic-wins-the-mvp-award/",
+          "publishedOn": "2021-06-09T07:00:00.000Z",
+          "wordCount": 1692,
+          "title": "NBA: Nikola Jokic wins the MVP award - SportingFerret"
         },
         {
           "id": "CBMihQFodHRwczovL3d3dy5raHEuY29tL3JlZ2lvbmFsL3NrdW5rLXRlc3RzLXBvc2l0aXZlLWZvci1yYWJpZXMtaW4tcG93ZGVyLXJpdmVyLWNvdW50eS9hcnRpY2xlX2VlMWFkNTdjLTAzODgtNTE5YS04Y2NkLTUyOWI0ZjU4ZGU4OC5odG1s0gEA",
@@ -1721,6 +1856,15 @@
           "publishedOn": "2021-06-01T09:46:06.000Z",
           "wordCount": 1564,
           "title": "NBA: Clippers even out series vs Dallas - SportingFerret"
+        },
+        {
+          "id": "CBMipgFodHRwczovL3d3dy53a3ljLmNvbS92aWRlby9lbnRlcnRhaW5tZW50L2J1eno2MC90aGVzZS1lbmRhbmdlcmVkLWZlcnJldC1iYWJpZXMtYXJlLWN1dGUtYW5kLWNydWNpYWwtdG8tdGhlaXItc3BlY2llcy1zdXJ2aXZhbC82MDAtYTUxNWRiOTMtYTg2OC00MmU5LThiMjItMjYwZTZjMTFlYmE10gEA",
+          "author": null,
+          "description": "These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival  WKYC.com",
+          "link": "https://www.wkyc.com/video/entertainment/buzz60/these-endangered-ferret-babies-are-cute-and-crucial-to-their-species-survival/600-a515db93-a868-42e9-8b22-260e6c11eba5",
+          "publishedOn": "2021-06-01T07:00:00.000Z",
+          "wordCount": 422,
+          "title": "These Endangered Ferret Babies Are Cute and Crucial to Their Species Survival - WKYC.com"
         },
         {
           "id": "CBMiYGh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9hbWwzZC1wYXJ0bmVycy13aXRoLWZsaW5kZXJzLXVuaXZlcnNpdHktb24td2lyZS1hcmMtbWV0YWwtYWxsb3lzL9IBAA",
