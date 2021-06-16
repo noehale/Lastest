@@ -2,10 +2,234 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T02:04:03.594Z</updated>
+    <updated>2021-06-16T01:59:06.681Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[bob-artist:Whenever Tux manages to slip into a forbidden room,...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/654099724702449664</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/654099724702449664"/>
+        <updated>2021-06-15T23:01:47.000Z</updated>
+        <summary type="html"><![CDATA[bob-artist:
+
+Whenever Tux manages to slip into a forbidden room, he does the most obnoxious victory dance. XD]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge blocks public directory for signature collectors, signaling a win for South Dakota's initiative and referendum process - The Daily Republic]]></title>
+        <id>CBMiwAFodHRwczovL3d3dy5taXRjaGVsbHJlcHVibGljLmNvbS9uZXdzL2dvdmVybm1lbnQtYW5kLXBvbGl0aWNzLzcwNzQ5MTgtSnVkZ2UtYmxvY2tzLXB1YmxpYy1kaXJlY3RvcnktZm9yLXNpZ25hdHVyZS1jb2xsZWN0b3JzLXNpZ25hbGluZy1hLXdpbi1mb3ItU291dGgtRGFrb3Rhcy1pbml0aWF0aXZlLWFuZC1yZWZlcmVuZHVtLXByb2Nlc3PSAQA</id>
+        <link href="https://www.mitchellrepublic.com/news/government-and-politics/7074918-Judge-blocks-public-directory-for-signature-collectors-signaling-a-win-for-South-Dakotas-initiative-and-referendum-process"/>
+        <updated>2021-06-15T21:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Judge blocks public directory for signature collectors, signaling a win for South Dakota's initiative and referendum process  The Daily Republic]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020: Hungary vs Portugal Preview - SportingFerret]]></title>
+        <id>CBMiUGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L2V1cm8tMjAyMC1odW5nYXJ5LXZzLXBvcnR1Z2FsLXByZXZpZXcv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/06/15/euro-2020-hungary-vs-portugal-preview/"/>
+        <updated>2021-06-15T20:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020: Hungary vs Portugal Preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Restore Biodiversity, Embrace Biotech's 'Intended Consequences' - Scientific American]]></title>
+        <id>CBMidmh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS90by1yZXN0b3JlLWJpb2RpdmVyc2l0eS1lbWJyYWNlLWJpb3RlY2hzLWxzcXVvLWludGVuZGVkLWNvbnNlcXVlbmNlcy1yc3F1by_SAQA</id>
+        <link href="https://www.scientificamerican.com/article/to-restore-biodiversity-embrace-biotechs-lsquo-intended-consequences-rsquo/"/>
+        <updated>2021-06-15T18:01:52.000Z</updated>
+        <summary type="html"><![CDATA[To Restore Biodiversity, Embrace Biotech's 'Intended Consequences'  Scientific American]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best players on the England Euro 2020 squad - SportingFerret]]></title>
+        <id>CBMiWmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L3RoZS1iZXN0LXBsYXllcnMtb24tdGhlLWVuZ2xhbmQtZXVyby0yMDIwLXNxdWFkL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/15/the-best-players-on-the-england-euro-2020-squad/"/>
+        <updated>2021-06-15T17:42:52.000Z</updated>
+        <summary type="html"><![CDATA[The best players on the England Euro 2020 squad  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Politics - The Ferret]]></title>
+        <id>CBMiKGh0dHBzOi8vdGhlZmVycmV0LnNjb3QvcG9saXRpY3MvcGFnZS81MS_SAQA</id>
+        <link href="https://theferret.scot/politics/page/51/"/>
+        <updated>2021-06-15T17:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Politics  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emails reveal Scottish ministers snubbed by Priti Patel over immigration raid - The Ferret]]></title>
+        <id>CAIiEASGpckOaxk8k_DapZO5rGEqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/scottish-ministers-snubbed-by-priti-patel-over-raid/"/>
+        <updated>2021-06-15T17:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Emails reveal Scottish ministers snubbed by Priti Patel over immigration raid  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020: France vs Germany Preview - SportingFerret]]></title>
+        <id>CBMiTmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L2V1cm8tMjAyMC1mcmFuY2UtdnMtZ2VybWFueS1wcmV2aWV3L9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/15/euro-2020-france-vs-germany-preview/"/>
+        <updated>2021-06-15T16:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020: France vs Germany Preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ferretfarts:ferretfarts:
+
+PSA
+
+
+Healthy reminder]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/654069473223065600</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/654069473223065600"/>
+        <updated>2021-06-15T15:00:57.000Z</updated>
+        <summary type="html"><![CDATA[ferretfarts:
+
+ferretfarts:
+PSA
+
+
+
+Healthy reminder]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish SCPA in pictures: Animal charity seeks home for small, often overlooked animals - The Scotsman]]></title>
+        <id>CAIiEMUOzBzDKCgibV_1cpxSwF0qGQgEKhAIACoHCAowuMWGCzDDuYQDMMmG0gY</id>
+        <link href="https://www.scotsman.com/news/people/scottish-scpa-in-pictures-animal-charity-seeks-home-for-small-often-overlooked-animals-3273209"/>
+        <updated>2021-06-15T14:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Scottish SCPA in pictures: Animal charity seeks home for small, often overlooked animals  The Scotsman]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jane Austen family link to abolition movement comes to light - Daily Mountain Eagle]]></title>
+        <id>CBMiZGh0dHBzOi8vbW91bnRhaW5lYWdsZS5jb20vc3Rvcmllcy9qYW5lLWF1c3Rlbi1mYW1pbHktbGluay10by1hYm9saXRpb24tbW92ZW1lbnQtY29tZXMtdG8tbGlnaHQsMzU3NjDSAQA</id>
+        <link href="https://mountaineagle.com/stories/jane-austen-family-link-to-abolition-movement-comes-to-light,35760"/>
+        <updated>2021-06-15T14:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Jane Austen family link to abolition movement comes to light  Daily Mountain Eagle]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wimbledon Final to pilot a full capacity sporting event - SportingFerret]]></title>
+        <id>CBMiYmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L3dpbWJsZWRvbi1maW5hbC10by1waWxvdC1hLWZ1bGwtY2FwYWNpdHktc3BvcnRpbmctZXZlbnQv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/06/15/wimbledon-final-to-pilot-a-full-capacity-sporting-event/"/>
+        <updated>2021-06-15T12:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Wimbledon Final to pilot a full capacity sporting event  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As County Fairs Reopen, CDC Warns of Swine to Human Influenza Cases - Contagionlive.com]]></title>
+        <id>CBMiY2h0dHBzOi8vd3d3LmNvbnRhZ2lvbmxpdmUuY29tL3ZpZXcvYXMtY291bnR5LWZhaXJzLXJlb3Blbi1jZGMtd2FybnMtb2YtcGlnLXRvLWh1bWFuLWluZmx1ZW56YS1jYXNlc9IBAA</id>
+        <link href="https://www.contagionlive.com/view/as-county-fairs-reopen-cdc-warns-of-pig-to-human-influenza-cases"/>
+        <updated>2021-06-15T11:36:54.000Z</updated>
+        <summary type="html"><![CDATA[As County Fairs Reopen, CDC Warns of Swine to Human Influenza Cases  Contagionlive.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pension fund drops Israeli bank following divestment calls - The Ferret]]></title>
+        <id>CAIiEK0kM3f-7iMifbe5MedqtvYqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/lothian-pension-fund-drops-israeli-bank/"/>
+        <updated>2021-06-15T11:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Pension fund drops Israeli bank following divestment calls  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Royal Ascot Preview: Day One - The Sporting Ferret - SportingFerret]]></title>
+        <id>CBMiRmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L3JveWFsLWFzY290LXByZXZpZXctZGF5LW9uZS_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/15/royal-ascot-preview-day-one/"/>
+        <updated>2021-06-15T11:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Royal Ascot Preview: Day One - The Sporting Ferret  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech giants have to hand over your data when federal investigators ask. Here’s why. - The Washington Post]]></title>
+        <id>CAIiEPTK0CvfZJ9MSSovgFs80yoqGAgEKg8IACoHCAowjtSUCjC30XQw78SzBg</id>
+        <link href="https://www.washingtonpost.com/technology/2021/06/15/faq-data-subpoena-investigation/"/>
+        <updated>2021-06-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech giants have to hand over your data when federal investigators ask. Here’s why.  The Washington Post]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal funding for carbon-cutting technology – Ferret - Ferret]]></title>
+        <id>CBMiT2h0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbWluaW5nL2ZlZGVyYWwtZnVuZGluZy1mb3ItY2FyYm9uLWN1dHRpbmctdGVjaG5vbG9neS_SAQA</id>
+        <link href="https://www.ferret.com.au/mining/federal-funding-for-carbon-cutting-technology/"/>
+        <updated>2021-06-15T05:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Federal funding for carbon-cutting technology – Ferret  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMCRC activate R&D project opportunities for manufacturing SMEs - Ferret]]></title>
+        <id>CBMiXmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9pbWNyYy1hY3RpdmF0ZS1yZC1wcm9qZWN0LW9wcG9ydHVuaXRpZXMtZm9yLW1hbnVmYWN0dXJpbmctc21lcy_SAQA</id>
+        <link href="https://www.ferret.com.au/news/imcrc-activate-rd-project-opportunities-for-manufacturing-smes/"/>
+        <updated>2021-06-15T05:38:24.000Z</updated>
+        <summary type="html"><![CDATA[IMCRC activate R&D project opportunities for manufacturing SMEs  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moon to Mars grants boost Australian supply chain capabilities - Ferret]]></title>
+        <id>CBMiXmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9tb29uLXRvLW1hcnMtZ3JhbnRzLWJvb3N0LWF1c3RyYWxpYW4tc3VwcGx5LWNoYWluLWNhcGFiaWxpdGllcy_SAQA</id>
+        <link href="https://www.ferret.com.au/news/moon-to-mars-grants-boost-australian-supply-chain-capabilities/"/>
+        <updated>2021-06-15T05:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Moon to Mars grants boost Australian supply chain capabilities  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rabies awareness rises as fox in Ticonderoga tests positive | News, Sports, Jobs - The Adirondack Daily Enterprise]]></title>
+        <id>CBMifmh0dHBzOi8vd3d3LmFkaXJvbmRhY2tkYWlseWVudGVycHJpc2UuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIxLzA2L3JhYmllcy1hd2FyZW5lc3MtcmlzZXMtYXMtZm94LWluLXRpY29uZGVyb2dhLXRlc3RzLXBvc2l0aXZlL9IBAA</id>
+        <link href="https://www.adirondackdailyenterprise.com/news/local-news/2021/06/rabies-awareness-rises-as-fox-in-ticonderoga-tests-positive/"/>
+        <updated>2021-06-15T04:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Rabies awareness rises as fox in Ticonderoga tests positive | News, Sports, Jobs  The Adirondack Daily Enterprise]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The greatest early-noughties hits of Metro’s Felicity Ferret - The Spinoff]]></title>
+        <id>CBMiZmh0dHBzOi8vdGhlc3Bpbm9mZi5jby5uei9tZWRpYS8xNS0wNi0yMDIxL3RoZS1ncmVhdGVzdC1lYXJseS1ub3VnaHRpZXMtaGl0cy1vZi1tZXRyb3MtZmVsaWNpdHktZmVycmV0L9IBamh0dHBzOi8vdGhlc3Bpbm9mZi5jby5uei9tZWRpYS8xNS0wNi0yMDIxL3RoZS1ncmVhdGVzdC1lYXJseS1ub3VnaHRpZXMtaGl0cy1vZi1tZXRyb3MtZmVsaWNpdHktZmVycmV0Lz9hbXA</id>
+        <link href="https://thespinoff.co.nz/media/15-06-2021/the-greatest-early-noughties-hits-of-metros-felicity-ferret/"/>
+        <updated>2021-06-15T04:01:45.000Z</updated>
+        <summary type="html"><![CDATA[The greatest early-noughties hits of Metro’s Felicity Ferret  The Spinoff]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[prollyright:
 napping together is my kind of date]]></title>
@@ -17,6 +241,16 @@ napping together is my kind of date]]></title>
 napping together is my kind of date]]></summary>
         <author>
             <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefighters across region battle massive chemical fire in Rockton at Chemtool - The State Journal-Register]]></title>
+        <id>CBMie2h0dHBzOi8vd3d3LnNqLXIuY29tL3N0b3J5L25ld3MvZmlyZS8yMDIxLzA2LzE1L2ZpcmVmaWdodGVycy1iYXR0bGluZy1tYXNzaXZlLWluZHVzdHJpYWwtYmxhemUtcm9ja3Rvbi1pbGxpbm9pcy83NjkxNTIxMDAyL9IBI2h0dHBzOi8vYW1wLnNqLXIuY29tL2FtcC83NjkxNTIxMDAy</id>
+        <link href="https://www.sj-r.com/story/news/fire/2021/06/15/firefighters-battling-massive-industrial-blaze-rockton-illinois/7691521002/"/>
+        <updated>2021-06-14T22:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters across region battle massive chemical fire in Rockton at Chemtool  The State Journal-Register]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -80,6 +314,16 @@ napping together is my kind of date]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Guidance: ferret and other mustelinae keepers register - GOV.UK]]></title>
+        <id>CBMihQFodHRwczovL3d3dy5nb3YudWsvZ292ZXJubWVudC9wdWJsaWNhdGlvbnMvZmVycmV0LWFuZC1vdGhlci1tdXN0ZWxpbmFlLXJlZ2lzdGVyL2d1aWRhbmNlLWZlcnJldC1hbmQtb3RoZXItbXVzdGVsaW5hZS1rZWVwZXJzLXJlZ2lzdGVy0gEA</id>
+        <link href="https://www.gov.uk/government/publications/ferret-and-other-mustelinae-register/guidance-ferret-and-other-mustelinae-keepers-register"/>
+        <updated>2021-06-14T14:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Guidance: ferret and other mustelinae keepers register  GOV.UK]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ferrets Trained To Detect Avian Flu in Duck Poo - Technology Networks]]></title>
         <id>CBMiaWh0dHBzOi8vd3d3LnRlY2hub2xvZ3luZXR3b3Jrcy5jb20vaW1tdW5vbG9neS9uZXdzL2ZlcnJldHMtdHJhaW5lZC10by1kZXRlY3QtYXZpYW4tZmx1LWluLWR1Y2stcG9vLTM0OTc3MtIBAA</id>
         <link href="https://www.technologynetworks.com/immunology/news/ferrets-trained-to-detect-avian-flu-in-duck-poo-349772"/>
@@ -125,6 +369,16 @@ napping together is my kind of date]]></summary>
         <link href="https://www.osa-opn.org/home/newsroom/2021/june/infrared_camera_roots_out_invasive_snakes/"/>
         <updated>2021-06-14T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Infrared Camera Roots Out Invasive Snakes  Optics & Photonics News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poverty tsar calls for Home Office accountability over asylum support crisis - The Ferret]]></title>
+        <id>CAIiEM6ozpuPX5s-OpYGlElhJwkqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/home-office-accountability-call-over-asylum-support/"/>
+        <updated>2021-06-14T09:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Poverty tsar calls for Home Office accountability over asylum support crisis  The Ferret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -629,6 +883,16 @@ I wanna be 14 again and ruin my life differently… I have new ideas]]></summary
         <link href="https://semiengineering.com/how-to-improve-software-start-with-the-hardware/"/>
         <updated>2021-06-10T07:10:58.000Z</updated>
         <summary type="html"><![CDATA[How To Improve Software? Start With The Hardware  SemiEngineering]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rudy Gobert wins Defensive Player of the Year - SportingFerret]]></title>
+        <id>CBMiWGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzEwL3J1ZHktZ29iZXJ0LXdpbnMtZGVmZW5zaXZlLXBsYXllci1vZi10aGUteWVhci_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/10/rudy-gobert-wins-defensive-player-of-the-year/"/>
+        <updated>2021-06-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rudy Gobert wins Defensive Player of the Year  SportingFerret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -3706,68 +3970,6 @@ Yesterday, Insight landed safely on mars. Today is Tilly’s birthday and she ge
         <link href="https://prettypeterparkr.tumblr.com/post/651442168232312832"/>
         <updated>2021-05-17T15:01:04.000Z</updated>
         <summary type="html"><![CDATA[My ferret Tazz loves to sleep in the bed with us like this]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barnsley Football Club's Unexpected Rise to the Premier League? - SportingFerret]]></title>
-        <id>CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE3L2Jhcm5zbGV5LXVuZXhwZWN0ZWQtcmlzZS10by10aGUtcHJlbWllci1sZWFndWUv0gEA</id>
-        <link href="https://www.sportingferret.com/2021/05/17/barnsley-unexpected-rise-to-the-premier-league/"/>
-        <updated>2021-05-17T13:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Barnsley Football Club's Unexpected Rise to the Premier League?  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBL PLAYOFF FINAL: EAGLES EDGE THE LIONS - SportingFerret]]></title>
-        <id>CBMiUmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE3L2JibC1wbGF5b2ZmLWZpbmFsLWVhZ2xlcy1lZGdlLXRoZS1saW9ucy_SAQA</id>
-        <link href="https://www.sportingferret.com/2021/05/17/bbl-playoff-final-eagles-edge-the-lions/"/>
-        <updated>2021-05-17T09:59:49.000Z</updated>
-        <summary type="html"><![CDATA[BBL PLAYOFF FINAL: EAGLES EDGE THE LIONS  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Josh Taylor vs Jose Carlos Ramirez: Preview and Predictions - SportingFerret]]></title>
-        <id>CBMiZWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzE3L2pvc2gtdGF5bG9yLXZzLWpvc2UtY2FybG9zLXJhbWlyZXotcHJldmlldy1hbmQtcHJlZGljdGlvbnMv0gEA</id>
-        <link href="https://www.sportingferret.com/2021/05/17/josh-taylor-vs-jose-carlos-ramirez-preview-and-predictions/"/>
-        <updated>2021-05-17T07:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Josh Taylor vs Jose Carlos Ramirez: Preview and Predictions  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Ferret out the truth': CHR urges gov't to probe arrest of Naga City youth leader - Manila Bulletin]]></title>
-        <id>CAIiEGyii_sbvP3HFoY1vB-RC9sqGQgEKhAIACoHCAowg5WHCzCitYUDMNrXlgY</id>
-        <link href="https://mb.com.ph/2021/05/17/ferret-out-the-truth-chr-urges-govt-to-probe-arrest-of-naga-city-youth-leader/"/>
-        <updated>2021-05-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA['Ferret out the truth': CHR urges gov't to probe arrest of Naga City youth leader  Manila Bulletin]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just ferrets things]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/651381770057580544</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/651381770057580544"/>
-        <updated>2021-05-16T23:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Just ferrets things]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thatweirdferretlady:What’s the password?]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/651351579445821440</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/651351579445821440"/>
-        <updated>2021-05-16T15:01:12.000Z</updated>
-        <summary type="html"><![CDATA[thatweirdferretlady:
-
-What’s the password?]]></summary>
         <author>
             <name>Ferret Viewer</name>
         </author>
