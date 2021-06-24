@@ -2,10 +2,183 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T01:44:15.402Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T01:42:50.261Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After a long day of causing chaos in his new home, Kiba finally...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/654824449122746368</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/654824449122746368"/>
+        <updated>2021-06-23T23:00:58.000Z</updated>
+        <summary type="html"><![CDATA[After a long day of causing chaos in his new home, Kiba finally passed out and is enjoying his sleep❤️]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Football and Dating: The Common Life Lessons - SportingFerret]]></title>
+        <id>CBMirQFodHRwczovL3d3dy5zcG9ydGluZ2ZlcnJldC5jb20vMjAyMS8wNi8yMy9mb290YmFsbC1hbmQtZGF0aW5nLXRoZS1jb21tb24tbGlmZS1sZXNzb25zLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249Zm9vdGJhbGwtYW5kLWRhdGluZy10aGUtY29tbW9uLWxpZmUtbGVzc29uc9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/football-and-dating-the-common-life-lessons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=football-and-dating-the-common-life-lessons"/>
+        <updated>2021-06-23T22:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Football and Dating: The Common Life Lessons  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA Playoffs: Suns steal Game 2 - SportingFerret]]></title>
+        <id>CBMiTmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIzL3N1bnMtc3RlYWwtZ2FtZS0yLWZyb20tdGhlLWNsaXBwZXJzL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/suns-steal-game-2-from-the-clippers/"/>
+        <updated>2021-06-23T20:09:42.000Z</updated>
+        <summary type="html"><![CDATA[NBA Playoffs: Suns steal Game 2  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020: Portugal vs France Preview - SportingFerret]]></title>
+        <id>CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIzL2V1cm8tMjAyMC1wb3J0dWdhbC12cy1mcmFuY2UtcHJldmlldy_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/euro-2020-portugal-vs-france-preview/"/>
+        <updated>2021-06-23T17:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020: Portugal vs France Preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020: Germany vs Hungary Preview - SportingFerret]]></title>
+        <id>CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIzL2V1cm8tMjAyMC1nZXJtYW55LXZzLWh1bmdhcnktcHJldmlldy_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/euro-2020-germany-vs-hungary-preview/"/>
+        <updated>2021-06-23T17:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020: Germany vs Hungary Preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kathleen Thompson inquest: Ex-soldier recalled to give evidence - BBC News]]></title>
+        <id>CBMiQmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtZm95bGUtd2VzdC01NzU3ODYwNdIBRmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtZm95bGUtd2VzdC01NzU3ODYwNS5hbXA</id>
+        <link href="https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57578605"/>
+        <updated>2021-06-23T15:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Kathleen Thompson inquest: Ex-soldier recalled to give evidence  BBC News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millionaire Investors Have 'No Choice' But To Take On More Risk - Financial Advisor Magazine]]></title>
+        <id>CBMiZmh0dHBzOi8vd3d3LmZhLW1hZy5jb20vbmV3cy9taWxsaW9uYWlyZS1pbnZlc3RvcnMtaGF2ZS0tbm8tY2hvaWNlLS1idXQtdG8tdGFrZS1vbi1tb3JlLXJpc2stNjI3OTIuaHRtbNIBAA</id>
+        <link href="https://www.fa-mag.com/news/millionaire-investors-have--no-choice--but-to-take-on-more-risk-62792.html"/>
+        <updated>2021-06-23T15:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Millionaire Investors Have 'No Choice' But To Take On More Risk  Financial Advisor Magazine]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["… and we are in bed together laughing and we don’t care about anything."]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/654794249577037824</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/654794249577037824"/>
+        <updated>2021-06-23T15:00:58.000Z</updated>
+        <summary type="html"><![CDATA[““… and we are in bed together laughing and we don’t care about anything.””
+ - 
+
+(me)]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020: Sweden vs Poland Preview - SportingFerret]]></title>
+        <id>CBMiTWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIzL2V1cm8tMjAyMC1zd2VkZW4tdnMtcG9sYW5kLXByZXZpZXcv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/euro-2020-sweden-vs-poland-preview/"/>
+        <updated>2021-06-23T14:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020: Sweden vs Poland Preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wembley to welcome 60,000 fans at semi-finals - SportingFerret]]></title>
+        <id>CBMiV2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIzL3dlbWJsZXktdG8td2VsY29tZS02MDAwMC1mYW5zLWF0LXNlbWktZmluYWxzL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/wembley-to-welcome-60000-fans-at-semi-finals/"/>
+        <updated>2021-06-23T14:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Wembley to welcome 60,000 fans at semi-finals  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020: Slovakia vs Spain Preview - SportingFerret]]></title>
+        <id>CBMiTmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIzL2V1cm8tMjAyMC1zbG92YWtpYS12cy1zcGFpbi1wcmV2aWV3L9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/euro-2020-slovakia-vs-spain-preview/"/>
+        <updated>2021-06-23T13:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020: Slovakia vs Spain Preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rescuing Baby Otters & Ferret Introduces Her Human To Babies - rightthisminute.com]]></title>
+        <id>CBMiXWh0dHBzOi8vd3d3LnJpZ2h0dGhpc21pbnV0ZS5jb20vdmlkZW8vcmVzY3VpbmctYmFieS1vdHRlcnMtZmVycmV0LWludHJvZHVjZXMtaGVyLWh1bWFuLWJhYmllc9IBAA</id>
+        <link href="https://www.rightthisminute.com/video/rescuing-baby-otters-ferret-introduces-her-human-babies"/>
+        <updated>2021-06-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rescuing Baby Otters & Ferret Introduces Her Human To Babies  rightthisminute.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret owners given advice on Covid risks - Wales Farmer]]></title>
+        <id>CBMiU2h0dHBzOi8vd3d3LndhbGVzZmFybWVyLmNvLnVrL25ld3MvMTkzOTI1NDYuZmVycmV0LW93bmVycy1naXZlbi1hZHZpY2UtY292aWQtcmlza3Mv0gEA</id>
+        <link href="https://www.walesfarmer.co.uk/news/19392546.ferret-owners-given-advice-covid-risks/"/>
+        <updated>2021-06-23T11:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Ferret owners given advice on Covid risks  Wales Farmer]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Area News: June 23, 2021 | Community News | thedailystar.com - Oneonta Daily Star]]></title>
+        <id>CBMifmh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5jb20vY29tbXVuaXR5L2NvbW11bml0eV9uZXdzL2FyZWEtbmV3cy1qdW5lLTIzLTIwMjEvYXJ0aWNsZV84YzZkMDRhNi02MDgzLTU1YmQtOWM3Ny0zZjMxOGUxNzcwYTAuaHRtbNIBAA</id>
+        <link href="https://www.thedailystar.com/community/community_news/area-news-june-23-2021/article_8c6d04a6-6083-55bd-9c77-3f318e1770a0.html"/>
+        <updated>2021-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Area News: June 23, 2021 | Community News | thedailystar.com  Oneonta Daily Star]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flexible PVC Strip Doors Trend Analysis, Market Revenue, Business Strategies, COVID Vaccine Impact (Simplex, Kenfield, Ezeeflex Plastics Private Limited, Prime Creative Media (Ferret)) – KSU | The Sentinel Newspaper - KSU | The Sentinel Newspaper]]></title>
+        <id>CBMi0gFodHRwczovL2tzdXNlbnRpbmVsLmNvbS8yMDIxLzA2LzIzL2ZsZXhpYmxlLXB2Yy1zdHJpcC1kb29ycy10cmVuZC1hbmFseXNpcy1tYXJrZXQtcmV2ZW51ZS1idXNpbmVzcy1zdHJhdGVnaWVzLWNvdmlkLXZhY2NpbmUtaW1wYWN0LXNpbXBsZXgta2VuZmllbGQtZXplZWZsZXgtcGxhc3RpY3MtcHJpdmF0ZS1saW1pdGVkLXByaW1lLWNyZWF0aXZlLW1lZGlhLWZlcnJldC_SAQA</id>
+        <link href="https://ksusentinel.com/2021/06/23/flexible-pvc-strip-doors-trend-analysis-market-revenue-business-strategies-covid-vaccine-impact-simplex-kenfield-ezeeflex-plastics-private-limited-prime-creative-media-ferret/"/>
+        <updated>2021-06-23T08:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Flexible PVC Strip Doors Trend Analysis, Market Revenue, Business Strategies, COVID Vaccine Impact (Simplex, Kenfield, Ezeeflex Plastics Private Limited, Prime Creative Media (Ferret)) – KSU | The Sentinel Newspaper  KSU | The Sentinel Newspaper]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wimbledon 2021: what to expect - The Sporting Ferret - SportingFerret]]></title>
+        <id>CBMiSGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIzL3dpbWJsZWRvbi0yMDIxLXdoYXQtdG8tZXhwZWN0L9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/06/23/wimbledon-2021-what-to-expect/"/>
+        <updated>2021-06-23T08:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Wimbledon 2021: what to expect - The Sporting Ferret  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Bear Species Live In California? - Escalon Times]]></title>
+        <id>CBMiSmh0dHBzOi8vd3d3LmVzY2Fsb250aW1lcy5jb20vc3BvcnRzL2hvdy1tYW55LWJlYXItc3BlY2llcy1saXZlLWNhbGlmb3JuaWEv0gEA</id>
+        <link href="https://www.escalontimes.com/sports/how-many-bear-species-live-california/"/>
+        <updated>2021-06-23T02:17:08.000Z</updated>
+        <summary type="html"><![CDATA[How Many Bear Species Live In California?  Escalon Times]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bob-artist:bob-artist:
 Whenever Tux manages to slip into a...]]></title>
@@ -124,6 +297,16 @@ He’s too powerful now.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Type I Hypersensitivity in Ferrets Following Exposure to SARS-CoV-2 Inoculum: Lessons Learned - DocWire News]]></title>
+        <id>CBMihQFodHRwczovL3d3dy5kb2N3aXJlbmV3cy5jb20vYWJzdHJhY3RzL3R5cGUtaS1oeXBlcnNlbnNpdGl2aXR5LWluLWZlcnJldHMtZm9sbG93aW5nLWV4cG9zdXJlLXRvLXNhcnMtY292LTItaW5vY3VsdW0tbGVzc29ucy1sZWFybmVkLTMv0gGJAWh0dHBzOi8vd3d3LmRvY3dpcmVuZXdzLmNvbS9hYnN0cmFjdHMvdHlwZS1pLWh5cGVyc2Vuc2l0aXZpdHktaW4tZmVycmV0cy1mb2xsb3dpbmctZXhwb3N1cmUtdG8tc2Fycy1jb3YtMi1pbm9jdWx1bS1sZXNzb25zLWxlYXJuZWQtMy9hbXAv</id>
+        <link href="https://www.docwirenews.com/abstracts/type-i-hypersensitivity-in-ferrets-following-exposure-to-sars-cov-2-inoculum-lessons-learned-3/"/>
+        <updated>2021-06-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Type I Hypersensitivity in Ferrets Following Exposure to SARS-CoV-2 Inoculum: Lessons Learned  DocWire News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[On the Grapevine - Soroptimist breakfast, new Lions president and ferret racing - Shepparton News]]></title>
         <id>CBMifGh0dHBzOi8vd3d3LnNoZXBwbmV3cy5jb20uYXUvMjAyMS8wNi8yMS80NDg2NTA4L29uLXRoZS1ncmFwZXZpbmUtc29yb3B0aW1pc3QtYnJlYWtmYXN0LW5ldy1saW9ucy1wcmVzaWRlbnQtYW5kLWZlcnJldC1yYWNpbmfSAYEBaHR0cDovL3d3dy5zaGVwcG5ld3MuY29tLmF1LzIwMjEvMDYvMjEvNDQ4NjUwOC9vbi10aGUtZ3JhcGV2aW5lLXNvcm9wdGltaXN0LWJyZWFrZmFzdC1uZXctbGlvbnMtcHJlc2lkZW50LWFuZC1mZXJyZXQtcmFjaW5nP2FtcD0x</id>
         <link href="https://www.sheppnews.com.au/2021/06/21/4486508/on-the-grapevine-soroptimist-breakfast-new-lions-president-and-ferret-racing"/>
@@ -199,6 +382,16 @@ Or Ferret(s)!]]></summary>
         <link href="https://www.valleybreeze.com/2021-06-21/cumberland-lincoln-area/bat-warwick-tests-positive-rabies"/>
         <updated>2021-06-21T19:51:32.000Z</updated>
         <summary type="html"><![CDATA[Bat from Warwick tests positive for Rabies  Valley Breeze]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret Kits Look 'Fur'-tastic at One Month Old - Smithsonian's National Zoo and Conservation Biology Institute]]></title>
+        <id>CBMiVWh0dHBzOi8vd3d3Lm5hdGlvbmFsem9vLnNpLmVkdS9hbmltYWxzL25ld3MvZmVycmV0LWtpdHMtbG9vay1mdXItdGFzdGljLW9uZS1tb250aC1vbGTSAQA</id>
+        <link href="https://www.nationalzoo.si.edu/animals/news/ferret-kits-look-fur-tastic-one-month-old"/>
+        <updated>2021-06-21T18:29:19.000Z</updated>
+        <summary type="html"><![CDATA[Ferret Kits Look 'Fur'-tastic at One Month Old  Smithsonian's National Zoo and Conservation Biology Institute]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -4155,166 +4348,6 @@ Y’know I reblogged this a bit ago and was saved from financial probation and g
         <link href="https://www.brooklynvegan.com/slipknot-announce-knotfest-2021-lineup-faith-no-more-megadeth-gojira-knocked-loose-turnstile-more/"/>
         <updated>2021-05-25T13:48:22.000Z</updated>
         <summary type="html"><![CDATA[Slipknot announce Knotfest 2021 lineup: Faith No More, Megadeth, Gojira, Knocked Loose, Turnstile, more  Brooklyn Vegan]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Ferret influencers’ pull real-world ‘Ratatouille’ with viral cooking videos - La Crosse Tribune]]></title>
-        <id>CBMisAFodHRwczovL2xhY3Jvc3NldHJpYnVuZS5jb20vbGlmZXN0eWxlcy9mb29kLWFuZC1jb29raW5nL2ZlcnJldC1pbmZsdWVuY2Vycy1wdWxsLXJlYWwtd29ybGQtcmF0YXRvdWlsbGUtd2l0aC12aXJhbC1jb29raW5nLXZpZGVvcy92aWRlb18wMTMxMzkyZi0zZDQ0LTU2NmYtYjI1MS1hODMwYjg1MDNjZTkuaHRtbNIBtAFodHRwczovL2xhY3Jvc3NldHJpYnVuZS5jb20vbGlmZXN0eWxlcy9mb29kLWFuZC1jb29raW5nL2ZlcnJldC1pbmZsdWVuY2Vycy1wdWxsLXJlYWwtd29ybGQtcmF0YXRvdWlsbGUtd2l0aC12aXJhbC1jb29raW5nLXZpZGVvcy92aWRlb18wMTMxMzkyZi0zZDQ0LTU2NmYtYjI1MS1hODMwYjg1MDNjZTkuYW1wLmh0bWw</id>
-        <link href="https://lacrossetribune.com/lifestyles/food-and-cooking/ferret-influencers-pull-real-world-ratatouille-with-viral-cooking-videos/video_0131392f-3d44-566f-b251-a830b8503ce9.html"/>
-        <updated>2021-05-25T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[‘Ferret influencers’ pull real-world ‘Ratatouille’ with viral cooking videos  La Crosse Tribune]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQA assessments 'lost credibility' and 'destroyed trust' - The Ferret]]></title>
-        <id>CAIiEJ9NSRvdX-5Fbpt-S0GksVMqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
-        <link href="https://theferret.scot/sqa-assessments-have-destroyed-trust/"/>
-        <updated>2021-05-25T08:58:07.000Z</updated>
-        <summary type="html"><![CDATA[SQA assessments 'lost credibility' and 'destroyed trust'  The Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonlight Movies & Wine Tastings - Independence Day at The Gifted Ferret - July 3, 2021 - AJC - Atlanta Journal Constitution]]></title>
-        <id>CBMiWWh0dHBzOi8vZXZlbnRzLmFqYy5jb20vZXZlbnQvbW9vbmxpZ2h0LW1vdmllcy13aW5lLXRhc3RpbmdzLS0taW5kZXBlbmRlbmNlLWRheS11OThxZ3NwaW5o0gEA</id>
-        <link href="https://events.ajc.com/event/moonlight-movies-wine-tastings---independence-day-u98qgspinh"/>
-        <updated>2021-05-25T02:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Moonlight Movies & Wine Tastings - Independence Day at The Gifted Ferret - July 3, 2021 - AJC  Atlanta Journal Constitution]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premier League Darts betting preview (updated): The Ferret continues his roll, Michael van Gerwen to seize... - The Athletic]]></title>
-        <id>CBMimwFodHRwczovL3RoZWF0aGxldGljLmNvbS8yNjA4NDE3LzIwMjEvMDUvMjQvcHJlbWllci1sZWFndWUtZGFydHMtYmV0dGluZy1wcmV2aWV3LXVwZGF0ZWQtdGhlLWZlcnJldC1jb250aW51ZXMtaGlzLXJvbGwtbWljaGFlbC12YW4tZ2Vyd2VuLXRvLXNlaXplLW1vbWVudHVtL9IBnwFodHRwczovL3RoZWF0aGxldGljLmNvbS8yNjA4NDE3LzIwMjEvMDUvMjQvcHJlbWllci1sZWFndWUtZGFydHMtYmV0dGluZy1wcmV2aWV3LXVwZGF0ZWQtdGhlLWZlcnJldC1jb250aW51ZXMtaGlzLXJvbGwtbWljaGFlbC12YW4tZ2Vyd2VuLXRvLXNlaXplLW1vbWVudHVtLz9hbXA</id>
-        <link href="https://theathletic.com/2608417/2021/05/24/premier-league-darts-betting-preview-updated-the-ferret-continues-his-roll-michael-van-gerwen-to-seize-momentum/"/>
-        <updated>2021-05-25T02:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Premier League Darts betting preview (updated): The Ferret continues his roll, Michael van Gerwen to seize...  The Athletic]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capability Connection connects manufacturers with suppliers – Ferret - Ferret]]></title>
-        <id>CBMiW2h0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9jYXBhYmlsaXR5LWNvbm5lY3Rpb24tY29ubmVjdHMtbWFudWZhY3R1cmVycy13aXRoLXN1cHBsaWVycy_SAQA</id>
-        <link href="https://www.ferret.com.au/news/capability-connection-connects-manufacturers-with-suppliers/"/>
-        <updated>2021-05-25T01:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Capability Connection connects manufacturers with suppliers – Ferret  Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metals X cuts nickel portfolio to focus on tin - Ferret]]></title>
-        <id>CBMiUGh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbWluaW5nL21ldGFscy14LWN1dHMtbmlja2VsLXBvcnRmb2xpby10by1mb2N1cy1vbi10aW4v0gEA</id>
-        <link href="https://www.ferret.com.au/mining/metals-x-cuts-nickel-portfolio-to-focus-on-tin/"/>
-        <updated>2021-05-25T01:20:17.000Z</updated>
-        <summary type="html"><![CDATA[Metals X cuts nickel portfolio to focus on tin  Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alcoa to test renewable energy in MVR refining process - Ferret]]></title>
-        <id>CBMiVmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9hbGNvYS10by10ZXN0LXJlbmV3YWJsZS1lbmVyZ3ktaW4tbXZyLXJlZmluaW5nLXByb2Nlc3Mv0gEA</id>
-        <link href="https://www.ferret.com.au/news/alcoa-to-test-renewable-energy-in-mvr-refining-process/"/>
-        <updated>2021-05-25T01:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Alcoa to test renewable energy in MVR refining process  Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[He’s the best boi]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/652106549255421952</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/652106549255421952"/>
-        <updated>2021-05-24T23:01:07.000Z</updated>
-        <summary type="html"><![CDATA[He’s the best boi]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rabies risk heightened going into bat season - Fox17]]></title>
-        <id>CBMiWGh0dHBzOi8vd3d3LmZveDE3b25saW5lLmNvbS9uZXdzL2xvY2FsLW5ld3MvcmFiaWVzLXJpc2staGVpZ2h0ZW5lZC1nb2luZy1pbnRvLWJhdC1zZWFzb27SAQA</id>
-        <link href="https://www.fox17online.com/news/local-news/rabies-risk-heightened-going-into-bat-season"/>
-        <updated>2021-05-24T21:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Rabies risk heightened going into bat season  Fox17]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premier League Darts 2021: Nathan Aspinall too good for Michael van Gerwen while Jonny Clayton into top four - Sky Sports]]></title>
-        <id>CAIiEMkCIJQmu3i1KuM9NX5WbfsqGQgEKhAIACoHCAow2LCYCzDvurADMNXZ0AY</id>
-        <link href="https://www.skysports.com/darts/news/12288/12316095/premier-league-darts-2021-nathan-aspinall-too-good-for-michael-van-gerwen-while-jonny-clayton-into-top-four"/>
-        <updated>2021-05-24T21:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Premier League Darts 2021: Nathan Aspinall too good for Michael van Gerwen while Jonny Clayton into top four  Sky Sports]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flu fighter: Nanoparticle-based vaccine effective in preclinical trials - UB News Center]]></title>
-        <id>CBMiNWh0dHA6Ly93d3cuYnVmZmFsby5lZHUvbmV3cy9yZWxlYXNlcy8yMDIxLzA1LzAyMS5odG1s0gEA</id>
-        <link href="http://www.buffalo.edu/news/releases/2021/05/021.html"/>
-        <updated>2021-05-24T19:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Flu fighter: Nanoparticle-based vaccine effective in preclinical trials  UB News Center]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crusader Kings 3’s first major expansion is Royal Court, a full 3D hall - Polygon]]></title>
-        <id>CAIiEFmB0g_kW8bNOebzYfnelM4qGAgEKg8IACoHCAow6IDNATDnu3cwhq6EAw</id>
-        <link href="https://www.polygon.com/2021/5/24/22451454/crusader-kings-3-royal-court-expansion-details-hybrid-cultures"/>
-        <updated>2021-05-24T16:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Crusader Kings 3’s first major expansion is Royal Court, a full 3D hall  Polygon]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woodstock-Towne Lake: See This Weeks Upcoming Events In The Area - Patch.com]]></title>
-        <id>CBMiV2h0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL3dvb2RzdG9jay10b3duZS1sYWtlLXNlZS13ZWVrcy11cGNvbWluZy1ldmVudHMtYXJlYdIBcGh0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL2FtcC8yOTU0MDU3OC93b29kc3RvY2stdG93bmUtbGFrZS1zZWUtdGhpcy13ZWVrcy11cGNvbWluZy1ldmVudHMtaW4tdGhlLWFyZWE</id>
-        <link href="https://patch.com/georgia/woodstock/woodstock-towne-lake-see-weeks-upcoming-events-area"/>
-        <updated>2021-05-24T16:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Woodstock-Towne Lake: See This Weeks Upcoming Events In The Area  Patch.com]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biomutant Review - IGN]]></title>
-        <id>CBMiLWh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvYmlvbXV0YW50LXJldmlld9IBAA</id>
-        <link href="https://www.ign.com/articles/biomutant-review"/>
-        <updated>2021-05-24T15:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Biomutant Review  IGN]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My daughter has an affliction with needing to hold as many in...]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/652076342498787328</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/652076342498787328"/>
-        <updated>2021-05-24T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[My daughter has an affliction with needing to hold as many in the business as she can get her hands on.]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch members of Cave In, Deftones, Killswitch Engage, In Flames & more cover Bjork - Brooklyn Vegan]]></title>
-        <id>CBMibWh0dHBzOi8vd3d3LmJyb29rbHludmVnYW4uY29tL3dhdGNoLW1lbWJlcnMtb2YtY2F2ZS1pbi1kZWZ0b25lcy1raWxsc3dpdGNoLWVuZ2FnZS1pbi1mbGFtZXMtbW9yZS1jb3Zlci1iam9yay_SAQA</id>
-        <link href="https://www.brooklynvegan.com/watch-members-of-cave-in-deftones-killswitch-engage-in-flames-more-cover-bjork/"/>
-        <updated>2021-05-24T14:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Watch members of Cave In, Deftones, Killswitch Engage, In Flames & more cover Bjork  Brooklyn Vegan]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
