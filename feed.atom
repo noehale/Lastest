@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T01:48:22.401Z</updated>
+    <updated>2021-06-27T01:58:23.666Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Little boy says howdy there ma’lady]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/655096252301787136</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/655096252301787136"/>
+        <updated>2021-06-26T23:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Little boy says howdy there ma’lady]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Column: Sticky stuff should just be the start for baseball - Winston-Salem Journal]]></title>
+        <id>CBMinwFodHRwczovL2pvdXJuYWxub3cuY29tL3Nwb3J0cy9iYXNlYmFsbC9wcm9mZXNzaW9uYWwvY29sdW1uLXN0aWNreS1zdHVmZi1zaG91bGQtanVzdC1iZS10aGUtc3RhcnQtZm9yLWJhc2ViYWxsL2FydGljbGVfMjZlM2M4ZWUtNDc1NS01ODQ1LWEyZDktYTM5NjEzNDgzYjQ3Lmh0bWzSAaMBaHR0cHM6Ly9qb3VybmFsbm93LmNvbS9zcG9ydHMvYmFzZWJhbGwvcHJvZmVzc2lvbmFsL2NvbHVtbi1zdGlja3ktc3R1ZmYtc2hvdWxkLWp1c3QtYmUtdGhlLXN0YXJ0LWZvci1iYXNlYmFsbC9hcnRpY2xlXzI2ZTNjOGVlLTQ3NTUtNTg0NS1hMmQ5LWEzOTYxMzQ4M2I0Ny5hbXAuaHRtbA</id>
+        <link href="https://journalnow.com/sports/baseball/professional/column-sticky-stuff-should-just-be-the-start-for-baseball/article_26e3c8ee-4755-5845-a2d9-a39613483b47.html"/>
+        <updated>2021-06-26T21:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Column: Sticky stuff should just be the start for baseball  Winston-Salem Journal]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret owners given advice on Covid risks - Western Telegraph]]></title>
+        <id>CBMiYGh0dHBzOi8vd3d3Lndlc3Rlcm50ZWxlZ3JhcGguY28udWsvbmV3cy9mYXJtaW5nLzE5Mzk5NDUyLmZlcnJldC1vd25lcnMtZ2l2ZW4tYWR2aWNlLWNvdmlkLXJpc2tzL9IBAA</id>
+        <link href="https://www.westerntelegraph.co.uk/news/farming/19399452.ferret-owners-given-advice-covid-risks/"/>
+        <updated>2021-06-26T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferret owners given advice on Covid risks  Western Telegraph]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bob-artist:I bought this extremely soft mat for the ferrets, and...]]></title>
+        <id>https://prettypeterparkr.tumblr.com/post/655066073327075328</id>
+        <link href="https://prettypeterparkr.tumblr.com/post/655066073327075328"/>
+        <updated>2021-06-26T15:01:29.000Z</updated>
+        <summary type="html"><![CDATA[bob-artist:
+
+I bought this extremely soft mat for the ferrets, and it blew Kit’s mind.]]></summary>
+        <author>
+            <name>Ferret Viewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genshin Impact: Legend of the Vagabond Sword — Oceanid guide - PC Invasion]]></title>
+        <id>CBMiVWh0dHBzOi8vd3d3LnBjaW52YXNpb24uY29tL2dlbnNoaW4taW1wYWN0LWxlZ2VuZC1vZi10aGUtdmFnYWJvbmQtc3dvcmQtb2NlYW5pZC1ndWlkZS_SAVlodHRwczovL3d3dy5wY2ludmFzaW9uLmNvbS9nZW5zaGluLWltcGFjdC1sZWdlbmQtb2YtdGhlLXZhZ2Fib25kLXN3b3JkLW9jZWFuaWQtZ3VpZGUvYW1wLw</id>
+        <link href="https://www.pcinvasion.com/genshin-impact-legend-of-the-vagabond-sword-oceanid-guide/"/>
+        <updated>2021-06-26T08:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Genshin Impact: Legend of the Vagabond Sword — Oceanid guide  PC Invasion]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020 Fixtures: Who will play who? - SportingFerret]]></title>
+        <id>CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzI2L2V1cm8tMjAyMC1maXh0dXJlcy13aG8td2lsbC1wbGF5LXdoby_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/06/26/euro-2020-fixtures-who-will-play-who/"/>
+        <updated>2021-06-26T08:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020 Fixtures: Who will play who?  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[carouselcarl:More mushroom ferrets! This one is based on a...]]></title>
         <id>https://prettypeterparkr.tumblr.com/post/655005677575602176</id>
@@ -85,6 +147,16 @@ This counts as OC october right?]]></summary>
         <link href="https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-winmates-ecdis-marine-panel-pc-series/"/>
         <updated>2021-06-25T02:53:15.000Z</updated>
         <summary type="html"><![CDATA[Backplane Systems Technology Presents Winmate's ECDIS Marine Panel PC Series  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harris set to visit US-Mexico border - Yahoo News]]></title>
+        <id>CBMiQGh0dHBzOi8vbmV3cy55YWhvby5jb20vaGFycmlzLXNldC12aXNpdC11cy1tZXhpY28tMDEwOTI5NTM5Lmh0bWzSAUhodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvaGFycmlzLXNldC12aXNpdC11cy1tZXhpY28tMDEwOTI5NTM5Lmh0bWw</id>
+        <link href="https://news.yahoo.com/harris-set-visit-us-mexico-010929539.html"/>
+        <updated>2021-06-25T01:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Harris set to visit US-Mexico border  Yahoo News]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -4206,80 +4278,6 @@ liking abba is not your taste in music it’s a way of life and people who don�
         <summary type="html"><![CDATA[Can a Cell Remember?  Scientific American]]></summary>
         <author>
             <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBA: Lebron and Anthony Davis find their rhythm - SportingFerret]]></title>
-        <id>CBMi5QFodHRwczovL3d3dy5zcG9ydGluZ2ZlcnJldC5jb20vMjAyMS8wNS8yOC9uYmEtbGVicm9uLWFuZC1hbnRob255LWRhdmlzLWZpbmQtdGhlaXItcmh5dGhtLWFnYWluc3QtdGhlLXBob2VuaXgtc3Vucy8_dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPW5iYS1sZWJyb24tYW5kLWFudGhvbnktZGF2aXMtZmluZC10aGVpci1yaHl0aG0tYWdhaW5zdC10aGUtcGhvZW5peC1zdW5z0gEA</id>
-        <link href="https://www.sportingferret.com/2021/05/28/nba-lebron-and-anthony-davis-find-their-rhythm-against-the-phoenix-suns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nba-lebron-and-anthony-davis-find-their-rhythm-against-the-phoenix-suns"/>
-        <updated>2021-05-28T11:23:58.000Z</updated>
-        <summary type="html"><![CDATA[NBA: Lebron and Anthony Davis find their rhythm  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact of policies on farming - Gazette & Herald]]></title>
-        <id>CBMiRmh0dHBzOi8vd3d3LmdhemV0dGVoZXJhbGQuY28udWsvbmV3cy8xOTMyMTI0Ny5pbXBhY3QtcG9saWNpZXMtZmFybWluZy_SAQA</id>
-        <link href="https://www.gazetteherald.co.uk/news/19321247.impact-policies-farming/"/>
-        <updated>2021-05-28T05:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Impact of policies on farming  Gazette & Herald]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thelifeofmyferrets:Goodnight]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/652378319077163008</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/652378319077163008"/>
-        <updated>2021-05-27T23:00:47.000Z</updated>
-        <summary type="html"><![CDATA[thelifeofmyferrets:
-
-Goodnight]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligence Priorities Shift As Biden Calls For Investigation Into COVID-19 Origins - NPR]]></title>
-        <id>CBMiKmh0dHBzOi8vd3d3Lm5wci5vcmcvdHJhbnNjcmlwdHMvMTAwMDk5MTUyNdIBAA</id>
-        <link href="https://www.npr.org/transcripts/1000991525"/>
-        <updated>2021-05-27T20:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Intelligence Priorities Shift As Biden Calls For Investigation Into COVID-19 Origins  NPR]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Weekends Events In Woodstock-Towne Lake Area - Patch.com]]></title>
-        <id>CBMiTWh0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL3dlZWtlbmRzLWV2ZW50cy13b29kc3RvY2stdG93bmUtbGFrZS1hcmVh0gFiaHR0cHM6Ly9wYXRjaC5jb20vZ2VvcmdpYS93b29kc3RvY2svYW1wLzI5NTUwNDQ1L3RoaXMtd2Vla2VuZHMtZXZlbnRzLWluLXdvb2RzdG9jay10b3duZS1sYWtlLWFyZWE</id>
-        <link href="https://patch.com/georgia/woodstock/weekends-events-woodstock-towne-lake-area"/>
-        <updated>2021-05-27T16:11:46.000Z</updated>
-        <summary type="html"><![CDATA[This Weekends Events In Woodstock-Towne Lake Area  Patch.com]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Rolls Out Covid-19 Vaccine for Animals - The Wall Street Journal]]></title>
-        <id>CAIiEMcmLFbvGJYRksIhsMRgvKMqGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg</id>
-        <link href="https://www.wsj.com/articles/russia-rolls-out-covid-19-vaccine-for-animals-11622128581"/>
-        <updated>2021-05-27T15:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Russia Rolls Out Covid-19 Vaccine for Animals  The Wall Street Journal]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[valentiniian:wisdom dog]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/652348136535326720</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/652348136535326720"/>
-        <updated>2021-05-27T15:01:03.000Z</updated>
-        <summary type="html"><![CDATA[valentiniian:
-
-wisdom dog]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
         </author>
     </entry>
 </feed>
