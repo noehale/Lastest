@@ -6,6 +6,24 @@
       "siteUrl": "https://prettypeterparkr.tumblr.com/",
       "articles": [
         {
+          "id": "https://prettypeterparkr.tumblr.com/post/655368029048340480",
+          "author": null,
+          "description": "Banana Bandit",
+          "link": "https://prettypeterparkr.tumblr.com/post/655368029048340480",
+          "publishedOn": "2021-06-29T23:00:57.000Z",
+          "wordCount": 48,
+          "title": "Banana Bandit"
+        },
+        {
+          "id": "https://prettypeterparkr.tumblr.com/post/655337841445994496",
+          "author": null,
+          "description": "Am I spoiling him with the foot massages?",
+          "link": "https://prettypeterparkr.tumblr.com/post/655337841445994496",
+          "publishedOn": "2021-06-29T15:01:06.000Z",
+          "wordCount": 60,
+          "title": "Am I spoiling him with the foot massages?"
+        },
+        {
           "id": "https://prettypeterparkr.tumblr.com/post/655277472239190016",
           "author": null,
           "description": "theprogramisupgraded:\n\ndennys:\nsprawlerr:\nwhy does dennys have a tumblr\nwhy do you",
@@ -526,24 +544,6 @@
           "publishedOn": "2021-05-31T15:01:26.000Z",
           "wordCount": 72,
           "title": "Monty and Naruto decided to lounge together today 🥰"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/652650117940281344",
-          "author": null,
-          "description": "A bit too hyper before bed",
-          "link": "https://prettypeterparkr.tumblr.com/post/652650117940281344",
-          "publishedOn": "2021-05-30T23:00:55.000Z",
-          "wordCount": 56,
-          "title": "A bit too hyper before bed"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/652619911684833281",
-          "author": null,
-          "description": "bob-artist:\n\nWhen you lie on the floor in the same room where you keep the treats.",
-          "link": "https://prettypeterparkr.tumblr.com/post/652619911684833281",
-          "publishedOn": "2021-05-30T15:00:48.000Z",
-          "wordCount": 245,
-          "title": "bob-artist:When you lie on the floor in the same room where you..."
         }
       ]
     },
@@ -552,6 +552,123 @@
       "feedUrl": "https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen",
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiQmh0dHBzOi8vd3d3Lmt0ZW4uY29tL3N0b3J5LzQ0MjEwNDc5L2F0b2thLWxpYnJhcnktaGFzLWxpdmUtYW5pbWFsc9IBAA",
+          "author": null,
+          "description": "Atoka library becomes zoo for a day -  KTEN",
+          "link": "https://www.kten.com/story/44210479/atoka-library-has-live-animals",
+          "publishedOn": "2021-06-29T23:47:32.000Z",
+          "wordCount": 242,
+          "title": "Atoka library becomes zoo for a day - - KTEN"
+        },
+        {
+          "id": "CBMiR2h0dHBzOi8vd3d3LmNocm9uaWNsZXNtYWdhemluZS5vcmcvYmxvZy9hbWVyaWNhLWFzLWEtLXdva2Vycy0tcGFyYWRpc2Uv0gEA",
+          "author": null,
+          "description": "America as a 'Wokers' Paradise | Chronicles  A Magazine of American Culture",
+          "link": "https://www.chroniclesmagazine.org/blog/america-as-a--wokers--paradise/",
+          "publishedOn": "2021-06-29T19:46:53.000Z",
+          "wordCount": 1180,
+          "title": "America as a 'Wokers' Paradise | Chronicles - A Magazine of American Culture"
+        },
+        {
+          "id": "CBMif2h0dHBzOi8vd3d3LjNuZXdzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvbmVicmFza2EtaHVtYW5lLXNvY2lldHktc2V0LXRvLXJlb3Blbi10by10aGUtcHVibGljLWZvbGxvd2luZy1yZW5vdmF0aW9ucy1hbmQtcGFuZGVtaWPSAYkBaHR0cHM6Ly93d3cuM25ld3Nub3cuY29tL25ld3MvbG9jYWwtbmV3cy9uZWJyYXNrYS1odW1hbmUtc29jaWV0eS1zZXQtdG8tcmVvcGVuLXRvLXRoZS1wdWJsaWMtZm9sbG93aW5nLXJlbm92YXRpb25zLWFuZC1wYW5kZW1pYz9fYW1wPXRydWU",
+          "author": null,
+          "description": "Nebraska Humane Society set to reopen to the public following renovations and pandemic  KMTV - 3 News Now",
+          "link": "https://www.3newsnow.com/news/local-news/nebraska-humane-society-set-to-reopen-to-the-public-following-renovations-and-pandemic",
+          "publishedOn": "2021-06-29T18:48:00.000Z",
+          "wordCount": 923,
+          "title": "Nebraska Humane Society set to reopen to the public following renovations and pandemic - KMTV - 3 News Now"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3Lmt0c20uY29tL2xvY2FsL2VsLXBhc28tbmV3cy9rdHNtLWdvZXMtd2lsZC1lbC1wYXNvLXpvby1wcmFpcmllLWRvZ3MtaGF2ZS10d28tcHVwcy1hZnRlci1uZWFybHktdHdvLXllYXJzL9IBeWh0dHBzOi8vd3d3Lmt0c20uY29tL2xvY2FsL2VsLXBhc28tbmV3cy9rdHNtLWdvZXMtd2lsZC1lbC1wYXNvLXpvby1wcmFpcmllLWRvZ3MtaGF2ZS10d28tcHVwcy1hZnRlci1uZWFybHktdHdvLXllYXJzL2FtcC8",
+          "author": null,
+          "description": "KTSM Goes Wild: El Paso Zoo prairie dogs have two pups after nearly two years  KTSM 9 News",
+          "link": "https://www.ktsm.com/local/el-paso-news/ktsm-goes-wild-el-paso-zoo-prairie-dogs-have-two-pups-after-nearly-two-years/",
+          "publishedOn": "2021-06-29T17:31:27.000Z",
+          "wordCount": 1109,
+          "title": "KTSM Goes Wild: El Paso Zoo prairie dogs have two pups after nearly two years - KTSM 9 News"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzI5L2V1cm8tMjAyMC1lbmdsYW5kLXZzLWdlcm1hbnktcHJldmlldy_SAQA",
+          "author": null,
+          "description": "Euro 2020: England vs Germany Preview  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/06/29/euro-2020-england-vs-germany-preview/",
+          "publishedOn": "2021-06-29T16:30:00.000Z",
+          "wordCount": 2073,
+          "title": "Euro 2020: England vs Germany Preview - SportingFerret"
+        },
+        {
+          "id": "CAIiEDg4XyVyrNRoYd80rxEs1nQqGQgEKhAIACoHCAown_uQCzCXsKUDMI6FtgY",
+          "author": null,
+          "description": "What is Molnupiravir? All you need to know about oral anti-viral drug for treating COVID-19  Free Press Journal",
+          "link": "https://www.freepressjournal.in/india/what-is-molunpiravir-all-you-need-to-know-about-oral-anti-viral-drug-for-treating-covid-19",
+          "publishedOn": "2021-06-29T15:40:18.000Z",
+          "wordCount": 708,
+          "title": "What is Molnupiravir? All you need to know about oral anti-viral drug for treating COVID-19 - Free Press Journal"
+        },
+        {
+          "id": "CAIiEIBk88GKfqmALMFEPqDfZP4qFQgEKg0IACoGCAow0KsBMLBFMIuPXQ",
+          "author": null,
+          "description": "The Covid Lab Leak Theory: Why a Natural Origin Story Is More Likely  The New Republic",
+          "link": "https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory",
+          "publishedOn": "2021-06-29T14:11:50.000Z",
+          "wordCount": 3500,
+          "title": "The Covid Lab Leak Theory: Why a Natural Origin Story Is More Likely - The New Republic"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzI5L3BhdWwtZ2VvcmdlLWFuZC1jbGlwcGVycy1rZWVwLW5iYS1wbGF5b2ZmLWhvcGVzLWFsaXZlL9IBAA",
+          "author": null,
+          "description": "Paul George and Clippers keep NBA playoff hopes alive  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/06/29/paul-george-and-clippers-keep-nba-playoff-hopes-alive/",
+          "publishedOn": "2021-06-29T12:58:04.000Z",
+          "wordCount": 1623,
+          "title": "Paul George and Clippers keep NBA playoff hopes alive - SportingFerret"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vd3d3LmtuYXUub3JnL3Bvc3QvdXNmd3MtcHJvcG9zYWwtd291bGQtZXhwYW5kLWJsYWNrLWZvb3RlZC1mZXJyZXQtcmVpbnRyb2R1Y3Rpb25z0gEA",
+          "author": null,
+          "description": "USFWS Proposal Would Expand Black-Footed Ferret Reintroductions  KNAU Arizona Public Radio",
+          "link": "https://www.knau.org/post/usfws-proposal-would-expand-black-footed-ferret-reintroductions",
+          "publishedOn": "2021-06-29T12:27:15.000Z",
+          "wordCount": 692,
+          "title": "USFWS Proposal Would Expand Black-Footed Ferret Reintroductions - KNAU Arizona Public Radio"
+        },
+        {
+          "id": "CBMiemh0dHBzOi8vd3d3LnByZXNzcmVwdWJsaWNhbi5jb20vbmV3cy9sb2NhbF9uZXdzL29mLWludGVyZXN0LWp1bmUtMjktMjAyMS9hcnRpY2xlXzU3ZjRlOTA0LTZhMDEtNTJhMi1hYTc4LTBmNzdkYWU5NmQ1MS5odG1s0gEA",
+          "author": null,
+          "description": "Of Interest: June 29, 2021 | Local News | pressrepublican.com  Plattsburgh Press Republican",
+          "link": "https://www.pressrepublican.com/news/local_news/of-interest-june-29-2021/article_57f4e904-6a01-52a2-aa78-0f77dae96d51.html",
+          "publishedOn": "2021-06-29T09:00:00.000Z",
+          "wordCount": 1115,
+          "title": "Of Interest: June 29, 2021 | Local News | pressrepublican.com - Plattsburgh Press Republican"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzI5L3RoZS1uZXctZ2VuZXJhdGlvbi1vZi1mb290YmFsbC_SAQA",
+          "author": null,
+          "description": "The New Generation of Football - The Sporting Ferret - SportingFerret  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/06/29/the-new-generation-of-football/",
+          "publishedOn": "2021-06-29T07:07:30.000Z",
+          "wordCount": 2760,
+          "title": "The New Generation of Football - The Sporting Ferret - SportingFerret - SportingFerret"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy92aXN1YWwtaW5zcGVjdGlvbi1haS1iZXR0ZXItZW5hYmxlcy1tYW51ZmFjdHVyaW5nLXF1YWxpdHktY29udHJvbC_SAQA",
+          "author": null,
+          "description": "Visual Inspection AI better enables manufacturing quality control  Ferret",
+          "link": "https://www.ferret.com.au/news/visual-inspection-ai-better-enables-manufacturing-quality-control/",
+          "publishedOn": "2021-06-29T03:44:38.000Z",
+          "wordCount": 712,
+          "title": "Visual Inspection AI better enables manufacturing quality control - Ferret"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9zbWFydC13b3VuZC1kcmVzc2luZ3Mtd2l0aC1oZWFsaW5nLXNlbnNvcnMtZGV2ZWxvcGVkLWJ5LXJtaXQv0gEA",
+          "author": null,
+          "description": "Smart wound dressings with healing sensors developed by RMIT  Ferret",
+          "link": "https://www.ferret.com.au/news/smart-wound-dressings-with-healing-sensors-developed-by-rmit/",
+          "publishedOn": "2021-06-29T03:39:02.000Z",
+          "wordCount": 790,
+          "title": "Smart wound dressings with healing sensors developed by RMIT - Ferret"
+        },
         {
           "id": "CBMiR2h0dHBzOi8vcmlzbWVkaWEuY29tLzIwMjEvMDYvMjgvdG9wLWFnZW50cy1zdXJ2aXZlLWNoYWxsZW5naW5nLW1hcmtldHMv0gEA",
           "author": null,
@@ -722,6 +839,15 @@
           "publishedOn": "2021-06-26T08:05:22.000Z",
           "wordCount": 2512,
           "title": "Euro 2020 Fixtures: Who will play who? - SportingFerret"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzI2L3Rha2Vhd2F5cy1mcm9tLXRoZS13b3JsZC10ZXN0LWNoYW1waW9uc2hpcC_SAQA",
+          "author": null,
+          "description": "Takeaways from the World Test Championship  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/06/26/takeaways-from-the-world-test-championship/",
+          "publishedOn": "2021-06-26T07:00:00.000Z",
+          "wordCount": 3725,
+          "title": "Takeaways from the World Test Championship - SportingFerret"
         },
         {
           "id": "CBMiXGh0dHBzOi8vYXpjYXBpdG9sdGltZXMuY29tL25ld3MvMjAyMS8wNi8yNS9hcml6b25hLWxvdHRlcnktaGVscHMtcHJvdGVjdC1sYW5kc2NhcGUtd2lsZGxpZmUv0gEA",
@@ -3548,42 +3674,6 @@
           "publishedOn": "2021-05-31T14:30:03.000Z",
           "wordCount": 2344,
           "title": "Yorkie convinces ferret to chase her around the house - Yahoo Entertainment"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8yMjk0NTMwL2ZlcnJldC10b3lzLW1hcmtldC10by11bmRlcnRha2Utc3RyYXBwaW5nLWdyb3d0aC1kdXJpbmctMjAzMdIBAA",
-          "author": null,
-          "description": "Ferret Toys Market To Undertake Strapping Growth During 2031 |  openPR",
-          "link": "https://www.openpr.com/news/2294530/ferret-toys-market-to-undertake-strapping-growth-during-2031",
-          "publishedOn": "2021-05-31T13:56:00.000Z",
-          "wordCount": 2136,
-          "title": "Ferret Toys Market To Undertake Strapping Growth During 2031 | - openPR"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xNjg2NjAwLzIxLWVuZGFuZ2VyZWQtYmxhY2stZm9vdGVkLWZlcnJldHMtYm9ybi1waG9lbml4LXpvb9IBAA",
-          "author": null,
-          "description": "21 Endangered Black-Footed Ferrets Born At Phoenix Zoo  KJZZ",
-          "link": "https://kjzz.org/content/1686600/21-endangered-black-footed-ferrets-born-phoenix-zoo",
-          "publishedOn": "2021-05-31T12:18:20.000Z",
-          "wordCount": 482,
-          "title": "21 Endangered Black-Footed Ferrets Born At Phoenix Zoo - KJZZ"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vd3d3LmxlYWRlcmhlcmFsZC5jb20vbmV3cy9sb2NhbC1uZXdzLzIwMjEvMDUvcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1mb3ItanVuZS_SAQA",
-          "author": null,
-          "description": "Rabies clinics planned for June | News, Sports, Jobs  Gloversville Leader-Herald",
-          "link": "https://www.leaderherald.com/news/local-news/2021/05/rabies-clinics-planned-for-june/",
-          "publishedOn": "2021-05-31T12:16:28.000Z",
-          "wordCount": 649,
-          "title": "Rabies clinics planned for June | News, Sports, Jobs - Gloversville Leader-Herald"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA1LzMxL21vdG9ncC1mYWJpby1jb2FzdHMtdG8tdmljdG9yeS1pbi10dXNjYW4taGlsbHMv0gEA",
-          "author": null,
-          "description": "MotoGP: Fabio coasts to victory in Tuscan hills  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/05/31/motogp-fabio-coasts-to-victory-in-tuscan-hills/",
-          "publishedOn": "2021-05-31T07:00:00.000Z",
-          "wordCount": 2461,
-          "title": "MotoGP: Fabio coasts to victory in Tuscan hills - SportingFerret"
         }
       ]
     }
