@@ -6,6 +6,24 @@
       "siteUrl": "https://prettypeterparkr.tumblr.com/",
       "articles": [
         {
+          "id": "https://prettypeterparkr.tumblr.com/post/656092811514494976",
+          "author": null,
+          "description": "Snow Day for the Babies! ❄☃️ : ferrets",
+          "link": "https://prettypeterparkr.tumblr.com/post/656092811514494976",
+          "publishedOn": "2021-07-07T23:01:03.000Z",
+          "wordCount": 60,
+          "title": "Snow Day for the Babies! ❄☃️ : ferrets"
+        },
+        {
+          "id": "https://prettypeterparkr.tumblr.com/post/656062606491189248",
+          "author": null,
+          "description": "Faces of innocence 🦝😂",
+          "link": "https://prettypeterparkr.tumblr.com/post/656062606491189248",
+          "publishedOn": "2021-07-07T15:00:57.000Z",
+          "wordCount": 52,
+          "title": "Faces of innocence 🦝😂"
+        },
+        {
           "id": "https://prettypeterparkr.tumblr.com/post/656002189238648833",
           "author": null,
           "description": "bob-artist:\n\nHow 3 normal, civilized people share a bed: “Okay, I’ll take the left, you can take the middle, and you can take the right.”\nHow 3 ferrets share a bed:",
@@ -526,24 +544,6 @@
           "publishedOn": "2021-06-08T15:00:42.000Z",
           "wordCount": 278,
           "title": "bob-artist:bob-artist:\nI reach into my garbage can and locate my..."
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/653374899358941184",
-          "author": null,
-          "description": "bob-artist:\n\nbob-artist:\n\nNo April Fool’s jokes this year.  Just a fool.\n\n\nNew year, same old fool.",
-          "link": "https://prettypeterparkr.tumblr.com/post/653374899358941184",
-          "publishedOn": "2021-06-07T23:01:00.000Z",
-          "wordCount": 227,
-          "title": "bob-artist:bob-artist:No April Fool’s jokes this year.  Just a..."
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/653344705403371520",
-          "author": null,
-          "description": "He wants the soda btw i washed the bottle befor i let her play with it so no worrys",
-          "link": "https://prettypeterparkr.tumblr.com/post/653344705403371520",
-          "publishedOn": "2021-06-07T15:01:05.000Z",
-          "wordCount": 82,
-          "title": "He wants the soda btw i washed the bottle befor i let her play..."
         }
       ]
     },
@@ -552,6 +552,15 @@
       "feedUrl": "https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen",
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiZGh0dHBzOi8vd3d3LmFncmlsYW5kLmllL2Zhcm1pbmctbmV3cy9hcHBsaWNhdGlvbnMtc291Z2h0LWZvci1jYXQtZG9nLWFuZC1mZXJyZXQtcXVhcmFudGluZS1mYWNpbGl0eS_SAQA",
+          "author": null,
+          "description": "Quarantine: Applications sought for cat, dog and ferret quarantine facility  Agriland",
+          "link": "https://www.agriland.ie/farming-news/applications-sought-for-cat-dog-and-ferret-quarantine-facility/",
+          "publishedOn": "2021-07-07T17:14:54.000Z",
+          "wordCount": 702,
+          "title": "Quarantine: Applications sought for cat, dog and ferret quarantine facility - Agriland"
+        },
         {
           "id": "CBMiTmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy93YS1wb3Vycy1taWxsaW9ucy1tb3JlLWZ1bmRpbmctc2tpbGxlZC13b3JrZXJzL9IBAA",
           "author": null,
@@ -569,6 +578,15 @@
           "publishedOn": "2021-07-05T10:09:00.000Z",
           "wordCount": 732,
           "title": "Felicia The Diaper-Wearing Ferret Was Sent Into A Particle Accelerator For Science - IFLScience"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9zb21lLWFuaW1hbHMtYXQtdGhlLW9ha2xhbmQtem9vLXJlY2VpdmUtdGhlaXItY292aWQtMTktdmFjY2luZS9hci1BQUxLbWI50gEA",
+          "author": null,
+          "description": "Some animals at the Oakland Zoo receive their COVID-19 vaccine  msnNOW",
+          "link": "https://www.msn.com/en-us/news/us/some-animals-at-the-oakland-zoo-receive-their-covid-19-vaccine/ar-AALKmb9",
+          "publishedOn": "2021-07-04T02:17:24.000Z",
+          "wordCount": 1133,
+          "title": "Some animals at the Oakland Zoo receive their COVID-19 vaccine - msnNOW"
         },
         {
           "id": "CAIiENt_H3quyxOcB2h7xk9ZlSoqGAgEKg8IACoHCAowhO7OATDh9CgwwKudAg",
@@ -3368,132 +3386,6 @@
           "publishedOn": "2021-06-08T14:27:22.000Z",
           "wordCount": 2892,
           "title": "Largo Pet Adoption: Meet Yang, Alfie, Jax & More - Largo, FL Patch"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9oZWFsdGhjYXJlLzU1NzE4OC1pcy1hLW5ldy1iaXJkLWZsdS10aGUtbmV4dC1wYW5kZW1pY9IBVWh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9oZWFsdGhjYXJlLzU1NzE4OC1pcy1hLW5ldy1iaXJkLWZsdS10aGUtbmV4dC1wYW5kZW1pYz9hbXA",
-          "author": null,
-          "description": "Is a new bird flu the next pandemic? | TheHill  The Hill",
-          "link": "https://thehill.com/opinion/healthcare/557188-is-a-new-bird-flu-the-next-pandemic",
-          "publishedOn": "2021-06-08T12:00:09.000Z",
-          "wordCount": 1286,
-          "title": "Is a new bird flu the next pandemic? | TheHill - The Hill"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vdGhlZmVycmV0LnNjb3QvcG9saWNlLWludmVzdGlnYXRlLXNlYWwtaWxsZWdhbGx5LXNob3QtZmlzaC1mYXJtL9IBAA",
-          "author": null,
-          "description": "Police investigate allegation seal was illegally shot by fish farm  The Ferret",
-          "link": "https://theferret.scot/police-investigate-seal-illegally-shot-fish-farm/",
-          "publishedOn": "2021-06-08T09:29:38.000Z",
-          "wordCount": 1919,
-          "title": "Police investigate allegation seal was illegally shot by fish farm - The Ferret"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzA4L3RoZS1pbXBvc3NpYmxlLWpvYi1vZi1hbi1lbmdsYW5kLXVuZGVyLTIxLW1hbmFnZXIv0gEA",
-          "author": null,
-          "description": "The Impossible Job of an England Under 21 Manager  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/08/the-impossible-job-of-an-england-under-21-manager/",
-          "publishedOn": "2021-06-08T08:11:38.000Z",
-          "wordCount": 3804,
-          "title": "The Impossible Job of an England Under 21 Manager - SportingFerret"
-        },
-        {
-          "id": "CBMi2QFodHRwczovL2tzdXNlbnRpbmVsLmNvbS8yMDIxLzA2LzA4L3Bob3RvZ3JhcGh5LXN0dWRpby1zb2Z0d2FyZS1tYXJrZXQtMjAyMS1nbG9iYWwtZGVtYW5kLWFuZC1lbWVyZ2luZy10cmVuZHMtYnktMjAyOC1ldmVyZml0LWV4ZXJjaXNlLWNvbS1maXQtZmVycmV0LWZpdGlpLW1pbmRib2R5LW9tbmlmeS10cmFpbmVybWV0cmljcy10cnVlY29hY2gtdHNyLWd5bS10ZWNobmlrLXZpcnQv0gEA",
-          "author": null,
-          "description": "Photography Studio Software Market 2021 Global Demand and Emerging Trends by 2028 – Everfit, Exercise.com, Fit Ferret, Fitii, MINDBODY, Omnify, TrainerMetrics, TrueCoach, TSR Gym Technik, Virtuagym – KSU | The Sentinel Newspaper  KSU | The Sentinel Newspaper",
-          "link": "https://ksusentinel.com/2021/06/08/photography-studio-software-market-2021-global-demand-and-emerging-trends-by-2028-everfit-exercise-com-fit-ferret-fitii-mindbody-omnify-trainermetrics-truecoach-tsr-gym-technik-virt/",
-          "publishedOn": "2021-06-08T07:18:14.000Z",
-          "wordCount": 946,
-          "title": "Photography Studio Software Market 2021 Global Demand and Emerging Trends by 2028 – Everfit, Exercise.com, Fit Ferret, Fitii, MINDBODY, Omnify, TrainerMetrics, TrueCoach, TSR Gym Technik, Virtuagym – KSU | The Sentinel Newspaper - KSU | The Sentinel Newspaper"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbWluaW5nL2F1c3RyYWxpYW4tZ292ZXJubWVudC1naXZlcy1ib29zdC10by13b21lbi1pbi1zdGVtLXJvbGVzL9IBAA",
-          "author": null,
-          "description": "Australian Government gives boost to women in STEM roles  Ferret",
-          "link": "https://www.ferret.com.au/mining/australian-government-gives-boost-to-women-in-stem-roles/",
-          "publishedOn": "2021-06-08T04:22:07.000Z",
-          "wordCount": 386,
-          "title": "Australian Government gives boost to women in STEM roles - Ferret"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy90cmFkaWVib3QtZGV2ZWxvcHMtbmV4dC1nZW4tdG8tdXBza2lsbC1mdXR1cmUtYXItcHJvZmVzc2lvbmFscy_SAQA",
-          "author": null,
-          "description": "Tradiebot develops Next Gen to upskill future AR professionals  Ferret",
-          "link": "https://www.ferret.com.au/news/tradiebot-develops-next-gen-to-upskill-future-ar-professionals/",
-          "publishedOn": "2021-06-08T04:04:11.000Z",
-          "wordCount": 639,
-          "title": "Tradiebot develops Next Gen to upskill future AR professionals - Ferret"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9hbmZmLXN3aW5idXJuZS1hbmQtYW1hZXJvLXRvLWFkdmFuY2UtZWJjcy1mb3Itcm9ja2V0LWVuZ2luZXMv0gEA",
-          "author": null,
-          "description": "ANFF, Swinburne and Amaero to advance EBCs for rocket engines  Ferret",
-          "link": "https://www.ferret.com.au/news/anff-swinburne-and-amaero-to-advance-ebcs-for-rocket-engines/",
-          "publishedOn": "2021-06-08T03:52:00.000Z",
-          "wordCount": 487,
-          "title": "ANFF, Swinburne and Amaero to advance EBCs for rocket engines - Ferret"
-        },
-        {
-          "id": "CBMifmh0dHBzOi8vd3d3LmNiczU4LmNvbS9uZXdzL2FydGlzdHMtd2FudGVkLW1pbHdhdWtlZS1wZXRzLWFsaXZlLXNlZWtzLWFuaW1hbC1pbnNwaXJlZC1hcnQtZm9yLXBhd2Nhc3NvLWdhbGxlcnktbmlnaHQtZnVuZHJhaXNlctIBAA",
-          "author": null,
-          "description": "Artists wanted! Milwaukee Pets Alive seeks animal-inspired art for 'Pawcasso Gallery Night' fundraiser  WDJT",
-          "link": "https://www.cbs58.com/news/artists-wanted-milwaukee-pets-alive-seeks-animal-inspired-art-for-pawcasso-gallery-night-fundraiser",
-          "publishedOn": "2021-06-08T03:36:00.000Z",
-          "wordCount": 698,
-          "title": "Artists wanted! Milwaukee Pets Alive seeks animal-inspired art for 'Pawcasso Gallery Night' fundraiser - WDJT"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LndpbGxpdHNuZXdzLmNvbS8yMDIxLzA2LzA3L2hvd3MtdGhlLW1hcmtldC10aXRsZS1pbnN1cmFuY2UtaXMtYS13b3J0aHktaW52ZXN0bWVudC1wYXJ0LWkv0gFpaHR0cHM6Ly93d3cud2lsbGl0c25ld3MuY29tLzIwMjEvMDYvMDcvaG93cy10aGUtbWFya2V0LXRpdGxlLWluc3VyYW5jZS1pcy1hLXdvcnRoeS1pbnZlc3RtZW50LXBhcnQtaS9hbXAv",
-          "author": null,
-          "description": "How’s the market? Title insurance is a worthy investment – Part I  The Willits News",
-          "link": "https://www.willitsnews.com/2021/06/07/hows-the-market-title-insurance-is-a-worthy-investment-part-i/",
-          "publishedOn": "2021-06-08T02:30:51.000Z",
-          "wordCount": 1237,
-          "title": "How’s the market? Title insurance is a worthy investment – Part I - The Willits News"
-        },
-        {
-          "id": "CBMijwFodHRwczovL3d3dy5lYXN0aWRhaG9uZXdzLmNvbS8yMDIxLzA2L3B1YmxpYy1oZWFsdGgtb2ZmaWNpYWxzLXJlcG9ydC1maXJzdC1yYWJpZC1iYXQtZXhwb3N1cmUtb2YtdGhlLXNlYXNvbi1pbi1ib25uZXZpbGxlLWFuZC1wYXlldHRlLWNvdW50aWVzL9IBAA",
-          "author": null,
-          "description": "Public health officials report first rabid bat exposure of the season in Bonneville and Payette Counties  East Idaho News",
-          "link": "https://www.eastidahonews.com/2021/06/public-health-officials-report-first-rabid-bat-exposure-of-the-season-in-bonneville-and-payette-counties/",
-          "publishedOn": "2021-06-08T01:50:00.000Z",
-          "wordCount": 908,
-          "title": "Public health officials report first rabid bat exposure of the season in Bonneville and Payette Counties - East Idaho News"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzA3L2F6ZXJiYWlqYW4tZ3JhbmQtcHJpeC10aHJpbGxzLWFuZC1zcGlsbHMtaW4tYWJ1bmRhbmNlL9IBAA",
-          "author": null,
-          "description": "Azerbaijan Grand Prix: Thrills and Spills in abundance  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/07/azerbaijan-grand-prix-thrills-and-spills-in-abundance/",
-          "publishedOn": "2021-06-07T23:06:05.000Z",
-          "wordCount": 2628,
-          "title": "Azerbaijan Grand Prix: Thrills and Spills in abundance - SportingFerret"
-        },
-        {
-          "id": "CAIiEP005IRCqPPUw0xqE1cBcuYqFwgEKg8IACoHCAowzKvNATDGoCcw8qJN",
-          "author": null,
-          "description": "Christina Ricci quietly joins The Matrix 4  Winter is Coming",
-          "link": "https://winteriscoming.net/2021/06/07/christina-ricci-quietly-joins-the-matrix-4/",
-          "publishedOn": "2021-06-07T19:21:00.000Z",
-          "wordCount": 998,
-          "title": "Christina Ricci quietly joins The Matrix 4 - Winter is Coming"
-        },
-        {
-          "id": "CBMihgFodHRwczovL3d3dy5hY2x1Lm9yZy9uZXdzL3ByaXZhY3ktdGVjaG5vbG9neS9zdXByZW1lLWNvdXJ0LXJ1bGluZy1pcy1hLXdpbi1mb3ItaW52ZXN0aWdhdGl2ZS1qb3VybmFsaXN0cy1hbmQtY2l2aWwtcmlnaHRzLXJlc2VhcmNoZXJzL9IBAA",
-          "author": null,
-          "description": "Supreme Court Ruling is a Win for Investigative Journalists and Civil Rights Researchers  ACLU",
-          "link": "https://www.aclu.org/news/privacy-technology/supreme-court-ruling-is-a-win-for-investigative-journalists-and-civil-rights-researchers/",
-          "publishedOn": "2021-06-07T19:08:27.000Z",
-          "wordCount": 11,
-          "title": "Supreme Court Ruling is a Win for Investigative Journalists and Civil Rights Researchers - ACLU"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL3dlZWtzLXVwY29taW5nLXdvb2RzdG9jay10b3duZS1sYWtlLWFyZWEtZXZlbnRz0gFlaHR0cHM6Ly9wYXRjaC5jb20vZ2VvcmdpYS93b29kc3RvY2svYW1wLzI5NTgzNDYxL3RoaXMtd2Vla3MtdXBjb21pbmctd29vZHN0b2NrLXRvd25lLWxha2UtYXJlYS1ldmVudHM",
-          "author": null,
-          "description": "This Weeks Upcoming Woodstock-Towne Lake Area Events  Patch.com",
-          "link": "https://patch.com/georgia/woodstock/weeks-upcoming-woodstock-towne-lake-area-events",
-          "publishedOn": "2021-06-07T16:27:08.000Z",
-          "wordCount": 1938,
-          "title": "This Weeks Upcoming Woodstock-Towne Lake Area Events - Patch.com"
         }
       ]
     }
