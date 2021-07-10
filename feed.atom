@@ -2,16 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T01:54:52.894Z</updated>
+    <updated>2021-07-10T01:49:08.474Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2 cinnamon coloured ferrets abandoned & left running around Woodlands Waterfront Park - Mothership.sg]]></title>
+        <id>CBMiMGh0dHBzOi8vbW90aGVyc2hpcC5zZy8yMDIxLzA3L2ZlcnJldHMtd29vZGxhbmRzL9IBAA</id>
+        <link href="https://mothership.sg/2021/07/ferrets-woodlands/"/>
+        <updated>2021-07-09T21:57:52.000Z</updated>
+        <summary type="html"><![CDATA[2 cinnamon coloured ferrets abandoned & left running around Woodlands Waterfront Park  Mothership.sg]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lost ferret found sleeping in a local restaurant - FOX 61]]></title>
+        <id>CBMiggFodHRwczovL3d3dy5mb3g2MS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL2xvc3QtZmVycmV0LWZvdW5kLXNsZWVwaW5nLWluLWEtbG9jYWwtcmVzdGF1cmFudC81MjAtMzg4NmZmNTYtMWY0MC00YzU3LTliNzctMjdjZGUwZmFkNGQx0gGGAWh0dHBzOi8vd3d3LmZveDYxLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL2xvY2FsL2xvc3QtZmVycmV0LWZvdW5kLXNsZWVwaW5nLWluLWEtbG9jYWwtcmVzdGF1cmFudC81MjAtMzg4NmZmNTYtMWY0MC00YzU3LTliNzctMjdjZGUwZmFkNGQx</id>
+        <link href="https://www.fox61.com/article/news/local/lost-ferret-found-sleeping-in-a-local-restaurant/520-3886ff56-1f40-4c57-9b77-27cde0fad4d1"/>
+        <updated>2021-07-09T20:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Lost ferret found sleeping in a local restaurant  FOX 61]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black-footed ferret on the way back, but hurdles remain, experts say - Cronkite News]]></title>
         <id>CBMibWh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDIxLzA3LzA4L2JsYWNrLWZvb3RlZC1mZXJyZXQtb24tdGhlLXdheS1iYWNrLWJ1dC1odXJkbGVzLXJlbWFpbi1leHBlcnRzLXNheS_SAQA</id>
         <link href="https://cronkitenews.azpbs.org/2021/07/08/black-footed-ferret-on-the-way-back-but-hurdles-remain-experts-say/"/>
         <updated>2021-07-09T01:14:07.000Z</updated>
         <summary type="html"><![CDATA[Black-footed ferret on the way back, but hurdles remain, experts say  Cronkite News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sexually dimorphic domesticated 'little thieves': Why ferrets make great pets - ABC News]]></title>
+        <id>CBMiVGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvcmFkaW8vbWVsYm91cm5lL3Byb2dyYW1zL2JyZWFrZmFzdC9mZXJyZXRzLWVkZGllLXJhcC8xMzQzODU2MNIBAA</id>
+        <link href="https://www.abc.net.au/radio/melbourne/programs/breakfast/ferrets-eddie-rap/13438560"/>
+        <updated>2021-07-08T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sexually dimorphic domesticated 'little thieves': Why ferrets make great pets  ABC News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terror as kidnappers break walls to ferret residents from homes in Kaduna - Premium Times]]></title>
+        <id>CBMigwFodHRwczovL3d3dy5wcmVtaXVtdGltZXNuZy5jb20vcmVnaW9uYWwvbndlc3QvNDcyNDEyLXRlcnJvci1hcy1raWRuYXBwZXJzLWJyZWFrLXdhbGxzLXRvLWZlcnJldC1yZXNpZGVudHMtZnJvbS1ob21lcy1pbi1rYWR1bmEuaHRtbNIBAA</id>
+        <link href="https://www.premiumtimesng.com/regional/nwest/472412-terror-as-kidnappers-break-walls-to-ferret-residents-from-homes-in-kaduna.html"/>
+        <updated>2021-07-08T16:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Terror as kidnappers break walls to ferret residents from homes in Kaduna  Premium Times]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -276,6 +316,16 @@ Cat meets hedgehog.]]></summary>
         <link href="https://www.bizjournals.com/sanfrancisco/news/2021/07/02/oakland-zoo-vaccinates-animals.html"/>
         <updated>2021-07-02T20:40:00.000Z</updated>
         <summary type="html"><![CDATA[Oakland Zoo opens vaccinations to tigers, bears, mountain lions and ferrets - San Francisco Business Times  San Francisco Business Times]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oakland Zoo delivers COVID-19 shots to lions, tigers, bears — and ferrets - San Francisco Chronicle]]></title>
+        <id>CAIiEFq33ouDDKPGvm_lYxoZhusqGQgEKhAIACoHCAowk-T4CjDyst8CMPiZsgU</id>
+        <link href="https://www.sfchronicle.com/bayarea/article/Oakland-Zoo-delivers-COVID-19-shots-to-lions-16290613.php"/>
+        <updated>2021-07-02T20:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Oakland Zoo delivers COVID-19 shots to lions, tigers, bears — and ferrets  San Francisco Chronicle]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -3748,106 +3798,6 @@ I wanna be 14 again and ruin my life differently… I have new ideas]]></summary
         <summary type="html"><![CDATA[This thing keeps hurting my plants]]></summary>
         <author>
             <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RED BANK: ANIMAL JOB ENDANGERED - redbankgreen]]></title>
-        <id>CBMiRGh0dHBzOi8vd3d3LnJlZGJhbmtncmVlbi5jb20vMjAyMS8wNi9yZWQtYmFuay1hbmltYWwtY29udHJvbC0wNjEwMjEv0gEA</id>
-        <link href="https://www.redbankgreen.com/2021/06/red-bank-animal-control-061021/"/>
-        <updated>2021-06-10T11:58:52.000Z</updated>
-        <summary type="html"><![CDATA[RED BANK: ANIMAL JOB ENDANGERED  redbankgreen]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Improve Software? Start With The Hardware - SemiEngineering]]></title>
-        <id>CBMiTGh0dHBzOi8vc2VtaWVuZ2luZWVyaW5nLmNvbS9ob3ctdG8taW1wcm92ZS1zb2Z0d2FyZS1zdGFydC13aXRoLXRoZS1oYXJkd2FyZS_SAQA</id>
-        <link href="https://semiengineering.com/how-to-improve-software-start-with-the-hardware/"/>
-        <updated>2021-06-10T07:10:58.000Z</updated>
-        <summary type="html"><![CDATA[How To Improve Software? Start With The Hardware  SemiEngineering]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rudy Gobert wins Defensive Player of the Year - SportingFerret]]></title>
-        <id>CBMiWGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzEwL3J1ZHktZ29iZXJ0LXdpbnMtZGVmZW5zaXZlLXBsYXllci1vZi10aGUteWVhci_SAQA</id>
-        <link href="https://www.sportingferret.com/2021/06/10/rudy-gobert-wins-defensive-player-of-the-year/"/>
-        <updated>2021-06-10T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rudy Gobert wins Defensive Player of the Year  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Ferret Food Market 2021 Future Developments – James Wellbeloved, Know Better Pet Food, Young Again Pet Food, Vitalin – Clark County Blog - Clark County Blog]]></title>
-        <id>CBMiqQFodHRwczovL2NsYXJrY291bnR5YmxvZy5jb20vdW5jYXRlZ29yaXplZC8xNTg3MjMyL2dsb2JhbC1mZXJyZXQtZm9vZC1tYXJrZXQtMjAyMS1mdXR1cmUtZGV2ZWxvcG1lbnRzLWphbWVzLXdlbGxiZWxvdmVkLWtub3ctYmV0dGVyLXBldC1mb29kLXlvdW5nLWFnYWluLXBldC1mb29kLXZpdGFsaW4v0gEA</id>
-        <link href="https://clarkcountyblog.com/uncategorized/1587232/global-ferret-food-market-2021-future-developments-james-wellbeloved-know-better-pet-food-young-again-pet-food-vitalin/"/>
-        <updated>2021-06-10T06:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Global Ferret Food Market 2021 Future Developments – James Wellbeloved, Know Better Pet Food, Young Again Pet Food, Vitalin – Clark County Blog  Clark County Blog]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your pet can be famous. Send us your best photo - Florida Weekly]]></title>
-        <id>CBMiWWh0dHBzOi8vbmFwbGVzLmZsb3JpZGF3ZWVrbHkuY29tL2FydGljbGVzL3lvdXItcGV0LWNhbi1iZS1mYW1vdXMtc2VuZC11cy15b3VyLWJlc3QtcGhvdG8v0gEA</id>
-        <link href="https://naples.floridaweekly.com/articles/your-pet-can-be-famous-send-us-your-best-photo/"/>
-        <updated>2021-06-10T04:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Your pet can be famous. Send us your best photo  Florida Weekly]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tung]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/653556137767174144</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/653556137767174144"/>
-        <updated>2021-06-09T23:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Tung]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best large guinea pig cages - New York Daily News]]></title>
-        <id>CBMiiwFodHRwczovL3d3dy5ueWRhaWx5bmV3cy5jb20vY29uc3VtZXItcmV2aWV3cy9zbnMtYmVzdHJldmlld3MtcGV0cy1iZXN0LWxhcmdlLWd1aW5lYS1waWctY2FnZS0yMDIxMDYwOS14M3pnc2tzazNmY2MzY3NvM3RidjR1eXp5NC1zdG9yeS5odG1s0gGaAWh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS9jb25zdW1lci1yZXZpZXdzL3Nucy1iZXN0cmV2aWV3cy1wZXRzLWJlc3QtbGFyZ2UtZ3VpbmVhLXBpZy1jYWdlLTIwMjEwNjA5LXgzemdza3NrM2ZjYzNjc28zdGJ2NHV5enk0LXN0b3J5Lmh0bWw_b3V0cHV0VHlwZT1hbXA</id>
-        <link href="https://www.nydailynews.com/consumer-reviews/sns-bestreviews-pets-best-large-guinea-pig-cage-20210609-x3zgsksk3fcc3cso3tbv4uyzy4-story.html"/>
-        <updated>2021-06-09T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Best large guinea pig cages  New York Daily News]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(VIDEO) Anti-Vax Protesters Disrupt Huffman Town Hall - Lost Coast Outpost]]></title>
-        <id>CAIiEJBBZiiey1zdjMtVgC9vI0YqGQgEKhAIACoHCAow5qCZCzCGq7EDMO_j1QY</id>
-        <link href="https://lostcoastoutpost.com/2021/jun/9/video-anti-vax-protesters-disrupt-huffman-town-hal/"/>
-        <updated>2021-06-09T19:18:20.000Z</updated>
-        <summary type="html"><![CDATA[(VIDEO) Anti-Vax Protesters Disrupt Huffman Town Hall  Lost Coast Outpost]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lily doin a wake up 🥰]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/653525889223671809</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/653525889223671809"/>
-        <updated>2021-06-09T15:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Lily doin a wake up 🥰]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sebastian Family Pleads for Help to Find Missing Ferret ‘Detective Munch’ - Sebastian Daily]]></title>
-        <id>CBMid2h0dHBzOi8vd3d3LnNlYmFzdGlhbmRhaWx5LmNvbS9jb21tdW5pdHkvc2ViYXN0aWFuLWZhbWlseS1wbGVhZHMtZm9yLWhlbHAtdG8tZmluZC1taXNzaW5nLWZlcnJldC1kZXRlY3RpdmUtbXVuY2gtMjkxMzkv0gF7aHR0cHM6Ly93d3cuc2ViYXN0aWFuZGFpbHkuY29tL2NvbW11bml0eS9zZWJhc3RpYW4tZmFtaWx5LXBsZWFkcy1mb3ItaGVscC10by1maW5kLW1pc3NpbmctZmVycmV0LWRldGVjdGl2ZS1tdW5jaC0yOTEzOS9hbXAv</id>
-        <link href="https://www.sebastiandaily.com/community/sebastian-family-pleads-for-help-to-find-missing-ferret-detective-munch-29139/"/>
-        <updated>2021-06-09T13:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Sebastian Family Pleads for Help to Find Missing Ferret ‘Detective Munch’  Sebastian Daily]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
         </author>
     </entry>
 </feed>

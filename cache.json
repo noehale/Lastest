@@ -508,24 +508,6 @@
           "publishedOn": "2021-06-10T15:01:23.000Z",
           "wordCount": 56,
           "title": "This thing keeps hurting my plants"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/653556137767174144",
-          "author": null,
-          "description": "Tung",
-          "link": "https://prettypeterparkr.tumblr.com/post/653556137767174144",
-          "publishedOn": "2021-06-09T23:01:42.000Z",
-          "wordCount": 46,
-          "title": "Tung"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/653525889223671809",
-          "author": null,
-          "description": "Lily doin a wake up 🥰",
-          "link": "https://prettypeterparkr.tumblr.com/post/653525889223671809",
-          "publishedOn": "2021-06-09T15:00:55.000Z",
-          "wordCount": 64,
-          "title": "Lily doin a wake up 🥰"
         }
       ]
     },
@@ -535,6 +517,24 @@
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
         {
+          "id": "CBMiMGh0dHBzOi8vbW90aGVyc2hpcC5zZy8yMDIxLzA3L2ZlcnJldHMtd29vZGxhbmRzL9IBAA",
+          "author": null,
+          "description": "2 cinnamon coloured ferrets abandoned & left running around Woodlands Waterfront Park  Mothership.sg",
+          "link": "https://mothership.sg/2021/07/ferrets-woodlands/",
+          "publishedOn": "2021-07-09T21:57:52.000Z",
+          "wordCount": 812,
+          "title": "2 cinnamon coloured ferrets abandoned & left running around Woodlands Waterfront Park - Mothership.sg"
+        },
+        {
+          "id": "CBMiggFodHRwczovL3d3dy5mb3g2MS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL2xvc3QtZmVycmV0LWZvdW5kLXNsZWVwaW5nLWluLWEtbG9jYWwtcmVzdGF1cmFudC81MjAtMzg4NmZmNTYtMWY0MC00YzU3LTliNzctMjdjZGUwZmFkNGQx0gGGAWh0dHBzOi8vd3d3LmZveDYxLmNvbS9hbXAvYXJ0aWNsZS9uZXdzL2xvY2FsL2xvc3QtZmVycmV0LWZvdW5kLXNsZWVwaW5nLWluLWEtbG9jYWwtcmVzdGF1cmFudC81MjAtMzg4NmZmNTYtMWY0MC00YzU3LTliNzctMjdjZGUwZmFkNGQx",
+          "author": null,
+          "description": "Lost ferret found sleeping in a local restaurant  FOX 61",
+          "link": "https://www.fox61.com/article/news/local/lost-ferret-found-sleeping-in-a-local-restaurant/520-3886ff56-1f40-4c57-9b77-27cde0fad4d1",
+          "publishedOn": "2021-07-09T20:21:00.000Z",
+          "wordCount": 504,
+          "title": "Lost ferret found sleeping in a local restaurant - FOX 61"
+        },
+        {
           "id": "CBMibWh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDIxLzA3LzA4L2JsYWNrLWZvb3RlZC1mZXJyZXQtb24tdGhlLXdheS1iYWNrLWJ1dC1odXJkbGVzLXJlbWFpbi1leHBlcnRzLXNheS_SAQA",
           "author": null,
           "description": "Black-footed ferret on the way back, but hurdles remain, experts say  Cronkite News",
@@ -542,6 +542,24 @@
           "publishedOn": "2021-07-09T01:14:07.000Z",
           "wordCount": 1262,
           "title": "Black-footed ferret on the way back, but hurdles remain, experts say - Cronkite News"
+        },
+        {
+          "id": "CBMiVGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvcmFkaW8vbWVsYm91cm5lL3Byb2dyYW1zL2JyZWFrZmFzdC9mZXJyZXRzLWVkZGllLXJhcC8xMzQzODU2MNIBAA",
+          "author": null,
+          "description": "Sexually dimorphic domesticated 'little thieves': Why ferrets make great pets  ABC News",
+          "link": "https://www.abc.net.au/radio/melbourne/programs/breakfast/ferrets-eddie-rap/13438560",
+          "publishedOn": "2021-07-08T19:30:00.000Z",
+          "wordCount": 308,
+          "title": "Sexually dimorphic domesticated 'little thieves': Why ferrets make great pets - ABC News"
+        },
+        {
+          "id": "CBMigwFodHRwczovL3d3dy5wcmVtaXVtdGltZXNuZy5jb20vcmVnaW9uYWwvbndlc3QvNDcyNDEyLXRlcnJvci1hcy1raWRuYXBwZXJzLWJyZWFrLXdhbGxzLXRvLWZlcnJldC1yZXNpZGVudHMtZnJvbS1ob21lcy1pbi1rYWR1bmEuaHRtbNIBAA",
+          "author": null,
+          "description": "Terror as kidnappers break walls to ferret residents from homes in Kaduna  Premium Times",
+          "link": "https://www.premiumtimesng.com/regional/nwest/472412-terror-as-kidnappers-break-walls-to-ferret-residents-from-homes-in-kaduna.html",
+          "publishedOn": "2021-07-08T16:59:51.000Z",
+          "wordCount": 1390,
+          "title": "Terror as kidnappers break walls to ferret residents from homes in Kaduna - Premium Times"
         },
         {
           "id": "CBMigwFodHRwczovL3d3dy5wcmVtaXVtdGltZXNuZy5jb20vbmV3cy9oZWFkbGluZXMvNDcyNDEyLXRlcnJvci1hcy1raWRuYXBwZXJzLWJyZWFrLXdhbGxzLXRvLWZlcnJldC1yZXNpZGVudHMtZnJvbS1ob21lcy1pbi1rYWR1bmEuaHRtbNIBAA",
@@ -650,6 +668,15 @@
           "publishedOn": "2021-07-02T20:40:00.000Z",
           "wordCount": 1305,
           "title": "Oakland Zoo opens vaccinations to tigers, bears, mountain lions and ferrets - San Francisco Business Times - San Francisco Business Times"
+        },
+        {
+          "id": "CAIiEFq33ouDDKPGvm_lYxoZhusqGQgEKhAIACoHCAowk-T4CjDyst8CMPiZsgU",
+          "author": null,
+          "description": "Oakland Zoo delivers COVID-19 shots to lions, tigers, bears — and ferrets  San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/bayarea/article/Oakland-Zoo-delivers-COVID-19-shots-to-lions-16290613.php",
+          "publishedOn": "2021-07-02T20:36:24.000Z",
+          "wordCount": 1147,
+          "title": "Oakland Zoo delivers COVID-19 shots to lions, tigers, bears — and ferrets - San Francisco Chronicle"
         },
         {
           "id": "CBMihQFodHRwczovL3d3dy5ubnkzNjAuY29tL2NvbW11bml0eW5ld3MvcGV0cy9uZXh0LXJhYmllcy1jbGluaWMtaW4taGFzdGluZ3Mtb24tanVseS0xNC9hcnRpY2xlX2VjYmI4MzFhLWI0YTEtNWIxYi1iMDA3LWNiMTU4NDVhMzU0MS5odG1s0gEA",
@@ -3215,78 +3242,6 @@
           "publishedOn": "2021-06-10T15:48:00.000Z",
           "wordCount": 389,
           "title": "Chemung Co. holding free rabies vaccination clinic June 19 - WENY-TV"
-        },
-        {
-          "id": "CBMiRGh0dHBzOi8vd3d3LnJlZGJhbmtncmVlbi5jb20vMjAyMS8wNi9yZWQtYmFuay1hbmltYWwtY29udHJvbC0wNjEwMjEv0gEA",
-          "author": null,
-          "description": "RED BANK: ANIMAL JOB ENDANGERED  redbankgreen",
-          "link": "https://www.redbankgreen.com/2021/06/red-bank-animal-control-061021/",
-          "publishedOn": "2021-06-10T11:58:52.000Z",
-          "wordCount": null,
-          "title": "RED BANK: ANIMAL JOB ENDANGERED - redbankgreen"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vc2VtaWVuZ2luZWVyaW5nLmNvbS9ob3ctdG8taW1wcm92ZS1zb2Z0d2FyZS1zdGFydC13aXRoLXRoZS1oYXJkd2FyZS_SAQA",
-          "author": null,
-          "description": "How To Improve Software? Start With The Hardware  SemiEngineering",
-          "link": "https://semiengineering.com/how-to-improve-software-start-with-the-hardware/",
-          "publishedOn": "2021-06-10T07:10:58.000Z",
-          "wordCount": 2895,
-          "title": "How To Improve Software? Start With The Hardware - SemiEngineering"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzEwL3J1ZHktZ29iZXJ0LXdpbnMtZGVmZW5zaXZlLXBsYXllci1vZi10aGUteWVhci_SAQA",
-          "author": null,
-          "description": "Rudy Gobert wins Defensive Player of the Year  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/10/rudy-gobert-wins-defensive-player-of-the-year/",
-          "publishedOn": "2021-06-10T07:00:00.000Z",
-          "wordCount": 1576,
-          "title": "Rudy Gobert wins Defensive Player of the Year - SportingFerret"
-        },
-        {
-          "id": "CBMiqQFodHRwczovL2NsYXJrY291bnR5YmxvZy5jb20vdW5jYXRlZ29yaXplZC8xNTg3MjMyL2dsb2JhbC1mZXJyZXQtZm9vZC1tYXJrZXQtMjAyMS1mdXR1cmUtZGV2ZWxvcG1lbnRzLWphbWVzLXdlbGxiZWxvdmVkLWtub3ctYmV0dGVyLXBldC1mb29kLXlvdW5nLWFnYWluLXBldC1mb29kLXZpdGFsaW4v0gEA",
-          "author": null,
-          "description": "Global Ferret Food Market 2021 Future Developments – James Wellbeloved, Know Better Pet Food, Young Again Pet Food, Vitalin – Clark County Blog  Clark County Blog",
-          "link": "https://clarkcountyblog.com/uncategorized/1587232/global-ferret-food-market-2021-future-developments-james-wellbeloved-know-better-pet-food-young-again-pet-food-vitalin/",
-          "publishedOn": "2021-06-10T06:24:22.000Z",
-          "wordCount": 963,
-          "title": "Global Ferret Food Market 2021 Future Developments – James Wellbeloved, Know Better Pet Food, Young Again Pet Food, Vitalin – Clark County Blog - Clark County Blog"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vbmFwbGVzLmZsb3JpZGF3ZWVrbHkuY29tL2FydGljbGVzL3lvdXItcGV0LWNhbi1iZS1mYW1vdXMtc2VuZC11cy15b3VyLWJlc3QtcGhvdG8v0gEA",
-          "author": null,
-          "description": "Your pet can be famous. Send us your best photo  Florida Weekly",
-          "link": "https://naples.floridaweekly.com/articles/your-pet-can-be-famous-send-us-your-best-photo/",
-          "publishedOn": "2021-06-10T04:03:20.000Z",
-          "wordCount": 779,
-          "title": "Your pet can be famous. Send us your best photo - Florida Weekly"
-        },
-        {
-          "id": "CBMiiwFodHRwczovL3d3dy5ueWRhaWx5bmV3cy5jb20vY29uc3VtZXItcmV2aWV3cy9zbnMtYmVzdHJldmlld3MtcGV0cy1iZXN0LWxhcmdlLWd1aW5lYS1waWctY2FnZS0yMDIxMDYwOS14M3pnc2tzazNmY2MzY3NvM3RidjR1eXp5NC1zdG9yeS5odG1s0gGaAWh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS9jb25zdW1lci1yZXZpZXdzL3Nucy1iZXN0cmV2aWV3cy1wZXRzLWJlc3QtbGFyZ2UtZ3VpbmVhLXBpZy1jYWdlLTIwMjEwNjA5LXgzemdza3NrM2ZjYzNjc28zdGJ2NHV5enk0LXN0b3J5Lmh0bWw_b3V0cHV0VHlwZT1hbXA",
-          "author": null,
-          "description": "Best large guinea pig cages  New York Daily News",
-          "link": "https://www.nydailynews.com/consumer-reviews/sns-bestreviews-pets-best-large-guinea-pig-cage-20210609-x3zgsksk3fcc3cso3tbv4uyzy4-story.html",
-          "publishedOn": "2021-06-09T22:22:00.000Z",
-          "wordCount": 1419,
-          "title": "Best large guinea pig cages - New York Daily News"
-        },
-        {
-          "id": "CAIiEJBBZiiey1zdjMtVgC9vI0YqGQgEKhAIACoHCAow5qCZCzCGq7EDMO_j1QY",
-          "author": null,
-          "description": "(VIDEO) Anti-Vax Protesters Disrupt Huffman Town Hall  Lost Coast Outpost",
-          "link": "https://lostcoastoutpost.com/2021/jun/9/video-anti-vax-protesters-disrupt-huffman-town-hal/",
-          "publishedOn": "2021-06-09T19:18:20.000Z",
-          "wordCount": 884,
-          "title": "(VIDEO) Anti-Vax Protesters Disrupt Huffman Town Hall - Lost Coast Outpost"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vd3d3LnNlYmFzdGlhbmRhaWx5LmNvbS9jb21tdW5pdHkvc2ViYXN0aWFuLWZhbWlseS1wbGVhZHMtZm9yLWhlbHAtdG8tZmluZC1taXNzaW5nLWZlcnJldC1kZXRlY3RpdmUtbXVuY2gtMjkxMzkv0gF7aHR0cHM6Ly93d3cuc2ViYXN0aWFuZGFpbHkuY29tL2NvbW11bml0eS9zZWJhc3RpYW4tZmFtaWx5LXBsZWFkcy1mb3ItaGVscC10by1maW5kLW1pc3NpbmctZmVycmV0LWRldGVjdGl2ZS1tdW5jaC0yOTEzOS9hbXAv",
-          "author": null,
-          "description": "Sebastian Family Pleads for Help to Find Missing Ferret ‘Detective Munch’  Sebastian Daily",
-          "link": "https://www.sebastiandaily.com/community/sebastian-family-pleads-for-help-to-find-missing-ferret-detective-munch-29139/",
-          "publishedOn": "2021-06-09T13:58:02.000Z",
-          "wordCount": 718,
-          "title": "Sebastian Family Pleads for Help to Find Missing Ferret ‘Detective Munch’ - Sebastian Daily"
         }
       ]
     }
