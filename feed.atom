@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T01:51:42.617Z</updated>
+    <updated>2021-07-13T01:54:42.978Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[They think it's all over ... - Telegraph.co.uk]]></title>
+        <id>CBMiSGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDIxLzA3LzEyL3RoZXktdGhpbmstaXRzLWFsbC1vdmVyL9IBTGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDIxLzA3LzEyL3RoZXktdGhpbmstaXRzLWFsbC1vdmVyL2FtcC8</id>
+        <link href="https://www.telegraph.co.uk/politics/2021/07/12/they-think-its-all-over/"/>
+        <updated>2021-07-12T20:14:00.000Z</updated>
+        <summary type="html"><![CDATA[They think it's all over ...  Telegraph.co.uk]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low vaccination fuels 60% uptick in US COVID cases - Popular Science]]></title>
+        <id>CBMiOmh0dHBzOi8vd3d3LnBvcHNjaS5jb20vaGVhbHRoL2xvdy12YWNjaW5hdGlvbi1ob3RzcG90cy11cy_SAQA</id>
+        <link href="https://www.popsci.com/health/low-vaccination-hotspots-us/"/>
+        <updated>2021-07-12T20:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Low vaccination fuels 60% uptick in US COVID cases  Popular Science]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New one-dose COVID-19 vaccine that can be inhaled tested in animals | TheHill - The Hill]]></title>
+        <id>CBMicWh0dHBzOi8vdGhlaGlsbC5jb20vY2hhbmdpbmctYW1lcmljYS93ZWxsLWJlaW5nL3ByZXZlbnRpb24tY3VyZXMvNTYyNTU1LW5ldy1vbmUtZG9zZS1jb3ZpZC0xOS12YWNjaW5lLXRoYXQtY2FuLWJl0gF1aHR0cHM6Ly90aGVoaWxsLmNvbS9jaGFuZ2luZy1hbWVyaWNhL3dlbGwtYmVpbmcvcHJldmVudGlvbi1jdXJlcy81NjI1NTUtbmV3LW9uZS1kb3NlLWNvdmlkLTE5LXZhY2NpbmUtdGhhdC1jYW4tYmU_YW1w</id>
+        <link href="https://thehill.com/changing-america/well-being/prevention-cures/562555-new-one-dose-covid-19-vaccine-that-can-be"/>
+        <updated>2021-07-12T17:46:06.000Z</updated>
+        <summary type="html"><![CDATA[New one-dose COVID-19 vaccine that can be inhaled tested in animals | TheHill  The Hill]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Artists Named Michigan Fine Arts Competition Winners, Exhibit Through Aug. 19 • Oakland County Times - Oakland County Times]]></title>
+        <id>CAIiEAEi0jbqkIA2U-usqI4V29oqMwgEKioIACIQvL7MdY2mzSopdTh0aAj5EioUCAoiELy-zHWNps0qKXU4dGgI-RIwpM2IBw</id>
+        <link href="http://oaklandcounty115.com/2021/07/11/local-artists-named-michigan-fine-arts-competition-winners-exhibit-through-aug-19/"/>
+        <updated>2021-07-12T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Local Artists Named Michigan Fine Arts Competition Winners, Exhibit Through Aug. 19 • Oakland County Times  Oakland County Times]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best England Football Players of All-Time - SportingFerret]]></title>
+        <id>CBMiWGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzEyL3RoZS1iZXN0LWVuZ2xhbmQtZm9vdGJhbGwtcGxheWVycy1vZi1hbGwtdGltZS_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/07/12/the-best-england-football-players-of-all-time/"/>
+        <updated>2021-07-12T13:18:45.000Z</updated>
+        <summary type="html"><![CDATA[The Best England Football Players of All-Time  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concord town crier for July 11, 2021 - Concord Monitor]]></title>
+        <id>CBMiRmh0dHBzOi8vd3d3LmNvbmNvcmRtb25pdG9yLmNvbS9Db25jb3JkLVRvd24tQ3JpZXItTWFzdGVyLUxpc3QtNDEzNjg0OTPSAQA</id>
+        <link href="https://www.concordmonitor.com/Concord-Town-Crier-Master-List-41368493"/>
+        <updated>2021-07-12T13:15:07.000Z</updated>
+        <summary type="html"><![CDATA[Concord town crier for July 11, 2021  Concord Monitor]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Expensive Transfers to the Premier League - SportingFerret]]></title>
+        <id>CBMiVmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzEyL3RoZS1tb3N0LWV4cGVuc2l2ZS1wcmVtaWVyLWxlYWd1ZS10cmFuc2ZlcnMv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/07/12/the-most-expensive-premier-league-transfers/"/>
+        <updated>2021-07-12T09:07:31.000Z</updated>
+        <summary type="html"><![CDATA[The Most Expensive Transfers to the Premier League  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canine influenza highly contagious infection - The Ledger]]></title>
+        <id>CBMiZWh0dHBzOi8vd3d3LnRoZWxlZGdlci5jb20vc3RvcnkvbGlmZXN0eWxlLzIwMjEvMDcvMTIvb3V0YnJlYWstY2FuaW5lLWluZmx1ZW56YS1wYWxtLWJlYWNoLzc5MDE5OTcwMDIv0gEoaHR0cHM6Ly9hbXAudGhlbGVkZ2VyLmNvbS9hbXAvNzkwMTk5NzAwMg</id>
+        <link href="https://www.theledger.com/story/lifestyle/2021/07/12/outbreak-canine-influenza-palm-beach/7901997002/"/>
+        <updated>2021-07-12T09:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Canine influenza highly contagious infection  The Ledger]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open For Business: The 149th Open - The Sporting Ferret - SportingFerret]]></title>
+        <id>CBMiS2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzEyL29wZW4tZm9yLWJ1c2luZXNzLXRoZS0xNDl0aC1vcGVuL9IBAA</id>
+        <link href="https://www.sportingferret.com/2021/07/12/open-for-business-the-149th-open/"/>
+        <updated>2021-07-12T08:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Open For Business: The 149th Open - The Sporting Ferret  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasal Covid vaccine prevents disease, transmission in animals: Study - The Tribune India]]></title>
+        <id>CAIiEMBxma5tbX6_tTNZPW6xu00qGQgEKhAIACoHCAowyo-HCzD-tIUDML2GyQY</id>
+        <link href="https://www.tribuneindia.com/news/health/nasal-covid-vaccine-prevents-disease-transmission-in-animals-study-282050"/>
+        <updated>2021-07-12T07:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Nasal Covid vaccine prevents disease, transmission in animals: Study  The Tribune India]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fayette County man charged with 19 counts of animal cruelty - WSAZ-TV]]></title>
+        <id>CBMiWWh0dHBzOi8vd3d3LndzYXouY29tLzIwMjEvMDcvMTIvZmF5ZXR0ZS1jb3VudHktbWFuLWNoYXJnZWQtd2l0aC0xOS1jb3VudHMtYW5pbWFsLWNydWVsdHkv0gEA</id>
+        <link href="https://www.wsaz.com/2021/07/12/fayette-county-man-charged-with-19-counts-animal-cruelty/"/>
+        <updated>2021-07-12T04:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Fayette County man charged with 19 counts of animal cruelty  WSAZ-TV]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quality commercial folding doors appeal to Australian household brand name companies - Ferret]]></title>
+        <id>CBMibWh0dHBzOi8vZmVycmV0LmNvbS5hdS9uZXdzL3F1YWxpdHktY29tbWVyY2lhbC1mb2xkaW5nLWRvb3JzLWFwcGVhbC1hdXN0cmFsaWFuLWhvdXNlaG9sZC1icmFuZC1uYW1lLWNvbXBhbmllcy_SAQA</id>
+        <link href="https://ferret.com.au/news/quality-commercial-folding-doors-appeal-australian-household-brand-name-companies/"/>
+        <updated>2021-07-12T04:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Quality commercial folding doors appeal to Australian household brand name companies  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Herald launches week-long 'Who Runs Scotland' investigation with The Ferret - HeraldScotland]]></title>
+        <id>CBMiamh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9uZXdzLzE5NDMxNzYxLnJ1bnMtc2NvdGxhbmQtaGVyYWxkLWxhdW5jaGVzLXdlZWstbG9uZy1pbnZlc3RpZ2F0aW9uLWZlcnJldC_SAQA</id>
+        <link href="https://www.heraldscotland.com/news/19431761.runs-scotland-herald-launches-week-long-investigation-ferret/"/>
+        <updated>2021-07-12T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[The Herald launches week-long 'Who Runs Scotland' investigation with The Ferret  HeraldScotland]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we've teamed up with The Ferret for 'Who Runs Scotland' investigation - HeraldScotland]]></title>
+        <id>CBMiW2h0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9wb2xpdGljcy8xOTQzMjk0Mi5ydW5zLXNjb3RsYW5kLXRlYW1lZC1mZXJyZXQtaW52ZXN0aWdhdGlvbi_SAQA</id>
+        <link href="https://www.heraldscotland.com/politics/19432942.runs-scotland-teamed-ferret-investigation/"/>
+        <updated>2021-07-12T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Why we've teamed up with The Ferret for 'Who Runs Scotland' investigation  HeraldScotland]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Runs Scotland? Our investigation into Scotland's corridors of power in full - HeraldScotland]]></title>
+        <id>CBMiaGh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9uZXdzLzE5NDM0MzYxLnJ1bnMtc2NvdGxhbmQtaW52ZXN0aWdhdGlvbi1zY290bGFuZHMtY29ycmlkb3JzLXBvd2VyLWZ1bGwv0gEA</id>
+        <link href="https://www.heraldscotland.com/news/19434361.runs-scotland-investigation-scotlands-corridors-power-full/"/>
+        <updated>2021-07-12T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Who Runs Scotland? Our investigation into Scotland's corridors of power in full  HeraldScotland]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who runs Scotland: Here is how you can read our exclusive investigation | HeraldScotland - HeraldScotland]]></title>
+        <id>CBMiXGh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9uZXdzLzE5NDMzMzgzLnJ1bnMtc2NvdGxhbmQtY2FuLXJlYWQtZXhjbHVzaXZlLWludmVzdGlnYXRpb24v0gEA</id>
+        <link href="https://www.heraldscotland.com/news/19433383.runs-scotland-can-read-exclusive-investigation/"/>
+        <updated>2021-07-12T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Who runs Scotland: Here is how you can read our exclusive investigation | HeraldScotland  HeraldScotland]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lobbying loophole: How big business influences Scottish ministers without scrutiny - The Ferret]]></title>
+        <id>CAIiENffcsUPif5x0zQj_YJw-I4qMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/lobbying-loophole-scottish-government/"/>
+        <updated>2021-07-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lobbying loophole: How big business influences Scottish ministers without scrutiny  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROMAG SP233: Two-Wire Thermocouple / milliVolt Input Signal Splitter - Ferret]]></title>
+        <id>CBMiY2h0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy9hY3JvbWFnLXNwMjMzLXR3by13aXJlLXRoZXJtb2NvdXBsZS1taWxsaXZvbHQtaW5wdXQtc2lnbmFsLXNwbGl0dGVyL9IBAA</id>
+        <link href="https://www.ferret.com.au/news/acromag-sp233-two-wire-thermocouple-millivolt-input-signal-splitter/"/>
+        <updated>2021-07-12T03:24:10.000Z</updated>
+        <summary type="html"><![CDATA[ACROMAG SP233: Two-Wire Thermocouple / milliVolt Input Signal Splitter  Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 ferrets abandoned at Woodlands Waterfront Park - The Independent]]></title>
+        <id>CBMiS2h0dHBzOi8vdGhlaW5kZXBlbmRlbnQuc2cvMi1mZXJyZXRzLWFiYW5kb25lZC1hdC13b29kbGFuZHMtd2F0ZXJmcm9udC1wYXJrL9IBAA</id>
+        <link href="https://theindependent.sg/2-ferrets-abandoned-at-woodlands-waterfront-park/"/>
+        <updated>2021-07-11T23:20:18.000Z</updated>
+        <summary type="html"><![CDATA[2 ferrets abandoned at Woodlands Waterfront Park  The Independent]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro 2020: England vs Italy Preview - SportingFerret]]></title>
+        <id>CBMiTWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzExL2V1cm8tMjAyMC1lbmdsYW5kLXZzLWl0YWx5LXByZXZpZXcv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/07/11/euro-2020-england-vs-italy-preview/"/>
+        <updated>2021-07-11T14:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Euro 2020: England vs Italy Preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[British & Irish Lions Tour In Jeopardy - SportingFerret]]></title>
         <id>CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzExL2JyaXRpc2gtaXJpc2gtbGlvbnMtdG91ci1pbi1qZW9wYXJkeS_SAQA</id>
@@ -42,6 +242,16 @@
         <link href="https://newsday.co.tt/2021/07/11/the-plight-of-the-slovenian-ferret/"/>
         <updated>2021-07-11T06:44:57.000Z</updated>
         <summary type="html"><![CDATA[The plight of the Slovenian ferret  TT Newsday]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habitat efforts look to benefit more than endangered species in North Dakota - Bismarck Tribune]]></title>
+        <id>CAIiELUtipsT_a81ajNKzscJnCwqGQgEKhAIACoHCAowwcH1CjDmt9wCMLTHyAM</id>
+        <link href="https://bismarcktribune.com/news/state-and-regional/habitat-efforts-look-to-benefit-more-than-endangered-species-in-north-dakota/article_23149e1f-760a-5232-9146-b20030a7cc66.html"/>
+        <updated>2021-07-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Habitat efforts look to benefit more than endangered species in North Dakota  Bismarck Tribune]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -112,6 +322,26 @@
         <link href="https://www.fox61.com/article/news/local/lost-ferret-found-sleeping-in-a-local-restaurant/520-3886ff56-1f40-4c57-9b77-27cde0fad4d1"/>
         <updated>2021-07-09T20:21:00.000Z</updated>
         <summary type="html"><![CDATA[Lost ferret found sleeping in a local restaurant  FOX 61]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret found in Hamden restaurant, after 5 days on the run - New Haven Register]]></title>
+        <id>CAIiENpFmChDkzXIqrfPnJf9Gn8qGQgEKhAIACoHCAownuf9CjC99vUCMM-72gU</id>
+        <link href="https://www.nhregister.com/news/article/Ferret-found-in-Hamden-restaurant-after-5-days-16304147.php"/>
+        <updated>2021-07-09T17:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Ferret found in Hamden restaurant, after 5 days on the run  New Haven Register]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy watchdog orders Police Scotland to up standards at mobile phone labs - The Ferret]]></title>
+        <id>CAIiEF41zmQLpW9e2b8EL96pdAwqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/privacy-watchdog-orders-police-scotland-to-up-standards-at-mobile-phone-labs/"/>
+        <updated>2021-07-09T14:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Privacy watchdog orders Police Scotland to up standards at mobile phone labs  The Ferret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -285,6 +515,16 @@ I wanna be 14 again and ruin my life differently… I have new ideas]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Turtles and Hamsters and Bunnies, Oh My! - Alexandria Living Magazine]]></title>
+        <id>CBMiUWh0dHBzOi8vYWxleGFuZHJpYWxpdmluZ21hZ2F6aW5lLmNvbS9wZXRzL3R1cnRsZXMtYW5kLWhhbXN0ZXJzLWFuZC1idW5uaWVzLW9oLW15L9IBWWh0dHBzOi8vYWxleGFuZHJpYWxpdmluZ21hZ2F6aW5lLmNvbS9hcGkvYW1wL3BldHMvdHVydGxlcy1hbmQtaGFtc3RlcnMtYW5kLWJ1bm5pZXMtb2gtbXkv</id>
+        <link href="https://alexandrialivingmagazine.com/pets/turtles-and-hamsters-and-bunnies-oh-my/"/>
+        <updated>2021-07-06T14:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Turtles and Hamsters and Bunnies, Oh My!  Alexandria Living Magazine]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WA pours millions more funding into skilled workers - Ferret]]></title>
         <id>CBMiTmh0dHBzOi8vd3d3LmZlcnJldC5jb20uYXUvbmV3cy93YS1wb3Vycy1taWxsaW9ucy1tb3JlLWZ1bmRpbmctc2tpbGxlZC13b3JrZXJzL9IBAA</id>
         <link href="https://www.ferret.com.au/news/wa-pours-millions-more-funding-skilled-workers/"/>
@@ -374,6 +614,26 @@ s…
         <link href="https://theferret.scot/nuclear-accident-risks-under-wraps/"/>
         <updated>2021-07-04T09:50:00.000Z</updated>
         <summary type="html"><![CDATA['Devastating' nuclear accident risks kept under wraps  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[College's Timberwolf mascot unveiled at July 4 parade - Petoskey News-Review]]></title>
+        <id>CBMiemh0dHBzOi8vd3d3LnBldG9za2V5bmV3cy5jb20vc3RvcnkvbmV3cy9sb2NhbC8yMDIxLzA3LzA5L25vcnRoLWNlbnRyYWwtdW52ZWlscy10aW1iZXJ3b2xmLW1hc2NvdC1qdWx5LTQtcGFyYWRlLzc5MTQwOTAwMDIv0gEraHR0cHM6Ly9hbXAucGV0b3NrZXluZXdzLmNvbS9hbXAvNzkxNDA5MDAwMg</id>
+        <link href="https://www.petoskeynews.com/story/news/local/2021/07/09/north-central-unveils-timberwolf-mascot-july-4-parade/7914090002/"/>
+        <updated>2021-07-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[College's Timberwolf mascot unveiled at July 4 parade  Petoskey News-Review]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sewage spilled into Scotland's waterways more 12000 times - The Ferret]]></title>
+        <id>CAIiEJMWbSDt1CJe9Di7s_S0iroqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/sewage-spilled-scotlands-waterways-12000-times/"/>
+        <updated>2021-07-04T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sewage spilled into Scotland's waterways more 12000 times  The Ferret]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -3572,103 +3832,6 @@ napping together is my kind of date]]></summary>
         <link href="https://prettypeterparkr.tumblr.com/post/653888254050975744"/>
         <updated>2021-06-13T15:00:33.000Z</updated>
         <summary type="html"><![CDATA[Ferrets as pets need special attention and extra care - Ferret Valley]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lab Leaks And Covid-19: Why The Lab Leak Hypothesis Doesn’t Mean The Virus Was Engineered - Forbes]]></title>
-        <id>CAIiEC_ojjBZ3o0bzO1x7jsf59AqFQgEKg0IACoGCAowrqkBMKBFMMGBAg</id>
-        <link href="https://www.forbes.com/sites/stevensalzberg/2021/06/13/lab-leaks-and-covid-19-why-the-lab-leak-hypothesis-doesnt-mean-the-virus-was-engineered/"/>
-        <updated>2021-06-13T11:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Lab Leaks And Covid-19: Why The Lab Leak Hypothesis Doesn’t Mean The Virus Was Engineered  Forbes]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Radical' vision for Scotland as a 40% woodland nation - The Ferret]]></title>
-        <id>CAIiECm_b2G2arBRJ7IVrV-sZ3gqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
-        <link href="https://theferret.scot/scotland-40-per-cent-woodland-nation/"/>
-        <updated>2021-06-13T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA['Radical' vision for Scotland as a 40% woodland nation  The Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mental health discharges delayed by more than three years - The Ferret]]></title>
-        <id>CAIiEFakneMQCnO_SVDRV8R7rPQqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
-        <link href="https://theferret.scot/mental-health-discharges-delayed-by-three-years/"/>
-        <updated>2021-06-13T07:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Mental health discharges delayed by more than three years  The Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full responses from Scottish health boards to Ferret mental health discharge investigation - HeraldScotland]]></title>
-        <id>CBMigAFodHRwczovL3d3dy5oZXJhbGRzY290bGFuZC5jb20vbmV3cy8xOTM2ODc4Mi5mdWxsLXJlc3BvbnNlcy1zY290dGlzaC1oZWFsdGgtYm9hcmRzLWZlcnJldC1tZW50YWwtaGVhbHRoLWRpc2NoYXJnZS1pbnZlc3RpZ2F0aW9uL9IBAA</id>
-        <link href="https://www.heraldscotland.com/news/19368782.full-responses-scottish-health-boards-ferret-mental-health-discharge-investigation/"/>
-        <updated>2021-06-13T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Full responses from Scottish health boards to Ferret mental health discharge investigation  HeraldScotland]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AP Top News at 2:42 pm EDT - Las Vegas Sun]]></title>
-        <id>CBMiQ2h0dHBzOi8vbGFzdmVnYXNzdW4uY29tL25ld3MvMjAyMS9qdW4vMTMvYXAtdG9wLW5ld3MtYXQtMjQyLXBtLWVkdC_SAQA</id>
-        <link href="https://lasvegassun.com/news/2021/jun/13/ap-top-news-at-242-pm-edt/"/>
-        <updated>2021-06-13T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AP Top News at 2:42 pm EDT  Las Vegas Sun]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[victoria-is-trash:
-asexualizing:
-liking abba is not your taste in music it’s a way of life and...]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/653827910323585024</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/653827910323585024"/>
-        <updated>2021-06-12T23:01:25.000Z</updated>
-        <summary type="html"><![CDATA[victoria-is-trash:
-
-asexualizing:
-liking abba is not your taste in music it’s a way of life and people who don’t like abba can’t reach the ideal world and that is what plato talked about
-
-“if you don’t like dancing queen then fuck you” -Plato, 320 BC]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['We are a part of the community': Crowd gathers in Spokane Valley to celebrate first Asian, Native Hawaiian and Pacific Islander Heritage Day - The Spokesman-Review]]></title>
-        <id>CBMiYWh0dHBzOi8vd3d3LnNwb2tlc21hbi5jb20vc3Rvcmllcy8yMDIxL2p1bi8xMi93ZS1hcmUtYS1wYXJ0LW9mLXRoZS1jb21tdW5pdHktY3Jvd2QtZ2F0aGVycy1pbi1zcC_SAXFodHRwczovL3d3dy5zcG9rZXNtYW4uY29tL3N0b3JpZXMvMjAyMS9qdW4vMTIvd2UtYXJlLWEtcGFydC1vZi10aGUtY29tbXVuaXR5LWNyb3dkLWdhdGhlcnMtaW4tc3AvP2FtcC1jb250ZW50PWFtcA</id>
-        <link href="https://www.spokesman.com/stories/2021/jun/12/we-are-a-part-of-the-community-crowd-gathers-in-sp/"/>
-        <updated>2021-06-12T21:16:56.000Z</updated>
-        <summary type="html"><![CDATA['We are a part of the community': Crowd gathers in Spokane Valley to celebrate first Asian, Native Hawaiian and Pacific Islander Heritage Day  The Spokesman-Review]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unmade Prometheus and Bob Live-Action Movie Explained - Screen Rant]]></title>
-        <id>CAIiEDlcw_fSyKvPt4ey2s3fQgEqGQgEKhAIACoHCAownqWBCzD44fwCMMymtwY</id>
-        <link href="https://screenrant.com/prometheus-bob-movie-live-action/"/>
-        <updated>2021-06-12T18:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The Unmade Prometheus and Bob Live-Action Movie Explained  Screen Rant]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She thinks she’s vicious]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/653797662798331905</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/653797662798331905"/>
-        <updated>2021-06-12T15:00:39.000Z</updated>
-        <summary type="html"><![CDATA[She thinks she’s vicious]]></summary>
         <author>
             <name>Ferret Viewer</name>
         </author>
