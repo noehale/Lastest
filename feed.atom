@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T01:54:27.250Z</updated>
+    <updated>2021-07-16T01:55:44.748Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kristin Smart Case: Newly unsealed documents show human blood found in soil under home of murder suspect's father | NewsChannel 3-12 - KEYT]]></title>
+        <id>CBMimQFodHRwczovL2tleXQuY29tL25ld3MvY3JpbWUvMjAyMS8wNy8xNS9rcmlzdGluLXNtYXJ0LWNhc2UtbmV3bHktdW5zZWFsZWQtZG9jdW1lbnRzLWFsbGVnZS1odW1hbi1ibG9vZC1mb3VuZC1pbi1zb2lsLXVuZGVyLWhvbWUtb2YtbXVyZGVyLXN1c3BlY3RzLWZhdGhlci_SAQA</id>
+        <link href="https://keyt.com/news/crime/2021/07/15/kristin-smart-case-newly-unsealed-documents-allege-human-blood-found-in-soil-under-home-of-murder-suspects-father/"/>
+        <updated>2021-07-16T00:14:43.000Z</updated>
+        <summary type="html"><![CDATA[Kristin Smart Case: Newly unsealed documents show human blood found in soil under home of murder suspect's father | NewsChannel 3-12  KEYT]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hawley nurse taking care of more than human patients - KTAB - BigCountryHomepage.com]]></title>
+        <id>CBMiaGh0dHBzOi8vd3d3LmJpZ2NvdW50cnlob21lcGFnZS5jb20vbmV3cy9sb2NhbC1uZXdzL2hhd2xleS1udXJzZS10YWtpbmctY2FyZS1vZi1tb3JlLXRoYW4taHVtYW4tcGF0aWVudHMv0gFsaHR0cHM6Ly93d3cuYmlnY291bnRyeWhvbWVwYWdlLmNvbS9uZXdzL2xvY2FsLW5ld3MvaGF3bGV5LW51cnNlLXRha2luZy1jYXJlLW9mLW1vcmUtdGhhbi1odW1hbi1wYXRpZW50cy9hbXAv</id>
+        <link href="https://www.bigcountryhomepage.com/news/local-news/hawley-nurse-taking-care-of-more-than-human-patients/"/>
+        <updated>2021-07-15T23:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Hawley nurse taking care of more than human patients  KTAB - BigCountryHomepage.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Albuquerque couple sentenced to federal prison in Ayudando Guardians case - Department of Justice]]></title>
+        <id>CBMiZmh0dHBzOi8vd3d3Lmp1c3RpY2UuZ292L3VzYW8tbm0vcHIvYWxidXF1ZXJxdWUtY291cGxlLXNlbnRlbmNlZC1mZWRlcmFsLXByaXNvbi1heXVkYW5kby1ndWFyZGlhbnMtY2FzZdIBAA</id>
+        <link href="https://www.justice.gov/usao-nm/pr/albuquerque-couple-sentenced-federal-prison-ayudando-guardians-case"/>
+        <updated>2021-07-15T22:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Albuquerque couple sentenced to federal prison in Ayudando Guardians case  Department of Justice]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook’s $1 billion promise to creators - Fortune]]></title>
+        <id>CBMiR2h0dHBzOi8vZm9ydHVuZS5jb20vMjAyMS8wNy8xNS9mYWNlYm9va3MtMS1iaWxsaW9uLXByb21pc2UtdG8tY3JlYXRvcnMv0gFLaHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDIxLzA3LzE1L2ZhY2Vib29rcy0xLWJpbGxpb24tcHJvbWlzZS10by1jcmVhdG9ycy9hbXAv</id>
+        <link href="https://fortune.com/2021/07/15/facebooks-1-billion-promise-to-creators/"/>
+        <updated>2021-07-15T18:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Facebook’s $1 billion promise to creators  Fortune]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Team USA Basketball in Turmoil After Another Defeat - SportingFerret]]></title>
+        <id>CBMiXmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzE1L3RlYW0tdXNhLWJhc2tldGJhbGwtaW4tdHVybW9pbC1hZnRlci1hbm90aGVyLWRlZmVhdC_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/07/15/team-usa-basketball-in-turmoil-after-another-defeat/"/>
+        <updated>2021-07-15T18:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Team USA Basketball in Turmoil After Another Defeat  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Litter of Endangered Black-Footed Ferret Born at Toronto Zoo - To Do Canada]]></title>
+        <id>CAIiEKsPJeXcmmLfIBJ8vcB7L50qGQgEKhAIACoHCAow0ImZCzDgk7EDMKbr0gY</id>
+        <link href="https://www.todocanada.ca/a-litter-of-endangered-black-footed-ferret-born-at-toronto-zoo/"/>
+        <updated>2021-07-15T18:00:07.000Z</updated>
+        <summary type="html"><![CDATA[A Litter of Endangered Black-Footed Ferret Born at Toronto Zoo  To Do Canada]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India destined to be global leader in science: Jitendra Singh - Economic Times]]></title>
+        <id>CAIiEM0YClhCXlaQaYEpDQfdR5EqGQgEKhAIACoHCAow2pqGCzD954MDMPTVigY</id>
+        <link href="https://economictimes.indiatimes.com/news/india/india-destined-to-be-global-leader-in-science-jitendra-singh/articleshow/84451141.cms"/>
+        <updated>2021-07-15T17:23:00.000Z</updated>
+        <summary type="html"><![CDATA[India destined to be global leader in science: Jitendra Singh  Economic Times]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good News Thursday: Fashion show highlights Black inventors, family reunites 24 years after child abduction - The Daily Universe - Universe.byu.edu]]></title>
+        <id>CBMijgFodHRwczovL3VuaXZlcnNlLmJ5dS5lZHUvMjAyMS8wNy8xNS9nb29kLW5ld3MtdGh1cnNkYXktZmFzaGlvbi1zaG93LWhpZ2hsaWdodHMtYmxhY2staW52ZW50b3JzLWZhbWlseS1yZXVuaXRlcy0yNC15ZWFycy1hZnRlci1jaGlsZC1hYmR1Y3Rpb24v0gEA</id>
+        <link href="https://universe.byu.edu/2021/07/15/good-news-thursday-fashion-show-highlights-black-inventors-family-reunites-24-years-after-child-abduction/"/>
+        <updated>2021-07-15T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Good News Thursday: Fashion show highlights Black inventors, family reunites 24 years after child abduction - The Daily Universe  Universe.byu.edu]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing on living animals at lowest level for 16 years, data shows - Belfast Telegraph]]></title>
+        <id>CBMiemh0dHBzOi8vd3d3LmJlbGZhc3R0ZWxlZ3JhcGguY28udWsvbmV3cy91ay90ZXN0aW5nLW9uLWxpdmluZy1hbmltYWxzLWF0LWxvd2VzdC1sZXZlbC1mb3ItMTYteWVhcnMtZGF0YS1zaG93cy00MDY1Njc4NS5odG1s0gEA</id>
+        <link href="https://www.belfasttelegraph.co.uk/news/uk/testing-on-living-animals-at-lowest-level-for-16-years-data-shows-40656785.html"/>
+        <updated>2021-07-15T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Testing on living animals at lowest level for 16 years, data shows  Belfast Telegraph]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How is your 'taste memory'? - CapeGazette.com]]></title>
+        <id>CBMiUmh0dHBzOi8vd3d3LmNhcGVnYXpldHRlLmNvbS9hcnRpY2xlL2hvdy15b3VyLSVFMiU4MCU5OHRhc3RlLW1lbW9yeSVFMiU4MCU5OS8yMjM1MzbSAQA</id>
+        <link href="https://www.capegazette.com/article/how-your-%E2%80%98taste-memory%E2%80%99/223536"/>
+        <updated>2021-07-15T10:52:21.000Z</updated>
+        <summary type="html"><![CDATA[How is your 'taste memory'?  CapeGazette.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brian Taylor Podcast: Lobbying special to be broadcast live | HeraldScotland - HeraldScotland]]></title>
+        <id>CBMiYmh0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9uZXdzLzE5NDQ0ODM1LmJyaWFuLXRheWxvci1wb2RjYXN0LWxvYmJ5aW5nLXNwZWNpYWwtYnJvYWRjYXN0LWxpdmUv0gEA</id>
+        <link href="https://www.heraldscotland.com/news/19444835.brian-taylor-podcast-lobbying-special-broadcast-live/"/>
+        <updated>2021-07-15T10:48:01.000Z</updated>
+        <summary type="html"><![CDATA[The Brian Taylor Podcast: Lobbying special to be broadcast live | HeraldScotland  HeraldScotland]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scotland's public boards still failing on gender equality - The Ferret]]></title>
+        <id>CAIiEIs80POrW3YP5FTbZMfrJ5YqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/scotland-public-boards-fail-gender-equality-still/"/>
+        <updated>2021-07-15T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scotland's public boards still failing on gender equality  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists have found that sharks "share time for food" to seek good luck and avoid evil and sustainable catches | Tech News - SwordsToday.ie]]></title>
+        <id>CBMikAFodHRwczovL3N3b3Jkc3RvZGF5LmllL3NjaWVudGlzdHMtaGF2ZS1mb3VuZC10aGF0LXNoYXJrcy1zaGFyZS10aW1lLWZvci1mb29kLXRvLXNlZWstZ29vZC1sdWNrLWFuZC1hdm9pZC1ldmlsLWFuZC1zdXN0YWluYWJsZS1jYXRjaGVzLXRlY2gtbmV3cy_SAQA</id>
+        <link href="https://swordstoday.ie/scientists-have-found-that-sharks-share-time-for-food-to-seek-good-luck-and-avoid-evil-and-sustainable-catches-tech-news/"/>
+        <updated>2021-07-14T22:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Scientists have found that sharks "share time for food" to seek good luck and avoid evil and sustainable catches | Tech News  SwordsToday.ie]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dog, ferret die in Federal Way house... - Federal Way Mirror]]></title>
         <id>CBMiT2h0dHBzOi8vd3d3LmZlZGVyYWx3YXltaXJyb3IuY29tL25ld3MvZG9nLWZlcnJldC1kaWUtaW4tZmVkZXJhbC13YXktaG91c2UtZmlyZS_SAVNodHRwczovL3d3dy5mZWRlcmFsd2F5bWlycm9yLmNvbS9uZXdzL2RvZy1mZXJyZXQtZGllLWluLWZlZGVyYWwtd2F5LWhvdXNlLWZpcmUvP2FtcA</id>
@@ -3485,230 +3615,6 @@ PSA]]></summary>
         <link href="https://www.sportingferret.com/2021/06/16/fury-v-wilder-iii-the-most-bizarre-press-conference-yet/"/>
         <updated>2021-06-16T14:28:30.000Z</updated>
         <summary type="html"><![CDATA[Fury v Wilder III: The most bizarre press conference yet?  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sports Guest Post on the Sporting Ferret Website - SportingFerret]]></title>
-        <id>CBMiPGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L3Nwb3J0cy1ndWVzdC1wb3N0L9IBAA</id>
-        <link href="https://www.sportingferret.com/2021/06/16/sports-guest-post/"/>
-        <updated>2021-06-16T13:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Sports Guest Post on the Sporting Ferret Website  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letter: Do not let Arlington school system gut animal-sciences program - Inside NoVA]]></title>
-        <id>CBMirAFodHRwczovL3d3dy5pbnNpZGVub3ZhLmNvbS9vcGluaW9uL2xldHRlcnNfdG9fZWRpdG9yL2xldHRlci1kby1ub3QtbGV0LWFybGluZ3Rvbi1zY2hvb2wtc3lzdGVtLWd1dC1hbmltYWwtc2NpZW5jZXMtcHJvZ3JhbS9hcnRpY2xlX2ExNzJlZmFhLWNlYTktMTFlYi1iYWUyLTZiODdhZGY1ZDY0Yi5odG1s0gEA</id>
-        <link href="https://www.insidenova.com/opinion/letters_to_editor/letter-do-not-let-arlington-school-system-gut-animal-sciences-program/article_a172efaa-cea9-11eb-bae2-6b87adf5d64b.html"/>
-        <updated>2021-06-16T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Letter: Do not let Arlington school system gut animal-sciences program  Inside NoVA]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Influence Mobile Logo | State | nbcrightnow.com - NBC Right Now]]></title>
-        <id>CBMibGh0dHBzOi8vd3d3Lm5iY3JpZ2h0bm93LmNvbS9uZXdzL3N0YXRlL2luZmx1ZW5jZS1tb2JpbGUtbG9nby9pbWFnZV8yM2JlNjY4OC1kOGM2LTUzZTctOTVmNi1hMmU5MDY0YzVkOWEuaHRtbNIBAA</id>
-        <link href="https://www.nbcrightnow.com/news/state/influence-mobile-logo/image_23be6688-d8c6-53e7-95f6-a2e9064c5d9a.html"/>
-        <updated>2021-06-16T13:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Influence Mobile Logo | State | nbcrightnow.com  NBC Right Now]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Influence Mobile acquires Blind Ferret to slide into game marketing - VentureBeat]]></title>
-        <id>CAIiEPL3HIXOaxwG-f85hFM_Eh4qFAgEKgwIACoFCAowsGkw8AYw6OcD</id>
-        <link href="https://venturebeat.com/2021/06/16/influence-mobile-acquires-blind-ferret-in-move-into-game-marketing/"/>
-        <updated>2021-06-16T12:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Influence Mobile acquires Blind Ferret to slide into game marketing  VentureBeat]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Royal Ascot Day Two Preview - The Sporting Ferret - SportingFerret]]></title>
-        <id>CBMiRmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L3JveWFsLWFzY290LWRheS10d28tcHJldmlldy_SAQA</id>
-        <link href="https://www.sportingferret.com/2021/06/16/royal-ascot-day-two-preview/"/>
-        <updated>2021-06-16T11:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Royal Ascot Day Two Preview - The Sporting Ferret  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best goals in European Championship history - SportingFerret]]></title>
-        <id>CBMiWmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L3RoZS1iZXN0LWdvYWxzLWluLWV1cm9wZWFuLWNoYW1waW9uc2hpcC1oaXN0b3J5L9IBAA</id>
-        <link href="https://www.sportingferret.com/2021/06/16/the-best-goals-in-european-championship-history/"/>
-        <updated>2021-06-16T09:04:27.000Z</updated>
-        <summary type="html"><![CDATA[The best goals in European Championship history  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seb Coe - Another Time Another Place - SportingFerret]]></title>
-        <id>CBMiTWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L3NlYi1jb2UtYW5vdGhlci10aW1lLWFub3RoZXItcGxhY2Uv0gEA</id>
-        <link href="https://www.sportingferret.com/2021/06/16/seb-coe-another-time-another-place/"/>
-        <updated>2021-06-16T08:03:45.000Z</updated>
-        <summary type="html"><![CDATA[Seb Coe - Another Time Another Place  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Influence Mobile Acquires Blind Ferret In Move to Rapidly Scale Rewarded Engagement Platform and Capture Mobile Gaming Advertising Market Share - PRNewswire]]></title>
-        <id>CBMixwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2luZmx1ZW5jZS1tb2JpbGUtYWNxdWlyZXMtYmxpbmQtZmVycmV0LWluLW1vdmUtdG8tcmFwaWRseS1zY2FsZS1yZXdhcmRlZC1lbmdhZ2VtZW50LXBsYXRmb3JtLWFuZC1jYXB0dXJlLW1vYmlsZS1nYW1pbmctYWR2ZXJ0aXNpbmctbWFya2V0LXNoYXJlLTMwMTMxMzczNi5odG1s0gEA</id>
-        <link href="https://www.prnewswire.com/news-releases/influence-mobile-acquires-blind-ferret-in-move-to-rapidly-scale-rewarded-engagement-platform-and-capture-mobile-gaming-advertising-market-share-301313736.html"/>
-        <updated>2021-06-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Influence Mobile Acquires Blind Ferret In Move to Rapidly Scale Rewarded Engagement Platform and Capture Mobile Gaming Advertising Market Share  PRNewswire]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo: A wild time - Jacksonville Journal-Courier]]></title>
-        <id>CBMiTGh0dHBzOi8vd3d3Lm15am91cm5hbGNvdXJpZXIuY29tL25ld3MvYXJ0aWNsZS9QaG90by1BLXdpbGQtdGltZS0xNjI1MTEwMi5waHDSAUhodHRwczovL3d3dy5teWpvdXJuYWxjb3VyaWVyLmNvbS9uZXdzL2FtcC9QaG90by1BLXdpbGQtdGltZS0xNjI1MTEwMi5waHA</id>
-        <link href="https://www.myjournalcourier.com/news/article/Photo-A-wild-time-16251102.php"/>
-        <updated>2021-06-16T05:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Photo: A wild time  Jacksonville Journal-Courier]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bob-artist:Whenever Tux manages to slip into a forbidden room,...]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/654099724702449664</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/654099724702449664"/>
-        <updated>2021-06-15T23:01:47.000Z</updated>
-        <summary type="html"><![CDATA[bob-artist:
-
-Whenever Tux manages to slip into a forbidden room, he does the most obnoxious victory dance. XD]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge blocks public directory for signature collectors, signaling a win for South Dakota's initiative and referendum process - The Daily Republic]]></title>
-        <id>CBMiwAFodHRwczovL3d3dy5taXRjaGVsbHJlcHVibGljLmNvbS9uZXdzL2dvdmVybm1lbnQtYW5kLXBvbGl0aWNzLzcwNzQ5MTgtSnVkZ2UtYmxvY2tzLXB1YmxpYy1kaXJlY3RvcnktZm9yLXNpZ25hdHVyZS1jb2xsZWN0b3JzLXNpZ25hbGluZy1hLXdpbi1mb3ItU291dGgtRGFrb3Rhcy1pbml0aWF0aXZlLWFuZC1yZWZlcmVuZHVtLXByb2Nlc3PSAQA</id>
-        <link href="https://www.mitchellrepublic.com/news/government-and-politics/7074918-Judge-blocks-public-directory-for-signature-collectors-signaling-a-win-for-South-Dakotas-initiative-and-referendum-process"/>
-        <updated>2021-06-15T21:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Judge blocks public directory for signature collectors, signaling a win for South Dakota's initiative and referendum process  The Daily Republic]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euro 2020: Hungary vs Portugal Preview - SportingFerret]]></title>
-        <id>CBMiUGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L2V1cm8tMjAyMC1odW5nYXJ5LXZzLXBvcnR1Z2FsLXByZXZpZXcv0gEA</id>
-        <link href="https://www.sportingferret.com/2021/06/15/euro-2020-hungary-vs-portugal-preview/"/>
-        <updated>2021-06-15T20:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Euro 2020: Hungary vs Portugal Preview  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sherlocks | Preston | The Ferret Tickets | The Ferret Preston | Sat 23rd October 2021 Lineup - Skiddle.com]]></title>
-        <id>CBMiYWh0dHBzOi8vd3d3LnNraWRkbGUuY29tL3doYXRzLW9uL1ByZXN0b24vVGhlLUZlcnJldC9UaGUtU2hlcmxvY2tzLS1QcmVzdG9uLS1UaGUtRmVycmV0LS8zNTgzNTI2OC_SAQA</id>
-        <link href="https://www.skiddle.com/whats-on/Preston/The-Ferret/The-Sherlocks--Preston--The-Ferret-/35835268/"/>
-        <updated>2021-06-15T18:40:41.000Z</updated>
-        <summary type="html"><![CDATA[The Sherlocks | Preston | The Ferret Tickets | The Ferret Preston | Sat 23rd October 2021 Lineup  Skiddle.com]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Restore Biodiversity, Embrace Biotech's 'Intended Consequences' - Scientific American]]></title>
-        <id>CBMidmh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS90by1yZXN0b3JlLWJpb2RpdmVyc2l0eS1lbWJyYWNlLWJpb3RlY2hzLWxzcXVvLWludGVuZGVkLWNvbnNlcXVlbmNlcy1yc3F1by_SAQA</id>
-        <link href="https://www.scientificamerican.com/article/to-restore-biodiversity-embrace-biotechs-lsquo-intended-consequences-rsquo/"/>
-        <updated>2021-06-15T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[To Restore Biodiversity, Embrace Biotech's 'Intended Consequences'  Scientific American]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best players on the England Euro 2020 squad - SportingFerret]]></title>
-        <id>CBMiWmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L3RoZS1iZXN0LXBsYXllcnMtb24tdGhlLWVuZ2xhbmQtZXVyby0yMDIwLXNxdWFkL9IBAA</id>
-        <link href="https://www.sportingferret.com/2021/06/15/the-best-players-on-the-england-euro-2020-squad/"/>
-        <updated>2021-06-15T17:42:52.000Z</updated>
-        <summary type="html"><![CDATA[The best players on the England Euro 2020 squad  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Politics - The Ferret]]></title>
-        <id>CBMiKGh0dHBzOi8vdGhlZmVycmV0LnNjb3QvcG9saXRpY3MvcGFnZS81MS_SAQA</id>
-        <link href="https://theferret.scot/politics/page/51/"/>
-        <updated>2021-06-15T17:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Politics  The Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emails reveal Scottish ministers snubbed by Priti Patel over immigration raid - The Ferret]]></title>
-        <id>CAIiEASGpckOaxk8k_DapZO5rGEqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
-        <link href="https://theferret.scot/scottish-ministers-snubbed-by-priti-patel-over-raid/"/>
-        <updated>2021-06-15T17:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Emails reveal Scottish ministers snubbed by Priti Patel over immigration raid  The Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euro 2020: France vs Germany Preview - SportingFerret]]></title>
-        <id>CBMiTmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE1L2V1cm8tMjAyMC1mcmFuY2UtdnMtZ2VybWFueS1wcmV2aWV3L9IBAA</id>
-        <link href="https://www.sportingferret.com/2021/06/15/euro-2020-france-vs-germany-preview/"/>
-        <updated>2021-06-15T16:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Euro 2020: France vs Germany Preview  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ferretfarts:ferretfarts:
-
-PSA
-
-
-Healthy reminder]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/654069473223065600</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/654069473223065600"/>
-        <updated>2021-06-15T15:00:57.000Z</updated>
-        <summary type="html"><![CDATA[ferretfarts:
-
-ferretfarts:
-PSA
-
-
-
-Healthy reminder]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scottish SCPA in pictures: Animal charity seeks home for small, often overlooked animals - The Scotsman]]></title>
-        <id>CAIiEMUOzBzDKCgibV_1cpxSwF0qGQgEKhAIACoHCAowuMWGCzDDuYQDMMmG0gY</id>
-        <link href="https://www.scotsman.com/news/people/scottish-scpa-in-pictures-animal-charity-seeks-home-for-small-often-overlooked-animals-3273209"/>
-        <updated>2021-06-15T14:35:58.000Z</updated>
-        <summary type="html"><![CDATA[Scottish SCPA in pictures: Animal charity seeks home for small, often overlooked animals  The Scotsman]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jane Austen family link to abolition movement comes to light - Daily Mountain Eagle]]></title>
-        <id>CBMiZGh0dHBzOi8vbW91bnRhaW5lYWdsZS5jb20vc3Rvcmllcy9qYW5lLWF1c3Rlbi1mYW1pbHktbGluay10by1hYm9saXRpb24tbW92ZW1lbnQtY29tZXMtdG8tbGlnaHQsMzU3NjDSAQA</id>
-        <link href="https://mountaineagle.com/stories/jane-austen-family-link-to-abolition-movement-comes-to-light,35760"/>
-        <updated>2021-06-15T14:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Jane Austen family link to abolition movement comes to light  Daily Mountain Eagle]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
