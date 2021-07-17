@@ -382,24 +382,6 @@
           "publishedOn": "2021-06-17T15:00:56.000Z",
           "wordCount": 256,
           "title": "thelifeofmyferrets:Who needs snow removers when you’ve got Ducky?"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/654190277780799488",
-          "author": null,
-          "description": "blossomvixx:\n\ndisney is shook",
-          "link": "https://prettypeterparkr.tumblr.com/post/654190277780799488",
-          "publishedOn": "2021-06-16T23:01:05.000Z",
-          "wordCount": 238,
-          "title": "blossomvixx:\ndisney is shook"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/654160085321465856",
-          "author": null,
-          "description": "ferretfarts:\n\nPSA",
-          "link": "https://prettypeterparkr.tumblr.com/post/654160085321465856",
-          "publishedOn": "2021-06-16T15:01:12.000Z",
-          "wordCount": 246,
-          "title": "ferretfarts:PSA"
         }
       ]
     },
@@ -408,6 +390,87 @@
       "feedUrl": "https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen",
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3Lmt0c20uY29tL25ld3MvbG9jYWwtbmV3cy9ob3ctdG8tcHJvdGVjdC1wZXRzLWZyb20taGVhcnR3b3JtLWFzLWVsLXBhc28tYW50aWNpcGF0ZXMtbW9yZS1yYWluL9IBbWh0dHBzOi8vd3d3Lmt0c20uY29tL25ld3MvbG9jYWwtbmV3cy9ob3ctdG8tcHJvdGVjdC1wZXRzLWZyb20taGVhcnR3b3JtLWFzLWVsLXBhc28tYW50aWNpcGF0ZXMtbW9yZS1yYWluL2FtcC8",
+          "author": null,
+          "description": "How to protect pets from heartworm as El Paso anticipates more rain  KTSM 9 News",
+          "link": "https://www.ktsm.com/news/local-news/how-to-protect-pets-from-heartworm-as-el-paso-anticipates-more-rain/",
+          "publishedOn": "2021-07-16T21:53:42.000Z",
+          "wordCount": 1586,
+          "title": "How to protect pets from heartworm as El Paso anticipates more rain - KTSM 9 News"
+        },
+        {
+          "id": "CBMigQFodHRwczovL3d3dy5uYmNuZXdzLmNvbS9wb2xpdGljcy9lbGVjdGlvbnMvY291bnR5LW9mZmljaWFscy1hcml6b25hLXJlcG9ydGVkLWZldy1zdXNwaWNpb3VzLWJhbGxvdHMtdW5kZXJjdXR0aW5nLXRydW1wLXMtbjEyNzQyMzjSASxodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9uY25hMTI3NDIzOA",
+          "author": null,
+          "description": "County officials in Arizona reported few suspicious ballots, undercutting Trump's claims  NBC News",
+          "link": "https://www.nbcnews.com/politics/elections/county-officials-arizona-reported-few-suspicious-ballots-undercutting-trump-s-n1274238",
+          "publishedOn": "2021-07-16T21:17:00.000Z",
+          "wordCount": 1444,
+          "title": "County officials in Arizona reported few suspicious ballots, undercutting Trump's claims - NBC News"
+        },
+        {
+          "id": "CBMibmh0dHBzOi8vd3d3LmZhbG1vdXRocGFja2V0LmNvLnVrL25ld3MvMTk0NDkwMDMucnNwY2EtY291cnQtY2FzZS1jb3Jud2FsbC1tZWFucy1wcmlzb24tYW5pbWFsLWRpc3F1YWxpZmljYXRpb24v0gEA",
+          "author": null,
+          "description": "RSPCA court case in Cornwall means prison after animal disqualification  Falmouth Packet",
+          "link": "https://www.falmouthpacket.co.uk/news/19449003.rspca-court-case-cornwall-means-prison-animal-disqualification/",
+          "publishedOn": "2021-07-16T15:09:21.000Z",
+          "wordCount": 1022,
+          "title": "RSPCA court case in Cornwall means prison after animal disqualification - Falmouth Packet"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vc3BvcnRzaGFuZGxlLmNvbS9iZXR0b3JzLXNob3VsZC1oYXZlLWxlZ2FsLXJlY291cnNlL9IBQGh0dHBzOi8vc3BvcnRzaGFuZGxlLmNvbS9iZXR0b3JzLXNob3VsZC1oYXZlLWxlZ2FsLXJlY291cnNlL2FtcC8",
+          "author": null,
+          "description": "Bettors Should Have Legal Recourse Against Leagues Where Cheating Takes Place  Sports Handle",
+          "link": "https://sportshandle.com/bettors-should-have-legal-recourse/",
+          "publishedOn": "2021-07-16T13:05:57.000Z",
+          "wordCount": 2761,
+          "title": "Bettors Should Have Legal Recourse Against Leagues Where Cheating Takes Place - Sports Handle"
+        },
+        {
+          "id": "CBMijAFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvMjAyMS8wNy8xNi9pZi1ldS1kb2VzbnQtd2FrZS11cC13aGF0cy1oYXBwZW5pbmctd2l0aC1wb2xhbmQtaXQtbWF5LXNsZWVwLXdhbGstaW50by1zZWxmLWRlc3RydWN0aW9uL9IBmwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvMjAyMS8wNy8xNi9pZi1ldS1kb2VzbnQtd2FrZS11cC13aGF0cy1oYXBwZW5pbmctd2l0aC1wb2xhbmQtaXQtbWF5LXNsZWVwLXdhbGstaW50by1zZWxmLWRlc3RydWN0aW9uLz9vdXRwdXRUeXBlPWFtcA",
+          "author": null,
+          "description": "If the E.U. doesn’t wake up to what’s happening with Poland, it may sleep-walk into self-destruction  The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2021/07/16/if-eu-doesnt-wake-up-whats-happening-with-poland-it-may-sleep-walk-into-self-destruction/",
+          "publishedOn": "2021-07-16T10:34:04.000Z",
+          "wordCount": 1308,
+          "title": "If the E.U. doesn’t wake up to what’s happening with Poland, it may sleep-walk into self-destruction - The Washington Post"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy90ZXN0aW5nLW9uLWxpdmUtYW5pbWFscy1mYWxscy10by1sb3dlc3QtbGV2ZWwtaW4tMTYteWVhcnMv0gEA",
+          "author": null,
+          "description": "Testing on live animals falls to lowest level in 16 years  In Your Area",
+          "link": "https://www.inyourarea.co.uk/news/testing-on-live-animals-falls-to-lowest-level-in-16-years/",
+          "publishedOn": "2021-07-16T08:30:37.000Z",
+          "wordCount": 1024,
+          "title": "Testing on live animals falls to lowest level in 16 years - In Your Area"
+        },
+        {
+          "id": "CAIiENKW__TCPdhoDcVi44ctmfEqGQgEKhAIACoHCAowwZKRCzDO1KUDMMaStwY",
+          "author": null,
+          "description": "Republic Top 10 Headlines: India gets FERRET facility; Europe floods; Mumbai rains update  Republic World",
+          "link": "https://www.republicworld.com/india-news/general-news/republic-top-10-headlines-india-gets-ferret-facility-europe-floods-mumbai-rains-update.html",
+          "publishedOn": "2021-07-16T06:09:00.000Z",
+          "wordCount": 1560,
+          "title": "Republic Top 10 Headlines: India gets FERRET facility; Europe floods; Mumbai rains update - Republic World"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LmhlcmFsZHNjb3RsYW5kLmNvbS9wb2xpdGljcy8xOTQ0NTY2Ni5zY290bGFuZHMtcmljaGVzdC1tYW4tYW5kZXJzLXBvdmxzZW4tbG9iYmllZC1zdXRoZXJsYW5kLXNwYWNlcG9ydC_SAQA",
+          "author": null,
+          "description": "How Scotland's richest man Anders Povlsen lobbied against Sutherland Spaceport | HeraldScotland  HeraldScotland",
+          "link": "https://www.heraldscotland.com/politics/19445666.scotlands-richest-man-anders-povlsen-lobbied-sutherland-spaceport/",
+          "publishedOn": "2021-07-16T04:00:04.000Z",
+          "wordCount": 1947,
+          "title": "How Scotland's richest man Anders Povlsen lobbied against Sutherland Spaceport | HeraldScotland - HeraldScotland"
+        },
+        {
+          "id": "CAIiEOBxan3ZfgmmnnB-pfvd9PwqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "Power & Influence: Top 10 Most influential people in Scotland  The Ferret",
+          "link": "https://theferret.scot/10-people-with-most-power/",
+          "publishedOn": "2021-07-16T04:00:00.000Z",
+          "wordCount": 4658,
+          "title": "Power & Influence: Top 10 Most influential people in Scotland - The Ferret"
+        },
         {
           "id": "CBMimQFodHRwczovL2tleXQuY29tL25ld3MvY3JpbWUvMjAyMS8wNy8xNS9rcmlzdGluLXNtYXJ0LWNhc2UtbmV3bHktdW5zZWFsZWQtZG9jdW1lbnRzLWFsbGVnZS1odW1hbi1ibG9vZC1mb3VuZC1pbi1zb2lsLXVuZGVyLWhvbWUtb2YtbXVyZGVyLXN1c3BlY3RzLWZhdGhlci_SAQA",
           "author": null,
@@ -506,6 +569,15 @@
           "publishedOn": "2021-07-15T10:48:01.000Z",
           "wordCount": 1178,
           "title": "The Brian Taylor Podcast: Lobbying special to be broadcast live | HeraldScotland - HeraldScotland"
+        },
+        {
+          "id": "CAIiEMxuO6wf4wToqc-T06eOg4gqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "Mind the pay gap: quango chief execs paid more than £10m  The Ferret",
+          "link": "https://theferret.scot/quango-chief-execs-paid-more-than-10m/",
+          "publishedOn": "2021-07-15T04:00:00.000Z",
+          "wordCount": 2846,
+          "title": "Mind the pay gap: quango chief execs paid more than £10m - The Ferret"
         },
         {
           "id": "CAIiEIs80POrW3YP5FTbZMfrJ5YqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
@@ -614,6 +686,15 @@
           "publishedOn": "2021-07-14T08:36:19.000Z",
           "wordCount": 1608,
           "title": "Appeal to trace owner of male ferret found wandering about Bonnybridge - Daily Record"
+        },
+        {
+          "id": "CBMiZGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzE0L3doby13aWxsLWJlLXRoZS1maXJzdC1mb290YmFsbC1tYW5hZ2VyLXNhY2tlZC10aGlzLXNlYXNvbi_SAQA",
+          "author": null,
+          "description": "Who will be the first football manager sacked this season?  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/07/14/who-will-be-the-first-football-manager-sacked-this-season/",
+          "publishedOn": "2021-07-14T08:03:45.000Z",
+          "wordCount": 2130,
+          "title": "Who will be the first football manager sacked this season? - SportingFerret"
         },
         {
           "id": "CAIiECzxBH6rr2hl7NVblBRTDrUqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
@@ -2927,186 +3008,6 @@
           "publishedOn": "2021-06-17T15:00:02.000Z",
           "wordCount": 1084,
           "title": "Utah confirms first rabid bat of the season - fox13now.com"
-        },
-        {
-          "id": "CAIiEJPAuskwGF_BrE0VpByWZw8qGQgEKhAIACoHCAowv5ihCzDXorkDMJiP-AY",
-          "author": null,
-          "description": "Safe Use of Flea and Tick Products on Pets: FDA | Life  Pennsylvanianewstoday.com",
-          "link": "https://pennsylvanianewstoday.com/safe-use-of-flea-and-tick-products-on-pets-fda-life/171165/",
-          "publishedOn": "2021-06-17T13:16:03.000Z",
-          "wordCount": 1639,
-          "title": "Safe Use of Flea and Tick Products on Pets: FDA | Life - Pennsylvanianewstoday.com"
-        },
-        {
-          "id": "CAIiEB7YWHMJ7EveDz21_iA5PZYqGAgEKg8IACoHCAowyNLTATDN-jUwzJ3hBg",
-          "author": null,
-          "description": "Thursday TV Tips: Let's look at how being cooped up in lockdown hits one dysfunctional family  Irish Examiner",
-          "link": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-40313633.html",
-          "publishedOn": "2021-06-17T12:35:00.000Z",
-          "wordCount": 1096,
-          "title": "Thursday TV Tips: Let's look at how being cooped up in lockdown hits one dysfunctional family - Irish Examiner"
-        },
-        {
-          "id": "CAIiECFsLNmZ4S9Wb-ALRDrO01sqGQgEKhAIACoHCAow_7X3CjCh49YCMKWWpwU",
-          "author": null,
-          "description": "Mistrial declared in US case of Tennessee scientist accused of hiding China work  The Straits Times",
-          "link": "https://www.straitstimes.com/world/united-states/mistrial-declared-in-us-case-of-tennessee-scientist-accused-of-hiding-china-work",
-          "publishedOn": "2021-06-17T06:48:27.000Z",
-          "wordCount": 1485,
-          "title": "Mistrial declared in US case of Tennessee scientist accused of hiding China work - The Straits Times"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LmVjaG8tbmV3cy5jby51ay9sZWlzdXJlLzE5Mzc3ODA5LmxlaWdoLWNvdXBsZS1zdGFyLWNoYW5uZWwtNHMtdHYtc3VwZXJ2ZXQv0gEA",
-          "author": null,
-          "description": "Leigh couple star on Channel 4's TV Supervet | Echo  Echo",
-          "link": "https://www.echo-news.co.uk/leisure/19377809.leigh-couple-star-channel-4s-tv-supervet/",
-          "publishedOn": "2021-06-17T03:00:00.000Z",
-          "wordCount": 942,
-          "title": "Leigh couple star on Channel 4's TV Supervet | Echo - Echo"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LnRoZW1hbmRhcmluLmNvbS5hdS8xNjA0MzgtanVkZ2Utb3JkZXJzLW1lZGlhdGlvbi1pbi1kdXR0b24tZGVmYW1hdGlvbi1jYXNlL9IBAA",
-          "author": null,
-          "description": "Judge orders mediation in Dutton defamation case  The Mandarin",
-          "link": "https://www.themandarin.com.au/160438-judge-orders-mediation-in-dutton-defamation-case/",
-          "publishedOn": "2021-06-17T00:00:00.000Z",
-          "wordCount": 999,
-          "title": "Judge orders mediation in Dutton defamation case - The Mandarin"
-        },
-        {
-          "id": "CBMijAFodHRwczovL3d3dy5rdnVlLmNvbS9hcnRpY2xlL2xpZmUvcGV0cy9hdXN0aW4tcGV0cy1hbGl2ZS11cmdlbnQtcmVxdWVzdC1mb3ItZm9zdGVycy10by1zYXZlLTIwLWRvZ3MvMjY5LTA0MjE5Yjk5LWYyMTUtNDE1Yy05ZTA3LWY3MTYwMmQ5OGJhNtIBkAFodHRwczovL3d3dy5rdnVlLmNvbS9hbXAvYXJ0aWNsZS9saWZlL3BldHMvYXVzdGluLXBldHMtYWxpdmUtdXJnZW50LXJlcXVlc3QtZm9yLWZvc3RlcnMtdG8tc2F2ZS0yMC1kb2dzLzI2OS0wNDIxOWI5OS1mMjE1LTQxNWMtOWUwNy1mNzE2MDJkOThiYTY",
-          "author": null,
-          "description": "Austin Pets Alive! issues urgent request for fosters to save 20 dogs  KVUE.com",
-          "link": "https://www.kvue.com/article/life/pets/austin-pets-alive-urgent-request-for-fosters-to-save-20-dogs/269-04219b99-f215-415c-9e07-f71602d98ba6",
-          "publishedOn": "2021-06-16T23:04:00.000Z",
-          "wordCount": 772,
-          "title": "Austin Pets Alive! issues urgent request for fosters to save 20 dogs - KVUE.com"
-        },
-        {
-          "id": "CBMioAFodHRwczovL3JpY2htb25kLmNvbS9vcGluaW9uL2xldHRlcnMvbGV0dGVyLXRvLXRoZS1lZGl0b3ItanVuZS0xNy0yMDIxLXdyb25nLWlzc3Vlcy1za2V3ZWQtcGFyb2xlLWJvYXJkcy1wcm9iZS9hcnRpY2xlX2RiMWEwOTE2LTNjMTItNTI5ZS04ZTJhLTUzNDM4M2U5MDI3Yi5odG1s0gEA",
-          "author": null,
-          "description": "Letter to the Editor, June 17, 2021: Wrong issues skewed parole board's probe  Richmond.com",
-          "link": "https://richmond.com/opinion/letters/letter-to-the-editor-june-17-2021-wrong-issues-skewed-parole-boards-probe/article_db1a0916-3c12-529e-8e2a-534383e9027b.html",
-          "publishedOn": "2021-06-16T22:00:00.000Z",
-          "wordCount": 851,
-          "title": "Letter to the Editor, June 17, 2021: Wrong issues skewed parole board's probe - Richmond.com"
-        },
-        {
-          "id": "CBMihAFodHRwczovL3d3dy5rdWxyOC5jb20vdG9wX3N0b3J5L3NrdW5rLWluLWJpZy1ob3JuLWNvdW50eS10ZXN0cy1wb3NpdGl2ZS1mb3ItcmFiaWVzL2FydGljbGVfYzUwYzA1NDYtY2VlNS0xMWViLTk3OGItZmY1MTFiOWI4YTE5Lmh0bWzSAQA",
-          "author": null,
-          "description": "Skunk in Big Horn County tests positive for rabies  KULR-TV",
-          "link": "https://www.kulr8.com/top_story/skunk-in-big-horn-county-tests-positive-for-rabies/article_c50c0546-cee5-11eb-978b-ff511b9b8a19.html",
-          "publishedOn": "2021-06-16T20:59:00.000Z",
-          "wordCount": 1432,
-          "title": "Skunk in Big Horn County tests positive for rabies - KULR-TV"
-        },
-        {
-          "id": "CBMigQFodHRwczovL3d3dy5raHEuY29tL3JlZ2lvbmFsL3NrdW5rLWluLWJpZy1ob3JuLWNvdW50eS10ZXN0cy1wb3NpdGl2ZS1mb3ItcmFiaWVzL2FydGljbGVfOWFlYzRhZGQtNDc4Ni01NWQ2LTgyNzgtODljMDYxZDNjYjRmLmh0bWzSAQA",
-          "author": null,
-          "description": "Skunk in Big Horn County tests positive for rabies  KHQ Right Now",
-          "link": "https://www.khq.com/regional/skunk-in-big-horn-county-tests-positive-for-rabies/article_9aec4add-4786-55d6-8278-89c061d3cb4f.html",
-          "publishedOn": "2021-06-16T20:59:00.000Z",
-          "wordCount": 986,
-          "title": "Skunk in Big Horn County tests positive for rabies - KHQ Right Now"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmJpb3NwYWNlLmNvbS9hcnRpY2xlL2F1c3RyYWxpYW4taW50cmFuYXNhbC1wcmV2ZW50YXRpdmUtY2FuZGlkYXRlLWFnYWluc3QtY292aWQtMTktc25hZ3MtMzItbWlsbGlvbi1hdS_SAQA",
-          "author": null,
-          "description": "ENA Respiratory Raises AU$32 Million for Preventative Nasal Spray Against COVID-19  BioSpace",
-          "link": "https://www.biospace.com/article/australian-intranasal-preventative-candidate-against-covid-19-snags-32-million-au/",
-          "publishedOn": "2021-06-16T17:14:44.000Z",
-          "wordCount": 735,
-          "title": "ENA Respiratory Raises AU$32 Million for Preventative Nasal Spray Against COVID-19 - BioSpace"
-        },
-        {
-          "id": "CAIiEPuteRvBqet7tmw2qtIO0uAqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
-          "author": null,
-          "description": "Cyber attack cost environment watchdog £2.5m  The Ferret",
-          "link": "https://theferret.scot/cyber-attack-cost-environment-watchdog-2-5m/",
-          "publishedOn": "2021-06-16T17:13:58.000Z",
-          "wordCount": 2380,
-          "title": "Cyber attack cost environment watchdog £2.5m - The Ferret"
-        },
-        {
-          "id": "CAIiEF2N-_eL51LnwzVZDYvhLbEqEwgEKgwIACoFCAow4GowoAgwkRo",
-          "author": null,
-          "description": "NASA Mars rover eyes walrus-shaped boulder: 'Interesting stuff'  CNET",
-          "link": "https://www.cnet.com/news/nasa-mars-rover-eyes-walrus-shaped-boulder-interesting-stuff/",
-          "publishedOn": "2021-06-16T16:05:00.000Z",
-          "wordCount": 1077,
-          "title": "NASA Mars rover eyes walrus-shaped boulder: 'Interesting stuff' - CNET"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L2V1cm8tMjAyMC1pdGFseS12cy1zd2l0emVybGFuZC1wcmV2aWV3L9IBAA",
-          "author": null,
-          "description": "Euro 2020: Italy vs Switzerland Preview  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/16/euro-2020-italy-vs-switzerland-preview/",
-          "publishedOn": "2021-06-16T16:03:37.000Z",
-          "wordCount": 1558,
-          "title": "Euro 2020: Italy vs Switzerland Preview - SportingFerret"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3bmMuY2RjLmdvdi9laWQvYXJ0aWNsZS8yNy83LzIwLTQ1OTNfYXJ0aWNsZdIBAA",
-          "author": null,
-          "description": "Cluster of Oseltamivir-Resistant and Hemagglutinin Antigenically Drifted Influenza A(H1N1)pdm09 Viruses, Texas, USA, January 2020  CDC",
-          "link": "https://wwwnc.cdc.gov/eid/article/27/7/20-4593_article",
-          "publishedOn": "2021-06-16T15:52:23.000Z",
-          "wordCount": 2848,
-          "title": "Cluster of Oseltamivir-Resistant and Hemagglutinin Antigenically Drifted Influenza A(H1N1)pdm09 Viruses, Texas, USA, January 2020 - CDC"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vYWdyaS5udi5nb3YvTmV3cy8yMDIxL05EQV9jb25maXJtc19jYXNlc19vZl9yYWJpZXNfaW5fYmF0cy_SAQA",
-          "author": null,
-          "description": "NDA confirms cases of rabies in bats in Nevada  Nevada Governor",
-          "link": "https://agri.nv.gov/News/2021/NDA_confirms_cases_of_rabies_in_bats/",
-          "publishedOn": "2021-06-16T15:48:20.000Z",
-          "wordCount": 1308,
-          "title": "NDA confirms cases of rabies in bats in Nevada - Nevada Governor"
-        },
-        {
-          "id": "CAIiECgPlKE95PFuJRkMYR7d46kqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
-          "author": null,
-          "description": "Scottish Government 'resisted' calls to give apology over forced adoptions  The Ferret",
-          "link": "https://theferret.scot/scottish-government-resisted-adoption-apology/",
-          "publishedOn": "2021-06-16T15:48:19.000Z",
-          "wordCount": 2290,
-          "title": "Scottish Government 'resisted' calls to give apology over forced adoptions - The Ferret"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vdGhlZmVycmV0LnNjb3QvYXV0aG9yL2VsaXphYmV0aC10aG9tc29uL9IBAA",
-          "author": null,
-          "description": "Elizabeth Thomson  The Ferret",
-          "link": "https://theferret.scot/author/elizabeth-thomson/",
-          "publishedOn": "2021-06-16T15:45:32.000Z",
-          "wordCount": 967,
-          "title": "Elizabeth Thomson - The Ferret"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L3ByZW1pZXItbGVhZ3VlLWZpeHR1cmVzLTIwMjEtMjItYW5ub3VuY2VkL9IBAA",
-          "author": null,
-          "description": "Premier League fixtures 2021/22 announced  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/16/premier-league-fixtures-2021-22-announced/",
-          "publishedOn": "2021-06-16T15:35:24.000Z",
-          "wordCount": 1701,
-          "title": "Premier League fixtures 2021/22 announced - SportingFerret"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L2V1cm8tMjAyMC10dXJrZXktdnMtd2FsZXMtcHJldmlldy_SAQA",
-          "author": null,
-          "description": "Euro 2020: Turkey vs Wales Preview  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/16/euro-2020-turkey-vs-wales-preview/",
-          "publishedOn": "2021-06-16T14:37:30.000Z",
-          "wordCount": 1563,
-          "title": "Euro 2020: Turkey vs Wales Preview - SportingFerret"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE2L2Z1cnktdi13aWxkZXItaWlpLXRoZS1tb3N0LWJpemFycmUtcHJlc3MtY29uZmVyZW5jZS15ZXQv0gEA",
-          "author": null,
-          "description": "Fury v Wilder III: The most bizarre press conference yet?  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/16/fury-v-wilder-iii-the-most-bizarre-press-conference-yet/",
-          "publishedOn": "2021-06-16T14:28:30.000Z",
-          "wordCount": 1667,
-          "title": "Fury v Wilder III: The most bizarre press conference yet? - SportingFerret"
         }
       ]
     }
