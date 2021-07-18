@@ -364,24 +364,6 @@
           "publishedOn": "2021-06-18T15:03:12.000Z",
           "wordCount": 256,
           "title": "theferrets:jesuser:\n\nimagine all your online friends living near you\n\n\nSo many ferret playdates"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/654280875419287552",
-          "author": null,
-          "description": "Here’s a drawing I’ve been doing of a ferret, I’ll be posting more updates",
-          "link": "https://prettypeterparkr.tumblr.com/post/654280875419287552",
-          "publishedOn": "2021-06-17T23:01:06.000Z",
-          "wordCount": 68,
-          "title": "Here’s a drawing I’ve been doing of a ferret, I’ll be posting..."
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/654250665654304768",
-          "author": null,
-          "description": "thelifeofmyferrets:\n\nWho needs snow removers when you’ve got Ducky?",
-          "link": "https://prettypeterparkr.tumblr.com/post/654250665654304768",
-          "publishedOn": "2021-06-17T15:00:56.000Z",
-          "wordCount": 256,
-          "title": "thelifeofmyferrets:Who needs snow removers when you’ve got Ducky?"
         }
       ]
     },
@@ -391,6 +373,69 @@
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
         {
+          "id": "CAIiECRDnHUPua4ppyf5Hz0xkI0qGQgEKhAIACoHCAow2LCYCzDvurADMNXZ0AY",
+          "author": null,
+          "description": "World Matchplay: Gerwyn Price sets up blockbuster meeting with fellow Welshman Jonny Clayton  Sky Sports",
+          "link": "https://www.skysports.com/darts/news/12288/12357975/world-matchplay-gerwyn-price-sets-up-blockbuster-meeting-with-fellow-welshman-jonny-clayton",
+          "publishedOn": "2021-07-17T22:04:58.000Z",
+          "wordCount": 1452,
+          "title": "World Matchplay: Gerwyn Price sets up blockbuster meeting with fellow Welshman Jonny Clayton - Sky Sports"
+        },
+        {
+          "id": "CAIiEKwzaxY_dK0vIWWLs2yGTOwqGQgEKhAIACoHCAow7oX-CjCjzPYCMNDh3AU",
+          "author": null,
+          "description": "One person and two pets were exposed to a rabid fox in Huntersville, police say  Charlotte Observer",
+          "link": "https://www.charlotteobserver.com/news/local/article252851978.html",
+          "publishedOn": "2021-07-17T14:59:00.000Z",
+          "wordCount": 892,
+          "title": "One person and two pets were exposed to a rabid fox in Huntersville, police say - Charlotte Observer"
+        },
+        {
+          "id": "CBMihwFodHRwczovL3d3dy5zdGFybmV3c29ubGluZS5jb20vc3RvcnkvbGlmZXN0eWxlLzIwMjEvMDcvMTcvd2lsbWluZ3Rvbi1hcmVhLXdyaXRlci1qYXNvbi1tb3R0LXVzZXMtYmxhY2stZXhwZXJpZW5jZS1oZWxsLWJvb2svNzk3OTY1NjAwMi_SAS1odHRwczovL2FtcC5zdGFybmV3c29ubGluZS5jb20vYW1wLzc5Nzk2NTYwMDI",
+          "author": null,
+          "description": "Wilmington-area author uses Black experience to pen 'Hell of a Book'  StarNewsOnline.com",
+          "link": "https://www.starnewsonline.com/story/lifestyle/2021/07/17/wilmington-area-writer-jason-mott-uses-black-experience-hell-book/7979656002/",
+          "publishedOn": "2021-07-17T10:02:24.000Z",
+          "wordCount": 674,
+          "title": "Wilmington-area author uses Black experience to pen 'Hell of a Book' - StarNewsOnline.com"
+        },
+        {
+          "id": "CBMiS2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzE3L2JyaXRhaW5zLW5leHQtZm9ybXVsYS0xLWNoYW1waW9uL9IBAA",
+          "author": null,
+          "description": "Britain's Next Formula 1 Champion  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/07/17/britains-next-formula-1-champion/",
+          "publishedOn": "2021-07-17T09:05:33.000Z",
+          "wordCount": 1957,
+          "title": "Britain's Next Formula 1 Champion - SportingFerret"
+        },
+        {
+          "id": "CBMiVmh0dHA6Ly93d3cuZ3JlZW5maWVsZHJlcG9ydGVyLmNvbS8yMDIxLzA3LzE3L2pvaG5fa3J1bGxfd2hlcmV2ZXJfdGhlX3RydXRoX21heV9sZWFkLTMv0gEA",
+          "author": null,
+          "description": "John Krull: Wherever the truth may lead…  Greenfield Daily Reporter",
+          "link": "http://www.greenfieldreporter.com/2021/07/17/john_krull_wherever_the_truth_may_lead-3/",
+          "publishedOn": "2021-07-17T06:23:10.000Z",
+          "wordCount": 964,
+          "title": "John Krull: Wherever the truth may lead… - Greenfield Daily Reporter"
+        },
+        {
+          "id": "CAIiEOr2tgCSYwDdakfdhu19NscqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "'We have to be optimists': how can Scotland rebuild trust?  The Ferret",
+          "link": "https://theferret.scot/how-can-scotland-rebuild-trust/",
+          "publishedOn": "2021-07-17T04:00:00.000Z",
+          "wordCount": 3707,
+          "title": "'We have to be optimists': how can Scotland rebuild trust? - The Ferret"
+        },
+        {
+          "id": "CBMiugFodHRwczovL2xvbXBvY3JlY29yZC5jb20vbmV3cy9sb2NhbC9jcmltZS1hbmQtY291cnRzL3Vuc2VhbGVkLWNvdXJ0LWRvY3VtZW50cy1yZXZlYWwtc2VhcmNoLXdhcnJhbnQtZGV0YWlscy1pbi1rcmlzdGluLXNtYXJ0LW11cmRlci1jYXNlL2FydGljbGVfNzI5MTc4NTQtMGRmNy01MjFhLTg0NTktMGFlMGZjZDAxN2MzLmh0bWzSAb4BaHR0cHM6Ly9sb21wb2NyZWNvcmQuY29tL25ld3MvbG9jYWwvY3JpbWUtYW5kLWNvdXJ0cy91bnNlYWxlZC1jb3VydC1kb2N1bWVudHMtcmV2ZWFsLXNlYXJjaC13YXJyYW50LWRldGFpbHMtaW4ta3Jpc3Rpbi1zbWFydC1tdXJkZXItY2FzZS9hcnRpY2xlXzcyOTE3ODU0LTBkZjctNTIxYS04NDU5LTBhZTBmY2QwMTdjMy5hbXAuaHRtbA",
+          "author": null,
+          "description": "Unsealed court documents reveal search warrant details in Kristin Smart murder case  Lompoc Record",
+          "link": "https://lompocrecord.com/news/local/crime-and-courts/unsealed-court-documents-reveal-search-warrant-details-in-kristin-smart-murder-case/article_72917854-0df7-521a-8459-0ae0fcd017c3.html",
+          "publishedOn": "2021-07-17T04:00:00.000Z",
+          "wordCount": 1774,
+          "title": "Unsealed court documents reveal search warrant details in Kristin Smart murder case - Lompoc Record"
+        },
+        {
           "id": "CBMiaWh0dHBzOi8vd3d3Lmt0c20uY29tL25ld3MvbG9jYWwtbmV3cy9ob3ctdG8tcHJvdGVjdC1wZXRzLWZyb20taGVhcnR3b3JtLWFzLWVsLXBhc28tYW50aWNpcGF0ZXMtbW9yZS1yYWluL9IBbWh0dHBzOi8vd3d3Lmt0c20uY29tL25ld3MvbG9jYWwtbmV3cy9ob3ctdG8tcHJvdGVjdC1wZXRzLWZyb20taGVhcnR3b3JtLWFzLWVsLXBhc28tYW50aWNpcGF0ZXMtbW9yZS1yYWluL2FtcC8",
           "author": null,
           "description": "How to protect pets from heartworm as El Paso anticipates more rain  KTSM 9 News",
@@ -398,6 +443,15 @@
           "publishedOn": "2021-07-16T21:53:42.000Z",
           "wordCount": 1586,
           "title": "How to protect pets from heartworm as El Paso anticipates more rain - KTSM 9 News"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9jZW50cmFsLW55L25ld3MvMjAyMS8wNy8xNi90cnVtcC1hcml6b25hLWZyYXVkLWNsYWltcy1lbGVjdGlvbi1wcmVzaWRlbnTSAQA",
+          "author": null,
+          "description": "AP: Few Arizona voter fraud cases undercut Trump's claims  Spectrum News",
+          "link": "https://spectrumlocalnews.com/nys/central-ny/news/2021/07/16/trump-arizona-fraud-claims-election-president",
+          "publishedOn": "2021-07-16T21:31:00.000Z",
+          "wordCount": 1811,
+          "title": "AP: Few Arizona voter fraud cases undercut Trump's claims - Spectrum News"
         },
         {
           "id": "CBMigQFodHRwczovL3d3dy5uYmNuZXdzLmNvbS9wb2xpdGljcy9lbGVjdGlvbnMvY291bnR5LW9mZmljaWFscy1hcml6b25hLXJlcG9ydGVkLWZldy1zdXNwaWNpb3VzLWJhbGxvdHMtdW5kZXJjdXR0aW5nLXRydW1wLXMtbjEyNzQyMzjSASxodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9uY25hMTI3NDIzOA",
@@ -425,6 +479,15 @@
           "publishedOn": "2021-07-16T13:05:57.000Z",
           "wordCount": 2761,
           "title": "Bettors Should Have Legal Recourse Against Leagues Where Cheating Takes Place - Sports Handle"
+        },
+        {
+          "id": "CAIiEBRmtjWH6z2EKPahuTPhHJ4qGQgEKhAIACoHCAowuMWGCzDDuYQDMMmG0gY",
+          "author": null,
+          "description": "Scotland's richest man lobbied ministers over spaceport plans  The Scotsman",
+          "link": "https://www.scotsman.com/news/politics/scotlands-richest-man-lobbied-ministers-over-spaceport-plans-3310559",
+          "publishedOn": "2021-07-16T11:36:56.000Z",
+          "wordCount": 1006,
+          "title": "Scotland's richest man lobbied ministers over spaceport plans - The Scotsman"
         },
         {
           "id": "CBMijAFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvMjAyMS8wNy8xNi9pZi1ldS1kb2VzbnQtd2FrZS11cC13aGF0cy1oYXBwZW5pbmctd2l0aC1wb2xhbmQtaXQtbWF5LXNsZWVwLXdhbGstaW50by1zZWxmLWRlc3RydWN0aW9uL9IBmwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvMjAyMS8wNy8xNi9pZi1ldS1kb2VzbnQtd2FrZS11cC13aGF0cy1oYXBwZW5pbmctd2l0aC1wb2xhbmQtaXQtbWF5LXNsZWVwLXdhbGstaW50by1zZWxmLWRlc3RydWN0aW9uLz9vdXRwdXRUeXBlPWFtcA",
@@ -965,6 +1028,15 @@
           "publishedOn": "2021-07-12T04:00:01.000Z",
           "wordCount": 1222,
           "title": "Who runs Scotland: Here is how you can read our exclusive investigation | HeraldScotland - HeraldScotland"
+        },
+        {
+          "id": "CAIiEJt9KYYhFQVbLEpM5gG2VQsqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
+          "author": null,
+          "description": "Concerns over growing influence of energy lobby in Scotland  The Ferret",
+          "link": "https://theferret.scot/concerns-over-influence-of-energy-lobby/",
+          "publishedOn": "2021-07-12T04:00:00.000Z",
+          "wordCount": 2284,
+          "title": "Concerns over growing influence of energy lobby in Scotland - The Ferret"
         },
         {
           "id": "CAIiENffcsUPif5x0zQj_YJw-I4qMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
@@ -2704,6 +2776,15 @@
           "title": "The Disabled can be Crowned as Athletes too - SportingFerret"
         },
         {
+          "id": "CBMigwFodHRwczovL3d3dy5zZXltb3VydGVsZWdyYXBoLmNvbS5hdS8yMDIxLzA2LzIxLzQ0ODY1MDgvb24tdGhlLWdyYXBldmluZS1zb3JvcHRpbWlzdC1icmVha2Zhc3QtbmV3LWxpb25zLXByZXNpZGVudC1hbmQtZmVycmV0LXJhY2luZ9IBiQFodHRwczovL3d3dy5zZXltb3VydGVsZWdyYXBoLmNvbS5hdS8yMDIxLzA2LzIxLzQ0ODY1MDgvb24tdGhlLWdyYXBldmluZS1zb3JvcHRpbWlzdC1icmVha2Zhc3QtbmV3LWxpb25zLXByZXNpZGVudC1hbmQtZmVycmV0LXJhY2luZz9hbXA9MQ",
+          "author": null,
+          "description": "On the Grapevine - Soroptimist breakfast, new Lions president and ferret racing  Seymour Telegraph",
+          "link": "https://www.seymourtelegraph.com.au/2021/06/21/4486508/on-the-grapevine-soroptimist-breakfast-new-lions-president-and-ferret-racing",
+          "publishedOn": "2021-06-21T07:00:00.000Z",
+          "wordCount": 1600,
+          "title": "On the Grapevine - Soroptimist breakfast, new Lions president and ferret racing - Seymour Telegraph"
+        },
+        {
           "id": "CBMiWWh0dHBzOi8vd3d3LmRvY3dpcmVuZXdzLmNvbS9hYnN0cmFjdHMvbmF0dXJhbC1zYXJzLWNvdi0yLWluZmVjdGlvbi1pbi1rZXB0LWZlcnJldHMtc3BhaW4v0gFdaHR0cHM6Ly93d3cuZG9jd2lyZW5ld3MuY29tL2Fic3RyYWN0cy9uYXR1cmFsLXNhcnMtY292LTItaW5mZWN0aW9uLWluLWtlcHQtZmVycmV0cy1zcGFpbi9hbXAv",
           "author": null,
           "description": "Natural SARS-CoV-2 Infection in Kept Ferrets, Spain  DocWire News",
@@ -2837,177 +2918,6 @@
           "publishedOn": "2021-06-18T14:46:14.000Z",
           "wordCount": 967,
           "title": "‘LaPolitics’: Yet another special election on tap; lawmakers create task forces - Greater Baton Rouge Business Report"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE4L2V1cm8tMjAyMC1jcm9hdGlhLXZzLWN6ZWNoLXJlcHVibGljLXByZXZpZXcv0gEA",
-          "author": null,
-          "description": "Euro 2020: Croatia vs Czech Republic Preview  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/18/euro-2020-croatia-vs-czech-republic-preview/",
-          "publishedOn": "2021-06-18T13:24:33.000Z",
-          "wordCount": 1560,
-          "title": "Euro 2020: Croatia vs Czech Republic Preview - SportingFerret"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE4L2V1cm8tMjAyMC1zd2VkZW4tdnMtc2xvdmFraWEtcHJldmlldy_SAQA",
-          "author": null,
-          "description": "Euro 2020: Sweden vs Slovakia Preview  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/18/euro-2020-sweden-vs-slovakia-preview/",
-          "publishedOn": "2021-06-18T12:46:21.000Z",
-          "wordCount": 1726,
-          "title": "Euro 2020: Sweden vs Slovakia Preview - SportingFerret"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LmFybG5vdy5jb20vMjAyMS8wNi8xOC9tb3JuaW5nLW5vdGVzLTI2NzUv0gEA",
-          "author": null,
-          "description": "Morning Notes  ARLnow",
-          "link": "https://www.arlnow.com/2021/06/18/morning-notes-2675/",
-          "publishedOn": "2021-06-18T11:30:40.000Z",
-          "wordCount": 686,
-          "title": "Morning Notes - ARLnow"
-        },
-        {
-          "id": "CAIiENxI7W3W62XjxijwJj_n-xcqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
-          "author": null,
-          "description": "Claims Christian Eriksen's collapse was linked to Covid-19 Vaccine are FFS  The Ferret",
-          "link": "https://theferret.scot/claims-christian-eriksens-collapse-vaccine/",
-          "publishedOn": "2021-06-18T11:24:57.000Z",
-          "wordCount": 1840,
-          "title": "Claims Christian Eriksen's collapse was linked to Covid-19 Vaccine are FFS - The Ferret"
-        },
-        {
-          "id": "CAIiELBxPkI8YGOx7H91KM2xaTsqMwgEKioIACIQRJjtI_FXZlsdOcT1rBcrRSoUCAoiEESY7SPxV2ZbHTnE9awXK0UwpMKKBw",
-          "author": null,
-          "description": "Psychic ferret predicts shock result for England game  Kent Online",
-          "link": "https://www.kentonline.co.uk/malling/news/psychic-ferret-predicts-shock-result-for-england-game-249212/",
-          "publishedOn": "2021-06-18T10:36:00.000Z",
-          "wordCount": 1119,
-          "title": "Psychic ferret predicts shock result for England game - Kent Online"
-        },
-        {
-          "id": "CBMiPGh0dHA6Ly93d3cua29yZWFiaW9tZWQuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMTQyM9IBAA",
-          "author": null,
-          "description": "Celltrion confirms Regkirona's efficacy in treating Covid-19 beta variants  Korea Biomedical Review",
-          "link": "http://www.koreabiomed.com/news/articleView.html?idxno=11423",
-          "publishedOn": "2021-06-18T07:28:22.000Z",
-          "wordCount": 1160,
-          "title": "Celltrion confirms Regkirona's efficacy in treating Covid-19 beta variants - Korea Biomedical Review"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzE4L21vdG9ncC1nZXJtYW55LW1ha2VzLWEtbG9uZy1hd2FpdGVkLXJldHVybi_SAQA",
-          "author": null,
-          "description": "MotoGP: Germany makes a long-awaited return  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/18/motogp-germany-makes-a-long-awaited-return/",
-          "publishedOn": "2021-06-18T07:00:00.000Z",
-          "wordCount": 2237,
-          "title": "MotoGP: Germany makes a long-awaited return - SportingFerret"
-        },
-        {
-          "id": "CBMiTmh0dHBzOi8vd3d3LndhbGVzMjQ3LmNvLnVrL25ldy1mZXJyZXQtb3duZXJzLXJlZ2lzdGVyLXRvLWhlbHAtcHJldmVudC1jb3ZpZC0xOdIBAA",
-          "author": null,
-          "description": "New ferret owners' register to help prevent COVID-19  Wales247",
-          "link": "https://www.wales247.co.uk/new-ferret-owners-register-to-help-prevent-covid-19",
-          "publishedOn": "2021-06-18T05:34:08.000Z",
-          "wordCount": 650,
-          "title": "New ferret owners' register to help prevent COVID-19 - Wales247"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vY29tcGxpYW5jZS9hcnRpY2xlcy8xMzk1MjQ1L3NlYy1zYXlzLWFkdmlzZXItaWxsaWNpdGx5LXJvdXRlZC10cmFkZS13aW5uaW5ncy10by1yZWxhdGl2ZXPSAStodHRwczovL3d3dy5sYXczNjAuY29tL2FtcC9hcnRpY2xlcy8xMzk1MjQ1",
-          "author": null,
-          "description": "SEC Says Adviser Illicitly Routed Trade Winnings To Relatives  Law360",
-          "link": "https://www.law360.com/compliance/articles/1395245/sec-says-adviser-illicitly-routed-trade-winnings-to-relatives",
-          "publishedOn": "2021-06-17T23:07:00.000Z",
-          "wordCount": 1141,
-          "title": "SEC Says Adviser Illicitly Routed Trade Winnings To Relatives - Law360"
-        },
-        {
-          "id": "CBMifWh0dHBzOi8vd3d3Lmtlbm5lZHkuc2VuYXRlLmdvdi9wdWJsaWMvMjAyMS82L2tlbm5lZHktYXNrcy1mZW1hLXRvLWV4cGxhaW4tcGxhbi10by1oaWtlLWZsb29kLWluc3VyYW5jZS1yYXRlcy1mb3ItbG91aXNpYW5pYW5z0gEA",
-          "author": null,
-          "description": "Kennedy asks FEMA to explain plan to hike flood insurance rates for Louisianians  Kennedy.Senate.gov",
-          "link": "https://www.kennedy.senate.gov/public/2021/6/kennedy-asks-fema-to-explain-plan-to-hike-flood-insurance-rates-for-louisianians",
-          "publishedOn": "2021-06-17T20:13:18.000Z",
-          "wordCount": 732,
-          "title": "Kennedy asks FEMA to explain plan to hike flood insurance rates for Louisianians - Kennedy.Senate.gov"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vdGhpc2lzcmVuby5jb20vMjAyMS8wNi9yYWJpZXMtY29uZmlybWVkLWluLXdhc2hvZS1jb3VudHktYmF0L9IBAA",
-          "author": null,
-          "description": "Rabies confirmed in Washoe County bat  ThisisReno",
-          "link": "https://thisisreno.com/2021/06/rabies-confirmed-in-washoe-county-bat/",
-          "publishedOn": "2021-06-17T18:23:00.000Z",
-          "wordCount": 624,
-          "title": "Rabies confirmed in Washoe County bat - ThisisReno"
-        },
-        {
-          "id": "CAIiEOdA8Yt5QBsk3ICksgkco1sqGQgEKhAIACoHCAow98_7CjCOyvQCMJrn0wU",
-          "author": null,
-          "description": "What ferret owners in Wales should now do to help contain spread of Covid-19  North Wales Live",
-          "link": "https://www.dailypost.co.uk/news/north-wales-news/what-ferret-owners-wales-should-20843825",
-          "publishedOn": "2021-06-17T17:56:45.000Z",
-          "wordCount": 1750,
-          "title": "What ferret owners in Wales should now do to help contain spread of Covid-19 - North Wales Live"
-        },
-        {
-          "id": "CBMi3gFodHRwczovL2tzdXNlbnRpbmVsLmNvbS8yMDIxLzA2LzE3L2ZlcnJldC10b3lzLW1hcmtldC1zaXplLTIwMjEtYnktcHJvZHVjdC1zYWxlcy1yZXZlbnVlLXByaWNlLW1hcmtldC1zaGFyZS1ncm93dGgtb3Bwb3J0dW5pdHktYW5kLWZvcmVjYXN0LXRvLTIwMjQtcmVzZWFyY2gtcmVwb3J0LWktdG9wLWtleS1wbGF5ZXJzLWZlcnJldC1uYXRpb24ta29uZy1jb21wYW55LW1hcnNoYWxsLXBldC_SAQA",
-          "author": null,
-          "description": "Ferret Toys Market Size 2021 by Product Sales, Revenue, Price, Market Share, Growth Opportunity and Forecast to 2024 Research Report I Top key players- Ferret Nation, Kong Company, Marshall Pet, SPOT, Superpet, Niteangel, Marshall Pet Products, Mid  KSU | The Sentinel Newspaper",
-          "link": "https://ksusentinel.com/2021/06/17/ferret-toys-market-size-2021-by-product-sales-revenue-price-market-share-growth-opportunity-and-forecast-to-2024-research-report-i-top-key-players-ferret-nation-kong-company-marshall-pet/",
-          "publishedOn": "2021-06-17T16:38:21.000Z",
-          "wordCount": 967,
-          "title": "Ferret Toys Market Size 2021 by Product Sales, Revenue, Price, Market Share, Growth Opportunity and Forecast to 2024 Research Report I Top key players- Ferret Nation, Kong Company, Marshall Pet, SPOT, Superpet, Niteangel, Marshall Pet Products, Mid - KSU | The Sentinel Newspaper"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vcGF0Y2guY29tL2dlb3JnaWEvd29vZHN0b2NrL3dlZWtlbmRzLXVwY29taW5nLXdvb2RzdG9jay10b3duZS1sYWtlLWFyZWEtZXZlbnRzLTDSAWhodHRwczovL3BhdGNoLmNvbS9nZW9yZ2lhL3dvb2RzdG9jay9hbXAvMjk2MTE0OTcvdGhpcy13ZWVrZW5kcy11cGNvbWluZy13b29kc3RvY2stdG93bmUtbGFrZS1hcmVhLWV2ZW50cw",
-          "author": null,
-          "description": "This Weekends Upcoming Woodstock-Towne Lake Area Events  Patch.com",
-          "link": "https://patch.com/georgia/woodstock/weekends-upcoming-woodstock-towne-lake-area-events-0",
-          "publishedOn": "2021-06-17T16:23:59.000Z",
-          "wordCount": 1452,
-          "title": "This Weekends Upcoming Woodstock-Towne Lake Area Events - Patch.com"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vbmF0aW9uLmN5bXJ1L25ld3MvZmVycmV0LW93bmVycy11cmdlZC10by1yZWdpc3Rlci1hbmltYWxzLXRvLWhlbHAtcHJldmVudC1uZXctY292aWQtdmFyaWFudHMtc3ByZWFkaW5nL9IBAA",
-          "author": null,
-          "description": "Ferret owners urged to register animals to help prevent new Covid variants spreading  Nation.Cymru",
-          "link": "https://nation.cymru/news/ferret-owners-urged-to-register-animals-to-help-prevent-new-covid-variants-spreading/",
-          "publishedOn": "2021-06-17T16:22:11.000Z",
-          "wordCount": 915,
-          "title": "Ferret owners urged to register animals to help prevent new Covid variants spreading - Nation.Cymru"
-        },
-        {
-          "id": "CBMi2wFodHRwczovL3d3dy5icmVjb24tcmFkbm9yLmNvLnVrL2FydGljbGUuY2ZtP2lkPTExMzMwNiZoZWFkbGluZT1OZXclMjBmZXJyZXQlMjBvd25lcnMlRTIlODAlOTklMjByZWdpc3RlciUyMGFzJTIwJUUyJTgwJTk4cHJlY2F1dGlvbmFyeSUyMG1lYXN1cmUlRTIlODAlOTklMjB0byUyMGhlbHAlMjBwcmV2ZW50JTIwQ09WSUQlMkQxOSZzZWN0aW9uSXM9bmV3cyZzZWFyY2h5ZWFyPTIwMjHSAQA",
-          "author": null,
-          "description": "New ferret owners' register as 'precautionary measure' to help prevent COVID-19  Brecon & Radnor Express",
-          "link": "https://www.brecon-radnor.co.uk/article.cfm?id=113306&headline=New%20ferret%20owners%E2%80%99%20register%20as%20%E2%80%98precautionary%20measure%E2%80%99%20to%20help%20prevent%20COVID%2D19&sectionIs=news&searchyear=2021",
-          "publishedOn": "2021-06-17T15:22:30.000Z",
-          "wordCount": 888,
-          "title": "New ferret owners' register as 'precautionary measure' to help prevent COVID-19 - Brecon & Radnor Express"
-        },
-        {
-          "id": "CBMixAFodHRwczovL3d3dy5hYmVyeXN0d3l0aC10b2RheS5jby51ay9hcnRpY2xlLmNmbT9pZD0xMzY0MzEmaGVhZGxpbmU9RmVycmV0JTIwb3duZXJzJTIwdXJnZWQlMjB0byUyMHNpZ24lMjB1cCUyMHRvJTIwcmVnaXN0ZXIlMjBpbiUyMGElMjBiaWQlMjB0byUyMHRhY2tsZSUyMENvdmlkJTJEMTkmc2VjdGlvbklzPW5ld3Mmc2VhcmNoeWVhcj0yMDIx0gEA",
-          "author": null,
-          "description": "Ferret owners urged to sign up to register in a bid to tackle Covid-19  Cambrian News - Aberystwyth",
-          "link": "https://www.aberystwyth-today.co.uk/article.cfm?id=136431&headline=Ferret%20owners%20urged%20to%20sign%20up%20to%20register%20in%20a%20bid%20to%20tackle%20Covid%2D19&sectionIs=news&searchyear=2021",
-          "publishedOn": "2021-06-17T15:22:30.000Z",
-          "wordCount": 983,
-          "title": "Ferret owners urged to sign up to register in a bid to tackle Covid-19 - Cambrian News - Aberystwyth"
-        },
-        {
-          "id": "CAIiENY4ifEp8px-tohlUAdL-w8qMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg",
-          "author": null,
-          "description": "The FFS Show Episode 9: How will pupil assessments work this year and did Nicola Sturgeon miss COBRA meetings?  The Ferret",
-          "link": "https://theferret.scot/the-ffs-show-episode-9/",
-          "publishedOn": "2021-06-17T15:17:57.000Z",
-          "wordCount": 1274,
-          "title": "The FFS Show Episode 9: How will pupil assessments work this year and did Nicola Sturgeon miss COBRA meetings? - The Ferret"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvdXRhaC1jb25maXJtcy1maXJzdC1yYWJpZC1iYXQtb2YtdGhlLXNlYXNvbtIBXmh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvdXRhaC1jb25maXJtcy1maXJzdC1yYWJpZC1iYXQtb2YtdGhlLXNlYXNvbj9fYW1wPXRydWU",
-          "author": null,
-          "description": "Utah confirms first rabid bat of the season  fox13now.com",
-          "link": "https://www.fox13now.com/news/local-news/utah-confirms-first-rabid-bat-of-the-season",
-          "publishedOn": "2021-06-17T15:00:02.000Z",
-          "wordCount": 1084,
-          "title": "Utah confirms first rabid bat of the season - fox13now.com"
         }
       ]
     }
