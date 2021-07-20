@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T01:54:52.513Z</updated>
+    <updated>2021-07-20T01:59:29.060Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[San Diego Zoo, Safari Park to begin vaccinating some animals against COVID-19 - 10News]]></title>
+        <id>CBMic2h0dHBzOi8vd3d3LjEwbmV3cy5jb20vbmV3cy9sb2NhbC1uZXdzL3Nhbi1kaWVnby16b28tc2FmYXJpLXBhcmstdG8tYmVnaW4tdmFjY2luYXRpbmctc29tZS1hbmltYWxzLWFnYWluc3QtY292aWQtMTnSAX1odHRwczovL3d3dy4xMG5ld3MuY29tL25ld3MvbG9jYWwtbmV3cy9zYW4tZGllZ28tem9vLXNhZmFyaS1wYXJrLXRvLWJlZ2luLXZhY2NpbmF0aW5nLXNvbWUtYW5pbWFscy1hZ2FpbnN0LWNvdmlkLTE5P19hbXA9dHJ1ZQ</id>
+        <link href="https://www.10news.com/news/local-news/san-diego-zoo-safari-park-to-begin-vaccinating-some-animals-against-covid-19"/>
+        <updated>2021-07-19T22:07:00.000Z</updated>
+        <summary type="html"><![CDATA[San Diego Zoo, Safari Park to begin vaccinating some animals against COVID-19  10News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an O'Melveny discovery sleuth saved the day - Reuters]]></title>
+        <id>CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2xpdGlnYXRpb24vaG93LWFuLW9tZWx2ZW55LWRpc2NvdmVyeS1zbGV1dGgtc2F2ZWQtZGF5LTIwMjEtMDctMTkv0gEA</id>
+        <link href="https://www.reuters.com/legal/litigation/how-an-omelveny-discovery-sleuth-saved-day-2021-07-19/"/>
+        <updated>2021-07-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How an O'Melveny discovery sleuth saved the day  Reuters]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doug Haynes - Bennett County Booster]]></title>
+        <id>CBMiPmh0dHBzOi8vYmVubmV0dGNvdW50eWJvb3N0ZXJzZC5jb20vb2JpdHVhcmllcy80OTg1LWRvdWctaGF5bmVz0gEA</id>
+        <link href="https://bennettcountyboostersd.com/obituaries/4985-doug-haynes"/>
+        <updated>2021-07-19T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Doug Haynes  Bennett County Booster]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As the press weakens, so does democracy - Standard Speaker]]></title>
+        <id>CBMieGh0dHBzOi8vd3d3LnN0YW5kYXJkc3BlYWtlci5jb20vYXMtdGhlLXByZXNzLXdlYWtlbnMtc28tZG9lcy1kZW1vY3JhY3kvYXJ0aWNsZV81MmJjZjg1YS0xY2ZlLTUxNmYtYmEwZC00YzdjODdmNjBiYTcuaHRtbNIBAA</id>
+        <link href="https://www.standardspeaker.com/as-the-press-weakens-so-does-democracy/article_52bcf85a-1cfe-516f-ba0d-4c7c87f60ba7.html"/>
+        <updated>2021-07-19T19:23:00.000Z</updated>
+        <summary type="html"><![CDATA[As the press weakens, so does democracy  Standard Speaker]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMAS and LouVax team up to provide vaccination clinics - LouisvilleKy.gov]]></title>
+        <id>CBMiTmh0dHBzOi8vbG91aXN2aWxsZWt5Lmdvdi9uZXdzL2xtYXMtYW5kLWxvdXZheC10ZWFtLXByb3ZpZGUtdmFjY2luYXRpb24tY2xpbmljc9IBAA</id>
+        <link href="https://louisvilleky.gov/news/lmas-and-louvax-team-provide-vaccination-clinics"/>
+        <updated>2021-07-19T19:09:52.000Z</updated>
+        <summary type="html"><![CDATA[LMAS and LouVax team up to provide vaccination clinics  LouisvilleKy.gov]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animal Shelter Report: Playful husky-mix brothers are Pets of the Week - Chinook Observer]]></title>
+        <id>CBMipwFodHRwczovL3d3dy5jaGlub29rb2JzZXJ2ZXIuY29tL29waW5pb24vY29sdW1ucy9hbmltYWwtc2hlbHRlci1yZXBvcnQtcGxheWZ1bC1odXNreS1taXgtYnJvdGhlcnMtYXJlLXBldHMtb2YtdGhlLXdlZWsvYXJ0aWNsZV9hMGFiODRiMi1lOGExLTExZWItYWFhYi02YmQ5OTZhNDI3NTUuaHRtbNIBAA</id>
+        <link href="https://www.chinookobserver.com/opinion/columns/animal-shelter-report-playful-husky-mix-brothers-are-pets-of-the-week/article_a0ab84b2-e8a1-11eb-aaab-6bd996a42755.html"/>
+        <updated>2021-07-19T14:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Animal Shelter Report: Playful husky-mix brothers are Pets of the Week  Chinook Observer]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Phoneix Zoo, Those Ferrets are from Meeteetse, Wyoming! – Sheridan Media - Sheridan Media]]></title>
+        <id>CBMiXmh0dHBzOi8vc2hlcmlkYW5tZWRpYS5jb20vbmV3cy81MjcwMS9oZXktcGhvbmVpeC16b28tdGhvc2UtZmVycmV0cy1hcmUtZnJvbS1tZWV0ZWV0c2Utd3lvbWluZy_SAQA</id>
+        <link href="https://sheridanmedia.com/news/52701/hey-phoneix-zoo-those-ferrets-are-from-meeteetse-wyoming/"/>
+        <updated>2021-07-19T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Hey Phoneix Zoo, Those Ferrets are from Meeteetse, Wyoming! – Sheridan Media  Sheridan Media]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wall Street benchmarks join major global indices to close in the red as coronavirus fears continue - Proactive Investors USA]]></title>
+        <id>CAIiEJs8nClHiVq7V__srK9u99gqGQgEKhAIACoHCAowjJ6jCzDPqLsDMMSUgwc</id>
+        <link href="https://www.proactiveinvestors.com/companies/amp/news/955353"/>
+        <updated>2021-07-19T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Wall Street benchmarks join major global indices to close in the red as coronavirus fears continue  Proactive Investors USA]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollin David Henry III | thebaynet.com - Bay Net]]></title>
+        <id>CBMiQ2h0dHBzOi8vd3d3LnRoZWJheW5ldC5jb20vYXJ0aWNsZXMvMDcyMS9yb2xsaW4tZGF2aWQtaGVucnktaWlpLmh0bWzSAQA</id>
+        <link href="https://www.thebaynet.com/articles/0721/rollin-david-henry-iii.html"/>
+        <updated>2021-07-19T13:57:41.000Z</updated>
+        <summary type="html"><![CDATA[Rollin David Henry III | thebaynet.com  Bay Net]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From broken legs to a punky pancreas, here's what a night in Fargo's animal ER is like - INFORUM]]></title>
+        <id>CBMihgFodHRwczovL3d3dy5pbmZvcnVtLmNvbS9idXNpbmVzcy93b3JrcGxhY2UvNzExNDc5OS1Gcm9tLWJyb2tlbi1sZWdzLXRvLWEtcHVua3ktcGFuY3JlYXMtaGVyZXMtd2hhdC1hLW5pZ2h0LWluLUZhcmdvcy1hbmltYWwtRVItaXMtbGlrZdIBAA</id>
+        <link href="https://www.inforum.com/business/workplace/7114799-From-broken-legs-to-a-punky-pancreas-heres-what-a-night-in-Fargos-animal-ER-is-like"/>
+        <updated>2021-07-19T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[From broken legs to a punky pancreas, here's what a night in Fargo's animal ER is like  INFORUM]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watchdog helped pesticide firm avoid freedom of information - The Ferret]]></title>
+        <id>CAIiEGtf9kHzgQZm2NXQrVFUiPwqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
+        <link href="https://theferret.scot/watchdog-pesticide-firm-freedom-of-information/"/>
+        <updated>2021-07-19T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Watchdog helped pesticide firm avoid freedom of information  The Ferret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black-footed ferret on the way back in Arizona, but hurdles remain - KTAR.com]]></title>
+        <id>CBMiYWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNDU3Nzg3My9ibGFjay1mb290ZWQtZmVycmV0LW9uLXRoZS13YXktYmFjay1pbi1hcml6b25hLWJ1dC1odXJkbGVzLXJlbWFpbi_SAWVodHRwczovL2t0YXIuY29tL3N0b3J5LzQ1Nzc4NzMvYmxhY2stZm9vdGVkLWZlcnJldC1vbi10aGUtd2F5LWJhY2staW4tYXJpem9uYS1idXQtaHVyZGxlcy1yZW1haW4vYW1wLw</id>
+        <link href="https://ktar.com/story/4577873/black-footed-ferret-on-the-way-back-in-arizona-but-hurdles-remain/"/>
+        <updated>2021-07-19T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Black-footed ferret on the way back in Arizona, but hurdles remain  KTAR.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First clone of an endangered species in the United States, a ferret killed 30 years ago – CVBJ - Central Valley Business Journal]]></title>
+        <id>CBMid2h0dHBzOi8vd3d3LmN2YmouYml6LzIwMjEvMDcvMTkvZmlyc3QtY2xvbmUtb2YtYW4tZW5kYW5nZXJlZC1zcGVjaWVzLWluLXRoZS11bml0ZWQtc3RhdGVzLWEtZmVycmV0LWtpbGxlZC0zMC15ZWFycy1hZ28v0gEA</id>
+        <link href="https://www.cvbj.biz/2021/07/19/first-clone-of-an-endangered-species-in-the-united-states-a-ferret-killed-30-years-ago/"/>
+        <updated>2021-07-19T09:31:24.000Z</updated>
+        <summary type="html"><![CDATA[First clone of an endangered species in the United States, a ferret killed 30 years ago – CVBJ  Central Valley Business Journal]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liam Reynolds, Hayle sent to prison for keeping animals - Falmouth Packet]]></title>
         <id>CBMiX2h0dHBzOi8vd3d3LmZhbG1vdXRocGFja2V0LmNvLnVrL25ld3MvMTk0NTE0MDAubGlhbS1yZXlub2xkcy1oYXlsZS1zZW50LXByaXNvbi1rZWVwaW5nLWFuaW1hbHMv0gEA</id>
@@ -3298,94 +3428,6 @@ an electric toothbrush
 
 For the love of god turn the sound on
 Poor thing is trying to connect to dial-up internet]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virus research can save lives, but has hazards - including the potential to escape a lab - Daytona Beach News-Journal]]></title>
-        <id>CBMiigFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL3N0b3J5L29waW5pb24vY29sdW1ucy8yMDIxLzA2LzIwL2Nvcm9uYXZpcnVzLW1pZ2h0LWhhdmUtZXNjYXBlZC1jaGluZXNlLWxhYi1hY2NlcHRhYmxlLXJpc2svNzY5MzU3MTAwMi_SATFodHRwczovL2FtcC5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL2FtcC83NjkzNTcxMDAy</id>
-        <link href="https://www.news-journalonline.com/story/opinion/columns/2021/06/20/coronavirus-might-have-escaped-chinese-lab-acceptable-risk/7693571002/"/>
-        <updated>2021-06-20T12:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Virus research can save lives, but has hazards - including the potential to escape a lab  Daytona Beach News-Journal]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clues and claws: meet the ace pet detectives - The Guardian]]></title>
-        <id>CAIiED7t_daAlNyH9pT6vCc-m9QqFggEKg4IACoGCAowl6p7MN-zCTDlkko</id>
-        <link href="https://www.theguardian.com/lifeandstyle/2021/jun/20/meet-the-new-breed-of-pet-detectives-who-can-help-track-down-stolen-animals"/>
-        <updated>2021-06-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clues and claws: meet the ace pet detectives  The Guardian]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estate's timber plans will harm 'internationally important' Highland beauty spot, say NatureScot - The Ferret]]></title>
-        <id>CAIiEEZhKTuk8M5_KhqE3Py1aRoqMwgEKioIACIQcOGUTUPQg2r-6zM_gotgZCoUCAoiEHDhlE1D0INq_uszP4KLYGQwkPLhBg</id>
-        <link href="https://theferret.scot/estates-timber-plans-will-harm-highland-beauty-spot/"/>
-        <updated>2021-06-20T09:50:11.000Z</updated>
-        <summary type="html"><![CDATA[Estate's timber plans will harm 'internationally important' Highland beauty spot, say NatureScot  The Ferret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid Lab-Leak Theory Renews "Gain-of-Function" Research Debate - The New York Times]]></title>
-        <id>CAIiEH2G3kzl8xeI-MP0cBP0qlQqFwgEKg8IACoHCAowjuuKAzCWrzww9oEY</id>
-        <link href="https://www.nytimes.com/2021/06/20/science/covid-lab-leak-wuhan.html"/>
-        <updated>2021-06-20T09:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Covid Lab-Leak Theory Renews "Gain-of-Function" Research Debate  The New York Times]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bob-artist:They like to sleep on the bathroom rug.]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/654462085053530112</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/654462085053530112"/>
-        <updated>2021-06-19T23:01:21.000Z</updated>
-        <summary type="html"><![CDATA[bob-artist:
-
-They like to sleep on the bathroom rug.]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COVID-19 (SARS-CoV-2 Scourge): Veterinary Perspective - Greater Kashmir]]></title>
-        <id>CBMiXmh0dHBzOi8vd3d3LmdyZWF0ZXJrYXNobWlyLmNvbS90b2RheXMtcGFwZXIvY292aWQtMTktc2Fycy1jb3YtMi1zY291cmdlLXZldGVyaW5hcnktcGVyc3BlY3RpdmXSAQA</id>
-        <link href="https://www.greaterkashmir.com/todays-paper/covid-19-sars-cov-2-scourge-veterinary-perspective"/>
-        <updated>2021-06-19T19:41:51.000Z</updated>
-        <summary type="html"><![CDATA[COVID-19 (SARS-CoV-2 Scourge): Veterinary Perspective  Greater Kashmir]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I use the same treatment for kittens and ferrets? - NW Evening Mail]]></title>
-        <id>CBMiU2h0dHBzOi8vd3d3Lm53ZW1haWwuY28udWsvbmV3cy8xOTM4MzIyNC5wZXRzLXEtY2FuLXRyZWF0LWZlcnJldHMta2l0dGVucy1mbGVhcy13YXkv0gEA</id>
-        <link href="https://www.nwemail.co.uk/news/19383224.pets-q-can-treat-ferrets-kittens-fleas-way/"/>
-        <updated>2021-06-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can I use the same treatment for kittens and ferrets?  NW Evening Mail]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[silverhawk:
-look at these lil leopard ferrets
-this lil guy is called the marbled polecat!!!!!]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/654431894274965504</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/654431894274965504"/>
-        <updated>2021-06-19T15:01:29.000Z</updated>
-        <summary type="html"><![CDATA[silverhawk:
-
-look at these lil leopard ferrets
-
-this lil guy is called the marbled polecat!!!!!]]></summary>
         <author>
             <name>Ferret Viewer</name>
         </author>
