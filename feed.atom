@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T01:56:33.816Z</updated>
+    <updated>2021-07-22T01:58:10.325Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pet of the week: Could you give Lectre the ferret a forever home? - The Sunday Post]]></title>
+        <id>CBMiMmh0dHBzOi8vd3d3LnN1bmRheXBvc3QuY29tL2ZwL2ZlcnJldC1mb3JldmVyLWhvbWUv0gEA</id>
+        <link href="https://www.sundaypost.com/fp/ferret-forever-home/"/>
+        <updated>2021-07-21T23:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Pet of the week: Could you give Lectre the ferret a forever home?  The Sunday Post]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pennsylvania state department decertifies Fulton County voting machines after third-party audit - The Wellsboro Gazette]]></title>
+        <id>CBMivAFodHRwczovL3d3dy50aW9nYXB1Ymxpc2hpbmcuY29tL25ld3Mvc3RhdGUvcGVubnN5bHZhbmlhLXN0YXRlLWRlcGFydG1lbnQtZGVjZXJ0aWZpZXMtZnVsdG9uLWNvdW50eS12b3RpbmctbWFjaGluZXMtYWZ0ZXItdGhpcmQtcGFydHktYXVkaXQvYXJ0aWNsZV83NzcxYjRmYy0yYmZhLTU2Y2ItYjQ2MS1kMGUwYWI4MzgyM2QuaHRtbNIBAA</id>
+        <link href="https://www.tiogapublishing.com/news/state/pennsylvania-state-department-decertifies-fulton-county-voting-machines-after-third-party-audit/article_7771b4fc-2bfa-56cb-b461-d0e0ab83823d.html"/>
+        <updated>2021-07-21T22:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Pennsylvania state department decertifies Fulton County voting machines after third-party audit  The Wellsboro Gazette]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smithsonian wants YOU to name its newest black-footed ferret kits at National Zoo - WUSA9.com]]></title>
+        <id>CBMikwFodHRwczovL3d3dy53dXNhOS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL2RjL3NtaXRoc29uaWFuLW5hdGlvbmFsLXpvby1ibGFjay1mb290ZWQtZmVycmV0LWtpdHMtd2FzaGluZ3Rvbi1kYy82NS1iZjFjODhlZi1kNmRjLTQ3ODItYmE2NS05YjJkMTVhNzY3YmTSAZcBaHR0cHM6Ly93d3cud3VzYTkuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvZGMvc21pdGhzb25pYW4tbmF0aW9uYWwtem9vLWJsYWNrLWZvb3RlZC1mZXJyZXQta2l0cy13YXNoaW5ndG9uLWRjLzY1LWJmMWM4OGVmLWQ2ZGMtNDc4Mi1iYTY1LTliMmQxNWE3NjdiZA</id>
+        <link href="https://www.wusa9.com/article/news/local/dc/smithsonian-national-zoo-black-footed-ferret-kits-washington-dc/65-bf1c88ef-d6dc-4782-ba65-9b2d15a767bd"/>
+        <updated>2021-07-21T20:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Smithsonian wants YOU to name its newest black-footed ferret kits at National Zoo  WUSA9.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book review: Honor code hampers hunt for killer in ‘The Killing Hills’ - Atlanta Journal Constitution]]></title>
+        <id>CBMihQFodHRwczovL3d3dy5hamMuY29tL2xpZmUvYXJ0cy1jdWx0dXJlL2Jvb2stcmV2aWV3LWhvbm9yLWNvZGUtaGFtcGVycy1odW50LWZvci1raWxsZXItaW4tdGhlLWtpbGxpbmctaGlsbHMvSkRDSUhHVDJORkdJM0pONFhQQzdDQlRYRUkv0gGUAWh0dHBzOi8vd3d3LmFqYy5jb20vbGlmZS9hcnRzLWN1bHR1cmUvYm9vay1yZXZpZXctaG9ub3ItY29kZS1oYW1wZXJzLWh1bnQtZm9yLWtpbGxlci1pbi10aGUta2lsbGluZy1oaWxscy9KRENJSEdUMk5GR0kzSk40WFBDN0NCVFhFSS8_b3V0cHV0VHlwZT1hbXA</id>
+        <link href="https://www.ajc.com/life/arts-culture/book-review-honor-code-hampers-hunt-for-killer-in-the-killing-hills/JDCIHGT2NFGI3JN4XPC7CBTXEI/"/>
+        <updated>2021-07-21T18:29:54.000Z</updated>
+        <summary type="html"><![CDATA[Book review: Honor code hampers hunt for killer in ‘The Killing Hills’  Atlanta Journal Constitution]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sturgis ordinance change could help pet owners | Local News | bhpioneer.com - Black Hills Pioneer]]></title>
+        <id>CBMihQFodHRwczovL3d3dy5iaHBpb25lZXIuY29tL2xvY2FsX25ld3Mvc3R1cmdpcy1vcmRpbmFuY2UtY2hhbmdlLWNvdWxkLWhlbHAtcGV0LW93bmVycy9hcnRpY2xlXzBiMzE0MmU4LWVhNDgtMTFlYi1iMzJlLWMzNTRiY2EyYTIzYy5odG1s0gEA</id>
+        <link href="https://www.bhpioneer.com/local_news/sturgis-ordinance-change-could-help-pet-owners/article_0b3142e8-ea48-11eb-b32e-c354bca2a23c.html"/>
+        <updated>2021-07-21T17:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Sturgis ordinance change could help pet owners | Local News | bhpioneer.com  Black Hills Pioneer]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Time I Die announce 2021 'Tid The Season shows - Brooklyn Vegan]]></title>
+        <id>CBMiUmh0dHBzOi8vd3d3LmJyb29rbHludmVnYW4uY29tL2V2ZXJ5LXRpbWUtaS1kaWUtYW5ub3VuY2UtMjAyMS10aWQtdGhlLXNlYXNvbi1zaG93cy_SAQA</id>
+        <link href="https://www.brooklynvegan.com/every-time-i-die-announce-2021-tid-the-season-shows/"/>
+        <updated>2021-07-21T17:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Every Time I Die announce 2021 'Tid The Season shows  Brooklyn Vegan]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A spritz instead of a jab? Future COVID-19 vaccines may go up your nose. - National Geographic]]></title>
+        <id>CBMieWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ2VvZ3JhcGhpYy5jb20vc2NpZW5jZS9hcnRpY2xlL2Etc3ByaXR6LWluc3RlYWQtb2YtYS1qYWItZnV0dXJlLWNvdmlkLTE5LXZhY2NpbmVzLW1heS1nby11cC15b3VyLW5vc2XSAZEBaHR0cHM6Ly9hcGkubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9kaXN0cmlidXRpb24vcHVibGljL2FtcC9zY2llbmNlL2FydGljbGUvYS1zcHJpdHotaW5zdGVhZC1vZi1hLWphYi1mdXR1cmUtY292aWQtMTktdmFjY2luZXMtbWF5LWdvLXVwLXlvdXItbm9zZQ</id>
+        <link href="https://www.nationalgeographic.com/science/article/a-spritz-instead-of-a-jab-future-covid-19-vaccines-may-go-up-your-nose"/>
+        <updated>2021-07-21T17:01:14.000Z</updated>
+        <summary type="html"><![CDATA[A spritz instead of a jab? Future COVID-19 vaccines may go up your nose.  National Geographic]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animal bite reports on the rise in Yellowstone County - KTVQ Billings News]]></title>
+        <id>CBMiWmh0dHBzOi8vd3d3Lmt0dnEuY29tL25ld3MvbG9jYWwtbmV3cy9hbmltYWwtYml0ZS1yZXBvcnRzLW9uLXRoZS1yaXNlLWluLXllbGxvd3N0b25lLWNvdW50edIBZGh0dHBzOi8vd3d3Lmt0dnEuY29tL25ld3MvbG9jYWwtbmV3cy9hbmltYWwtYml0ZS1yZXBvcnRzLW9uLXRoZS1yaXNlLWluLXllbGxvd3N0b25lLWNvdW50eT9fYW1wPXRydWU</id>
+        <link href="https://www.ktvq.com/news/local-news/animal-bite-reports-on-the-rise-in-yellowstone-county"/>
+        <updated>2021-07-21T16:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Animal bite reports on the rise in Yellowstone County  KTVQ Billings News]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Olympics 2021 - A full preview - SportingFerret]]></title>
+        <id>CBMiTWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzIxL3Rva3lvLW9seW1waWNzLTIwMjEtYS1mdWxsLXByZXZpZXcv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/07/21/tokyo-olympics-2021-a-full-preview/"/>
+        <updated>2021-07-21T16:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Tokyo Olympics 2021 - A full preview  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOCO Adoptable Pets: Lizzy, Sammy, Riddie, Sisu And Yum - Patch.com]]></title>
+        <id>CBMiV2h0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2dhaXRoZXJzYnVyZy9tb2NvLWFkb3B0YWJsZS1wZXRzLWxpenp5LXNhbW15LXJpZGRpZS1zaXN1LXl1bdIBaGh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2dhaXRoZXJzYnVyZy9hbXAvMjk3MDQwMTMvbW9jby1hZG9wdGFibGUtcGV0cy1saXp6eS1zYW1teS1yaWRkaWUtc2lzdS1hbmQteXVt</id>
+        <link href="https://patch.com/maryland/gaithersburg/moco-adoptable-pets-lizzy-sammy-riddie-sisu-yum"/>
+        <updated>2021-07-21T14:39:42.000Z</updated>
+        <summary type="html"><![CDATA[MOCO Adoptable Pets: Lizzy, Sammy, Riddie, Sisu And Yum  Patch.com]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bat tests positive for rabies in Shawnee County after dog pulls it out of tree - KWCH]]></title>
+        <id>CBMiZWh0dHBzOi8vd3d3Lmt3Y2guY29tLzIwMjEvMDcvMjEvYmF0LXRlc3RzLXBvc2l0aXZlLXJhYmllcy1zaGF3bmVlLWNvdW50eS1hZnRlci1kb2ctcHVsbHMtaXQtb3V0LXRyZWUv0gEA</id>
+        <link href="https://www.kwch.com/2021/07/21/bat-tests-positive-rabies-shawnee-county-after-dog-pulls-it-out-tree/"/>
+        <updated>2021-07-21T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Bat tests positive for rabies in Shawnee County after dog pulls it out of tree  KWCH]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sniffin: Hey Phoenix Zoo, those ferrets are from Meeteetse, Wyoming! - Wyoming Tribune]]></title>
+        <id>CBMiowFodHRwczovL3d3dy53eW9taW5nbmV3cy5jb20vb3Bpbmlvbi9ndWVzdF9jb2x1bW4vc25pZmZpbi1oZXktcGhvZW5peC16b28tdGhvc2UtZmVycmV0cy1hcmUtZnJvbS1tZWV0ZWV0c2Utd3lvbWluZy9hcnRpY2xlXzM5YzkwOWQ3LWM3MWQtNWMzNi1hMmFiLTU1NDkwNzcwMjJiMS5odG1s0gEA</id>
+        <link href="https://www.wyomingnews.com/opinion/guest_column/sniffin-hey-phoenix-zoo-those-ferrets-are-from-meeteetse-wyoming/article_39c909d7-c71d-5c36-a2ab-5549077022b1.html"/>
+        <updated>2021-07-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sniffin: Hey Phoenix Zoo, those ferrets are from Meeteetse, Wyoming!  Wyoming Tribune]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Greatest Italian Football Players of All Time - SportingFerret]]></title>
+        <id>CBMiXGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzIxL3RoZS1ncmVhdGVzdC1pdGFsaWFuLWZvb3RiYWxsLXBsYXllcnMtb2YtYWxsLXRpbWUv0gEA</id>
+        <link href="https://www.sportingferret.com/2021/07/21/the-greatest-italian-football-players-of-all-time/"/>
+        <updated>2021-07-21T10:44:02.000Z</updated>
+        <summary type="html"><![CDATA[The Greatest Italian Football Players of All Time  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The National Zoo Needs Help Naming 3 Baby Black-Footed Ferrets - NPR]]></title>
+        <id>CBMiaGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMS8wNy8yMS8xMDE4Njg2MzM4L3RoZS1uYXRpb25hbC16b28tbmVlZHMtaGVscC1uYW1pbmctMy1iYWJ5LWJsYWNrLWZvb3RlZC1mZXJyZXRz0gEA</id>
+        <link href="https://www.npr.org/2021/07/21/1018686338/the-national-zoo-needs-help-naming-3-baby-black-footed-ferrets"/>
+        <updated>2021-07-21T10:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The National Zoo Needs Help Naming 3 Baby Black-Footed Ferrets  NPR]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFL Championship Predictions 2021/22 - SportingFerret]]></title>
+        <id>CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzIxL2VmbC1jaGFtcGlvbnNoaXAtcHJlZGljdGlvbnMtMjAyMS0yMi_SAQA</id>
+        <link href="https://www.sportingferret.com/2021/07/21/efl-championship-predictions-2021-22/"/>
+        <updated>2021-07-21T09:05:28.000Z</updated>
+        <summary type="html"><![CDATA[EFL Championship Predictions 2021/22  SportingFerret]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rain During Monsoon Season Is Becoming Less Reliable, Less Effective - WUNC]]></title>
+        <id>CBMiY2h0dHBzOi8vd3d3Lnd1bmMub3JnLzIwMjEtMDctMjEvcmFpbi1kdXJpbmctbW9uc29vbi1zZWFzb24taXMtYmVjb21pbmctbGVzcy1yZWxpYWJsZS1sZXNzLWVmZmVjdGl2ZdIBAA</id>
+        <link href="https://www.wunc.org/2021-07-21/rain-during-monsoon-season-is-becoming-less-reliable-less-effective"/>
+        <updated>2021-07-21T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Rain During Monsoon Season Is Becoming Less Reliable, Less Effective  WUNC]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One way to stop the dangerous spread of vaccine myths - Action News Now]]></title>
         <id>CBMiPWh0dHBzOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL2NvbnRlbnQvbmF0aW9uYWwvNTc0ODgwMzMyLmh0bWzSAT5odHRwOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL3RlbXBsYXRlcy9BTVA_Y29udGVudElEPTU3NDg4MDMzMg</id>
@@ -662,6 +822,16 @@
         <link href="https://universe.byu.edu/2021/07/15/good-news-thursday-fashion-show-highlights-black-inventors-family-reunites-24-years-after-child-abduction/"/>
         <updated>2021-07-15T14:40:00.000Z</updated>
         <summary type="html"><![CDATA[Good News Thursday: Fashion show highlights Black inventors, family reunites 24 years after child abduction - The Daily Universe  Universe.byu.edu]]></summary>
+        <author>
+            <name>"ferret" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Dogs, Ferrets, Pets Available For Adoption In Durham-Middlefield Area - Durham, CT Patch]]></title>
+        <id>CAIiEG9SsIOZr2-lH0xcVuwQI20qGQgEKhAIACoHCAowqrmBCzCGkf0CMMXv7gU</id>
+        <link href="https://patch.com/connecticut/durham/new-dogs-ferrets-pets-available-adoption-durham-middlefield-area"/>
+        <updated>2021-07-15T14:27:12.000Z</updated>
+        <summary type="html"><![CDATA[New Dogs, Ferrets, Pets Available For Adoption In Durham-Middlefield Area  Durham, CT Patch]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>
@@ -3254,246 +3424,6 @@ He’s too powerful now.]]></summary>
         <link href="https://www.timestelegram.com/story/news/2021/06/22/brief-news-items-local-government-events-around-herkimer-county/5297815001/"/>
         <updated>2021-06-22T14:37:30.000Z</updated>
         <summary type="html"><![CDATA[Herkimer County news in brief: June 23, 2021  The Times Telegram]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UPDATE: House in early morning fire a 'total loss' - WILX-TV]]></title>
-        <id>CBMiVmh0dHBzOi8vd3d3LndpbHguY29tLzIwMjEvMDYvMjIvYnJlYWtpbmctY3Jld3MtcmVzcG9uZC1sYXJnZS1ob3VzZS1maXJlLWhvcnRvbi1qZXJvbWUv0gEA</id>
-        <link href="https://www.wilx.com/2021/06/22/breaking-crews-respond-large-house-fire-horton-jerome/"/>
-        <updated>2021-06-22T13:24:00.000Z</updated>
-        <summary type="html"><![CDATA[UPDATE: House in early morning fire a 'total loss'  WILX-TV]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Light Used to Control Brain Activity, Receptors Linked to Parkinson's - Parkinson's News Today]]></title>
-        <id>CBMiaWh0dHBzOi8vcGFya2luc29uc25ld3N0b2RheS5jb20vMjAyMS8wNi8yMi9saWdodC11c2VkLWNvbnRyb2wtYnJhaW4tYWN0aXZpdHktcmVjZXB0b3JzLWxpbmtlZC1wYXJraW5zb25zL9IBAA</id>
-        <link href="https://parkinsonsnewstoday.com/2021/06/22/light-used-control-brain-activity-receptors-linked-parkinsons/"/>
-        <updated>2021-06-22T13:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Light Used to Control Brain Activity, Receptors Linked to Parkinson's  Parkinson's News Today]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designer Brands Inc. Continues strategic Camuto group integration.Debbie Ferret Appointed President of Kamut Group and William L. Jordan Appointed President of Designer Brand, Inc. | Ohio - Ohionewstime.com]]></title>
-        <id>CAIiEBZJE08aya8D0OWwsmyc7C0qGQgEKhAIACoHCAow3JyhCzD0prkDMNyY-AY</id>
-        <link href="https://ohionewstime.com/designer-brands-inc-continues-strategic-camuto-group-integration-debbie-ferret-appointed-president-of-kamut-group-and-william-l-jordan-appointed-president-of-designer-brand-inc-ohio/187306/"/>
-        <updated>2021-06-22T12:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Designer Brands Inc. Continues strategic Camuto group integration.Debbie Ferret Appointed President of Kamut Group and William L. Jordan Appointed President of Designer Brand, Inc. | Ohio  Ohionewstime.com]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type I Hypersensitivity in Ferrets Following Exposure to SARS-CoV-2 Inoculum: Lessons Learned - DocWire News]]></title>
-        <id>CBMihQFodHRwczovL3d3dy5kb2N3aXJlbmV3cy5jb20vYWJzdHJhY3RzL3R5cGUtaS1oeXBlcnNlbnNpdGl2aXR5LWluLWZlcnJldHMtZm9sbG93aW5nLWV4cG9zdXJlLXRvLXNhcnMtY292LTItaW5vY3VsdW0tbGVzc29ucy1sZWFybmVkLTMv0gGJAWh0dHBzOi8vd3d3LmRvY3dpcmVuZXdzLmNvbS9hYnN0cmFjdHMvdHlwZS1pLWh5cGVyc2Vuc2l0aXZpdHktaW4tZmVycmV0cy1mb2xsb3dpbmctZXhwb3N1cmUtdG8tc2Fycy1jb3YtMi1pbm9jdWx1bS1sZXNzb25zLWxlYXJuZWQtMy9hbXAv</id>
-        <link href="https://www.docwirenews.com/abstracts/type-i-hypersensitivity-in-ferrets-following-exposure-to-sars-cov-2-inoculum-lessons-learned-3/"/>
-        <updated>2021-06-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Type I Hypersensitivity in Ferrets Following Exposure to SARS-CoV-2 Inoculum: Lessons Learned  DocWire News]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Grapevine - Soroptimist breakfast, new Lions president and ferret racing - Shepparton News]]></title>
-        <id>CBMifGh0dHBzOi8vd3d3LnNoZXBwbmV3cy5jb20uYXUvMjAyMS8wNi8yMS80NDg2NTA4L29uLXRoZS1ncmFwZXZpbmUtc29yb3B0aW1pc3QtYnJlYWtmYXN0LW5ldy1saW9ucy1wcmVzaWRlbnQtYW5kLWZlcnJldC1yYWNpbmfSAYEBaHR0cDovL3d3dy5zaGVwcG5ld3MuY29tLmF1LzIwMjEvMDYvMjEvNDQ4NjUwOC9vbi10aGUtZ3JhcGV2aW5lLXNvcm9wdGltaXN0LWJyZWFrZmFzdC1uZXctbGlvbnMtcHJlc2lkZW50LWFuZC1mZXJyZXQtcmFjaW5nP2FtcD0x</id>
-        <link href="https://www.sheppnews.com.au/2021/06/21/4486508/on-the-grapevine-soroptimist-breakfast-new-lions-president-and-ferret-racing"/>
-        <updated>2021-06-22T02:40:44.000Z</updated>
-        <summary type="html"><![CDATA[On the Grapevine - Soroptimist breakfast, new Lions president and ferret racing  Shepparton News]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill Requires Officials To Investigate Uncured Ballots | KJZZ - KJZZ]]></title>
-        <id>CBMicGh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xNjkzMzQ2L2FyaXpvbmEtZ29wLXZvdGluZy1iaWxsLXJlcXVpcmVzLWNvdW50eS1hbmQtc3RhdGUtYXR0b3JuZXlzLWludmVzdGlnYXRlLXVuY3VyZWTSAQA</id>
-        <link href="https://kjzz.org/content/1693346/arizona-gop-voting-bill-requires-county-and-state-attorneys-investigate-uncured"/>
-        <updated>2021-06-22T01:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Bill Requires Officials To Investigate Uncured Ballots | KJZZ  KJZZ]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill Requires Officials To Investigate Uncured Ballots | Fronteras - Fronteras: The Changing America Desk]]></title>
-        <id>CBMieWh0dHBzOi8vZnJvbnRlcmFzZGVzay5vcmcvY29udGVudC8xNjkzMzQ2L2FyaXpvbmEtZ29wLXZvdGluZy1iaWxsLXJlcXVpcmVzLWNvdW50eS1hbmQtc3RhdGUtYXR0b3JuZXlzLWludmVzdGlnYXRlLXVuY3VyZWTSAQA</id>
-        <link href="https://fronterasdesk.org/content/1693346/arizona-gop-voting-bill-requires-county-and-state-attorneys-investigate-uncured"/>
-        <updated>2021-06-22T01:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Bill Requires Officials To Investigate Uncured Ballots | Fronteras  Fronteras: The Changing America Desk]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOP Voting Bill Requires County And State Attorneys To Investigate Uncured Ballots - Fronteras: The Changing America Desk]]></title>
-        <id>CBMieWh0dHBzOi8vZnJvbnRlcmFzZGVzay5vcmcvY29udGVudC8xNjkzMzQ2L2dvcC12b3RpbmctYmlsbC1yZXF1aXJlcy1jb3VudHktYW5kLXN0YXRlLWF0dG9ybmV5cy1pbnZlc3RpZ2F0ZS11bmN1cmVkLWJhbGxvdHPSAQA</id>
-        <link href="https://fronterasdesk.org/content/1693346/gop-voting-bill-requires-county-and-state-attorneys-investigate-uncured-ballots"/>
-        <updated>2021-06-22T01:09:16.000Z</updated>
-        <summary type="html"><![CDATA[GOP Voting Bill Requires County And State Attorneys To Investigate Uncured Ballots  Fronteras: The Changing America Desk]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[theferrets:poopcop:
-
-mymodernmet:
-
-Colorful Cat Backpacks...]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/654643248551346176</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/654643248551346176"/>
-        <updated>2021-06-21T23:00:52.000Z</updated>
-        <summary type="html"><![CDATA[theferrets:
-
-poopcop:
-mymodernmet:
-Colorful Cat Backpacks Feature Bubble Window for Traveling like an Astronaut
-Send your cat to space jail for being an asshole
-Or Ferret(s)!]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Supreme Court Keeps Defendants in the Securities Class-Action Fight - National Review]]></title>
-        <id>CAIiEAiFEgOV7gvKPSYN0Xs6spYqGQgEKhAIACoHCAowh4uHCzDap4UDMIH8lgY</id>
-        <link href="https://www.nationalreview.com/2021/06/the-supreme-court-keeps-defendants-in-the-securities-class-action-fight/"/>
-        <updated>2021-06-21T21:57:30.000Z</updated>
-        <summary type="html"><![CDATA[The Supreme Court Keeps Defendants in the Securities Class-Action Fight  National Review]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In a Devilish Situation, Husky Coach's Son Checks Out the Competition - Sports Illustrated]]></title>
-        <id>CBMiY2h0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3dhc2hpbmd0b24vcmVjcnVpdGluZy9odXNreS1jb2FjaHMtc29uLWNoZWNrcy1vdXQtdGhlLWNvbXBldGl0aW9uLWF0LWFzddIBaGh0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3dhc2hpbmd0b24vLmFtcC9yZWNydWl0aW5nL2h1c2t5LWNvYWNocy1zb24tY2hlY2tzLW91dC10aGUtY29tcGV0aXRpb24tYXQtYXN1</id>
-        <link href="https://www.si.com/college/washington/recruiting/husky-coachs-son-checks-out-the-competition-at-asu"/>
-        <updated>2021-06-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a Devilish Situation, Husky Coach's Son Checks Out the Competition  Sports Illustrated]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bat from Warwick tests positive for Rabies - Valley Breeze]]></title>
-        <id>CBMiYWh0dHBzOi8vd3d3LnZhbGxleWJyZWV6ZS5jb20vMjAyMS0wNi0yMS9jdW1iZXJsYW5kLWxpbmNvbG4tYXJlYS9iYXQtd2Fyd2ljay10ZXN0cy1wb3NpdGl2ZS1yYWJpZXPSAQA</id>
-        <link href="https://www.valleybreeze.com/2021-06-21/cumberland-lincoln-area/bat-warwick-tests-positive-rabies"/>
-        <updated>2021-06-21T19:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Bat from Warwick tests positive for Rabies  Valley Breeze]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Kits Look 'Fur'-tastic at One Month Old - Smithsonian's National Zoo and Conservation Biology Institute]]></title>
-        <id>CBMiUWh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L2FuaW1hbHMvbmV3cy9mZXJyZXQta2l0cy1sb29rLWZ1ci10YXN0aWMtb25lLW1vbnRoLW9sZNIBAA</id>
-        <link href="https://nationalzoo.si.edu/animals/news/ferret-kits-look-fur-tastic-one-month-old"/>
-        <updated>2021-06-21T18:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Ferret Kits Look 'Fur'-tastic at One Month Old  Smithsonian's National Zoo and Conservation Biology Institute]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Kits Look 'Fur'-tastic at One Month Old - Smithsonian's National Zoo and Conservation Biology Institute]]></title>
-        <id>CBMiVWh0dHBzOi8vd3d3Lm5hdGlvbmFsem9vLnNpLmVkdS9hbmltYWxzL25ld3MvZmVycmV0LWtpdHMtbG9vay1mdXItdGFzdGljLW9uZS1tb250aC1vbGTSAQA</id>
-        <link href="https://www.nationalzoo.si.edu/animals/news/ferret-kits-look-fur-tastic-one-month-old"/>
-        <updated>2021-06-21T18:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Ferret Kits Look 'Fur'-tastic at One Month Old  Smithsonian's National Zoo and Conservation Biology Institute]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who will England play in the last 16? - SportingFerret]]></title>
-        <id>CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL3doby13aWxsLWVuZ2xhbmQtcGxheS1pbi10aGUtbGFzdC0xNi_SAQA</id>
-        <link href="https://www.sportingferret.com/2021/06/21/who-will-england-play-in-the-last-16/"/>
-        <updated>2021-06-21T17:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Who will England play in the last 16?  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Weeks Woodstock-Towne Lake Area Events - Woodstock, GA Patch]]></title>
-        <id>CAIiEHGJLF3b0xTvx8iInATq_SMqGQgEKhAIACoHCAow6IOBCzCL_fsCMOSo7AU</id>
-        <link href="https://patch.com/georgia/woodstock/weeks-woodstock-towne-lake-area-events-1"/>
-        <updated>2021-06-21T16:30:26.000Z</updated>
-        <summary type="html"><![CDATA[This Weeks Woodstock-Towne Lake Area Events  Woodstock, GA Patch]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotland star Billy Gilmour tests positive for Covid-19 - SportingFerret]]></title>
-        <id>CBMiYmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL3Njb3RsYW5kLXN0YXItYmlsbHktZ2lsbW91ci10ZXN0cy1wb3NpdGl2ZS1mb3ItY292aWQtMTkv0gEA</id>
-        <link href="https://www.sportingferret.com/2021/06/21/scotland-star-billy-gilmour-tests-positive-for-covid-19/"/>
-        <updated>2021-06-21T16:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Scotland star Billy Gilmour tests positive for Covid-19  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask the Expert: COVID vaccine efficacy, FDA approval and how the virus affects animals - MSUToday]]></title>
-        <id>CBMiVGh0dHBzOi8vbXN1dG9kYXkubXN1LmVkdS9uZXdzLzIwMjEvY292aWQtdmFjY2luZS1lZmZpY2FjeS1mZGEtYXBwcm92YWwtdmlydXMtYW5pbWFsc9IBAA</id>
-        <link href="https://msutoday.msu.edu/news/2021/covid-vaccine-efficacy-fda-approval-virus-animals"/>
-        <updated>2021-06-21T15:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask the Expert: COVID vaccine efficacy, FDA approval and how the virus affects animals  MSUToday]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIL that Snapchat filters work on Fuzzybois 😍💕]]></title>
-        <id>https://prettypeterparkr.tumblr.com/post/654613084395192320</id>
-        <link href="https://prettypeterparkr.tumblr.com/post/654613084395192320"/>
-        <updated>2021-06-21T15:01:25.000Z</updated>
-        <summary type="html"><![CDATA[TIL that Snapchat filters work on Fuzzybois 😍💕]]></summary>
-        <author>
-            <name>Ferret Viewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jon Rahm wins 121st US Open - The Sporting Ferret - SportingFerret]]></title>
-        <id>CBMiRmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL2pvbi1yYWhtLXdpbnMtMTIxc3QtdXMtb3Blbi_SAQA</id>
-        <link href="https://www.sportingferret.com/2021/06/21/jon-rahm-wins-121st-us-open/"/>
-        <updated>2021-06-21T14:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Jon Rahm wins 121st US Open - The Sporting Ferret  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first transgender athlete to compete at the Olympics - SportingFerret]]></title>
-        <id>CBMiY2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL3RoZS1maXJzdC10cmFuc2dlbmRlci1hdGhsZXRlLXRvLWNvbXBldGUtYXQtdGhlLW9seW1waWNzL9IBAA</id>
-        <link href="https://www.sportingferret.com/2021/06/21/the-first-transgender-athlete-to-compete-at-the-olympics/"/>
-        <updated>2021-06-21T14:47:02.000Z</updated>
-        <summary type="html"><![CDATA[The first transgender athlete to compete at the Olympics  SportingFerret]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Florida investment adviser charged with long-running "cherry picking" fraud scheme - South Florida Business Journal - South Florida Business Journal]]></title>
-        <id>CBMicGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzA2LzIxL3NvdXRoLWZsb3JpZGEtaW52ZXN0bWVudC1hZHZpc2VyLWNoYXJnZS13aXRoLWZyYXVkLmh0bWzSAQA</id>
-        <link href="https://www.bizjournals.com/southflorida/news/2021/06/21/south-florida-investment-adviser-charge-with-fraud.html"/>
-        <updated>2021-06-21T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[South Florida investment adviser charged with long-running "cherry picking" fraud scheme - South Florida Business Journal  South Florida Business Journal]]></summary>
-        <author>
-            <name>"ferret" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taliban take key Afghan district, adding to string of wins - KOB]]></title>
-        <id>CBMiW2h0dHBzOi8vd3d3LmtvYi5jb20vbmV3cy90YWxpYmFuLXRha2Uta2V5LWFmZ2hhbi1kaXN0cmljdC1hZGRpbmctdG8tc3RyaW5nLW9mLXdpbnMvNjE0NzU4Mi_SAQA</id>
-        <link href="https://www.kob.com/news/taliban-take-key-afghan-district-adding-to-string-of-wins/6147582/"/>
-        <updated>2021-06-21T14:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Taliban take key Afghan district, adding to string of wins  KOB]]></summary>
         <author>
             <name>"ferret" - Google News</name>
         </author>

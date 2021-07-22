@@ -292,24 +292,6 @@
           "publishedOn": "2021-06-22T15:01:01.000Z",
           "wordCount": 69,
           "title": "Just a lil work in progress of a group portrait of all my babies"
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/654643248551346176",
-          "author": null,
-          "description": "theferrets:\n\npoopcop:\nmymodernmet:\nColorful Cat Backpacks Feature Bubble Window for Traveling like an Astronaut\nSend your cat to space jail for being an asshole\nOr Ferret(s)!",
-          "link": "https://prettypeterparkr.tumblr.com/post/654643248551346176",
-          "publishedOn": "2021-06-21T23:00:52.000Z",
-          "wordCount": 248,
-          "title": "theferrets:poopcop:\n\nmymodernmet:\n\nColorful Cat Backpacks..."
-        },
-        {
-          "id": "https://prettypeterparkr.tumblr.com/post/654613084395192320",
-          "author": null,
-          "description": "TIL that Snapchat filters work on Fuzzybois 😍💕",
-          "link": "https://prettypeterparkr.tumblr.com/post/654613084395192320",
-          "publishedOn": "2021-06-21T15:01:25.000Z",
-          "wordCount": 60,
-          "title": "TIL that Snapchat filters work on Fuzzybois 😍💕"
         }
       ]
     },
@@ -318,6 +300,150 @@
       "feedUrl": "https://news.google.com/rss/search?q=ferret&hl=en-US&gl=US&ceid=US%3Aen",
       "siteUrl": "https://news.google.com/search?q=ferret&hl=en-US&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiMmh0dHBzOi8vd3d3LnN1bmRheXBvc3QuY29tL2ZwL2ZlcnJldC1mb3JldmVyLWhvbWUv0gEA",
+          "author": null,
+          "description": "Pet of the week: Could you give Lectre the ferret a forever home?  The Sunday Post",
+          "link": "https://www.sundaypost.com/fp/ferret-forever-home/",
+          "publishedOn": "2021-07-21T23:05:38.000Z",
+          "wordCount": 1008,
+          "title": "Pet of the week: Could you give Lectre the ferret a forever home? - The Sunday Post"
+        },
+        {
+          "id": "CBMivAFodHRwczovL3d3dy50aW9nYXB1Ymxpc2hpbmcuY29tL25ld3Mvc3RhdGUvcGVubnN5bHZhbmlhLXN0YXRlLWRlcGFydG1lbnQtZGVjZXJ0aWZpZXMtZnVsdG9uLWNvdW50eS12b3RpbmctbWFjaGluZXMtYWZ0ZXItdGhpcmQtcGFydHktYXVkaXQvYXJ0aWNsZV83NzcxYjRmYy0yYmZhLTU2Y2ItYjQ2MS1kMGUwYWI4MzgyM2QuaHRtbNIBAA",
+          "author": null,
+          "description": "Pennsylvania state department decertifies Fulton County voting machines after third-party audit  The Wellsboro Gazette",
+          "link": "https://www.tiogapublishing.com/news/state/pennsylvania-state-department-decertifies-fulton-county-voting-machines-after-third-party-audit/article_7771b4fc-2bfa-56cb-b461-d0e0ab83823d.html",
+          "publishedOn": "2021-07-21T22:11:00.000Z",
+          "wordCount": 1020,
+          "title": "Pennsylvania state department decertifies Fulton County voting machines after third-party audit - The Wellsboro Gazette"
+        },
+        {
+          "id": "CBMikwFodHRwczovL3d3dy53dXNhOS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL2RjL3NtaXRoc29uaWFuLW5hdGlvbmFsLXpvby1ibGFjay1mb290ZWQtZmVycmV0LWtpdHMtd2FzaGluZ3Rvbi1kYy82NS1iZjFjODhlZi1kNmRjLTQ3ODItYmE2NS05YjJkMTVhNzY3YmTSAZcBaHR0cHM6Ly93d3cud3VzYTkuY29tL2FtcC9hcnRpY2xlL25ld3MvbG9jYWwvZGMvc21pdGhzb25pYW4tbmF0aW9uYWwtem9vLWJsYWNrLWZvb3RlZC1mZXJyZXQta2l0cy13YXNoaW5ndG9uLWRjLzY1LWJmMWM4OGVmLWQ2ZGMtNDc4Mi1iYTY1LTliMmQxNWE3NjdiZA",
+          "author": null,
+          "description": "Smithsonian wants YOU to name its newest black-footed ferret kits at National Zoo  WUSA9.com",
+          "link": "https://www.wusa9.com/article/news/local/dc/smithsonian-national-zoo-black-footed-ferret-kits-washington-dc/65-bf1c88ef-d6dc-4782-ba65-9b2d15a767bd",
+          "publishedOn": "2021-07-21T20:18:00.000Z",
+          "wordCount": 1015,
+          "title": "Smithsonian wants YOU to name its newest black-footed ferret kits at National Zoo - WUSA9.com"
+        },
+        {
+          "id": "CBMihQFodHRwczovL3d3dy5hamMuY29tL2xpZmUvYXJ0cy1jdWx0dXJlL2Jvb2stcmV2aWV3LWhvbm9yLWNvZGUtaGFtcGVycy1odW50LWZvci1raWxsZXItaW4tdGhlLWtpbGxpbmctaGlsbHMvSkRDSUhHVDJORkdJM0pONFhQQzdDQlRYRUkv0gGUAWh0dHBzOi8vd3d3LmFqYy5jb20vbGlmZS9hcnRzLWN1bHR1cmUvYm9vay1yZXZpZXctaG9ub3ItY29kZS1oYW1wZXJzLWh1bnQtZm9yLWtpbGxlci1pbi10aGUta2lsbGluZy1oaWxscy9KRENJSEdUMk5GR0kzSk40WFBDN0NCVFhFSS8_b3V0cHV0VHlwZT1hbXA",
+          "author": null,
+          "description": "Book review: Honor code hampers hunt for killer in ‘The Killing Hills’  Atlanta Journal Constitution",
+          "link": "https://www.ajc.com/life/arts-culture/book-review-honor-code-hampers-hunt-for-killer-in-the-killing-hills/JDCIHGT2NFGI3JN4XPC7CBTXEI/",
+          "publishedOn": "2021-07-21T18:29:54.000Z",
+          "wordCount": 1294,
+          "title": "Book review: Honor code hampers hunt for killer in ‘The Killing Hills’ - Atlanta Journal Constitution"
+        },
+        {
+          "id": "CBMihQFodHRwczovL3d3dy5iaHBpb25lZXIuY29tL2xvY2FsX25ld3Mvc3R1cmdpcy1vcmRpbmFuY2UtY2hhbmdlLWNvdWxkLWhlbHAtcGV0LW93bmVycy9hcnRpY2xlXzBiMzE0MmU4LWVhNDgtMTFlYi1iMzJlLWMzNTRiY2EyYTIzYy5odG1s0gEA",
+          "author": null,
+          "description": "Sturgis ordinance change could help pet owners | Local News | bhpioneer.com  Black Hills Pioneer",
+          "link": "https://www.bhpioneer.com/local_news/sturgis-ordinance-change-could-help-pet-owners/article_0b3142e8-ea48-11eb-b32e-c354bca2a23c.html",
+          "publishedOn": "2021-07-21T17:21:00.000Z",
+          "wordCount": 1241,
+          "title": "Sturgis ordinance change could help pet owners | Local News | bhpioneer.com - Black Hills Pioneer"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vd3d3LmJyb29rbHludmVnYW4uY29tL2V2ZXJ5LXRpbWUtaS1kaWUtYW5ub3VuY2UtMjAyMS10aWQtdGhlLXNlYXNvbi1zaG93cy_SAQA",
+          "author": null,
+          "description": "Every Time I Die announce 2021 'Tid The Season shows  Brooklyn Vegan",
+          "link": "https://www.brooklynvegan.com/every-time-i-die-announce-2021-tid-the-season-shows/",
+          "publishedOn": "2021-07-21T17:14:07.000Z",
+          "wordCount": 280,
+          "title": "Every Time I Die announce 2021 'Tid The Season shows - Brooklyn Vegan"
+        },
+        {
+          "id": "CBMieWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ2VvZ3JhcGhpYy5jb20vc2NpZW5jZS9hcnRpY2xlL2Etc3ByaXR6LWluc3RlYWQtb2YtYS1qYWItZnV0dXJlLWNvdmlkLTE5LXZhY2NpbmVzLW1heS1nby11cC15b3VyLW5vc2XSAZEBaHR0cHM6Ly9hcGkubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9kaXN0cmlidXRpb24vcHVibGljL2FtcC9zY2llbmNlL2FydGljbGUvYS1zcHJpdHotaW5zdGVhZC1vZi1hLWphYi1mdXR1cmUtY292aWQtMTktdmFjY2luZXMtbWF5LWdvLXVwLXlvdXItbm9zZQ",
+          "author": null,
+          "description": "A spritz instead of a jab? Future COVID-19 vaccines may go up your nose.  National Geographic",
+          "link": "https://www.nationalgeographic.com/science/article/a-spritz-instead-of-a-jab-future-covid-19-vaccines-may-go-up-your-nose",
+          "publishedOn": "2021-07-21T17:01:14.000Z",
+          "wordCount": 2329,
+          "title": "A spritz instead of a jab? Future COVID-19 vaccines may go up your nose. - National Geographic"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3Lmt0dnEuY29tL25ld3MvbG9jYWwtbmV3cy9hbmltYWwtYml0ZS1yZXBvcnRzLW9uLXRoZS1yaXNlLWluLXllbGxvd3N0b25lLWNvdW50edIBZGh0dHBzOi8vd3d3Lmt0dnEuY29tL25ld3MvbG9jYWwtbmV3cy9hbmltYWwtYml0ZS1yZXBvcnRzLW9uLXRoZS1yaXNlLWluLXllbGxvd3N0b25lLWNvdW50eT9fYW1wPXRydWU",
+          "author": null,
+          "description": "Animal bite reports on the rise in Yellowstone County  KTVQ Billings News",
+          "link": "https://www.ktvq.com/news/local-news/animal-bite-reports-on-the-rise-in-yellowstone-county",
+          "publishedOn": "2021-07-21T16:48:46.000Z",
+          "wordCount": 797,
+          "title": "Animal bite reports on the rise in Yellowstone County - KTVQ Billings News"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzIxL3Rva3lvLW9seW1waWNzLTIwMjEtYS1mdWxsLXByZXZpZXcv0gEA",
+          "author": null,
+          "description": "Tokyo Olympics 2021 - A full preview  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/07/21/tokyo-olympics-2021-a-full-preview/",
+          "publishedOn": "2021-07-21T16:07:30.000Z",
+          "wordCount": 3308,
+          "title": "Tokyo Olympics 2021 - A full preview - SportingFerret"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2dhaXRoZXJzYnVyZy9tb2NvLWFkb3B0YWJsZS1wZXRzLWxpenp5LXNhbW15LXJpZGRpZS1zaXN1LXl1bdIBaGh0dHBzOi8vcGF0Y2guY29tL21hcnlsYW5kL2dhaXRoZXJzYnVyZy9hbXAvMjk3MDQwMTMvbW9jby1hZG9wdGFibGUtcGV0cy1saXp6eS1zYW1teS1yaWRkaWUtc2lzdS1hbmQteXVt",
+          "author": null,
+          "description": "MOCO Adoptable Pets: Lizzy, Sammy, Riddie, Sisu And Yum  Patch.com",
+          "link": "https://patch.com/maryland/gaithersburg/moco-adoptable-pets-lizzy-sammy-riddie-sisu-yum",
+          "publishedOn": "2021-07-21T14:39:42.000Z",
+          "wordCount": 752,
+          "title": "MOCO Adoptable Pets: Lizzy, Sammy, Riddie, Sisu And Yum - Patch.com"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3Lmt3Y2guY29tLzIwMjEvMDcvMjEvYmF0LXRlc3RzLXBvc2l0aXZlLXJhYmllcy1zaGF3bmVlLWNvdW50eS1hZnRlci1kb2ctcHVsbHMtaXQtb3V0LXRyZWUv0gEA",
+          "author": null,
+          "description": "Bat tests positive for rabies in Shawnee County after dog pulls it out of tree  KWCH",
+          "link": "https://www.kwch.com/2021/07/21/bat-tests-positive-rabies-shawnee-county-after-dog-pulls-it-out-tree/",
+          "publishedOn": "2021-07-21T13:54:00.000Z",
+          "wordCount": 716,
+          "title": "Bat tests positive for rabies in Shawnee County after dog pulls it out of tree - KWCH"
+        },
+        {
+          "id": "CBMiowFodHRwczovL3d3dy53eW9taW5nbmV3cy5jb20vb3Bpbmlvbi9ndWVzdF9jb2x1bW4vc25pZmZpbi1oZXktcGhvZW5peC16b28tdGhvc2UtZmVycmV0cy1hcmUtZnJvbS1tZWV0ZWV0c2Utd3lvbWluZy9hcnRpY2xlXzM5YzkwOWQ3LWM3MWQtNWMzNi1hMmFiLTU1NDkwNzcwMjJiMS5odG1s0gEA",
+          "author": null,
+          "description": "Sniffin: Hey Phoenix Zoo, those ferrets are from Meeteetse, Wyoming!  Wyoming Tribune",
+          "link": "https://www.wyomingnews.com/opinion/guest_column/sniffin-hey-phoenix-zoo-those-ferrets-are-from-meeteetse-wyoming/article_39c909d7-c71d-5c36-a2ab-5549077022b1.html",
+          "publishedOn": "2021-07-21T11:00:00.000Z",
+          "wordCount": 1784,
+          "title": "Sniffin: Hey Phoenix Zoo, those ferrets are from Meeteetse, Wyoming! - Wyoming Tribune"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzIxL3RoZS1ncmVhdGVzdC1pdGFsaWFuLWZvb3RiYWxsLXBsYXllcnMtb2YtYWxsLXRpbWUv0gEA",
+          "author": null,
+          "description": "The Greatest Italian Football Players of All Time  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/07/21/the-greatest-italian-football-players-of-all-time/",
+          "publishedOn": "2021-07-21T10:44:02.000Z",
+          "wordCount": 3575,
+          "title": "The Greatest Italian Football Players of All Time - SportingFerret"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMS8wNy8yMS8xMDE4Njg2MzM4L3RoZS1uYXRpb25hbC16b28tbmVlZHMtaGVscC1uYW1pbmctMy1iYWJ5LWJsYWNrLWZvb3RlZC1mZXJyZXRz0gEA",
+          "author": null,
+          "description": "The National Zoo Needs Help Naming 3 Baby Black-Footed Ferrets  NPR",
+          "link": "https://www.npr.org/2021/07/21/1018686338/the-national-zoo-needs-help-naming-3-baby-black-footed-ferrets",
+          "publishedOn": "2021-07-21T10:02:00.000Z",
+          "wordCount": 519,
+          "title": "The National Zoo Needs Help Naming 3 Baby Black-Footed Ferrets - NPR"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA3LzIxL2VmbC1jaGFtcGlvbnNoaXAtcHJlZGljdGlvbnMtMjAyMS0yMi_SAQA",
+          "author": null,
+          "description": "EFL Championship Predictions 2021/22  SportingFerret",
+          "link": "https://www.sportingferret.com/2021/07/21/efl-championship-predictions-2021-22/",
+          "publishedOn": "2021-07-21T09:05:28.000Z",
+          "wordCount": 2341,
+          "title": "EFL Championship Predictions 2021/22 - SportingFerret"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3Lnd1bmMub3JnLzIwMjEtMDctMjEvcmFpbi1kdXJpbmctbW9uc29vbi1zZWFzb24taXMtYmVjb21pbmctbGVzcy1yZWxpYWJsZS1sZXNzLWVmZmVjdGl2ZdIBAA",
+          "author": null,
+          "description": "Rain During Monsoon Season Is Becoming Less Reliable, Less Effective  WUNC",
+          "link": "https://www.wunc.org/2021-07-21/rain-during-monsoon-season-is-becoming-less-reliable-less-effective",
+          "publishedOn": "2021-07-21T09:01:00.000Z",
+          "wordCount": 1899,
+          "title": "Rain During Monsoon Season Is Becoming Less Reliable, Less Effective - WUNC"
+        },
         {
           "id": "CBMiPWh0dHBzOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL2NvbnRlbnQvbmF0aW9uYWwvNTc0ODgwMzMyLmh0bWzSAT5odHRwOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL3RlbXBsYXRlcy9BTVA_Y29udGVudElEPTU3NDg4MDMzMg",
           "author": null,
@@ -911,6 +1037,15 @@
           "publishedOn": "2021-07-15T14:40:00.000Z",
           "wordCount": 1315,
           "title": "Good News Thursday: Fashion show highlights Black inventors, family reunites 24 years after child abduction - The Daily Universe - Universe.byu.edu"
+        },
+        {
+          "id": "CAIiEG9SsIOZr2-lH0xcVuwQI20qGQgEKhAIACoHCAowqrmBCzCGkf0CMMXv7gU",
+          "author": null,
+          "description": "New Dogs, Ferrets, Pets Available For Adoption In Durham-Middlefield Area  Durham, CT Patch",
+          "link": "https://patch.com/connecticut/durham/new-dogs-ferrets-pets-available-adoption-durham-middlefield-area",
+          "publishedOn": "2021-07-15T14:27:12.000Z",
+          "wordCount": 3479,
+          "title": "New Dogs, Ferrets, Pets Available For Adoption In Durham-Middlefield Area - Durham, CT Patch"
         },
         {
           "id": "CBMiemh0dHBzOi8vd3d3LmJlbGZhc3R0ZWxlZ3JhcGguY28udWsvbmV3cy91ay90ZXN0aW5nLW9uLWxpdmluZy1hbmltYWxzLWF0LWxvd2VzdC1sZXZlbC1mb3ItMTYteWVhcnMtZGF0YS1zaG93cy00MDY1Njc4NS5odG1s0gEA",
@@ -2855,195 +2990,6 @@
           "publishedOn": "2021-06-22T14:37:30.000Z",
           "wordCount": 534,
           "title": "Herkimer County news in brief: June 23, 2021 - The Times Telegram"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LndpbHguY29tLzIwMjEvMDYvMjIvYnJlYWtpbmctY3Jld3MtcmVzcG9uZC1sYXJnZS1ob3VzZS1maXJlLWhvcnRvbi1qZXJvbWUv0gEA",
-          "author": null,
-          "description": "UPDATE: House in early morning fire a 'total loss'  WILX-TV",
-          "link": "https://www.wilx.com/2021/06/22/breaking-crews-respond-large-house-fire-horton-jerome/",
-          "publishedOn": "2021-06-22T13:24:00.000Z",
-          "wordCount": 452,
-          "title": "UPDATE: House in early morning fire a 'total loss' - WILX-TV"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vcGFya2luc29uc25ld3N0b2RheS5jb20vMjAyMS8wNi8yMi9saWdodC11c2VkLWNvbnRyb2wtYnJhaW4tYWN0aXZpdHktcmVjZXB0b3JzLWxpbmtlZC1wYXJraW5zb25zL9IBAA",
-          "author": null,
-          "description": "Light Used to Control Brain Activity, Receptors Linked to Parkinson's  Parkinson's News Today",
-          "link": "https://parkinsonsnewstoday.com/2021/06/22/light-used-control-brain-activity-receptors-linked-parkinsons/",
-          "publishedOn": "2021-06-22T13:17:12.000Z",
-          "wordCount": 1693,
-          "title": "Light Used to Control Brain Activity, Receptors Linked to Parkinson's - Parkinson's News Today"
-        },
-        {
-          "id": "CAIiEBZJE08aya8D0OWwsmyc7C0qGQgEKhAIACoHCAow3JyhCzD0prkDMNyY-AY",
-          "author": null,
-          "description": "Designer Brands Inc. Continues strategic Camuto group integration.Debbie Ferret Appointed President of Kamut Group and William L. Jordan Appointed President of Designer Brand, Inc. | Ohio  Ohionewstime.com",
-          "link": "https://ohionewstime.com/designer-brands-inc-continues-strategic-camuto-group-integration-debbie-ferret-appointed-president-of-kamut-group-and-william-l-jordan-appointed-president-of-designer-brand-inc-ohio/187306/",
-          "publishedOn": "2021-06-22T12:05:04.000Z",
-          "wordCount": 1476,
-          "title": "Designer Brands Inc. Continues strategic Camuto group integration.Debbie Ferret Appointed President of Kamut Group and William L. Jordan Appointed President of Designer Brand, Inc. | Ohio - Ohionewstime.com"
-        },
-        {
-          "id": "CBMihQFodHRwczovL3d3dy5kb2N3aXJlbmV3cy5jb20vYWJzdHJhY3RzL3R5cGUtaS1oeXBlcnNlbnNpdGl2aXR5LWluLWZlcnJldHMtZm9sbG93aW5nLWV4cG9zdXJlLXRvLXNhcnMtY292LTItaW5vY3VsdW0tbGVzc29ucy1sZWFybmVkLTMv0gGJAWh0dHBzOi8vd3d3LmRvY3dpcmVuZXdzLmNvbS9hYnN0cmFjdHMvdHlwZS1pLWh5cGVyc2Vuc2l0aXZpdHktaW4tZmVycmV0cy1mb2xsb3dpbmctZXhwb3N1cmUtdG8tc2Fycy1jb3YtMi1pbm9jdWx1bS1sZXNzb25zLWxlYXJuZWQtMy9hbXAv",
-          "author": null,
-          "description": "Type I Hypersensitivity in Ferrets Following Exposure to SARS-CoV-2 Inoculum: Lessons Learned  DocWire News",
-          "link": "https://www.docwirenews.com/abstracts/type-i-hypersensitivity-in-ferrets-following-exposure-to-sars-cov-2-inoculum-lessons-learned-3/",
-          "publishedOn": "2021-06-22T06:00:00.000Z",
-          "wordCount": 952,
-          "title": "Type I Hypersensitivity in Ferrets Following Exposure to SARS-CoV-2 Inoculum: Lessons Learned - DocWire News"
-        },
-        {
-          "id": "CBMifGh0dHBzOi8vd3d3LnNoZXBwbmV3cy5jb20uYXUvMjAyMS8wNi8yMS80NDg2NTA4L29uLXRoZS1ncmFwZXZpbmUtc29yb3B0aW1pc3QtYnJlYWtmYXN0LW5ldy1saW9ucy1wcmVzaWRlbnQtYW5kLWZlcnJldC1yYWNpbmfSAYEBaHR0cDovL3d3dy5zaGVwcG5ld3MuY29tLmF1LzIwMjEvMDYvMjEvNDQ4NjUwOC9vbi10aGUtZ3JhcGV2aW5lLXNvcm9wdGltaXN0LWJyZWFrZmFzdC1uZXctbGlvbnMtcHJlc2lkZW50LWFuZC1mZXJyZXQtcmFjaW5nP2FtcD0x",
-          "author": null,
-          "description": "On the Grapevine - Soroptimist breakfast, new Lions president and ferret racing  Shepparton News",
-          "link": "https://www.sheppnews.com.au/2021/06/21/4486508/on-the-grapevine-soroptimist-breakfast-new-lions-president-and-ferret-racing",
-          "publishedOn": "2021-06-22T02:40:44.000Z",
-          "wordCount": 1719,
-          "title": "On the Grapevine - Soroptimist breakfast, new Lions president and ferret racing - Shepparton News"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8va2p6ei5vcmcvY29udGVudC8xNjkzMzQ2L2FyaXpvbmEtZ29wLXZvdGluZy1iaWxsLXJlcXVpcmVzLWNvdW50eS1hbmQtc3RhdGUtYXR0b3JuZXlzLWludmVzdGlnYXRlLXVuY3VyZWTSAQA",
-          "author": null,
-          "description": "Bill Requires Officials To Investigate Uncured Ballots | KJZZ  KJZZ",
-          "link": "https://kjzz.org/content/1693346/arizona-gop-voting-bill-requires-county-and-state-attorneys-investigate-uncured",
-          "publishedOn": "2021-06-22T01:09:16.000Z",
-          "wordCount": 1024,
-          "title": "Bill Requires Officials To Investigate Uncured Ballots | KJZZ - KJZZ"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vZnJvbnRlcmFzZGVzay5vcmcvY29udGVudC8xNjkzMzQ2L2FyaXpvbmEtZ29wLXZvdGluZy1iaWxsLXJlcXVpcmVzLWNvdW50eS1hbmQtc3RhdGUtYXR0b3JuZXlzLWludmVzdGlnYXRlLXVuY3VyZWTSAQA",
-          "author": null,
-          "description": "Bill Requires Officials To Investigate Uncured Ballots | Fronteras  Fronteras: The Changing America Desk",
-          "link": "https://fronterasdesk.org/content/1693346/arizona-gop-voting-bill-requires-county-and-state-attorneys-investigate-uncured",
-          "publishedOn": "2021-06-22T01:09:16.000Z",
-          "wordCount": 825,
-          "title": "Bill Requires Officials To Investigate Uncured Ballots | Fronteras - Fronteras: The Changing America Desk"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vZnJvbnRlcmFzZGVzay5vcmcvY29udGVudC8xNjkzMzQ2L2dvcC12b3RpbmctYmlsbC1yZXF1aXJlcy1jb3VudHktYW5kLXN0YXRlLWF0dG9ybmV5cy1pbnZlc3RpZ2F0ZS11bmN1cmVkLWJhbGxvdHPSAQA",
-          "author": null,
-          "description": "GOP Voting Bill Requires County And State Attorneys To Investigate Uncured Ballots  Fronteras: The Changing America Desk",
-          "link": "https://fronterasdesk.org/content/1693346/gop-voting-bill-requires-county-and-state-attorneys-investigate-uncured-ballots",
-          "publishedOn": "2021-06-22T01:09:16.000Z",
-          "wordCount": 822,
-          "title": "GOP Voting Bill Requires County And State Attorneys To Investigate Uncured Ballots - Fronteras: The Changing America Desk"
-        },
-        {
-          "id": "CAIiEAiFEgOV7gvKPSYN0Xs6spYqGQgEKhAIACoHCAowh4uHCzDap4UDMIH8lgY",
-          "author": null,
-          "description": "The Supreme Court Keeps Defendants in the Securities Class-Action Fight  National Review",
-          "link": "https://www.nationalreview.com/2021/06/the-supreme-court-keeps-defendants-in-the-securities-class-action-fight/",
-          "publishedOn": "2021-06-21T21:57:30.000Z",
-          "wordCount": 3725,
-          "title": "The Supreme Court Keeps Defendants in the Securities Class-Action Fight - National Review"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3dhc2hpbmd0b24vcmVjcnVpdGluZy9odXNreS1jb2FjaHMtc29uLWNoZWNrcy1vdXQtdGhlLWNvbXBldGl0aW9uLWF0LWFzddIBaGh0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3dhc2hpbmd0b24vLmFtcC9yZWNydWl0aW5nL2h1c2t5LWNvYWNocy1zb24tY2hlY2tzLW91dC10aGUtY29tcGV0aXRpb24tYXQtYXN1",
-          "author": null,
-          "description": "In a Devilish Situation, Husky Coach's Son Checks Out the Competition  Sports Illustrated",
-          "link": "https://www.si.com/college/washington/recruiting/husky-coachs-son-checks-out-the-competition-at-asu",
-          "publishedOn": "2021-06-21T21:00:00.000Z",
-          "wordCount": 532,
-          "title": "In a Devilish Situation, Husky Coach's Son Checks Out the Competition - Sports Illustrated"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LnZhbGxleWJyZWV6ZS5jb20vMjAyMS0wNi0yMS9jdW1iZXJsYW5kLWxpbmNvbG4tYXJlYS9iYXQtd2Fyd2ljay10ZXN0cy1wb3NpdGl2ZS1yYWJpZXPSAQA",
-          "author": null,
-          "description": "Bat from Warwick tests positive for Rabies  Valley Breeze",
-          "link": "https://www.valleybreeze.com/2021-06-21/cumberland-lincoln-area/bat-warwick-tests-positive-rabies",
-          "publishedOn": "2021-06-21T19:51:32.000Z",
-          "wordCount": 592,
-          "title": "Bat from Warwick tests positive for Rabies - Valley Breeze"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L2FuaW1hbHMvbmV3cy9mZXJyZXQta2l0cy1sb29rLWZ1ci10YXN0aWMtb25lLW1vbnRoLW9sZNIBAA",
-          "author": null,
-          "description": "Ferret Kits Look 'Fur'-tastic at One Month Old  Smithsonian's National Zoo and Conservation Biology Institute",
-          "link": "https://nationalzoo.si.edu/animals/news/ferret-kits-look-fur-tastic-one-month-old",
-          "publishedOn": "2021-06-21T18:29:19.000Z",
-          "wordCount": 1160,
-          "title": "Ferret Kits Look 'Fur'-tastic at One Month Old - Smithsonian's National Zoo and Conservation Biology Institute"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vd3d3Lm5hdGlvbmFsem9vLnNpLmVkdS9hbmltYWxzL25ld3MvZmVycmV0LWtpdHMtbG9vay1mdXItdGFzdGljLW9uZS1tb250aC1vbGTSAQA",
-          "author": null,
-          "description": "Ferret Kits Look 'Fur'-tastic at One Month Old  Smithsonian's National Zoo and Conservation Biology Institute",
-          "link": "https://www.nationalzoo.si.edu/animals/news/ferret-kits-look-fur-tastic-one-month-old",
-          "publishedOn": "2021-06-21T18:29:19.000Z",
-          "wordCount": null,
-          "title": "Ferret Kits Look 'Fur'-tastic at One Month Old - Smithsonian's National Zoo and Conservation Biology Institute"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL3doby13aWxsLWVuZ2xhbmQtcGxheS1pbi10aGUtbGFzdC0xNi_SAQA",
-          "author": null,
-          "description": "Who will England play in the last 16?  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/21/who-will-england-play-in-the-last-16/",
-          "publishedOn": "2021-06-21T17:05:17.000Z",
-          "wordCount": 1942,
-          "title": "Who will England play in the last 16? - SportingFerret"
-        },
-        {
-          "id": "CAIiEHGJLF3b0xTvx8iInATq_SMqGQgEKhAIACoHCAow6IOBCzCL_fsCMOSo7AU",
-          "author": null,
-          "description": "This Weeks Woodstock-Towne Lake Area Events  Woodstock, GA Patch",
-          "link": "https://patch.com/georgia/woodstock/weeks-woodstock-towne-lake-area-events-1",
-          "publishedOn": "2021-06-21T16:30:26.000Z",
-          "wordCount": 1224,
-          "title": "This Weeks Woodstock-Towne Lake Area Events - Woodstock, GA Patch"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL3Njb3RsYW5kLXN0YXItYmlsbHktZ2lsbW91ci10ZXN0cy1wb3NpdGl2ZS1mb3ItY292aWQtMTkv0gEA",
-          "author": null,
-          "description": "Scotland star Billy Gilmour tests positive for Covid-19  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/21/scotland-star-billy-gilmour-tests-positive-for-covid-19/",
-          "publishedOn": "2021-06-21T16:22:25.000Z",
-          "wordCount": 1633,
-          "title": "Scotland star Billy Gilmour tests positive for Covid-19 - SportingFerret"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vbXN1dG9kYXkubXN1LmVkdS9uZXdzLzIwMjEvY292aWQtdmFjY2luZS1lZmZpY2FjeS1mZGEtYXBwcm92YWwtdmlydXMtYW5pbWFsc9IBAA",
-          "author": null,
-          "description": "Ask the Expert: COVID vaccine efficacy, FDA approval and how the virus affects animals  MSUToday",
-          "link": "https://msutoday.msu.edu/news/2021/covid-vaccine-efficacy-fda-approval-virus-animals",
-          "publishedOn": "2021-06-21T15:09:53.000Z",
-          "wordCount": 1680,
-          "title": "Ask the Expert: COVID vaccine efficacy, FDA approval and how the virus affects animals - MSUToday"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL2pvbi1yYWhtLXdpbnMtMTIxc3QtdXMtb3Blbi_SAQA",
-          "author": null,
-          "description": "Jon Rahm wins 121st US Open - The Sporting Ferret  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/21/jon-rahm-wins-121st-us-open/",
-          "publishedOn": "2021-06-21T14:59:27.000Z",
-          "wordCount": 1589,
-          "title": "Jon Rahm wins 121st US Open - The Sporting Ferret - SportingFerret"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LnNwb3J0aW5nZmVycmV0LmNvbS8yMDIxLzA2LzIxL3RoZS1maXJzdC10cmFuc2dlbmRlci1hdGhsZXRlLXRvLWNvbXBldGUtYXQtdGhlLW9seW1waWNzL9IBAA",
-          "author": null,
-          "description": "The first transgender athlete to compete at the Olympics  SportingFerret",
-          "link": "https://www.sportingferret.com/2021/06/21/the-first-transgender-athlete-to-compete-at-the-olympics/",
-          "publishedOn": "2021-06-21T14:47:02.000Z",
-          "wordCount": 1559,
-          "title": "The first transgender athlete to compete at the Olympics - SportingFerret"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zb3V0aGZsb3JpZGEvbmV3cy8yMDIxLzA2LzIxL3NvdXRoLWZsb3JpZGEtaW52ZXN0bWVudC1hZHZpc2VyLWNoYXJnZS13aXRoLWZyYXVkLmh0bWzSAQA",
-          "author": null,
-          "description": "South Florida investment adviser charged with long-running \"cherry picking\" fraud scheme - South Florida Business Journal  South Florida Business Journal",
-          "link": "https://www.bizjournals.com/southflorida/news/2021/06/21/south-florida-investment-adviser-charge-with-fraud.html",
-          "publishedOn": "2021-06-21T14:13:00.000Z",
-          "wordCount": 1307,
-          "title": "South Florida investment adviser charged with long-running \"cherry picking\" fraud scheme - South Florida Business Journal - South Florida Business Journal"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3LmtvYi5jb20vbmV3cy90YWxpYmFuLXRha2Uta2V5LWFmZ2hhbi1kaXN0cmljdC1hZGRpbmctdG8tc3RyaW5nLW9mLXdpbnMvNjE0NzU4Mi_SAQA",
-          "author": null,
-          "description": "Taliban take key Afghan district, adding to string of wins  KOB",
-          "link": "https://www.kob.com/news/taliban-take-key-afghan-district-adding-to-string-of-wins/6147582/",
-          "publishedOn": "2021-06-21T14:06:54.000Z",
-          "wordCount": 1425,
-          "title": "Taliban take key Afghan district, adding to string of wins - KOB"
         }
       ]
     }
