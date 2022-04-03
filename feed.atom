@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T02:19:51.063Z</updated>
+    <updated>2022-04-03T02:20:53.090Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iowa State University Police Department’s new drug sniffing ferret. Meet Bueller! Story in comments.]]></title>
+        <id>https://voiceferret.tumblr.com/post/680452259543400448</id>
+        <link href="https://voiceferret.tumblr.com/post/680452259543400448"/>
+        <updated>2022-04-03T10:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Iowa State University Police Department’s new drug sniffing ferret. Meet Bueller! Story in comments.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ULTIMATE Ferret TikTok Compilation 2021 pt. 3 // Went Viral Edition]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/ultimate-ferret-tiktok-compilation-2021.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/ultimate-ferret-tiktok-compilation-2021.html"/>
+        <updated>2022-04-03T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi! Thank you so much for watching! Make sure to SUBSCRIBE, Like, Comment and Share this video. Thank you so much for …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tried to show Goose the snow, his eyes say “pls mama let me back in the warmth”]]></title>
         <id>https://voiceferret.tumblr.com/post/680361662040162304</id>
