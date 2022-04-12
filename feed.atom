@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T02:37:36.966Z</updated>
+    <updated>2022-04-12T02:26:41.416Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New ~items~ For My (picky) Ferrets♡]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/new-items-for-my-picky-ferrets.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/new-items-for-my-picky-ferrets.html"/>
+        <updated>2022-04-12T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[hi WOPET Automatic Pet Feeder, 4L capacity &amp; app-controlled Detachable stainless steel food bowl &amp; food tray Up to 15 Meals …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nugget secretly loves Zeke but she's to Spicy! 🌶🍗💖 #ferretsoftiktok #ferrets #ferret #nuggettheferret #wholesome #ihavetoshowyousomething #maincoon]]></title>
+        <id>https://m.tiktok.com/v/7085423803563527467.html</id>
+        <link href="https://m.tiktok.com/v/7085423803563527467.html"/>
+        <updated>2022-04-12T09:03:06.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret Sneakers now on sale!  #nuggettheferret #vvaffles #merch #ferret #ferrets #ferretsoftiktok #shoes #smallbusiness #etsyshop]]></title>
+        <id>https://m.tiktok.com/v/7085363371318725934.html</id>
+        <link href="https://m.tiktok.com/v/7085363371318725934.html"/>
+        <updated>2022-04-12T05:08:36.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[going on another rode trip with the weenies <3 they love coming along when we camp and travel… and so do i :)]]></title>
+        <id>https://voiceferret.tumblr.com/post/681214783470567424</id>
+        <link href="https://voiceferret.tumblr.com/post/681214783470567424"/>
+        <updated>2022-04-11T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[going on another rode trip with the weenies]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets Sunday Morning. Cinnamon & Sassy.]]></title>
         <id>https://voiceferret.blogspot.com/2022/04/ferrets-sunday-morning-cinnamon-sassy.html</id>
