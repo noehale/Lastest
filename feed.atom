@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T02:26:41.416Z</updated>
+    <updated>2022-04-13T02:30:46.724Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dear @petsmart Please sponsor us 😂 #petsmart @noodleyones  #vvaffles #nuggettheferret #ferrets #ferret #wholesome #ferretsoftiktok #nuggetandwaffles #wafflestheferret]]></title>
+        <id>https://m.tiktok.com/v/7085810690744667435.html</id>
+        <link href="https://m.tiktok.com/v/7085810690744667435.html"/>
+        <updated>2022-04-13T10:04:25.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't underestimate how much love a Sable has to give 🥺💖 #wholesome #ferret #ferrets #nuggettheferret #sothisislove #TrueLove #soulbaby #]]></title>
+        <id>https://m.tiktok.com/v/7085749790461562158.html</id>
+        <link href="https://m.tiktok.com/v/7085749790461562158.html"/>
+        <updated>2022-04-13T06:08:10.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you’ve never seen 3 Day old ferrets well here ya go!!]]></title>
+        <id>https://voiceferret.tumblr.com/post/681305379633840128</id>
+        <link href="https://voiceferret.tumblr.com/post/681305379633840128"/>
+        <updated>2022-04-12T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve never seen 3 Day old ferrets well here ya go!!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good night from  Nugget 💖🍗🌶 #nuggettheferret #ferret #ferrets #ferretsoftiktok #wholesome #goodnight #]]></title>
+        <id>https://m.tiktok.com/v/7085566621137259818.html</id>
+        <link href="https://m.tiktok.com/v/7085566621137259818.html"/>
+        <updated>2022-04-12T18:17:18.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New ~items~ For My (picky) Ferrets♡]]></title>
         <id>https://voiceferret.blogspot.com/2022/04/new-items-for-my-picky-ferrets.html</id>
@@ -802,34 +839,6 @@
         <summary type="html"><![CDATA[Ferrets are known for their smelly bodies. Although they are neutered, their sexual organs still produce hormones that c]]></summary>
         <author>
             <name>Noe Hale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Football (N3) : Lège-Cap-Ferret se saborde face à Tartas https://www.sudouest.fr/sport/football/football-n3-lege-cap-ferret-se-saborde-face-a-tartas-9851277.php?utm_term=Autofeed&utm_campaign=echobox&utm_medium=Social-SOSport&utm_source=Twitter#Echobox=1647179034]]></title>
-        <id>http://nitter.42l.fr/SudOuest_Sport/status/1503004131233091587#m</id>
-        <link href="http://nitter.42l.fr/SudOuest_Sport/status/1503004131233091587#m"/>
-        <updated>2022-03-14T03:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Football (N3) : Lège-Cap-Ferret se saborde face à Tartas sudouest.fr/sport/football/f…]]></summary>
-        <author>
-            <name>@SudOuest_Sport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detection of a Novel & Highly Divergent Coronavirus from Asian Leopard Cats & Chinese Ferret Badgers in Southern China
-
-4/25/2007
-
-#zoonotic #reservoir #circulation_model #phylogenetic_analysis
- #bird #mammal #coronavirus #spike #SARSCoV2_timeline #SARS 
-
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC1933311/?report=reader#__ffn_sectitle]]></title>
-        <id>http://nitter.42l.fr/SixandLaura/status/1502978261504176132#m</id>
-        <link href="http://nitter.42l.fr/SixandLaura/status/1502978261504176132#m"/>
-        <updated>2022-03-14T02:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Detection of a Novel &amp; Highly Divergent Coronavirus from Asian Leopard Cats &amp; Chinese Ferret Badgers in Southern China
-4/25/2007#zoonotic #reservoir #circulation_model #phylogenetic_analysis#bird #mammal #coronavirus #spike #SARSCoV2_timeline #SARS ncbi.nlm.nih.gov/labs/pmc/ar…]]></summary>
-        <author>
-            <name>@SixandLaura</name>
         </author>
     </entry>
 </feed>
