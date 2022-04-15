@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-14T02:31:39.267Z</updated>
+    <updated>2022-04-15T02:49:20.305Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When I went for a walk to the ferret and convenience store in the middle of the night, it was too dangerous and dangerous w]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/when-i-went-for-walk-to-ferret-and.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/when-i-went-for-walk-to-ferret-and.html"/>
+        <updated>2022-04-15T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferret #Midnight #Convenience store It is dangerous to go for a walk to the ferret and convenience store in the middle of the night.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We probably won't try one of these ever again 😅 #ferrets #ferret #ferretsoftiktok #vvaffles #wafflestheferret #nuggetandwaffles #fantaslime #slime #debunked]]></title>
+        <id>https://m.tiktok.com/v/7086573324578360618.html</id>
+        <link href="https://m.tiktok.com/v/7086573324578360618.html"/>
+        <updated>2022-04-15T11:23:49.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nugget may have an addiction, I blame @noodleyones #ferretsoftiktok #nuggettheferret #ferret #ferrets #spicynugget #catsvspickles]]></title>
+        <id>https://m.tiktok.com/v/7086501137297329454.html</id>
+        <link href="https://m.tiktok.com/v/7086501137297329454.html"/>
+        <updated>2022-04-15T06:43:42.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look at the prance! This girl wrecks my heart.]]></title>
+        <id>https://voiceferret.tumblr.com/post/681486574384447488</id>
+        <link href="https://voiceferret.tumblr.com/post/681486574384447488"/>
+        <updated>2022-04-14T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Look at the prance! This girl wrecks my heart.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@noodleyones We hope you like it! 🎨 Also had anyone else tried this? #ferrets #ferret #nuggettheferret #nuggetandwaffles #wafflestheferret #vvaffles #petpainting #ferretsoftiktok #arttherapy]]></title>
+        <id>https://m.tiktok.com/v/7086254182994365738.html</id>
+        <link href="https://m.tiktok.com/v/7086254182994365738.html"/>
+        <updated>2022-04-14T14:45:23.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#vvaffles wanted to try a magic TikTok hack for #waffleswednesday #vvafflesvvenesday #wafflestheferret #nuggettheferret #nuggetandwaffles #ferret #ferrets #tiktokhacks #willitwork]]></title>
         <id>https://m.tiktok.com/v/7086119082302442795.html</id>
@@ -866,16 +913,6 @@
         <summary type="html"><![CDATA[How will a landmark DNA sequencing project help secure the future of life – both ours and every other species’? In his talk at the 2021 Frontiers Forum Speaker Series, Professor Harris A. Lewin, American biologist, professor of evolution and ecology and Robert and Rosabel Osborne Endowed Chair at the University of California, Davis and […]]]></summary>
         <author>
             <name>ncharagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do ferrets stink?]]></title>
-        <id>https://noehale.github.io/why-do-ferrets-stink/</id>
-        <link href="https://noehale.github.io/why-do-ferrets-stink/"/>
-        <updated>2022-03-15T22:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Ferrets are known for their smelly bodies. Although they are neutered, their sexual organs still produce hormones that c]]></summary>
-        <author>
-            <name>Noe Hale</name>
         </author>
     </entry>
 </feed>
