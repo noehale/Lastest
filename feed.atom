@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T02:22:57.558Z</updated>
+    <updated>2022-04-18T02:46:32.819Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret depressed because he can’t use the toilet]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/ferret-depressed-because-he-cant-use.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/ferret-depressed-because-he-cant-use.html"/>
+        <updated>2022-04-18T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke from Butterscotch, a martial ferret born on January 19, 2019.  We will welcome you from Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TYSM WI for the #NuggetMail 💖🌶🍗 She loves it! #ferret #ferrets #nuggettheferret #ferretsoftiktok #seritonin #hotsauce #amazonwishlist #amazonunboxing]]></title>
+        <id>https://m.tiktok.com/v/7087630161906027818.html</id>
+        <link href="https://m.tiktok.com/v/7087630161906027818.html"/>
+        <updated>2022-04-18T07:44:53.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safe to say their new beds are a winner]]></title>
+        <id>https://voiceferret.tumblr.com/post/681758364519284736</id>
+        <link href="https://voiceferret.tumblr.com/post/681758364519284736"/>
+        <updated>2022-04-17T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Safe to say their new beds are a winner]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to figure out what typenof stuff you guys like seeing from us 🤔 #ferretsoftiktok #nuggettheferret #ferrets #ferret #vvaffles #seritonin #wholesome]]></title>
+        <id>https://m.tiktok.com/v/7087389747928223018.html</id>
+        <link href="https://m.tiktok.com/v/7087389747928223018.html"/>
+        <updated>2022-04-17T16:11:57.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[For everyone who asks 😂🌶🍗 #ferret #ferrets #ferretsoftiktok #nuggettheferret]]></title>
         <id>https://m.tiktok.com/v/7087334426107104558.html</id>
@@ -975,26 +1013,6 @@
         <summary type="html"><![CDATA[This is a test post of my ferret’s butt. No need to respond.(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can ferrets slip under doors?]]></title>
-        <id>https://shirleyrchisolm.codeberg.page/can-ferrets-slip-under-doors/</id>
-        <link href="https://shirleyrchisolm.codeberg.page/can-ferrets-slip-under-doors/"/>
-        <updated>2022-03-18T17:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Are you worried about your ferret’s ability to slip under doors? The truth is, ferrets are very adept at squeezing throu]]></summary>
-        <author>
-            <name>Shirley Chisolm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Pet Sitter?]]></title>
-        <id>https://shirleyrchisolm.codeberg.page/how-to-become-a-pet-sitter/</id>
-        <link href="https://shirleyrchisolm.codeberg.page/how-to-become-a-pet-sitter/"/>
-        <updated>2022-03-18T17:47:08.000Z</updated>
-        <summary type="html"><![CDATA[If you are interested in learning how to become a pet sitter, you should know that pets need a lot of care and attention. They require food and water, and you need to be able to deal with their bad behavior.]]></summary>
-        <author>
-            <name>Shirley Chisolm</name>
         </author>
     </entry>
 </feed>
