@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T02:51:07.314Z</updated>
+    <updated>2022-04-20T02:58:54.205Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doing An Easter Egg Hunt For My Ferrets]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/doing-easter-egg-hunt-for-my-ferrets.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/doing-easter-egg-hunt-for-my-ferrets.html"/>
+        <updated>2022-04-20T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[1 like = 1 pair of glasses for Nibbler Thanks for watching!]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soon ... @jenny_true 💖🦆🐻 #onlinerelationship #wholesome #TrueLove #ferret #ferretsoftiktok #ferrets #nuggettheferret #romance]]></title>
+        <id>https://m.tiktok.com/v/7088448419575958826.html</id>
+        <link href="https://m.tiktok.com/v/7088448419575958826.html"/>
+        <updated>2022-04-20T12:40:09.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baby Nugget  😭 This was my first song to her, before I knew she prefered hot sauce! #memories #nuggettheferret #seritonin #wholesome #ferret #ferrets #ferretsoftiktok]]></title>
+        <id>https://m.tiktok.com/v/7088310886204591402.html</id>
+        <link href="https://m.tiktok.com/v/7088310886204591402.html"/>
+        <updated>2022-04-20T03:46:29.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regis, the pancake! 🐺 🥞 #ferretsoftiktok #ferrets #ferret #wholesome #seritonin #nuggettheferret #]]></title>
+        <id>https://m.tiktok.com/v/7088286568800161070.html</id>
+        <link href="https://m.tiktok.com/v/7088286568800161070.html"/>
+        <updated>2022-04-20T02:12:07.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discount Easter eggs make a great substitute for over priced balls]]></title>
+        <id>https://voiceferret.tumblr.com/post/681939558565330944</id>
+        <link href="https://voiceferret.tumblr.com/post/681939558565330944"/>
+        <updated>2022-04-19T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Discount Easter eggs make a great substitute for over priced balls]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mysterious relationship between dad and daughter]]></title>
         <id>https://voiceferret.blogspot.com/2022/04/mysterious-relationship-between-dad-and.html</id>
