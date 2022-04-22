@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-21T02:51:53.743Z</updated>
+    <updated>2022-04-22T03:01:20.550Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Array]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/array_21.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/array_21.html"/>
+        <updated>2022-04-22T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Array]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBviously Skeleton+Cat=🙄 #catsvspickles #ferrets #ferret #ferretsoftiktok #wholesome #nuggettheferret #amazonwishlist @catsvspickles]]></title>
+        <id>https://m.tiktok.com/v/7089188738407894314.html</id>
+        <link href="https://m.tiktok.com/v/7089188738407894314.html"/>
+        <updated>2022-04-22T12:32:57.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nugget has the biggest @catsvspickles collection 💖🌶🍗 #happiness #catsvspickles #nuggettheferret #wholesome #ferret #ferretsoftiktok #ferrets]]></title>
+        <id>https://m.tiktok.com/v/7089075540325354795.html</id>
+        <link href="https://m.tiktok.com/v/7089075540325354795.html"/>
+        <updated>2022-04-22T05:13:42.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quesiberta morning walk @ the beach P. 2 🌊🐚]]></title>
+        <id>https://voiceferret.tumblr.com/post/682120752012673024</id>
+        <link href="https://voiceferret.tumblr.com/post/682120752012673024"/>
+        <updated>2022-04-21T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Quesiberta morning walk @ the beach P. 2 🌊🐚]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TYSM Holly for the #NuggetMail 💖 🌶🍗 #purejoy #ferrets #ferretsoftiktok #ferret #wholesome #nuggettheferret #catsvspickles @catsvspickles #happiness #amazonwishlist]]></title>
+        <id>https://m.tiktok.com/v/7088861116394327342.html</id>
+        <link href="https://m.tiktok.com/v/7088861116394327342.html"/>
+        <updated>2022-04-21T15:21:37.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Array]]></title>
         <id>https://voiceferret.blogspot.com/2022/04/array.html</id>
@@ -1142,16 +1189,6 @@
         <link href="https://www.facebook.com/1785181675027082/posts/3002665166612054/"/>
         <updated>2022-03-24T07:08:14.000Z</updated>
         <summary type="html"><![CDATA[Missing my little Moose man today ❤️ How is everyone doing this week?(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is a test post of my ferret’s butt. No need to respond.]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3002112320000672/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3002112320000672/"/>
-        <updated>2022-03-23T09:58:53.000Z</updated>
-        <summary type="html"><![CDATA[This is a test post of my ferret’s butt. No need to respond.(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
