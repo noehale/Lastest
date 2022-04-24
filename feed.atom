@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-23T02:23:52.950Z</updated>
+    <updated>2022-04-24T02:21:05.026Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Array]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/array_23.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/array_23.html"/>
+        <updated>2022-04-24T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Array]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This song is perfect for ferrets #ferretsoftiktok #ferrets #ferret #nuggettheferret #wholesome #seritonin #pure #businesskisses #kisses]]></title>
+        <id>https://m.tiktok.com/v/7089818064824339758.html</id>
+        <link href="https://m.tiktok.com/v/7089818064824339758.html"/>
+        <updated>2022-04-24T05:15:04.000Z</updated>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oh, sorry, wrong place – here’s a baby shark]]></title>
+        <id>https://voiceferret.tumblr.com/post/682301946478116864</id>
+        <link href="https://voiceferret.tumblr.com/post/682301946478116864"/>
+        <updated>2022-04-23T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[oh, sorry, wrong place – here’s a baby shark]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#maytheoddsbeeverinyourfavor  #ferret #ferrets #ferretsoftiktok #funkopopcollection #FunkoPop #hungergames]]></title>
         <id>https://m.tiktok.com/v/7089584809785249070.html</id>
@@ -1237,16 +1266,6 @@
         <summary type="html"><![CDATA[Bassin d’Arcachon : un projet pour réensabler les plages intérieures du Cap Ferret sudouest.fr/gironde/lege-cap…]]></summary>
         <author>
             <name>@SO_Bordeaux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did I ever tell you Albert’s favorite pastime is kayaking?! What is your ferret’s favorite sport? #ferret #ferrets #ferretsofins...]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3003171843228053/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3003171843228053/"/>
-        <updated>2022-03-25T02:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Did I ever tell you Albert’s favorite pastime is kayaking?! What is your ferret’s favorite sport? #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
