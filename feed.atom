@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T02:47:10.206Z</updated>
+    <updated>2022-05-01T03:05:39.071Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Array]]></title>
+        <id>https://voiceferret.blogspot.com/2022/04/array_30.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/04/array_30.html"/>
+        <updated>2022-05-01T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Array]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is Long Tim. He’s constantly thinking about duck soup and salmon oil and eating toes.]]></title>
+        <id>https://voiceferret.tumblr.com/post/682936125348806656</id>
+        <link href="https://voiceferret.tumblr.com/post/682936125348806656"/>
+        <updated>2022-04-30T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[This is Long Tim. He’s constantly thinking about duck soup and salmon oil and eating toes.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Array]]></title>
         <id>https://voiceferret.blogspot.com/2022/04/array_29.html</id>
@@ -1524,46 +1544,6 @@
         <summary type="html"><![CDATA[Ferret Animals #Shorts.]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret trying to stash ME?!(description in comments)]]></title>
-        <id>https://voiceferret.tumblr.com/post/680271064135286784</id>
-        <link href="https://voiceferret.tumblr.com/post/680271064135286784"/>
-        <updated>2022-04-01T10:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Ferret trying to stash ME?!(description in comments)]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I hope you start the day with the best vibes. <3]]></title>
-        <id>https://voiceferret.tumblr.com/post/680249151421874176</id>
-        <link href="https://voiceferret.tumblr.com/post/680249151421874176"/>
-        <updated>2022-04-01T04:15:44.000Z</updated>
-        <summary type="html"><![CDATA[I hope you start the day with the best vibes.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[polite little chonk]]></title>
-        <id>https://voiceferret.tumblr.com/post/680248026644791296</id>
-        <link href="https://voiceferret.tumblr.com/post/680248026644791296"/>
-        <updated>2022-04-01T03:57:51.000Z</updated>
-        <summary type="html"><![CDATA[polite little chonk]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My tiny terror.]]></title>
-        <id>https://voiceferret.tumblr.com/post/680247950609448960</id>
-        <link href="https://voiceferret.tumblr.com/post/680247950609448960"/>
-        <updated>2022-04-01T03:56:39.000Z</updated>
-        <summary type="html"><![CDATA[My tiny terror.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
