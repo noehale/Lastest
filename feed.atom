@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T02:44:38.218Z</updated>
+    <updated>2022-05-19T02:54:44.602Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Tails – April Week 4]]></title>
+        <id>https://voiceferret.blogspot.com/2022/05/ferret-tails-april-week-4.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/05/ferret-tails-april-week-4.html"/>
+        <updated>2022-05-19T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Finally in this month’s theme we’ll be talking about individual adoption. This happens when someone finds a ferret and hands it on …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finley being Finley]]></title>
+        <id>https://voiceferret.tumblr.com/post/684566872719540224</id>
+        <link href="https://voiceferret.tumblr.com/post/684566872719540224"/>
+        <updated>2022-05-18T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Finley being Finley]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Tails – May Week 2]]></title>
         <id>https://voiceferret.blogspot.com/2022/05/ferret-tails-may-week-2.html</id>
@@ -1242,62 +1262,6 @@ Delighted by the video, viewers on bot…]]></summary>
         <link href="https://voiceferret.tumblr.com/post/681939558565330944"/>
         <updated>2022-04-19T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Discount Easter eggs make a great substitute for over priced balls]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysterious relationship between dad and daughter]]></title>
-        <id>https://voiceferret.blogspot.com/2022/04/mysterious-relationship-between-dad-and.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/04/mysterious-relationship-between-dad-and.html"/>
-        <updated>2022-04-19T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[[Ferret introduction]♀ Chocolate Born April 30, 2018 ♂ Mint ‍❄️ Born March 30, 2019 ☆ LINE stamps on sale …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I appologize in advance 😱 I will probably delete this in an hour #ferret #ferrets #ferretsoftiktok #dontdoitgirl #aprilfools]]></title>
-        <id>https://m.tiktok.com/v/7088091815815187758.html</id>
-        <link href="https://m.tiktok.com/v/7088091815815187758.html"/>
-        <updated>2022-04-19T13:36:20.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Party in the Penthouse 😵‍💫 #nuggettheferret #ferretsoftiktok #ferrets #ferret #wholesome #vvaffles]]></title>
-        <id>https://m.tiktok.com/v/7088039975467453739.html</id>
-        <link href="https://m.tiktok.com/v/7088039975467453739.html"/>
-        <updated>2022-04-19T10:15:11.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes, Noctis has his own bunny slippers💖🦆🐻 #ferret #ferrets #ferretsoftiktok #nuggettheferret #seritonin #wholesome]]></title>
-        <id>https://m.tiktok.com/v/7087976395166469418.html</id>
-        <link href="https://m.tiktok.com/v/7087976395166469418.html"/>
-        <updated>2022-04-19T06:08:27.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time for her semiannual bath aka torture]]></title>
-        <id>https://voiceferret.tumblr.com/post/681848963356311552</id>
-        <link href="https://voiceferret.tumblr.com/post/681848963356311552"/>
-        <updated>2022-04-18T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Time for her semiannual bath aka torture]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ferretmomlife 🤣 #ferretsoftiktok #ferrets #ferret #seritonin #wholesome #happyeaster #nuggettheferret]]></title>
-        <id>https://m.tiktok.com/v/7087743692022287659.html</id>
-        <link href="https://m.tiktok.com/v/7087743692022287659.html"/>
-        <updated>2022-04-18T15:05:26.000Z</updated>
         <author>
             <name>Latest Ferret News</name>
         </author>
