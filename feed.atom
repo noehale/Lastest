@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T02:58:06.136Z</updated>
+    <updated>2022-05-30T02:59:08.260Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《Weasel’s tail》 ⑬ Ferret tip, first bath (ferret bath)]]></title>
+        <id>https://voiceferret.blogspot.com/2022/05/weasels-tail-ferret-tip-first-bath.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/05/weasels-tail-ferret-tip-first-bath.html"/>
+        <updated>2022-05-30T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[In this video, the ferret chips that we recently received will challenge you to take a bath for the first time. I was nervous about the first bath after being greeted …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strike a pose]]></title>
+        <id>https://voiceferret.tumblr.com/post/685563437949059072</id>
+        <link href="https://voiceferret.tumblr.com/post/685563437949059072"/>
+        <updated>2022-05-29T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Strike a pose]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here is the ferret that I met my bird friend for the first time in my life.]]></title>
         <id>https://voiceferret.blogspot.com/2022/05/here-is-ferret-that-i-met-my-bird.html</id>
@@ -898,44 +918,6 @@ Delighted by the video, viewers on bot…]]></summary>
         <link href="https://voiceferret.tumblr.com/post/682936125348806656"/>
         <updated>2022-04-30T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[This is Long Tim. He’s constantly thinking about duck soup and salmon oil and eating toes.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array]]></title>
-        <id>https://voiceferret.blogspot.com/2022/04/array_29.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/04/array_29.html"/>
-        <updated>2022-04-30T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Array]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reply to @samcommisso1 This is now out of my hands and into the hands of TikTok followers 👐 I have given you all the facts #ferretsoftiktok #ferrets #nuggettheferret #ferret #wholesome #nuggetadventures]]></title>
-        <id>https://m.tiktok.com/v/7092070233426365742.html</id>
-        <link href="https://m.tiktok.com/v/7092070233426365742.html"/>
-        <updated>2022-04-30T06:54:38.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[waking the dead 💀]]></title>
-        <id>https://voiceferret.tumblr.com/post/682845528129748992</id>
-        <link href="https://voiceferret.tumblr.com/post/682845528129748992"/>
-        <updated>2022-04-29T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[waking the dead 💀]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I can't with this Nugget 🙄🍗🌶💤 #nuggettheferret #nuggetadventures #ferrets #ferrets #ferretsoftiktok #wholesome @petsmart #petsmart]]></title>
-        <id>https://m.tiktok.com/v/7091835567251442990.html</id>
-        <link href="https://m.tiktok.com/v/7091835567251442990.html"/>
-        <updated>2022-04-29T15:44:00.000Z</updated>
         <author>
             <name>Latest Ferret News</name>
         </author>
