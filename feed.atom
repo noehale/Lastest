@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-30T02:59:08.260Z</updated>
+    <updated>2022-05-31T02:51:27.650Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The ferret that stares at me because I want to spoil the owner is too cute w]]></title>
+        <id>https://voiceferret.blogspot.com/2022/05/the-ferret-that-stares-at-me-because-i.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/05/the-ferret-that-stares-at-me-because-i.html"/>
+        <updated>2022-05-31T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferret #animals #Cute animals The ferret that I missed and spoiled was too cute w I met my bird friend for the first time in my life …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He was returned to the store because he was “too aggressive” so I brought him home and with some time he’s become a total love bug]]></title>
+        <id>https://voiceferret.tumblr.com/post/685654033580589056</id>
+        <link href="https://voiceferret.tumblr.com/post/685654033580589056"/>
+        <updated>2022-05-30T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[He was returned to the store because he was “too aggressive” so I brought him home and with some time he’s become a total love bug]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《Weasel’s tail》 ⑬ Ferret tip, first bath (ferret bath)]]></title>
         <id>https://voiceferret.blogspot.com/2022/05/weasels-tail-ferret-tip-first-bath.html</id>
@@ -898,26 +918,6 @@ Delighted by the video, viewers on bot…]]></summary>
         <id>https://m.tiktok.com/v/7092580655086734635.html</id>
         <link href="https://m.tiktok.com/v/7092580655086734635.html"/>
         <updated>2022-05-01T15:55:19.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array]]></title>
-        <id>https://voiceferret.blogspot.com/2022/04/array_30.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/04/array_30.html"/>
-        <updated>2022-05-01T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Array]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is Long Tim. He’s constantly thinking about duck soup and salmon oil and eating toes.]]></title>
-        <id>https://voiceferret.tumblr.com/post/682936125348806656</id>
-        <link href="https://voiceferret.tumblr.com/post/682936125348806656"/>
-        <updated>2022-04-30T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[This is Long Tim. He’s constantly thinking about duck soup and salmon oil and eating toes.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
