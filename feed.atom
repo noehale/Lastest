@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-06T02:47:48.984Z</updated>
+    <updated>2022-06-07T02:45:00.672Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ferret – domestic ferret]]></title>
+        <id>https://voiceferret.blogspot.com/2022/06/ferret-domestic-ferret.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/06/ferret-domestic-ferret.html"/>
+        <updated>2022-06-07T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[ferret ferret: description Appearance and features Where does the ferret live What does the ferret eat Character and lifestyle …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yin and Yawn]]></title>
+        <id>https://voiceferret.tumblr.com/post/686288214790668288</id>
+        <link href="https://voiceferret.tumblr.com/post/686288214790668288"/>
+        <updated>2022-06-06T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Yin and Yawn]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sable Ferret, Sable Ferret Reproduction and Life Cycle, What is a sable ferret?]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/sable-ferret-sable-ferret-reproduction.html</id>
@@ -715,44 +735,6 @@ Delighted by the video, viewers on bot…]]></summary>
         <summary type="html"><![CDATA[You need to choose a ferre]]></summary>
         <author>
             <name>William Fisher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/array_7.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/array_7.html"/>
-        <updated>2022-05-08T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Array]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TYSM Luca & Family for the #NuggetMail #nuggettheferret #catsvspickles @catsvspickles #ferret #ferrets #ferretsoftiktok #wholesome #amazonwishlist]]></title>
-        <id>https://m.tiktok.com/v/7095134119100927278.html</id>
-        <link href="https://m.tiktok.com/v/7095134119100927278.html"/>
-        <updated>2022-05-08T13:04:04.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This songs gonna be stuck in my head now 💖🍗🌶 #happymothersday #ferretsoftiktok #ferrets #ferret #nuggettheferret #wholesome #SearchForWonderMom]]></title>
-        <id>https://m.tiktok.com/v/7095114498238876971.html</id>
-        <link href="https://m.tiktok.com/v/7095114498238876971.html"/>
-        <updated>2022-05-08T11:47:56.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi there 🙃]]></title>
-        <id>https://voiceferret.tumblr.com/post/683570303875629056</id>
-        <link href="https://voiceferret.tumblr.com/post/683570303875629056"/>
-        <updated>2022-05-07T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Hi there 🙃]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
