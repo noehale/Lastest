@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T02:50:43.056Z</updated>
+    <updated>2022-06-10T02:49:19.216Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wezul Kombat | Bean Arena (Ferret Clips 136)]]></title>
+        <id>https://voiceferret.blogspot.com/2022/06/wezul-kombat-bean-arena-ferret-clips-136.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/06/wezul-kombat-bean-arena-ferret-clips-136.html"/>
+        <updated>2022-06-10T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Amber versus Rusty.. Fight!]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First time I’ve ever seen one of my ferrets in a deep sleep… hated it 😭]]></title>
+        <id>https://voiceferret.tumblr.com/post/686560004328816640</id>
+        <link href="https://voiceferret.tumblr.com/post/686560004328816640"/>
+        <updated>2022-06-09T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[First time I’ve ever seen one of my ferrets in a deep sleep… hated it 😭]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here is a ferret that melts because the bath is too comfortable w]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/here-is-ferret-that-melts-because-bath.html</id>
@@ -638,26 +658,6 @@ Times correspondent Homer Glen’s Ethel Rodriguez loves ferrets so much that sh
         <summary type="html"><![CDATA[There are many different things y]]></summary>
         <author>
             <name>William Fisher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The reaction of a ferret and a cat upon seeing a human baby for the first time]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/the-reaction-of-ferret-and-cat-upon.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/the-reaction-of-ferret-and-cat-upon.html"/>
-        <updated>2022-05-11T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ruby (Female) Standard 2018.11.22 ~ Lucy (Male) Platinum 2020.01.29 ~ Zepi (Female) Cinnamon 2019.06.05 ~ Zeo (Male) Sable 2020.02.23 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Come to bed, daddy” 😂❤️ ferrets are so underrated.]]></title>
-        <id>https://voiceferret.tumblr.com/post/683842095477293056</id>
-        <link href="https://voiceferret.tumblr.com/post/683842095477293056"/>
-        <updated>2022-05-10T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[“Come to bed, daddy” 😂❤️ ferrets are so underrated.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
