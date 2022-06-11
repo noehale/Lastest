@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-10T02:49:19.216Z</updated>
+    <updated>2022-06-11T02:46:11.398Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Tails – June Week 1]]></title>
+        <id>https://voiceferret.blogspot.com/2022/06/ferret-tails-june-week-1.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/06/ferret-tails-june-week-1.html"/>
+        <updated>2022-06-11T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[This month, June, is Pride month. So we’re talking about all the rainbow of colours that ferrets come in! Now, there’s a great deal of …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He knows he’s not allowed and he can’t have it yet he still begs😂]]></title>
+        <id>https://voiceferret.tumblr.com/post/686650601441050624</id>
+        <link href="https://voiceferret.tumblr.com/post/686650601441050624"/>
+        <updated>2022-06-10T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[He knows he’s not allowed and he can’t have it yet he still begs😂]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wezul Kombat | Bean Arena (Ferret Clips 136)]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/wezul-kombat-bean-arena-ferret-clips-136.html</id>
@@ -628,36 +648,6 @@ Times correspondent Homer Glen’s Ethel Rodriguez loves ferrets so much that sh
         <summary type="html"><![CDATA[can you call a ferret a good girl just like a dog?]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If the ferret is too nostalgic, it will follow the owner’s toilet as well.]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/if-ferret-is-too-nostalgic-it-will.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/if-ferret-is-too-nostalgic-it-will.html"/>
-        <updated>2022-05-12T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferret #ferret #Cute animal If the ferret is too nostalgic, it will follow the owner’s toilet as well w The ferret that is too nostalgic …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[this used to be my bed]]></title>
-        <id>https://voiceferret.tumblr.com/post/683932691961364480</id>
-        <link href="https://voiceferret.tumblr.com/post/683932691961364480"/>
-        <updated>2022-05-11T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[this used to be my bed]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can I Use to Get Rid of Pet Urine?]]></title>
-        <id>https://faedc-eaaaa-aaaad-qcafq-cai.ic.fleek.co/what-can-i-use-to-get-rid-of-pet-urine/</id>
-        <link href="https://faedc-eaaaa-aaaad-qcafq-cai.ic.fleek.co/what-can-i-use-to-get-rid-of-pet-urine/"/>
-        <updated>2022-05-11T17:45:27.000Z</updated>
-        <summary type="html"><![CDATA[There are many different things y]]></summary>
-        <author>
-            <name>William Fisher</name>
         </author>
     </entry>
 </feed>
