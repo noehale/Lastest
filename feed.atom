@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T02:46:11.398Z</updated>
+    <updated>2022-06-12T02:55:31.283Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Happy everyday just with a ferret]]></title>
+        <id>https://voiceferret.blogspot.com/2022/06/happy-everyday-just-with-ferret.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/06/happy-everyday-just-with-ferret.html"/>
+        <updated>2022-06-12T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke from Butterscotch, a martial ferret born on January 19, 2019.  Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone else have a ferret/rabbit mix?]]></title>
+        <id>https://voiceferret.tumblr.com/post/686741198944206848</id>
+        <link href="https://voiceferret.tumblr.com/post/686741198944206848"/>
+        <updated>2022-06-11T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Anyone else have a ferret/rabbit mix?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Tails – June Week 1]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/ferret-tails-june-week-1.html</id>
@@ -626,26 +646,6 @@ Times correspondent Homer Glen’s Ethel Rodriguez loves ferrets so much that sh
         <link href="https://voiceferret.tumblr.com/post/684113885360422912"/>
         <updated>2022-05-13T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Bandit doesn’t like when you take his shoe.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m told to rest …]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/im-told-to-rest.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/im-told-to-rest.html"/>
-        <updated>2022-05-13T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[It was Choco who was injured[Introduction of Ferret]♀ Choco Born April 30, 2018 Name (Choco • Chi-chan • Chi Taro • Princess) …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[can you call a ferret a good girl just like a dog?]]></title>
-        <id>https://voiceferret.tumblr.com/post/684023288350064640</id>
-        <link href="https://voiceferret.tumblr.com/post/684023288350064640"/>
-        <updated>2022-05-12T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[can you call a ferret a good girl just like a dog?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
