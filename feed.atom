@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-12T02:55:31.283Z</updated>
+    <updated>2022-06-13T02:55:33.680Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[everyone shame Jinx who bit my ass as I was on the phone setting up a therapist appointment]]></title>
+        <id>https://voiceferret.tumblr.com/post/686831794463621120</id>
+        <link href="https://voiceferret.tumblr.com/post/686831794463621120"/>
+        <updated>2022-06-12T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[everyone shame Jinx who bit my ass as I was on the phone setting up a therapist appointment]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy everyday just with a ferret]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/happy-everyday-just-with-ferret.html</id>
@@ -615,37 +625,6 @@ Times correspondent Homer Glen’s Ethel Rodriguez loves ferrets so much that sh
         <link href="https://voiceferret.tumblr.com/post/684204482172715008"/>
         <updated>2022-05-14T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Murphy 6 years ago. He passed away at 2022 NY. I miss my boy so much ♡]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cozy Pets Boutique – Criss Cross Ferret Hammock]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/cozy-pets-boutique-criss-cross-ferret.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/cozy-pets-boutique-criss-cross-ferret.html"/>
-        <updated>2022-05-14T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Criss-Cross Ferret Hammock by Corrina Avery at Cozy Pets Boutique is one of the many products we use and ferrets love. we are …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎉SURVEY TIME: what are the biggest mistakes people make when owning ferrets? Tag someone who you think would give good input too...]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3038950226316881/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3038950226316881/"/>
-        <updated>2022-05-14T10:57:25.000Z</updated>
-        <summary type="html"><![CDATA[🎉SURVEY TIME: what are the biggest mistakes people make when owning ferrets? Tag someone who you think would give good input too! 
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bandit doesn’t like when you take his shoe.]]></title>
-        <id>https://voiceferret.tumblr.com/post/684113885360422912</id>
-        <link href="https://voiceferret.tumblr.com/post/684113885360422912"/>
-        <updated>2022-05-13T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Bandit doesn’t like when you take his shoe.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
