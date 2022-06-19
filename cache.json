@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://voiceferret.tumblr.com/post/687375376983490560",
+          "author": null,
+          "description": "Playing time ⏲️ 😌",
+          "link": "https://voiceferret.tumblr.com/post/687375376983490560",
+          "publishedOn": "2022-06-18T20:04:02.000Z",
+          "wordCount": 749,
+          "title": "Playing time ⏲️ 😌",
+          "imageUrl": "https://64.media.tumblr.com/9f6b864203c7e1b7f443521efd1a99c6/10e9e34bae7e5afc-08/s1280x1920/130239fef7ea38292d1d2fe73c154d0eb1cc34dd.jpg"
+        },
+        {
           "id": "https://voiceferret.blogspot.com/2022/06/ultimate-ferret-tiktok-compilation-2022.html",
           "author": "voiceferret",
           "description": "Hi! Thank you so much for watching! Make sure to SUBSCRIBE, Like, Comment and Share this video. Thank you so much for …",
@@ -584,29 +594,9 @@
           "wordCount": 58,
           "title": "I’ll be watching you",
           "imageUrl": "https://64.media.tumblr.com/05cd148e25d02ee115d09d28cb876877/0ce73e0c8d86a89a-41/s1280x1920/3b87d914900f24bc014adc2cd0a3d7aa93f69d84.jpg"
-        },
-        {
-          "id": "https://voiceferret.blogspot.com/2022/05/ferret-tails-may-week-3.html",
-          "author": "voiceferret",
-          "description": "This week we’re talking about training Jedi Ferrets in the art of recall. Imagine a Collie being trained to control sheep The Collie …",
-          "link": "https://voiceferret.blogspot.com/2022/05/ferret-tails-may-week-3.html",
-          "publishedOn": "2022-05-20T14:09:00.000Z",
-          "wordCount": 145,
-          "title": "Ferret Tails – May Week 3",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExewhXN_wPm7jNI4DZud4u26zQxwabZGKDp1wIj3HBoBa_lwkkzGbWnnBnB9Mb95uyqGnMMmrVWu_r2mASTYajPV_h1WRLfUZbl6QZczATpHl5qtQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/684657467975712768",
-          "author": null,
-          "description": "Bonnie and her babies",
-          "link": "https://voiceferret.tumblr.com/post/684657467975712768",
-          "publishedOn": "2022-05-19T20:04:02.000Z",
-          "wordCount": 58,
-          "title": "Bonnie and her babies",
-          "imageUrl": "https://64.media.tumblr.com/8783144c0b7cb876a7a78e887cc78fcf/b0c7f2ae7b5076c0-d5/s1280x1920/392a0c2ea7822b264119d20b89c16081f37a3fd7.jpg"
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }

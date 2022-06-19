@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T02:50:27.764Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T03:04:33.967Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Playing time ⏲️ 😌]]></title>
+        <id>https://voiceferret.tumblr.com/post/687375376983490560</id>
+        <link href="https://voiceferret.tumblr.com/post/687375376983490560"/>
+        <updated>2022-06-18T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Playing time ⏲️ 😌]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ULTIMATE Ferret TikTok Compilation 2022 pt. 6]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/ultimate-ferret-tiktok-compilation-2022.html</id>
@@ -586,26 +596,6 @@ Times correspondent Homer Glen’s Ethel Rodriguez loves ferrets so much that sh
         <link href="https://voiceferret.tumblr.com/post/684748064207126528"/>
         <updated>2022-05-20T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I’ll be watching you]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Tails – May Week 3]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/ferret-tails-may-week-3.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/ferret-tails-may-week-3.html"/>
-        <updated>2022-05-20T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[This week we’re talking about training Jedi Ferrets in the art of recall. Imagine a Collie being trained to control sheep The Collie …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonnie and her babies]]></title>
-        <id>https://voiceferret.tumblr.com/post/684657467975712768</id>
-        <link href="https://voiceferret.tumblr.com/post/684657467975712768"/>
-        <updated>2022-05-19T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Bonnie and her babies]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
