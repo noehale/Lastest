@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T02:46:33.012Z</updated>
+    <updated>2022-06-21T02:54:44.322Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A father 💪 who works hard for his daughter]]></title>
+        <id>https://voiceferret.blogspot.com/2022/06/a-father-who-works-hard-for-his-daughter.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/06/a-father-who-works-hard-for-his-daughter.html"/>
+        <updated>2022-06-21T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[In the video, the topic of the deceased mint may be mentioned. If you are new to watching and you are curious about what kind of child “Mint” was, …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Having a bad day? Arin in a hat to the rescue!]]></title>
+        <id>https://voiceferret.tumblr.com/post/687556571680636928</id>
+        <link href="https://voiceferret.tumblr.com/post/687556571680636928"/>
+        <updated>2022-06-20T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Having a bad day? Arin in a hat to the rescue!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It’s Not Cheap: Caring for a sick ferret]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/its-not-cheap-caring-for-sick-ferret.html</id>
@@ -565,27 +585,6 @@
         <link href="https://voiceferret.tumblr.com/post/684929258391486464"/>
         <updated>2022-05-22T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Sleepin on the job]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret association takes a page from Pooh in celebrating their playful pets - The Times of Northwest Indiana]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMitQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vY29tbXVuaXR5L3NvdXRobGFuZC9ob21lci1nbGVuL2ZlcnJldC1hc3NvY2lhdGlvbi10YWtlcy1hLXBhZ2UtZnJvbS1wb29oLWluLWNlbGVicmF0aW5nLXRoZWlyLXBsYXlmdWwtcGV0cy9hcnRpY2xlX2Y3OTU1ODI2LTg5ZjQtNTRiZi05ZTBiLTI1N2E0ZTVkNTRlNy5odG1s0gEA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMitQFodHRwczovL3d3dy5ud2l0aW1lcy5jb20vY29tbXVuaXR5L3NvdXRobGFuZC9ob21lci1nbGVuL2ZlcnJldC1hc3NvY2lhdGlvbi10YWtlcy1hLXBhZ2UtZnJvbS1wb29oLWluLWNlbGVicmF0aW5nLXRoZWlyLXBsYXlmdWwtcGV0cy9hcnRpY2xlX2Y3OTU1ODI2LTg5ZjQtNTRiZi05ZTBiLTI1N2E0ZTVkNTRlNy5odG1s0gEA?oc=5"/>
-        <updated>2022-05-22T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jeff Vorva
-Times correspondent Homer Glen’s Ethel Rodriguez loves ferrets so much that she has eight. It wouldn’t be surprising if she picked up a few more.But, for now, eight it is and after careful study of each ferret’s behavior, Rodriguez gives them suitable names.There's Bradley J. Barrett, Buddy Hart, Esmeralda Farnsworth and Daffodil Darling among them.Rodriguez has taken her love for the unique pets to a level in which she is the treasurer for the Greater Chicago Ferret Association and chair of the Woozlefest, which she brought to Lockport for the 11th time April 23.The fest was held at the Lockport American Legion Post 18 and brought ferret lovers from as far away as Niles, Mich., and Urbana.It was Shelby Altman, who came from Urbana for her first Woozlefest. Though she wore a "Do…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Screenshot from a video I took of the boys play fighting 😂😂😂]]></title>
-        <id>https://voiceferret.tumblr.com/post/684838662196936704</id>
-        <link href="https://voiceferret.tumblr.com/post/684838662196936704"/>
-        <updated>2022-05-21T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Screenshot from a video I took of the boys play fighting 😂😂😂]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
