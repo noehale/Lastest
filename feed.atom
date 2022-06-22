@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-21T02:54:44.322Z</updated>
+    <updated>2022-06-22T02:57:28.525Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Times are tough, so Dextrose took a job at the Home Depot to help contribute to the family budget. The twins Emmett and Winston are applying to Target next week and Ruckus has her heart set on working at Chuck E. Cheese. I’m hoping one of the 13 gets a job at Taco Bell!]]></title>
+        <id>https://voiceferret.tumblr.com/post/687647168402784256</id>
+        <link href="https://voiceferret.tumblr.com/post/687647168402784256"/>
+        <updated>2022-06-21T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Times are tough, so Dextrose took a job at the Home Depot to help contribute to the family budget. The twins Emmett and Winston are applying to Target next week and Ruckus has her heart set on working at Chuck E. Cheese. I’m hoping one of the 13 gets a job at Taco Bell!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A father 💪 who works hard for his daughter]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/a-father-who-works-hard-for-his-daughter.html</id>
@@ -14,6 +24,22 @@
         <summary type="html"><![CDATA[In the video, the topic of the deceased mint may be mentioned. If you are new to watching and you are curious about what kind of child “Mint” was, …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAG someone who loves ‘turtles’ 😂🤦‍♀️ 
+
+Credit: @rigatonitheferret
+
+#ferret #ferrets #ferretsofinstagram #ferretsoftiktok]]></title>
+        <id>https://www.facebook.com/1785181675027082/posts/3065779540300616/</id>
+        <link href="https://www.facebook.com/1785181675027082/posts/3065779540300616/"/>
+        <updated>2022-06-21T02:30:23.000Z</updated>
+        <summary type="html"><![CDATA[TAG someone who loves ‘turtles’ 😂🤦‍♀️ 
+Credit: @rigatonitheferret
+#ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -565,26 +591,6 @@
         <link href="https://voiceferret.tumblr.com/post/685019855606415360"/>
         <updated>2022-05-23T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Oops. Pearl lost her legs!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to: Handling Ferret Boredom]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/how-to-handling-ferret-boredom.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/how-to-handling-ferret-boredom.html"/>
-        <updated>2022-05-23T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferrets can absolutely get bored. There are lots of ways to handle ferret boredom, these are a couple ways I do it. The dollar store …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleepin on the job]]></title>
-        <id>https://voiceferret.tumblr.com/post/684929258391486464</id>
-        <link href="https://voiceferret.tumblr.com/post/684929258391486464"/>
-        <updated>2022-05-22T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Sleepin on the job]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
