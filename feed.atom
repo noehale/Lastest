@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-22T02:57:28.525Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-23T02:59:02.481Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
     <entry>
@@ -571,26 +571,6 @@ Credit: @rigatonitheferret
         <link href="https://voiceferret.tumblr.com/post/685110452313899008"/>
         <updated>2022-05-24T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[it’s the teddy bear ears for me 🥰]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy: Low to High (Ferret Clips 129)]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/energy-low-to-high-ferret-clips-129.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/energy-low-to-high-ferret-clips-129.html"/>
-        <updated>2022-05-24T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Amber and Rusty start out with some of the laziest wrestling I’ve ever seen, and then pick up the tempo as they go on. :D.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oops. Pearl lost her legs!]]></title>
-        <id>https://voiceferret.tumblr.com/post/685019855606415360</id>
-        <link href="https://voiceferret.tumblr.com/post/685019855606415360"/>
-        <updated>2022-05-23T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Oops. Pearl lost her legs!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
