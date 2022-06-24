@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-23T02:59:02.481Z</updated>
+    <updated>2022-06-24T02:58:42.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets | 11 Things You Should Know Before Getting a Ferret – Reasons Ferrets Make Good Pets]]></title>
+        <id>https://voiceferret.blogspot.com/2022/06/ferrets-11-things-you-should-know.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/06/ferrets-11-things-you-should-know.html"/>
+        <updated>2022-06-24T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Video 11 Things You Should Know Before Getting a Ferret – Reasons Ferrets Make Good Pets. While ferrets are not for everyone, …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Times are tough, so Dextrose took a job at the Home Depot to help contribute to the family budget. The twins Emmett and Winston are applying to Target next week and Ruckus has her heart set on working at Chuck E. Cheese. I’m hoping one of the 13 gets a job at Taco Bell!]]></title>
         <id>https://voiceferret.tumblr.com/post/687647168402784256</id>
@@ -551,26 +561,6 @@ Credit: @rigatonitheferret
         <link href="https://voiceferret.tumblr.com/post/685201049414434816"/>
         <updated>2022-05-25T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Cinder being a little poser in the sun]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m sorry that the image quality is bad, but I was able to take a good picture, so]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/im-sorry-that-image-quality-is-bad-but.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/im-sorry-that-image-quality-is-bad-but.html"/>
-        <updated>2022-05-25T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[[Ferret introduction]♀Choco Born April 30, 2018 Called name (Chocolate, Chi-chan, Chitaro, Princess) ♂Mint ‍❄️ March 30, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[it’s the teddy bear ears for me 🥰]]></title>
-        <id>https://voiceferret.tumblr.com/post/685110452313899008</id>
-        <link href="https://voiceferret.tumblr.com/post/685110452313899008"/>
-        <updated>2022-05-24T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[it’s the teddy bear ears for me 🥰]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
