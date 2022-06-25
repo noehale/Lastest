@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T02:58:42.609Z</updated>
+    <updated>2022-06-25T02:59:51.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[California's ferret advocate makes one last legalization push - Los Angeles Times]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyMi0wNi0yNC9vbmUtbWFucy1maWdodC10by1lbmQtY2FsaWZvcm5pYXMtYmFuLW9uLWZlcnJldHPSAQA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyMi0wNi0yNC9vbmUtbWFucy1maWdodC10by1lbmQtY2FsaWZvcm5pYXMtYmFuLW9uLWZlcnJldHPSAQA?oc=5"/>
+        <updated>2022-06-25T03:00:07.000Z</updated>
+        <summary type="html"><![CDATA[LA MESA — Noodle was the first to tumble out of the cage, roused by a series of belly rubs and head scratches.She scampered around the lower-level den, bouncing around a pair of La-Z-Boy recliners, a white-and-gray flash with her long back hunched.Then two more ferrets emerged from the cage. Merlin, living up to his masked “bandit” markings, chased Astro, who shimmied through a crinkly plastic tunnel in a frantic effort to get away. Watching him interact with the humans in his life, Astro gave every indication that he would rather cuddle with them than tussle with his cage-mate.“They’re so much fun and bring me so much joy,” said Pat Wright, who keeps the three ferrets in his San Diego-area home, along with a corgi and an English shepherd. “How anyone can see these pets as a threat is absu…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets | 11 Things You Should Know Before Getting a Ferret – Reasons Ferrets Make Good Pets]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/ferrets-11-things-you-should-know.html</id>
@@ -541,26 +551,6 @@ Credit: @rigatonitheferret
         <link href="https://voiceferret.tumblr.com/post/685291646065278976"/>
         <updated>2022-05-26T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Spa day with little ume]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If the ferret is too nostalgic, you will get along with the owner so much w ②]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/if-ferret-is-too-nostalgic-you-will-get_25.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/if-ferret-is-too-nostalgic-you-will-get_25.html"/>
-        <updated>2022-05-26T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferret #ferret #Cute animals If you miss a ferret too much, you will get along with the owner so much w ⭐️ If you miss a ferret too much …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinder being a little poser in the sun]]></title>
-        <id>https://voiceferret.tumblr.com/post/685201049414434816</id>
-        <link href="https://voiceferret.tumblr.com/post/685201049414434816"/>
-        <updated>2022-05-25T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Cinder being a little poser in the sun]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
