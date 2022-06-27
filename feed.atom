@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-26T03:04:02.181Z</updated>
+    <updated>2022-06-27T03:04:38.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TIDYING THE FERRET ROOM!]]></title>
+        <id>https://voiceferret.blogspot.com/2022/06/tidying-ferret-room.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/06/tidying-ferret-room.html"/>
+        <updated>2022-06-27T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello lovely people! Today’s video is for all you organisation/cleaning lovers out there. I’ll be cleaning/tidying up the ferret room a …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[… Guys I think my ferret has gone into heat]]></title>
         <id>https://voiceferret.tumblr.com/post/688009555817496576</id>
@@ -34,6 +44,19 @@
         <summary type="html"><![CDATA[Video 11 Things You Should Know Before Getting a Ferret – Reasons Ferrets Make Good Pets. While ferrets are not for everyone, …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SURVEY: what percent of the time does your ferret make it in the litter box? Time for #brutalhonesty
+
+#ferret #ferrets #ferretso...]]></title>
+        <id>https://www.facebook.com/1785181675027082/posts/3067187820159788/</id>
+        <link href="https://www.facebook.com/1785181675027082/posts/3067187820159788/"/>
+        <updated>2022-06-23T02:30:38.000Z</updated>
+        <summary type="html"><![CDATA[SURVEY: what percent of the time does your ferret make it in the litter box? Time for #brutalhonesty
+#ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -531,26 +554,6 @@ Credit: @rigatonitheferret
         <link href="https://voiceferret.tumblr.com/post/685472840265416704"/>
         <updated>2022-05-28T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Should I boop?!?!!?!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Periods, Ferrets and Turkeys, All in 1 week | Tenerife Horse Rescue Finca life S2E4]]></title>
-        <id>https://voiceferret.blogspot.com/2022/05/periods-ferrets-and-turkeys-all-in-1.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/05/periods-ferrets-and-turkeys-all-in-1.html"/>
-        <updated>2022-05-28T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[It always surprises us how much happens in 1 week here. New rescues, new sponsors and new land! Really? Support &amp; donate …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinder and Nyx]]></title>
-        <id>https://voiceferret.tumblr.com/post/685382243824304128</id>
-        <link href="https://voiceferret.tumblr.com/post/685382243824304128"/>
-        <updated>2022-05-27T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Cinder and Nyx]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
