@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T03:16:38.115Z</updated>
+    <updated>2022-07-01T03:14:31.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mobile County rabies clinics planned in July for dogs, cats, and ferrets - NBC 15 WPMI]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tanVseS1mb3ItZG9ncy1jYXRzLWFuZC1mZXJyZXRz0gFpaHR0cHM6Ly9teW5iYzE1LmNvbS9hbXAvbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tanVseS1mb3ItZG9ncy1jYXRzLWFuZC1mZXJyZXRz?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tanVseS1mb3ItZG9ncy1jYXRzLWFuZC1mZXJyZXRz0gFpaHR0cHM6Ly9teW5iYzE1LmNvbS9hbXAvbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tanVseS1mb3ItZG9ncy1jYXRzLWFuZC1mZXJyZXRz?oc=5"/>
+        <updated>2022-07-01T05:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Overturned tractor trailer I-10 EB ramp to AL welcome center.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[biscuit- determined to get every last drop of egg off the lick-e-mat]]></title>
+        <id>https://voiceferret.tumblr.com/post/688462541278625792</id>
+        <link href="https://voiceferret.tumblr.com/post/688462541278625792"/>
+        <updated>2022-06-30T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[biscuit- determined to get every last drop of egg off the lick-e-mat]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can cat live with other pets: dog, bird, chinchilla, fish, ferret, rabbit, guinea pigs and chicken?]]></title>
         <id>https://voiceferret.blogspot.com/2022/06/can-cat-live-with-other-pets-dog-bird.html</id>
