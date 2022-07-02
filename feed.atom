@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T03:14:31.722Z</updated>
+    <updated>2022-07-02T03:01:31.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Madness!]]></title>
+        <id>https://voiceferret.blogspot.com/2022/07/ferret-madness.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/07/ferret-madness.html"/>
+        <updated>2022-07-02T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s very hard to be sad when you have 4 ferrets running around being CrAzY! They are pure joy, but a lot of hard work. If you are …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mobile County rabies clinics planned in July for dogs, cats, and ferrets - NBC 15 WPMI]]></title>
         <id>https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tanVseS1mb3ItZG9ncy1jYXRzLWFuZC1mZXJyZXRz0gFpaHR0cHM6Ly9teW5iYzE1LmNvbS9hbXAvbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tanVseS1mb3ItZG9ncy1jYXRzLWFuZC1mZXJyZXRz?oc=5</id>
@@ -34,6 +44,19 @@
         <summary type="html"><![CDATA[We read and respond to all comments. Tell us something interesting!]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do your ferrets enjoy the park? What do they enjoy most?
+
+(Miss ya, Moose man ❤️) #ferret #ferretmom #ferrets]]></title>
+        <id>https://www.facebook.com/1785181675027082/posts/3072417692970134/</id>
+        <link href="https://www.facebook.com/1785181675027082/posts/3072417692970134/"/>
+        <updated>2022-06-30T02:30:26.000Z</updated>
+        <summary type="html"><![CDATA[How do your ferrets enjoy the park? What do they enjoy most?
+(Miss ya, Moose man ❤️) #ferret #ferretmom #ferrets(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
