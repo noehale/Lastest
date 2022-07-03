@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T03:01:31.664Z</updated>
+    <updated>2022-07-03T03:00:02.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Choco was a great sister (laughs)]]></title>
+        <id>https://voiceferret.blogspot.com/2022/07/choco-was-great-sister-laughs.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/07/choco-was-great-sister-laughs.html"/>
+        <updated>2022-07-03T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[In the video, the topic of the deceased mint may come up. If you are new to watching and are curious about what kind of child “Mint” was, please come by all means …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The morning itches]]></title>
+        <id>https://voiceferret.tumblr.com/post/688643733593407488</id>
+        <link href="https://voiceferret.tumblr.com/post/688643733593407488"/>
+        <updated>2022-07-02T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[The morning itches]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Madness!]]></title>
         <id>https://voiceferret.blogspot.com/2022/07/ferret-madness.html</id>
@@ -111,6 +131,16 @@ Credit: @sleepyfurballs
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyMi0wNi0yNC9vbmUtbWFucy1maWdodC10by1lbmQtY2FsaWZvcm5pYXMtYmFuLW9uLWZlcnJldHPSAQA?oc=5"/>
         <updated>2022-06-25T03:00:07.000Z</updated>
         <summary type="html"><![CDATA[LA MESA, Calif. — Noodle was the first to tumble out of the cage, roused by a series of belly rubs and head scratches.She scampered around the lower-level den, bouncing around a pair of La-Z-Boy recliners, a white-and-gray flash with her long back hunched.Then two more ferrets emerged from the cage. Merlin, living up to his masked “bandit” markings, chased Astro, who shimmied through a crinkly plastic tunnel in a frantic effort to get away. Watching him interact with the humans in his life, Astro gave every indication that he would rather cuddle with them than tussle with his cage mate.“They’re so much fun and bring me so much joy,” said Pat Wright, who keeps the three ferrets in his San Diego-area home, along with a corgi and an English shepherd. “How anyone can see these pets as a threat…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ferret enthusiast wants the animal to be a legal pet in California - Los Angeles Times]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvZmVycmV0cy1pbi10aGUtaG91c2UtZW50aHVzaWFzdC13YW50cy1sZWdhbGl6ZS10aGVzZS1hbmltYWxzLWFzLXBldHMtMTIz0gEA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvZmVycmV0cy1pbi10aGUtaG91c2UtZW50aHVzaWFzdC13YW50cy1sZWdhbGl6ZS10aGVzZS1hbmltYWxzLWFzLXBldHMtMTIz0gEA?oc=5"/>
+        <updated>2022-06-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although people often confuse them with rodents, ferrets are in fact mustelids, and illegal as pets in California. Pat Wright, 63, has been taking care of some of them for decades, including Astro, Noodle and Merlin.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
