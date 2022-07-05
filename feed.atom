@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-04T03:08:19.558Z</updated>
+    <updated>2022-07-05T03:05:48.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[40 Day old kit has hiccups ❤️]]></title>
+        <id>https://voiceferret.tumblr.com/post/688824928474152960</id>
+        <link href="https://voiceferret.tumblr.com/post/688824928474152960"/>
+        <updated>2022-07-04T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[40 Day old kit has hiccups ❤️]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets are adorable, but they should not be pets - Los Angeles Times]]></title>
         <id>https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL29waW5pb24vbGV0dGVycy10by10aGUtZWRpdG9yL3N0b3J5LzIwMjItMDctMDMvZmVycmV0cy1hcmUtYWRvcmFibGUtYnV0LXRoZXktc2hvdWxkLW5vdC1iZS1wZXRz0gEA?oc=5</id>
