@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-05T03:05:48.133Z</updated>
+    <updated>2022-07-06T03:11:48.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Baby Ferrets Play]]></title>
+        <id>https://voiceferret.blogspot.com/2022/07/baby-ferrets-play.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/07/baby-ferrets-play.html"/>
+        <updated>2022-07-06T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[In the video, the topic of the deceased mint may come up. If you are new to watching and are curious about what kind of child “Mint” was, please come by all means …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40 Day old kit has hiccups ❤️]]></title>
         <id>https://voiceferret.tumblr.com/post/688824928474152960</id>
