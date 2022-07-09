@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-08T03:03:04.728Z</updated>
+    <updated>2022-07-09T02:47:38.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Ferret】How to apply ear drops and eye drops【ferret#958】]]></title>
+        <id>https://voiceferret.blogspot.com/2022/07/ferrethow-to-apply-ear-drops-and-eye.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/07/ferrethow-to-apply-ear-drops-and-eye.html"/>
+        <updated>2022-07-09T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[It is ear drops and eye drops prescribed at the hospital visit the other day https://youtu.be/BquViHcsWgg I wonder what kind of child “Mint” who became an angel who appeared from time to time …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cinnamon roll time!]]></title>
         <id>https://voiceferret.tumblr.com/post/689096720217505792</id>
@@ -432,16 +442,6 @@ Credit: @rigatonitheferret
         <summary type="html"><![CDATA[First time I’ve ever seen one of my ferrets in a deep sleep… hated it 😭]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here is a ferret that melts because the bath is too comfortable w]]></title>
-        <id>https://voiceferret.blogspot.com/2022/06/here-is-ferret-that-melts-because-bath.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/06/here-is-ferret-that-melts-because-bath.html"/>
-        <updated>2022-06-09T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferret #ferret #animal It feels good to rub the ferret’s ass.]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
