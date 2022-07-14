@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T03:03:37.823Z</updated>
+    <updated>2022-07-14T03:13:40.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tag somebody who needs to learn some ferret safety techniques 
+
+Credit: @sock.puppies]]></title>
+        <id>https://www.facebook.com/1785181675027082/posts/3082726881939215/</id>
+        <link href="https://www.facebook.com/1785181675027082/posts/3082726881939215/"/>
+        <updated>2022-07-14T02:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Tag somebody who needs to learn some ferret safety techniques 
+Credit: @sock.puppies(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gwin likes to go yeet]]></title>
+        <id>https://voiceferret.tumblr.com/post/689640301900529664</id>
+        <link href="https://voiceferret.tumblr.com/post/689640301900529664"/>
+        <updated>2022-07-13T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[gwin likes to go yeet]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
         <id>https://www.facebook.com/1785181675027082/posts/3081978922014011/</id>
@@ -481,26 +504,6 @@ Credit: @rigatonitheferret
         <link href="https://voiceferret.tumblr.com/post/687012989263642624"/>
         <updated>2022-06-14T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Got to see some kits in person and omg, they are such fuzzy lil teddy bears!!!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array]]></title>
-        <id>https://voiceferret.blogspot.com/2022/06/array.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/06/array.html"/>
-        <updated>2022-06-14T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Array]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hear no evil, See no evil, Dook no evil]]></title>
-        <id>https://voiceferret.tumblr.com/post/686922391726784512</id>
-        <link href="https://voiceferret.tumblr.com/post/686922391726784512"/>
-        <updated>2022-06-13T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Hear no evil, See no evil, Dook no evil]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
