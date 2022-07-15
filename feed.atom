@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T03:13:40.036Z</updated>
+    <updated>2022-07-15T03:12:37.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mini bull terrier and Ferrets swimming at pool ! Мини бультерьер купается с хорьками !]]></title>
+        <id>https://voiceferret.blogspot.com/2022/07/mini-bull-terrier-and-ferrets-swimming.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/07/mini-bull-terrier-and-ferrets-swimming.html"/>
+        <updated>2022-07-15T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Bull terrier Teddy swim at pool With ferrets and eat Ice-cream мини буль Тедди купается в бассейне с хорьками и ест …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tag somebody who needs to learn some ferret safety techniques 
 
@@ -484,26 +494,6 @@ Credit: @rigatonitheferret
         <link href="https://voiceferret.tumblr.com/post/687103586959802368"/>
         <updated>2022-06-15T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[That backwards shimmy-shimmy-shimmy]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life will be like this when ferrets are best fond w Trust relationship with ferrets UP art (7) ⭐️🔰]]></title>
-        <id>https://voiceferret.blogspot.com/2022/06/life-will-be-like-this-when-ferrets-are.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/06/life-will-be-like-this-when-ferrets-are.html"/>
-        <updated>2022-06-15T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Life will be like this when the ferret is the best w The art of trusting with the ferret (7) ⭐️ This is the whole walk with the ferret …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Got to see some kits in person and omg, they are such fuzzy lil teddy bears!!!]]></title>
-        <id>https://voiceferret.tumblr.com/post/687012989263642624</id>
-        <link href="https://voiceferret.tumblr.com/post/687012989263642624"/>
-        <updated>2022-06-14T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Got to see some kits in person and omg, they are such fuzzy lil teddy bears!!!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
