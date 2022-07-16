@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T03:12:37.486Z</updated>
+    <updated>2022-07-16T02:54:14.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -486,16 +486,6 @@ Credit: @rigatonitheferret
         <summary type="html"><![CDATA[white ferret pet,white ferret in tree,white ferret baby,all white ferret Our social links. Facebook: …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That backwards shimmy-shimmy-shimmy]]></title>
-        <id>https://voiceferret.tumblr.com/post/687103586959802368</id>
-        <link href="https://voiceferret.tumblr.com/post/687103586959802368"/>
-        <updated>2022-06-15T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[That backwards shimmy-shimmy-shimmy]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
