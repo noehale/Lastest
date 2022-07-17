@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-16T02:54:14.954Z</updated>
+    <updated>2022-07-17T03:06:36.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It’s fishing season….for ferrets]]></title>
+        <id>https://voiceferret.tumblr.com/post/689912093776969728</id>
+        <link href="https://voiceferret.tumblr.com/post/689912093776969728"/>
+        <updated>2022-07-16T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[It’s fishing season….for ferrets]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can people please send me videos of their ferrets dooking/ war dancing for an upcoming Youtube video?! Thank you!!!]]></title>
+        <id>https://www.facebook.com/1785181675027082/posts/3084593105085926/</id>
+        <link href="https://www.facebook.com/1785181675027082/posts/3084593105085926/"/>
+        <updated>2022-07-16T15:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Can people please send me videos of their ferrets dooking/ war dancing for an upcoming Youtube video?! Thank you!!!(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mini bull terrier and Ferrets swimming at pool ! Мини бультерьер купается с хорьками !]]></title>
         <id>https://voiceferret.blogspot.com/2022/07/mini-bull-terrier-and-ferrets-swimming.html</id>
@@ -182,6 +202,16 @@ Credit: Susana Martin
         <summary type="html"><![CDATA[In the video, the topic of the deceased mint may come up. If you are new to watching and are curious about what kind of child “Mint” was, please come by all means …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Classic 'Reverse Ferret' Gets Up Markets' Trousers - Bloomberg]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL29waW5pb24vYXJ0aWNsZXMvMjAyMi0wNy0wNi9hLWNsYXNzaWMtcmV2ZXJzZS1mZXJyZXQtZ2V0cy11cC10aGUtdHJvdXNlcnMtb2YtbWFya2V0cy1pbi1uYXJyYXRpdmUtdS10dXJu0gEA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL29waW5pb24vYXJ0aWNsZXMvMjAyMi0wNy0wNi9hLWNsYXNzaWMtcmV2ZXJzZS1mZXJyZXQtZ2V0cy11cC10aGUtdHJvdXNlcnMtb2YtbWFya2V0cy1pbi1uYXJyYXRpdmUtdS10dXJu0gEA?oc=5"/>
+        <updated>2022-07-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To continue, please click the box below to let us know you're not a robot.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -476,16 +506,6 @@ Credit: @rigatonitheferret
         <summary type="html"><![CDATA[Sleeping babies]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[white ferret pet,white ferret in tree,white ferret baby,all white ferret]]></title>
-        <id>https://voiceferret.blogspot.com/2022/06/white-ferret-petwhite-ferret-in.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/06/white-ferret-petwhite-ferret-in.html"/>
-        <updated>2022-06-17T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[white ferret pet,white ferret in tree,white ferret baby,all white ferret Our social links. Facebook: …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
