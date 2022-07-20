@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://voiceferret.tumblr.com/post/690183886122205184",
+          "author": null,
+          "description": "Keeping Houdini cool in the heat",
+          "link": "https://voiceferret.tumblr.com/post/690183886122205184",
+          "publishedOn": "2022-07-19T20:04:05.000Z",
+          "wordCount": 769,
+          "title": "Keeping Houdini cool in the heat",
+          "imageUrl": "https://64.media.tumblr.com/a26c84e4a10b7edf8c5d1fc6ce339fd0/212c89c8592719ef-00/s1280x1920/dcbb23fc6b551b81feff2d0ea7dccee3234e386b.jpg"
+        },
+        {
+          "id": "https://www.facebook.com/1785181675027082/posts/3086374621574441/",
+          "author": "The Modern Ferret",
+          "description": "🧐 Surprisingly impressive? #ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/1785181675027082/posts/3086374621574441/",
+          "publishedOn": "2022-07-19T02:30:21.000Z",
+          "wordCount": 90,
+          "title": "🧐 Surprisingly impressive? #ferret #ferrets #ferretsofinstagram #ferretsoftiktok",
+          "imageUrl": null
+        },
+        {
           "id": "https://voiceferret.blogspot.com/2022/07/i-was-finally-able-to-shoot-sleeping.html",
           "author": "voiceferret",
           "description": "If you are curious about what kind of child “Mint” who became an angel who appears from time to time, please watch the past videos! Insanely funny kid …",
@@ -424,16 +444,6 @@
           "wordCount": 784,
           "title": "Having a bad day? Arin in a hat to the rescue!",
           "imageUrl": "https://64.media.tumblr.com/b507684cfeb48ae64bb9c59d575d0f88/97bb9f794b7c2771-ec/s1280x1920/7f6c8509d697f756fef1ae23da0b217041d16fa7.jpg"
-        },
-        {
-          "id": "https://voiceferret.blogspot.com/2022/06/its-not-cheap-caring-for-sick-ferret.html",
-          "author": "voiceferret",
-          "description": "It’s not cheap caring for a sick ferret, but I’d do it again! Ferrets are amazing animals and they make wonder pets. They can be a bit …",
-          "link": "https://voiceferret.blogspot.com/2022/06/its-not-cheap-caring-for-sick-ferret.html",
-          "publishedOn": "2022-06-20T14:09:00.000Z",
-          "wordCount": 1841,
-          "title": "It’s Not Cheap: Caring for a sick ferret",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExcM6AdNhf9ZU5JfdkOmPrsxlE2_Bx1PmXe4CkVG_4UHlA8MHfIoItZ9Bbb40wqUpA7uNt7ZoKeBRX0cb0jCuCIvJWLvEE7Ho9Kjix4xpQ8bJV3KA=w1200-h630-n-k-no-nu"
         }
       ]
     }
