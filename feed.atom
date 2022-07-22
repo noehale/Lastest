@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T03:04:30.329Z</updated>
+    <updated>2022-07-22T03:08:33.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -450,16 +450,6 @@ Credit: @sleepyfurballs
 #ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Times are tough, so Dextrose took a job at the Home Depot to help contribute to the family budget. The twins Emmett and Winston are applying to Target next week and Ruckus has her heart set on working at Chuck E. Cheese. I’m hoping one of the 13 gets a job at Taco Bell!]]></title>
-        <id>https://voiceferret.tumblr.com/post/687647168402784256</id>
-        <link href="https://voiceferret.tumblr.com/post/687647168402784256"/>
-        <updated>2022-06-21T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Times are tough, so Dextrose took a job at the Home Depot to help contribute to the family budget. The twins Emmett and Winston are applying to Target next week and Ruckus has her heart set on working at Chuck E. Cheese. I’m hoping one of the 13 gets a job at Taco Bell!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
