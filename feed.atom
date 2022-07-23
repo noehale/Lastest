@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T03:08:33.233Z</updated>
+    <updated>2022-07-23T02:58:38.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘scuze me, do you wanna play?]]></title>
+        <id>https://voiceferret.tumblr.com/post/690455674415661056</id>
+        <link href="https://voiceferret.tumblr.com/post/690455674415661056"/>
+        <updated>2022-07-22T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[‘scuze me, do you wanna play?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keeping Houdini cool in the heat]]></title>
         <id>https://voiceferret.tumblr.com/post/690183886122205184</id>
@@ -437,19 +447,6 @@ Credit: @sleepyfurballs
         <summary type="html"><![CDATA[Video 11 Things You Should Know Before Getting a Ferret – Reasons Ferrets Make Good Pets. While ferrets are not for everyone, …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SURVEY: what percent of the time does your ferret make it in the litter box? Time for #brutalhonesty
-
-#ferret #ferrets #ferretso...]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3067187820159788/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3067187820159788/"/>
-        <updated>2022-06-23T02:30:38.000Z</updated>
-        <summary type="html"><![CDATA[SURVEY: what percent of the time does your ferret make it in the litter box? Time for #brutalhonesty
-#ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
