@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-28T03:00:15.256Z</updated>
+    <updated>2022-07-29T03:13:25.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lulu]]></title>
+        <id>https://voiceferret.tumblr.com/post/690999254777462784</id>
+        <link href="https://voiceferret.tumblr.com/post/690999254777462784"/>
+        <updated>2022-07-28T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Lulu]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zoo to You: It's ferret fun-day!]]></title>
         <id>https://voiceferret.blogspot.com/2022/07/zoo-to-you-its-ferret-fun-day.html</id>
@@ -411,16 +421,6 @@ Credit: @get_your_ferret_out
 (Miss ya, Moose man ❤️) #ferret #ferretmom #ferrets(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing better than sleeping in the toilette after pooping right next to it]]></title>
-        <id>https://voiceferret.tumblr.com/post/688281346397929472</id>
-        <link href="https://voiceferret.tumblr.com/post/688281346397929472"/>
-        <updated>2022-06-28T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Nothing better than sleeping in the toilette after pooping right next to it]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
