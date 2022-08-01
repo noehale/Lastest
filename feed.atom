@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-31T03:08:34.458Z</updated>
+    <updated>2022-08-01T03:20:27.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[i guess part of his recovery includes stealing my snacks!]]></title>
+        <id>https://voiceferret.tumblr.com/post/691271045815156736</id>
+        <link href="https://voiceferret.tumblr.com/post/691271045815156736"/>
+        <updated>2022-07-31T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[i guess part of his recovery includes stealing my snacks!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animal theft: 3 suspects in custody after 2 ferrets were stolen from the Pet Supermarket in northwest Houston, deputies say - KTRK-TV]]></title>
         <id>https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vYWJjMTMuY29tL2ZlcnJldHMtc3RvbGVuLXBldC1zdXBlcm1hcmtldC1zdXNwZWN0cy1pbi1jdXN0b2R5LWFuaW1hbC10aGVmdC8xMjA4NDA5NS_SAV9odHRwczovL2FiYzEzLmNvbS9hbXAvZmVycmV0cy1zdG9sZW4tcGV0LXN1cGVybWFya2V0LXN1c3BlY3RzLWluLWN1c3RvZHktYW5pbWFsLXRoZWZ0LzEyMDg0MDk1Lw?oc=5</id>
@@ -408,16 +418,6 @@ Credit: @get_your_ferret_out
         <summary type="html"><![CDATA[The morning itches]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Madness!]]></title>
-        <id>https://voiceferret.blogspot.com/2022/07/ferret-madness.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/07/ferret-madness.html"/>
-        <updated>2022-07-02T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s very hard to be sad when you have 4 ferrets running around being CrAzY! They are pure joy, but a lot of hard work. If you are …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
