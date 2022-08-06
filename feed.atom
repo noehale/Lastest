@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T03:05:57.194Z</updated>
+    <updated>2022-08-06T02:48:38.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -404,29 +404,6 @@ Credit: Susana Martin
         <summary type="html"><![CDATA[cinnamon roll time!]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysis | A Classic 'Reverse Ferret' Gets Up Markets' Trousers - The Washington Post]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYnVzaW5lc3MvZW5lcmd5L2EtY2xhc3NpYy1yZXZlcnNlLWZlcnJldC1nZXRzLXVwbWFya2V0cy10cm91c2Vycy8yMDIyLzA3LzA2LzkzZTc4YjEwLWZjZmQtMTFlYy1iMzlkLTcxMzA5MTY4MDE0Yl9zdG9yeS5odG1s0gEA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYnVzaW5lc3MvZW5lcmd5L2EtY2xhc3NpYy1yZXZlcnNlLWZlcnJldC1nZXRzLXVwbWFya2V0cy10cm91c2Vycy8yMDIyLzA3LzA2LzkzZTc4YjEwLWZjZmQtMTFlYy1iMzlkLTcxMzA5MTY4MDE0Yl9zdG9yeS5odG1s0gEA?oc=5"/>
-        <updated>2022-07-07T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[To capture what’s happening in global markets, think of a ferret in a newsroom. Back in the heyday of Fleet Street, Kelvin MacKenzie, one of Rupert Murdoch’s favorite tabloid editors, would yell, “Ferret up trousers!” when a big story broke and everyone had to drop what they were doing to work on it. If that story then turned out not to be true, even closer to deadline and requiring desperate work, he’d shout, “Reverse ferret!” Markets are executing a classic reverse ferret.The key, as I’ve often said recently, is a change in the belief on whether the economy can withstand the higher rates that the Federal Reserve says that it’s going to impose in a bid to quell inflation. Three weeks ago, there was confidence the Fed would have to hike until the pips squeaked. Now, there’s a belief that i…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Me. After crouching over a keyboard all day 😅
-
-#ferret #ferrets #ferretsofinstagram #ferretsoftiktok]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3077258229152747/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3077258229152747/"/>
-        <updated>2022-07-07T02:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Me. After crouching over a keyboard all day 😅
-#ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
