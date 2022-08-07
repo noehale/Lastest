@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-06T02:48:38.365Z</updated>
+    <updated>2022-08-07T02:55:23.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[am snek]]></title>
+        <id>https://voiceferret.tumblr.com/post/691814628820418560</id>
+        <link href="https://voiceferret.tumblr.com/post/691814628820418560"/>
+        <updated>2022-08-06T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[am snek]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ULTIMATE Ferret TikTok Compilation 2021   FUNNIEST Trending   Went viral Tiktoks PT 9]]></title>
         <id>https://voiceferret.blogspot.com/2022/08/ultimate-ferret-tiktok-compilation-2021.html</id>
@@ -392,16 +402,6 @@ Credit: Susana Martin
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3Lm5iYzE1LmNvbS8yMDIyLzA3LzA4L21pZGRsZXRvbi1wb2xpY2Utc2Vlay1yZXVuaXRlLWZlcnJldHMtb3duZXJzL9IBXWh0dHBzOi8vd3d3Lm5iYzE1LmNvbS8yMDIyLzA3LzA4L21pZGRsZXRvbi1wb2xpY2Utc2Vlay1yZXVuaXRlLWZlcnJldHMtb3duZXJzLz9vdXRwdXRUeXBlPWFtcA?oc=5"/>
         <updated>2022-07-09T10:47:00.000Z</updated>
         <summary type="html"><![CDATA[MIDDLETON, Wis. (WMTV) - Middleton Police are asking local residents if they or anyone they know are missing their furry friends after finding three ferrets this week, they announced in a Facebook Post.One of these slinky animals was found near Maywood Avenue and Allen Boulevard this week, and two others were recovered from the same area later, officials said.Though they might look similar to minks, these are domesticated ferrets that have become more popular in the US as pets in the past few years, according to the Humane Society of the United States.If you are missing a ferret, The Middleton Police Department asks that you email tomkarman@sbcglobal.net or contact The Dane County Humane Society.Copyright 2022 WMTV. All rights reserved.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cinnamon roll time!]]></title>
-        <id>https://voiceferret.tumblr.com/post/689096720217505792</id>
-        <link href="https://voiceferret.tumblr.com/post/689096720217505792"/>
-        <updated>2022-07-07T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[cinnamon roll time!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
