@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-07T02:55:23.551Z</updated>
+    <updated>2022-08-08T03:00:12.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Did you know that if a ferret is too fond, he will sleep with his owner dressed like this? ww]]></title>
+        <id>https://voiceferret.blogspot.com/2022/08/did-you-know-that-if-ferret-is-too-fond.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/08/did-you-know-that-if-ferret-is-too-fond.html"/>
+        <updated>2022-08-08T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[If the ferret is nostalgic, you can sleep with the owner dressed like this ww If you come home earlier than usual from work, the best happiness (ferret) …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[am snek]]></title>
         <id>https://voiceferret.tumblr.com/post/691814628820418560</id>
@@ -382,26 +392,6 @@ Credit: Susana Martin
         <link href="https://voiceferret.tumblr.com/post/689368510651088896"/>
         <updated>2022-07-10T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Sleepy girl]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Ferret】How to apply ear drops and eye drops【ferret#958】]]></title>
-        <id>https://voiceferret.blogspot.com/2022/07/ferrethow-to-apply-ear-drops-and-eye.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/07/ferrethow-to-apply-ear-drops-and-eye.html"/>
-        <updated>2022-07-09T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[It is ear drops and eye drops prescribed at the hospital visit the other day https://youtu.be/BquViHcsWgg I wonder what kind of child “Mint” who became an angel who appeared from time to time …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Middleton Police seek to reunite ferrets, owner(s) - WMTV – NBC15]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3Lm5iYzE1LmNvbS8yMDIyLzA3LzA4L21pZGRsZXRvbi1wb2xpY2Utc2Vlay1yZXVuaXRlLWZlcnJldHMtb3duZXJzL9IBXWh0dHBzOi8vd3d3Lm5iYzE1LmNvbS8yMDIyLzA3LzA4L21pZGRsZXRvbi1wb2xpY2Utc2Vlay1yZXVuaXRlLWZlcnJldHMtb3duZXJzLz9vdXRwdXRUeXBlPWFtcA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3Lm5iYzE1LmNvbS8yMDIyLzA3LzA4L21pZGRsZXRvbi1wb2xpY2Utc2Vlay1yZXVuaXRlLWZlcnJldHMtb3duZXJzL9IBXWh0dHBzOi8vd3d3Lm5iYzE1LmNvbS8yMDIyLzA3LzA4L21pZGRsZXRvbi1wb2xpY2Utc2Vlay1yZXVuaXRlLWZlcnJldHMtb3duZXJzLz9vdXRwdXRUeXBlPWFtcA?oc=5"/>
-        <updated>2022-07-09T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[MIDDLETON, Wis. (WMTV) - Middleton Police are asking local residents if they or anyone they know are missing their furry friends after finding three ferrets this week, they announced in a Facebook Post.One of these slinky animals was found near Maywood Avenue and Allen Boulevard this week, and two others were recovered from the same area later, officials said.Though they might look similar to minks, these are domesticated ferrets that have become more popular in the US as pets in the past few years, according to the Humane Society of the United States.If you are missing a ferret, The Middleton Police Department asks that you email tomkarman@sbcglobal.net or contact The Dane County Humane Society.Copyright 2022 WMTV. All rights reserved.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
