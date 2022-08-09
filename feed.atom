@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T03:00:12.346Z</updated>
+    <updated>2022-08-09T03:03:12.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Zoo welcomes ferret kits, asks for help naming them - The Arizona Republic]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvcGhvZW5peC8yMDIyLzA4LzA4L3Bob2VuaXgtem9vLXdlbGNvbWVzLWZlcnJldC1raXRzLWFza3MtaGVscC1uYW1pbmctdGhlbS8xMDI3MjIxNzAwMi_SAQA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvcGhvZW5peC8yMDIyLzA4LzA4L3Bob2VuaXgtem9vLXdlbGNvbWVzLWZlcnJldC1raXRzLWFza3MtaGVscC1uYW1pbmctdGhlbS8xMDI3MjIxNzAwMi_SAQA?oc=5"/>
+        <updated>2022-08-09T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[The Arizona Center for Nature Conservation/Phoenix Zoo welcomed five more litters of the highly-endangered black-footed ferrets this May and June at its Elaine V. Johnson Conservation Center. There are 21 baby ferrets, or kits, in all born to mothers Akoya, Roseanne, Vermillion, Lady Mary and Canneles, and some will be identified as candidates to be released into the wild. According to Tara Harris, the director of conservation and science for the Phoenix Zoo who oversees its breeding and recovery programs, there are only a few hundred of the animals living in the wild today. Black-footed ferrets are one of the most endangered animals in North America and were actually thought to be extinct, though they were rediscovered in 1981 in Wyoming, according to the Black-footed Ferret Connection. T…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did you know that if a ferret is too fond, he will sleep with his owner dressed like this? ww]]></title>
         <id>https://voiceferret.blogspot.com/2022/08/did-you-know-that-if-ferret-is-too-fond.html</id>
