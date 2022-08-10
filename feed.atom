@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-09T03:03:12.059Z</updated>
+    <updated>2022-08-10T02:30:00.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beware the Monster]]></title>
+        <id>https://voiceferret.tumblr.com/post/692086420440055808</id>
+        <link href="https://voiceferret.tumblr.com/post/692086420440055808"/>
+        <updated>2022-08-09T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Beware the Monster]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phoenix Zoo welcomes ferret kits, asks for help naming them - The Arizona Republic]]></title>
         <id>https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvcGhvZW5peC8yMDIyLzA4LzA4L3Bob2VuaXgtem9vLXdlbGNvbWVzLWZlcnJldC1raXRzLWFza3MtaGVscC1uYW1pbmctdGhlbS8xMDI3MjIxNzAwMi_SAQA?oc=5</id>
@@ -394,16 +404,6 @@ Credit: Susana Martin
 #ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleepy girl]]></title>
-        <id>https://voiceferret.tumblr.com/post/689368510651088896</id>
-        <link href="https://voiceferret.tumblr.com/post/689368510651088896"/>
-        <updated>2022-07-10T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Sleepy girl]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
