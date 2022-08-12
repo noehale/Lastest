@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-11T02:49:17.374Z</updated>
+    <updated>2022-08-12T02:56:14.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -342,52 +342,6 @@ Credit: @sock.puppies(Feed generated with FetchRSS)]]></summary>
         <summary type="html"><![CDATA[gwin likes to go yeet]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3081978922014011/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3081978922014011/"/>
-        <updated>2022-07-13T02:48:24.000Z</updated>
-        <summary type="html"><![CDATA[#oxbowsponsored I am thrilled to help @oxbowanimalhealth introduce their new #oxbowferret product line through an epic GIVEAWAY, centering around a message I hold dear to my heart: How has your ferret been a great FRIEND to you during their lifetime? I want to hear your stories in the comment section below 
-
-If you’d like to be entered to WIN one of two gift baskets full of ferret products from Oxbow, please follow these rules (10 winners will be chosen):
-1. Tell us in the comments how your ferret has been there for you during an important time in your life
-2. Follow @themodernferret and @OxbowAnimalHealth
-3. Visit the link in bio to select one of two baskets to complete your entry!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3081976812014222/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3081976812014222/"/>
-        <updated>2022-07-13T02:45:57.000Z</updated>
-        <summary type="html"><![CDATA[#oxbowsponsored I am thrilled to help @oxbowanimalhealth introduce their new #oxbowferret product line through an epic GIVEAWAY, centering around a message I hold dear to my heart: How has your ferret been a great FRIEND to you during their lifetime? I want to hear your stories in the comment section below 
-
-If you’d like to be entered to WIN one of two gift baskets full of ferret products from Oxbow, please follow these rules (10 winners will be chosen):
-1. Tell us in the comments how your ferret has been there for you during an important time in your life
-2. Follow @themodernferret and @OxbowAnimalHealth
-3. Visit the link in bio to select one of two baskets to complete your entry!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is something ever so cute it makes your heart hurt? 😩
-
-Credit: get_your_ferret_out
-
-#ferret #ferrets #ferretsofinstagram #ferret...]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3081968162015087/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3081968162015087/"/>
-        <updated>2022-07-13T02:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Is something ever so cute it makes your heart hurt? 😩
-Credit: get_your_ferret_out
-#ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
