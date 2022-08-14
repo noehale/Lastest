@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-13T02:47:57.740Z</updated>
+    <updated>2022-08-14T03:02:20.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Playtime / Dad Has Covid]]></title>
+        <id>https://voiceferret.blogspot.com/2022/08/ferret-playtime-dad-has-covid.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/08/ferret-playtime-dad-has-covid.html"/>
+        <updated>2022-08-14T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferret Playtime Ferrets need to come out and play everyday. They are very social beings and love to be with their humans.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drawn my recently departed boy, Monty.]]></title>
+        <id>https://voiceferret.tumblr.com/post/692448806999130112</id>
+        <link href="https://voiceferret.tumblr.com/post/692448806999130112"/>
+        <updated>2022-08-13T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Drawn my recently departed boy, Monty.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[keep seeing this on other small critter subs so I made a ferret one.]]></title>
         <id>https://voiceferret.tumblr.com/post/692358210023211008</id>
@@ -319,16 +339,6 @@ something under the tree for your ferrets!!!!We will also have the GCFA’s fabu
         <summary type="html"><![CDATA[Can people please send me videos of their ferrets dooking/ war dancing for an upcoming Youtube video?! Thank you!!!(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini bull terrier and Ferrets swimming at pool ! Мини бультерьер купается с хорьками !]]></title>
-        <id>https://voiceferret.blogspot.com/2022/07/mini-bull-terrier-and-ferrets-swimming.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/07/mini-bull-terrier-and-ferrets-swimming.html"/>
-        <updated>2022-07-15T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Bull terrier Teddy swim at pool With ferrets and eat Ice-cream мини буль Тедди купается в бассейне с хорьками и ест …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
