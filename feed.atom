@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-14T03:02:20.759Z</updated>
+    <updated>2022-08-15T03:12:45.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -329,16 +329,6 @@ something under the tree for your ferrets!!!!We will also have the GCFA’s fabu
         <summary type="html"><![CDATA[It’s fishing season….for ferrets]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can people please send me videos of their ferrets dooking/ war dancing for an upcoming Youtube video?! Thank you!!!]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3084593105085926/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3084593105085926/"/>
-        <updated>2022-07-16T15:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Can people please send me videos of their ferrets dooking/ war dancing for an upcoming Youtube video?! Thank you!!!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
