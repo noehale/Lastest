@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-15T03:12:45.355Z</updated>
+    <updated>2022-08-16T03:11:24.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bunny Boy]]></title>
+        <id>https://voiceferret.blogspot.com/2022/08/bunny-boy.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/08/bunny-boy.html"/>
+        <updated>2022-08-16T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Playtime / Dad Has Covid]]></title>
         <id>https://voiceferret.blogspot.com/2022/08/ferret-playtime-dad-has-covid.html</id>
@@ -319,16 +329,6 @@ something under the tree for your ferrets!!!!We will also have the GCFA’s fabu
         <summary type="html"><![CDATA[If you are curious about what kind of child “Mint” who became an angel who appears from time to time, please watch the past videos! Insanely funny kid …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s fishing season….for ferrets]]></title>
-        <id>https://voiceferret.tumblr.com/post/689912093776969728</id>
-        <link href="https://voiceferret.tumblr.com/post/689912093776969728"/>
-        <updated>2022-07-16T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[It’s fishing season….for ferrets]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
