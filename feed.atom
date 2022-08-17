@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T03:11:24.094Z</updated>
+    <updated>2022-08-17T03:18:22.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -319,16 +319,6 @@ something under the tree for your ferrets!!!!We will also have the GCFA’s fabu
         <summary type="html"><![CDATA[🧐 Surprisingly impressive? #ferret #ferrets #ferretsofinstagram #ferretsoftiktok(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I was finally able to shoot! The sleeping face of the little felles]]></title>
-        <id>https://voiceferret.blogspot.com/2022/07/i-was-finally-able-to-shoot-sleeping.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/07/i-was-finally-able-to-shoot-sleeping.html"/>
-        <updated>2022-07-18T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are curious about what kind of child “Mint” who became an angel who appears from time to time, please watch the past videos! Insanely funny kid …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
