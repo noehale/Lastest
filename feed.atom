@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T03:23:47.250Z</updated>
+    <updated>2022-08-25T03:25:05.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Such a good boy….]]></title>
+        <id>https://voiceferret.tumblr.com/post/693445375520112640</id>
+        <link href="https://voiceferret.tumblr.com/post/693445375520112640"/>
+        <updated>2022-08-24T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Such a good boy….]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret-style bed making?]]></title>
         <id>https://voiceferret.blogspot.com/2022/08/ferret-style-bed-making.html</id>
@@ -24,6 +34,22 @@
         <summary type="html"><![CDATA[(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Zoo gives names to 4 newborn ferret kits after online contest - KTAR.com]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTIwNzY1MS9waG9lbml4LWdpdmVzLW5hbWVzLXRvLTQtbmV3Ym9ybi1mZXJyZXQta2l0cy1hZnRlci1vbmxpbmUtY29udGVzdC_SAWVodHRwczovL2t0YXIuY29tL3N0b3J5LzUyMDc2NTEvcGhvZW5peC1naXZlcy1uYW1lcy10by00LW5ld2Jvcm4tZmVycmV0LWtpdHMtYWZ0ZXItb25saW5lLWNvbnRlc3QvYW1wLw?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTIwNzY1MS9waG9lbml4LWdpdmVzLW5hbWVzLXRvLTQtbmV3Ym9ybi1mZXJyZXQta2l0cy1hZnRlci1vbmxpbmUtY29udGVzdC_SAWVodHRwczovL2t0YXIuY29tL3N0b3J5LzUyMDc2NTEvcGhvZW5peC1naXZlcy1uYW1lcy10by00LW5ld2Jvcm4tZmVycmV0LWtpdHMtYWZ0ZXItb25saW5lLWNvbnRlc3QvYW1wLw?oc=5"/>
+        <updated>2022-08-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHOENIX — The Phoenix Zoo gave names to four of its new 21 endangered black-footed ferret kits through voting from Valley residents online.
+With over 2,100 votes, the names selected in a landslide were Maple, Acacia, Cedar and Willow, according to a press release.
+The Phoenix Zoo is one of six zoos worldwide that breeds black-footed ferrets, one of the most endangered North American species, that ultimately get released back into the wild. “We are thrilled to have another successful black-footed ferret breeding season and excited for these little kits to grow up and contribute to the recovery of their species,” Director of Conservation and Science at the Phoenix Zoo. Dr. Tara Harris said.
+The zoo has produced over 500 black-footed ferrets in the 30 years that it has been breeding the animals. In 2021, 13 ferrets were released back into the wild in Colorado.
+The kits live in specially designed den boxes with their mothers, according to the release,
+
+ Have a story idea or tip? Pass it along to the KTAR News team here.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -349,16 +375,6 @@ something under the tree for your ferrets!!!!We will also have the GCFA’s fabu
         <summary type="html"><![CDATA[It’s ferret fun-day! Join us LIVE as our animal ambassador ferrets get some play time in the sun! Follow us: …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misty is always trying to take me places 😃]]></title>
-        <id>https://voiceferret.tumblr.com/post/690727465139798016</id>
-        <link href="https://voiceferret.tumblr.com/post/690727465139798016"/>
-        <updated>2022-07-25T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Misty is always trying to take me places 😃]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
