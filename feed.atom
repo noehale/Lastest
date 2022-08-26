@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-25T03:25:05.471Z</updated>
+    <updated>2022-08-26T03:31:34.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Ferret】Seeking experience and advice! 【ferret#1006】]]></title>
+        <id>https://voiceferret.blogspot.com/2022/08/ferretseeking-experience-and-advice.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/08/ferretseeking-experience-and-advice.html"/>
+        <updated>2022-08-26T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are curious about what kind of child “Mint” who became an angel who appeared from time to time, please watch the past videos! Insanely funny kid …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Such a good boy….]]></title>
         <id>https://voiceferret.tumblr.com/post/693445375520112640</id>
@@ -365,16 +375,6 @@ something under the tree for your ferrets!!!!We will also have the GCFA’s fabu
         <summary type="html"><![CDATA[Lulu]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoo to You: It's ferret fun-day!]]></title>
-        <id>https://voiceferret.blogspot.com/2022/07/zoo-to-you-its-ferret-fun-day.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/07/zoo-to-you-its-ferret-fun-day.html"/>
-        <updated>2022-07-27T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s ferret fun-day! Join us LIVE as our animal ambassador ferrets get some play time in the sun! Follow us: …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
