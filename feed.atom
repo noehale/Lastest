@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-30T03:33:45.785Z</updated>
+    <updated>2022-08-31T03:45:38.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -335,16 +335,6 @@ something under the tree for your ferrets!!!!We will also have the GCFA’s fabu
         <summary type="html"><![CDATA[This is a video of a ferret Pinot eating dry food. Crunchy Mogumogu looks delicious. I also drink water. After eating it is cute …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i guess part of his recovery includes stealing my snacks!]]></title>
-        <id>https://voiceferret.tumblr.com/post/691271045815156736</id>
-        <link href="https://voiceferret.tumblr.com/post/691271045815156736"/>
-        <updated>2022-07-31T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[i guess part of his recovery includes stealing my snacks!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
