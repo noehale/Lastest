@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T03:45:38.694Z</updated>
+    <updated>2022-09-01T03:23:02.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After a week at the vet, Minty has come home to spend whatever little time she has left with us, where she is the most loved and pampered]]></title>
+        <id>https://voiceferret.tumblr.com/post/694079552457261056</id>
+        <link href="https://voiceferret.tumblr.com/post/694079552457261056"/>
+        <updated>2022-08-31T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[After a week at the vet, Minty has come home to spend whatever little time she has left with us, where she is the most loved and pampered]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New record: Abs exercise competition]]></title>
         <id>https://voiceferret.blogspot.com/2022/08/new-record-abs-exercise-competition.html</id>
@@ -325,16 +335,6 @@ ferrety items for your shopping pleasure.  You know you have to have
 something under the tree for your ferrets!!!!We will also have the GCFA’s fabulous raffle of wonderful ferret items, plus some great items for us humans too.   Please remember, your ferrets must be current on distemper vaccine to attend the party.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Pal Tube】Enjoy the sound of chewing! Ferret’s meal 8 minutes ferret!!! Eating Sounds 8 minutes【ParuTube】]]></title>
-        <id>https://voiceferret.blogspot.com/2022/08/pal-tubeenjoy-sound-of-chewing-ferrets.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/08/pal-tubeenjoy-sound-of-chewing-ferrets.html"/>
-        <updated>2022-08-02T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a video of a ferret Pinot eating dry food. Crunchy Mogumogu looks delicious. I also drink water. After eating it is cute …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
