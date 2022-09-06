@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-05T03:31:54.183Z</updated>
+    <updated>2022-09-06T03:36:25.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A child who eats when handed over]]></title>
+        <id>https://voiceferret.blogspot.com/2022/09/a-child-who-eats-when-handed-over.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/09/a-child-who-eats-when-handed-over.html"/>
+        <updated>2022-09-06T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Butter all curled up]]></title>
         <id>https://voiceferret.tumblr.com/post/694441941445836800</id>
@@ -260,26 +270,6 @@ The kits live in specially designed den boxes with their mothers, according to t
         <summary type="html"><![CDATA[If the ferret is nostalgic, you can sleep with the owner dressed like this ww If you come home earlier than usual from work, the best happiness (ferret) …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niche pets can be oh so cute, but your home environment may kill them - SHINE]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LnNoaW5lLmNuL25ld3MvaW4tZm9jdXMvMjIwODA2ODg3Ni_SAQA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LnNoaW5lLmNuL25ld3MvaW4tZm9jdXMvMjIwODA2ODg3Ni_SAQA?oc=5"/>
-        <updated>2022-08-06T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ti Gong   Deng Yingya became fascinated by angora ferrets after seeing them in online videos, so she bought one from a pet shop in Putuo District and named it Kai Kai.Bred at a Scandinavian facility, the mammal has a face similar to that of a hamster and is 30-50 centimeters long. Owners praise the animals as "clean as cats and friendly as dogs." With training, ferrets can even learn to do a few tricks."I have raised both cats and dogs, and yes, my lovely Kai Kai is as cute as expected," the marketing specialist said of her new pet.The angora is a relatively new breed of ferret, in existence for about three decades.Deng bought her ferret from a shop at the Lanling Flower &amp; Bird Market – the largest venue selling pets and ornamental plants in Shanghai.The shop, operated by Ding Ning, is…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[am snek]]></title>
-        <id>https://voiceferret.tumblr.com/post/691814628820418560</id>
-        <link href="https://voiceferret.tumblr.com/post/691814628820418560"/>
-        <updated>2022-08-06T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[am snek]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
