@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-06T03:36:25.326Z</updated>
+    <updated>2022-09-07T03:35:24.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mustard yellow looks great with your fur, Alfie 💛]]></title>
+        <id>https://voiceferret.tumblr.com/post/694623136971390976</id>
+        <link href="https://voiceferret.tumblr.com/post/694623136971390976"/>
+        <updated>2022-09-06T20:04:05.000Z</updated>
+        <summary type="html"><![CDATA[mustard yellow looks great with your fur, Alfie 💛]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A child who eats when handed over]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/a-child-who-eats-when-handed-over.html</id>
@@ -64,6 +74,16 @@
         <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPCA of Westchester offers free rabies shots Saturday for pet dogs, cats, ferrets - CBS New York]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3lvcmsvbmV3cy9mcmVlLXJhYmllcy1zaG90cy1zcGNhLW9mLXdlc3RjaGVzdGVyL9IBAA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3lvcmsvbmV3cy9mcmVlLXJhYmllcy1zaG90cy1zcGNhLW9mLXdlc3RjaGVzdGVyL9IBAA?oc=5"/>
+        <updated>2022-08-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By CBS New York Team   August 27, 2022 / 11:00 AM / CBS New York         Free rabies shots for pets at Westchester SPCA         Free rabies shots for pets at Westchester SPCA 00:20  BRIARCLIFF MANOR, N.Y. -- Westchester County residents can get free rabies vaccine shots for their dogs, cats and ferrets on Saturday. They're being offered from 10 a.m. to 3:30 p.m. at the SPCA of Westchester on North State Road in Briarcliff Manor. Appointments are required, so it's best to call ahead before brining pets in for their shots.  First published on August 27, 2022 / 11:00 AM   © 2022 CBS Broadcasting Inc. All Rights Reserved.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -260,16 +280,6 @@ The kits live in specially designed den boxes with their mothers, according to t
         <summary type="html"><![CDATA[The Arizona Center for Nature Conservation/Phoenix Zoo welcomed five more litters of the highly-endangered black-footed ferrets this May and June at its Elaine V. Johnson Conservation Center. There are 21 baby ferrets, or kits, in all born to mothers Akoya, Roseanne, Vermillion, Lady Mary and Canneles, and some will be identified as candidates to be released into the wild. According to Tara Harris, the director of conservation and science for the Phoenix Zoo who oversees its breeding and recovery programs, there are only a few hundred of the animals living in the wild today. Black-footed ferrets are one of the most endangered animals in North America and were actually thought to be extinct, though they were rediscovered in 1981 in Wyoming, according to the Black-footed Ferret Connection. T…]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know that if a ferret is too fond, he will sleep with his owner dressed like this? ww]]></title>
-        <id>https://voiceferret.blogspot.com/2022/08/did-you-know-that-if-ferret-is-too-fond.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/08/did-you-know-that-if-ferret-is-too-fond.html"/>
-        <updated>2022-08-08T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[If the ferret is nostalgic, you can sleep with the owner dressed like this ww If you come home earlier than usual from work, the best happiness (ferret) …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
