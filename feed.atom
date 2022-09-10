@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-09T03:24:28.970Z</updated>
+    <updated>2022-09-10T03:28:10.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I got in trouble if I changed the location of the toilet]]></title>
+        <id>https://voiceferret.blogspot.com/2022/09/i-got-in-trouble-if-i-changed-location.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/09/i-got-in-trouble-if-i-changed-location.html"/>
+        <updated>2022-09-10T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 … If you’re thinking about moving the toilet in your home, think again. It may seem like a good idea to change the location of the toilet, but there are a few things you need to consider before you make the change.For starters, the location of the toilet is determined by the home’s sewer line. The sewer line is the pipe that carries waste water from the home to the municipal sewer system. The location of the sewer line is typically governed by building codes, which means that if you move the toilet, you may also need to move the sewer line. This can be a costly and time-consuming project.Additionally, the toilet is connected to the home’s water supply. This means that if you move the toilet, you’ll also need to reroute the water supply lines. This can be a tricky process, and if it’s not done correctly, it could result in a leak.Finally, you need to take into account the fact that the toilet is one of the most-used fixtures in the home. This means that relocating it could be a major inconvenience for you and your family.Therefore, before you make the decision to move the toilet, weigh the pros and cons carefully. It may be best to leave the toilet where it is.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Guys, look! The tube is back!”]]></title>
+        <id>https://voiceferret.tumblr.com/post/694894927915646976</id>
+        <link href="https://voiceferret.tumblr.com/post/694894927915646976"/>
+        <updated>2022-09-09T20:04:05.000Z</updated>
+        <summary type="html"><![CDATA[“Guys, look! The tube is back!”
+After a long day at work, there is nothing better than coming home and plopping down in front of the TV to relax. But what if your TV is broken? You may be in for a long, frustrating night.
+But don’t despair! There are a few things you can do to try to fix your TV. First, check all the connections. Make sure the power cord is plugged in and that the TV is set to the correct input. If everything looks good there, try pressing the power button again.
+If your TV still won’t turn on, there could be a problem with the power supply. Try unplugging the TV for a few minutes and then plugging it back in. If that doesn’t work, you may need to replace the power supply.
+If your TV turns on but there is no picture, the first thing to check is the input. Make sure you have selected the correct input. If that doesn’t work, try adjusting the antenna or cable connection.
+If you’re still having problems, it’s time to call a TV repairman. But don’t give up hope! With a little troubleshooting, you may be able to fix your TV yourself.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rusty at the Post (Ferret Clips 175)]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/rusty-at-post-ferret-clips-175.html</id>
@@ -309,16 +334,6 @@ The kits live in specially designed den boxes with their mothers, according to t
         <summary type="html"><![CDATA[keep seeing this on other small critter subs so I made a ferret one.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets trying to greet you when the courier comes]]></title>
-        <id>https://voiceferret.blogspot.com/2022/08/ferrets-trying-to-greet-you-when.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/08/ferrets-trying-to-greet-you-when.html"/>
-        <updated>2022-08-11T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
