@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T03:35:56.578Z</updated>
+    <updated>2022-09-14T03:30:41.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[when your tiny ferret just fits perfectly in your hand]]></title>
+        <id>https://voiceferret.tumblr.com/post/695257313772290048</id>
+        <link href="https://voiceferret.tumblr.com/post/695257313772290048"/>
+        <updated>2022-09-13T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[when your tiny ferret just fits perfectly in your hand
+Ferrets are adorable and loving animals that make great pets. They are also very active and playful, which can make them a handful at times. But their small size also means they can be easily carried around, and this is especially evident when they just fit perfectly in the palm of your hand.
+There is something special about being able to hold your ferret in your hand. They are so small and delicate, and yet they are also full of life and energy. When they are contentedly snuggled in your hand, it is a moment of calm in the midst of their playful chaos.
+Of course, this is not to say that you can or should carry your ferret around all the time. They still need plenty of space to run and play. But it is nice to know that when you need a break, or when your ferret needs a break from all the action, you can simply scoop them up and hold them close. And in those moments, everything feels right in the world.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Great excitement when playing with humans 【Ferret】]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/great-excitement-when-playing-with.html</id>
