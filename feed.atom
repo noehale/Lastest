@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T03:37:57.678Z</updated>
+    <updated>2022-09-16T03:40:46.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[she didn’t appreciate me taking her to the vet]]></title>
+        <id>https://voiceferret.tumblr.com/post/695438509858816000</id>
+        <link href="https://voiceferret.tumblr.com/post/695438509858816000"/>
+        <updated>2022-09-15T20:04:05.000Z</updated>
+        <summary type="html"><![CDATA[she didn’t appreciate me taking her to the vet
+When you love someone, you want to take care of them – even when they don’t want you to. Such was the case for one woman whose cat didn’t appreciate her taking it to the vet.
+The woman, who wished to remain anonymous, told the story of how she took her cat to the vet for a routine check-up. Everything seemed to be going fine until the cat started hissing and clawing at her.
+“I was really shaken up by the experience,” the woman said. “I’ve never seen my cat act like that before.”
+It’s natural to want to take care of our loved ones, but sometimes they don’t appreciate our efforts. In this case, the cat’s owner did the right thing by taking it to the vet – even if it didn’t show its appreciation.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Holding on tight and brushing]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/holding-on-tight-and-brushing.html</id>
