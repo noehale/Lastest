@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-16T03:40:46.241Z</updated>
+    <updated>2022-09-17T03:19:03.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[too.. sleepy to.. clean.. face..]]></title>
+        <id>https://voiceferret.tumblr.com/post/695529104382017536</id>
+        <link href="https://voiceferret.tumblr.com/post/695529104382017536"/>
+        <updated>2022-09-16T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[too.. sleepy to.. clean.. face..
+Many of us can relate to being too sleepy to clean our face before bed. After a long day, the last thing we want to do is spend another minute awake, let alone take the time to wash our face. However, sleeping with a dirty face can lead to breakouts, premature aging, and a dull complexion. If you don’t have the energy to wash your face before bed, here are a few quick and easy tips to help you clean your face quickly so you can get some much-needed rest.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[she didn’t appreciate me taking her to the vet]]></title>
         <id>https://voiceferret.tumblr.com/post/695438509858816000</id>
@@ -28,6 +39,21 @@ It’s natural to want to take care of our loved ones, but sometimes they don’
         <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 … Assuming the topic is about hygiene: It is important to hold on tight and brush regularly to maintain good hygiene. Brushing removes plaque and bacteria from the teeth and gums, and flossing removes plaque and bacteria from between the teeth. Good hygiene also includes rinsing with mouthwash, which helps to remove plaque and bacteria from the teeth and gums.]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best ferret food - KTALnews.com]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3LmFya2xhdGV4aG9tZXBhZ2UuY29tL3Jldmlld3MvYnIvcGV0cy1ici9mb29kLWZvb2Qtc3RvcmFnZS1ici9iZXN0LWZlcnJldC1mb29kL9IBXmh0dHBzOi8vd3d3LmFya2xhdGV4aG9tZXBhZ2UuY29tL3Jldmlld3MvYnIvcGV0cy1ici9mb29kLWZvb2Qtc3RvcmFnZS1ici9iZXN0LWZlcnJldC1mb29kL2FtcC8?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3LmFya2xhdGV4aG9tZXBhZ2UuY29tL3Jldmlld3MvYnIvcGV0cy1ici9mb29kLWZvb2Qtc3RvcmFnZS1ici9iZXN0LWZlcnJldC1mb29kL9IBXmh0dHBzOi8vd3d3LmFya2xhdGV4aG9tZXBhZ2UuY29tL3Jldmlld3MvYnIvcGV0cy1ici9mb29kLWZvb2Qtc3RvcmFnZS1ici9iZXN0LWZlcnJldC1mb29kL2FtcC8?oc=5"/>
+        <updated>2022-09-15T04:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Ferrets are fun, energetic pets that require special considerations some owners may overlook. From toys to treats, it’s important to understand these creatures’ habits and needs to ensure that you provide your pet with the best care.
+To keep your ferret vibrant and healthy, you need to feed it a quality diet. Thankfully, it has become easier to find food that is formulated specifically for it.
+Marshall Premium Ferret Diet is the best choice for most ferrets, thanks to its high nutritional content, meat-based ingredients and tasty flavor.
+What to know before you buy ferret food
+The ferret diet
+While many animals can eat a wide range of foods, ferrets are obligate carnivores. This means that they eat meat exclusively and cannot survive without food that is rich in meat-based protein. Their b…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -430,16 +456,6 @@ The kits live in specially designed den boxes with their mothers, according to t
         <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bean doing handbreak turns]]></title>
-        <id>https://voiceferret.tumblr.com/post/692811196572876800</id>
-        <link href="https://voiceferret.tumblr.com/post/692811196572876800"/>
-        <updated>2022-08-17T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Bean doing handbreak turns]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
