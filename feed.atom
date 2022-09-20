@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-19T03:40:28.844Z</updated>
+    <updated>2022-09-20T03:30:26.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“You have ferrets? Aren’t they vicious?”]]></title>
+        <id>https://voiceferret.tumblr.com/post/695800894794711040</id>
+        <link href="https://voiceferret.tumblr.com/post/695800894794711040"/>
+        <updated>2022-09-19T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[“You have ferrets? Aren’t they vicious?”
+When it comes to ferrets, there are a lot of misconceptions out there. People often think of them as vicious, dangerous animals, when in reality, they are quite the opposite. Ferrets are actually very gentle creatures that make great pets.
+Sure, they may be a little mischievous at times, but that’s all part of their charm. If you’re considering getting a ferret, don’t let the false reputation of these adorable animals deter you. They make wonderful companions and will bring you endless hours of joy.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantastic Ferrets – Wonderful compilation of FERRETS !!!]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/fantastic-ferrets-wonderful-compilation.html</id>
@@ -486,42 +498,6 @@ Love you all!
         <summary type="html"><![CDATA[(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phoenix Zoo gives names to 4 newborn ferret kits after online contest - KTAR.com]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTIwNzY1MS9waG9lbml4LWdpdmVzLW5hbWVzLXRvLTQtbmV3Ym9ybi1mZXJyZXQta2l0cy1hZnRlci1vbmxpbmUtY29udGVzdC_SAWVodHRwczovL2t0YXIuY29tL3N0b3J5LzUyMDc2NTEvcGhvZW5peC1naXZlcy1uYW1lcy10by00LW5ld2Jvcm4tZmVycmV0LWtpdHMtYWZ0ZXItb25saW5lLWNvbnRlc3QvYW1wLw?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTIwNzY1MS9waG9lbml4LWdpdmVzLW5hbWVzLXRvLTQtbmV3Ym9ybi1mZXJyZXQta2l0cy1hZnRlci1vbmxpbmUtY29udGVzdC_SAWVodHRwczovL2t0YXIuY29tL3N0b3J5LzUyMDc2NTEvcGhvZW5peC1naXZlcy1uYW1lcy10by00LW5ld2Jvcm4tZmVycmV0LWtpdHMtYWZ0ZXItb25saW5lLWNvbnRlc3QvYW1wLw?oc=5"/>
-        <updated>2022-08-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PHOENIX — The Phoenix Zoo gave names to four of its new 21 endangered black-footed ferret kits through voting from Valley residents online.
-With over 2,100 votes, the names selected in a landslide were Maple, Acacia, Cedar and Willow, according to a press release.
-The Phoenix Zoo is one of six zoos worldwide that breeds black-footed ferrets, one of the most endangered North American species, that ultimately get released back into the wild. “We are thrilled to have another successful black-footed ferret breeding season and excited for these little kits to grow up and contribute to the recovery of their species,” Director of Conservation and Science at the Phoenix Zoo. Dr. Tara Harris said.
-The zoo has produced over 500 black-footed ferrets in the 30 years that it has been breeding the animals. In 2021, 13 ferrets were released back into the wild in Colorado.
-The kits live in specially designed den boxes with their mothers, according to the release,
-
- Have a story idea or tip? Pass it along to the KTAR News team here.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank you to everyone who had advice for my Vega. Sadly today was her last day, Blessed be little one ❤]]></title>
-        <id>https://voiceferret.tumblr.com/post/693082986237902848</id>
-        <link href="https://voiceferret.tumblr.com/post/693082986237902848"/>
-        <updated>2022-08-20T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Thank you to everyone who had advice for my Vega. Sadly today was her last day, Blessed be little one ❤]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pet Pals: Ferrets take over the studio - KTVZ]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldC1wYWxzLWZ1cnJ5LWZyaWVuZHMvMjAyMi8wOC8xOS9wZXQtcGFscy1mZXJyZXRzLXRha2Utb3Zlci10aGUtc3R1ZGlvL9IBAA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldC1wYWxzLWZ1cnJ5LWZyaWVuZHMvMjAyMi8wOC8xOS9wZXQtcGFscy1mZXJyZXRzLXRha2Utb3Zlci10aGUtc3R1ZGlvL9IBAA?oc=5"/>
-        <updated>2022-08-20T16:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Don't let your new pair of ferrets loose in the NewsChannel 21 newsroom. We found out...the hard way! These ferret brothers are cute, loving, curious and must get a loving forever home! They're waiting at the Humane Society of Central Oregon.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
