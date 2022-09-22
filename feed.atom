@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T03:41:12.695Z</updated>
+    <updated>2022-09-22T03:27:08.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[vol.322 Girls only dinner party. Salsa,Mole(Ferrets)&Hanpen,Chikuwa(Cats)ver.]]></title>
+        <id>https://voiceferret.blogspot.com/2022/09/vol322-girls-only-dinner-party.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/09/vol322-girls-only-dinner-party.html"/>
+        <updated>2022-09-22T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Oden 3 siblings (triplets) 3 siblings Hanpen … Cat Chikuwa… Cat (salsa) … Ferret( … To all the single ladies out there, we have the perfect solution for you – a girls only dinner party featuring some of your favorite dishes! Salsa, mole, and hanpen are all great options for those who want to get their groove on, while chikuwa is the perfect snack for those who want to relax with their girlfriends. So come on over and join us for some delicious fun!]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The ferret and the owner who did not know what had happened]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/the-ferret-and-owner-who-did-not-know.html</id>
@@ -311,6 +321,16 @@ The ultimate collection of the best ferret videos currently on TikTok! ▶ More 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Photos of the Week: Drum Major, Ox Catch, Ferret Race - The Atlantic]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9waG90by8yMDIyLzA5L3Bob3Rvcy1vZi10aGUtd2Vlay1kcnVtLW1ham9yLW94LWNhdGNoLWZlcnJldC1yYWNlLzY3MTM4NC_SAQA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9waG90by8yMDIyLzA5L3Bob3Rvcy1vZi10aGUtd2Vlay1kcnVtLW1ham9yLW94LWNhdGNoLWZlcnJldC1yYWNlLzY3MTM4NC_SAQA?oc=5"/>
+        <updated>2022-09-09T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wind whips embers from a burning tree during a wildfire near Hemet, California, on September 6, 2022. #   Ringo H.W. Chiu / AP   Read more       A model displays a creation from Heaven Gaia by Xiong Ying during China Fashion Week in Beijing on September 4, 2022. #   Wang Zhao / AFP / Getty   Read more     A surfer enters the water at Lower Trestles ahead of the 2022 Rip Curl WSL Finals in San Clemente, California, on September 6, 2022. #   Sean M. Haffey / Getty   Read more     A new view of the Tarantula Nebula, seen by the James Webb Space Telescope. Webb’s Near-Infrared Camera (NIRCam) displays the nebula's star-forming region, including tens of thousands of never-before-seen young stars that were previously shrouded in cosmic dust, in a view that spans 340 light-years across. The most …]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“Guys, look! The tube is back!”]]></title>
         <id>https://voiceferret.tumblr.com/post/694894927915646976</id>
         <link href="https://voiceferret.tumblr.com/post/694894927915646976"/>
@@ -502,16 +522,6 @@ Love you all!
         <summary type="html"><![CDATA[Such a good boy….]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret-style bed making?]]></title>
-        <id>https://voiceferret.blogspot.com/2022/08/ferret-style-bed-making.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/08/ferret-style-bed-making.html"/>
-        <updated>2022-08-23T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
