@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T03:40:00.322Z</updated>
+    <updated>2022-09-27T03:24:40.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My ferrets first time swimming in the ocean ! Мои хорьки в первый раз купаются на океане !]]></title>
+        <id>https://voiceferret.blogspot.com/2022/09/my-ferrets-first-time-swimming-in-ocean.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/09/my-ferrets-first-time-swimming-in-ocean.html"/>
+        <updated>2022-09-27T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferrets Billy and Gina swimming first time in the ocean.) Хорьки Билли и Джина в первый раз купаются в океане.) On a recent sunny day, my ferrets and I took a trip to the beach. This was their first time swimming in the ocean, and they loved it!After digging holes in the sand and rolling around in the waves, they were ready to take on the big blue. They paddled and splashed around like little puppies, and had a blast chasing the seagulls.It was so much fun to watch them experience the beach for the first time. Their joy and enthusiasm was contagious, and I’m already looking forward to our next trip.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m watching a friend’s ferret this week and sending them as many cute photos as I can]]></title>
+        <id>https://voiceferret.tumblr.com/post/696435074222129152</id>
+        <link href="https://voiceferret.tumblr.com/post/696435074222129152"/>
+        <updated>2022-09-26T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[I’m watching a friend’s ferret this week and sending them as many cute photos as I can
+As anyone who has ever owned a pet knows, the experience can be immensely rewarding. From the moment you first bring them home, to the silly things they do that always make you laugh, to the unending loyalty they show you, pets can quickly become some of the most important members of the family. This is why, when a friend or family member has to go out of town and can’t take their furry (or scaly, or feathered) friend with them, it’s such a kind act to volunteer to petsit.
+This week, I am fortunate enough to be taking care of a friend’s ferret. While I’ve never owned a ferret myself, I have done my research and feel confident in providing the little guy with the care and attention he needs. I’m also excited to be able to send my friend lots of photos and updates while they’re away, so they can rest assured that their ferret is in good hands.
+There’s something really special about the bond between humans and their pets, and I’m grateful to be able to experience it firsthand this week. Taking care of a pet is a responsibility that shouldn’t be taken lightly, but it’s also a lot of fun. If you ever have the opportunity to petsit for a friend, I highly recommend it!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Pet's Life: One Fish, Two Birds and a Ferret]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/a-pets-life-one-fish-two-birds-and.html</id>
@@ -628,26 +651,6 @@ Love you all!
         <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPCA of Westchester offers free rabies shots Saturday for pet dogs, cats, ferrets - CBS New York]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3lvcmsvbmV3cy9mcmVlLXJhYmllcy1zaG90cy1zcGNhLW9mLXdlc3RjaGVzdGVyL9IBAA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3lvcmsvbmV3cy9mcmVlLXJhYmllcy1zaG90cy1zcGNhLW9mLXdlc3RjaGVzdGVyL9IBAA?oc=5"/>
-        <updated>2022-08-27T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By CBS New York Team   August 27, 2022 / 11:00 AM / CBS New York         Free rabies shots for pets at Westchester SPCA         Free rabies shots for pets at Westchester SPCA 00:20  BRIARCLIFF MANOR, N.Y. -- Westchester County residents can get free rabies vaccine shots for their dogs, cats and ferrets on Saturday. They're being offered from 10 a.m. to 3:30 p.m. at the SPCA of Westchester on North State Road in Briarcliff Manor. Appointments are required, so it's best to call ahead before brining pets in for their shots.  First published on August 27, 2022 / 11:00 AM   © 2022 CBS Broadcasting Inc. All Rights Reserved.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is my ferret biting my finger & dragging me to her stash? 😂]]></title>
-        <id>https://voiceferret.tumblr.com/post/693717164912525312</id>
-        <link href="https://voiceferret.tumblr.com/post/693717164912525312"/>
-        <updated>2022-08-27T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Why is my ferret biting my finger &amp; dragging me to her stash? 😂]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
