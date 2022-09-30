@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T03:35:49.985Z</updated>
+    <updated>2022-09-30T03:49:29.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My brother sent this to me]]></title>
+        <id>https://voiceferret.tumblr.com/post/696706865198940160</id>
+        <link href="https://voiceferret.tumblr.com/post/696706865198940160"/>
+        <updated>2022-09-29T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My brother sent this to me
+
+“My brother sent this to me”
+I was surprised when my brother sent me a text message with a link to a news article. The article was about a new type of cancer treatment that is showing promise in early clinical trials. He knows that I am interested in new developments in cancer research, so he thought I would find the article interesting. I did find it interesting, and I’m glad he sent it to me.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get a ferret check and then pick up your computer]]></title>
         <id>https://voiceferret.blogspot.com/2022/09/get-ferret-check-and-then-pick-up-your.html</id>
