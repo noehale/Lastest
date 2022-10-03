@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T03:36:39.435Z</updated>
+    <updated>2022-10-03T02:54:28.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I got battered in the middle of the stairs]]></title>
+        <id>https://voiceferret.blogspot.com/2022/10/i-got-battered-in-middle-of-stairs.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/10/i-got-battered-in-middle-of-stairs.html"/>
+        <updated>2022-10-03T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 … Falling down the stairs is a hazard that many people face on a daily basis. This can be a particular problem if the stairs are in a public place, such as in a shopping centre or office block. Unfortunately, this is exactly what happened to me last week.I was descending a flight of stairs in my workplace when I suddenly lost my footing and tumbled all the way down, landing in an undignified heap at the bottom. Fortunately, I was not seriously injured, though I did suffer some bruising.This incident has led me to think about the safety of stairs in our society. Surely, there must be a better way to design them so that accidents like mine are less likely to happen? I would like to see a change in the way that stairs are built so that they are safer for everyone.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My mega-chonker hambeast Kevin. He comes in at 4.3 pounds and is 2 feet long.]]></title>
+        <id>https://voiceferret.tumblr.com/post/696978656040517632</id>
+        <link href="https://voiceferret.tumblr.com/post/696978656040517632"/>
+        <updated>2022-10-02T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My mega-chonker hambeast Kevin. He comes in at 4.3 pounds and is 2 feet long.
+In today’s world, it’s not uncommon to see massive animals. But Kevin, my mega-chonker hambeast, takes the cake. He comes in at 4.3 pounds and is 2 feet long!
+I adopted Kevin 8 months ago from a local shelter. At the time, he was a chonky boy, but he has truly blossomed into a magnificent hambeast. His thick fur is soft and luxurious, and he has the cutest little face.
+ Kevin loves to eat, as you might expect. His favorite foods are carrots, apples, and bananas. He also enjoys the occasional ham bone. Kevin is very active and loves to play. He is especially fond of chasing his tail.
+As you can see, Kevin is a very special animal. He brings joy to everyone who meets him. I am so lucky to have him in my life!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Too much frolicking and moss]]></title>
         <id>https://voiceferret.blogspot.com/2022/10/too-much-frolicking-and-moss.html</id>
@@ -794,26 +818,6 @@ Love you all!
         <link href="https://voiceferret.tumblr.com/post/694441941445836800"/>
         <updated>2022-09-04T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Butter all curled up]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s clean up in the bath 【Ferret】]]></title>
-        <id>https://voiceferret.blogspot.com/2022/09/lets-clean-up-in-bath-ferret.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/09/lets-clean-up-in-bath-ferret.html"/>
-        <updated>2022-09-03T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pet Owner Appeals for Return of Stolen Ferrets as Hunting Season Approaches - Newsweek]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9wZXQtb3duZXItYXBwZWFscy1yZXR1cm4tc3RvbGVuLWZlcnJldHMtaHVudGluZy1zZWFzb24tYXBwcm9hY2hlcy0xNzM5NTU10gEA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9wZXQtb3duZXItYXBwZWFscy1yZXR1cm4tc3RvbGVuLWZlcnJldHMtaHVudGluZy1zZWFzb24tYXBwcm9hY2hlcy0xNzM5NTU10gEA?oc=5"/>
-        <updated>2022-09-03T08:07:58.000Z</updated>
-        <summary type="html"><![CDATA[A worried pet owner fears her eight ferrets that were snatched from her garden might be used to hunt rabbits and is appealing for help to get them back.Jessica Swadling, 27, said the five adults and three babies vanished from a communal garden she shares with neighbors in Maidstone, the largest town in the county of Kent, England.Swadling said the animals were pets that had never worked in their lives, but thinks since rabbit season is approaching, her beloved ferrets may have been swiped to hunt.She said the animals - Cinder, Rapunzel, Maui, Sookie, Dexter, Otis, Moana and Alfalfa -were much loved by friends and neighbors, especially children.Sookie the ferret is pictured in an undated photo. Jessica Swadling, Sookie's owner, fears her eight ferrets that were snatched from her garden migh…]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
