@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T03:03:48.100Z</updated>
+    <updated>2022-10-05T03:02:23.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18 black-footed ferrets released near Meeteetse - Billings Gazette]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtcmVsZWFzZWQtbmVhci1tZWV0ZWV0c2UvYXJ0aWNsZV9lYjQ3ZjEzNC00MzZhLTExZWQtYjdjOC0xZmI1YmM5MWM2NTQuaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtcmVsZWFzZWQtbmVhci1tZWV0ZWV0c2UvYXJ0aWNsZV9lYjQ3ZjEzNC00MzZhLTExZWQtYjdjOC0xZmI1YmM5MWM2NTQuaHRtbNIBAA?oc=5"/>
+        <updated>2022-10-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eighteen black-footed ferrets were released recently at the animal's historic recovery site near Meeteetse, Wyoming.Twelve male and six female captive-born ferrets were coaxed into burrows in their new wildlands home. The small mammal that was once thought to be extinct was rediscovered in Wyoming 41 years ago. The Wyoming Game and Fish Department has been working on their recovery since then.In 1979, black-footed ferrets were considered extinct. In 1981, a ranch dog discovered a ferret in Meteetse, WY. This led to the discovery of a small population and the first recovery program. Today, the U.S. Fish &amp; Wildlife Service and its many partners are leading an effort to take ferrets off the Endangered Species List. This is their story. (Video courtesy of Wyoming Game and Fish Department) …]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Science demands Domestic Ferrets be Classified as Domestic Animals]]></title>
         <id>https://voiceferret.blogspot.com/2022/10/science-demands-domestic-ferrets-be.html</id>
@@ -81,6 +91,16 @@ As you can see, Kevin is a very special animal. He brings joy to everyone who me
         <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 … If you had told me a year ago that I would be where I am today, I would have been surprised. A lot has changed in that time. I’ve gone from being a scared, shy person to someone who is confident and outgoing. I’ve made new friends and accomplished things that I never thought I could. I’m not the same person I was a year ago, and I’m grateful for that. I’m looking forward to seeing what the next year brings.]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applied DNA’s Biotherapeutics Subsidiary Publishes Manuscript Demonstrating that a LinearDNA™ Vaccine Candidate was Protective in Virus Challenge Trial in Ferrets - Yahoo Finance]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hcHBsaWVkLWRuYS1iaW90aGVyYXBldXRpY3Mtc3Vic2lkaWFyeS1wdWJsaXNoZXMtMTMwMDAwNDg1Lmh0bWzSAWZodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9hcHBsaWVkLWRuYS1iaW90aGVyYXBldXRpY3Mtc3Vic2lkaWFyeS1wdWJsaXNoZXMtMTMwMDAwNDg1Lmh0bWw?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hcHBsaWVkLWRuYS1iaW90aGVyYXBldXRpY3Mtc3Vic2lkaWFyeS1wdWJsaXNoZXMtMTMwMDAwNDg1Lmh0bWzSAWZodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9hcHBsaWVkLWRuYS1iaW90aGVyYXBldXRpY3Mtc3Vic2lkaWFyeS1wdWJsaXNoZXMtMTMwMDAwNDg1Lmh0bWw?oc=5"/>
+        <updated>2022-10-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- Promising Results Support Further Development of LinearDNA as a Next Generation Vaccine Platform -STONY BROOK, N.Y., September 30, 2022--(BUSINESS WIRE)--Applied DNA Sciences, Inc. (NASDAQ: APDN) (‘Applied DNA’ or the "Company"), a leader in polymerase chain reaction (PCR")-based technologies, today announced the publication of a manuscript, co-authored with international academic and industry scientists, containing data demonstrating that a LinearDNA™-based vaccine candidate (the "vaccine candidate") reduced infectious virus shedding and was protective against SARS-CoV-2 in a challenge trial in ferrets. The purpose of the challenge trial was to demonstrate that LinearDNA-based vaccines can express therapeutic antigens that can confer protection against infection.With the publication of …]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -843,16 +863,6 @@ Love you all!
 #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butter all curled up]]></title>
-        <id>https://voiceferret.tumblr.com/post/694441941445836800</id>
-        <link href="https://voiceferret.tumblr.com/post/694441941445836800"/>
-        <updated>2022-09-04T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Butter all curled up]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
