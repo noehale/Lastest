@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-11T03:24:39.208Z</updated>
+    <updated>2022-10-12T03:26:59.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunk by a ferret’s steep tsundere…]]></title>
+        <id>https://voiceferret.blogspot.com/2022/10/sunk-by-ferrets-steep-tsundere.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/10/sunk-by-ferrets-steep-tsundere.html"/>
+        <updated>2022-10-12T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Shot down in seconds by professional skill. ——————————–]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cuddly little vampire rat]]></title>
+        <id>https://voiceferret.tumblr.com/post/697794031478095872</id>
+        <link href="https://voiceferret.tumblr.com/post/697794031478095872"/>
+        <updated>2022-10-11T20:04:05.000Z</updated>
+        <summary type="html"><![CDATA[cuddly little vampire rat]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I bought a carpet to reduce the burden on my feet]]></title>
         <id>https://voiceferret.blogspot.com/2022/10/i-bought-carpet-to-reduce-burden-on-my.html</id>
@@ -52,6 +72,16 @@
         <link href="https://voiceferret.tumblr.com/post/697522238864457728"/>
         <updated>2022-10-08T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[For my birthday, my SO made me a a ramen bowl with an illustration of my ferret]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treat of the Day: Ferret received lifesaving pacemaker at Texas A&M - KBTX]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmtidHguY29tLzIwMjIvMTAvMDgvdHJlYXQtZGF5LWZlcnJldC1yZWNlaXZlZC1saWZlc2F2aW5nLXBhY2VtYWtlci10ZXhhcy1hbS_SAQA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmtidHguY29tLzIwMjIvMTAvMDgvdHJlYXQtZGF5LWZlcnJldC1yZWNlaXZlZC1saWZlc2F2aW5nLXBhY2VtYWtlci10ZXhhcy1hbS_SAQA?oc=5"/>
+        <updated>2022-10-08T15:26:00.000Z</updated>
+        <summary type="html"><![CDATA[BRYAN, Texas (KBTX) - It’s not every day that veterinarians at the Texas A&amp;M Small Animal Teaching Hospital (SATH) get to sew a pacemaker onto a beating heart roughly the size of a grape!But when Hypnos, a 5-year-old ferret, arrived at the SATH with a very slow heart rate, his veterinary team took on the challenge of helping the beloved pet return home healthy to his owner and ferret friends. This was the first ferret pacemaker procedure at the SATH in almost 10 years.Copyright 2022 KBTX. All rights reserved.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -850,16 +880,6 @@ When we feel these things, it can be helpful to remember that we’re not alone.
 If you’re feeling overwhelmed, stressed, or any other negative emotion, reach out to someone you trust. Talk to them about how you’re feeling. They may be feeling the same way and can offer you support. We all need help sometimes. Don’t be afraid to ask for it.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I got a little lost when I received the reward]]></title>
-        <id>https://voiceferret.blogspot.com/2022/09/i-got-little-lost-when-i-received-reward.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/09/i-got-little-lost-when-i-received-reward.html"/>
-        <updated>2022-09-12T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 … I got a little lost when I received the rewardIt was a little disorienting, to say the least, when I received the email notification that I had won a contest. I wasn’t expecting it at all and, to be honest, I don’t think I had even entered one. But there it was in my inbox, congratulations on being a winner!It took me a few minutes to figure out what I had won, and then a few more to track down the contest entry form. As it turns out, I had entered a contest several months ago and forgotten all about it. The prize was a $100 gift card to a store I love.While it was exciting to receive the notification and prize, it did leave me feeling a little lost. I realized that I had let myself forget about an ongoing contest and, as a result, had missed out on the opportunity to maybe win something bigger.It’s a good reminder to stay aware of the contests you’ve entered and to keep track of them, even if you don’t think you’ll win. Because you just never know!]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
