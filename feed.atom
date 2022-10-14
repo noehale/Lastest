@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T03:28:34.028Z</updated>
+    <updated>2022-10-14T03:39:18.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet My NEW Ferret!]]></title>
+        <id>https://voiceferret.blogspot.com/2022/10/meet-my-new-ferret.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/10/meet-my-new-ferret.html"/>
+        <updated>2022-10-14T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I just adopted an older ferret with an amazing story and a sweet personality! I can’t wait for you all to meet him 🙂 Ferret Anatomy …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randy‘s only job is being cute and he’s employee of the month]]></title>
+        <id>https://voiceferret.tumblr.com/post/697975222451781632</id>
+        <link href="https://voiceferret.tumblr.com/post/697975222451781632"/>
+        <updated>2022-10-13T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Randy‘s only job is being cute and he’s employee of the month]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Pro-The missing tool from your toolkit]]></title>
         <id>https://voiceferret.blogspot.com/2022/10/ferret-pro-missing-tool-from-your.html</id>
@@ -14,6 +34,28 @@
         <summary type="html"><![CDATA[The use of a Ferret Pro within the toolbox of a Professional Pest Control Operator as an essential inspection and recording tool.]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Modern Ferret's cover photo]]></title>
+        <id>https://www.facebook.com/1785181675027082/posts/3151561508389085/</id>
+        <link href="https://www.facebook.com/1785181675027082/posts/3151561508389085/"/>
+        <updated>2022-10-13T08:36:22.000Z</updated>
+        <summary type="html"><![CDATA[(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet My NEW Ferret!]]></title>
+        <id>https://www.facebook.com/1785181675027082/posts/3151552145056688/</id>
+        <link href="https://www.facebook.com/1785181675027082/posts/3151552145056688/"/>
+        <updated>2022-10-13T08:21:38.000Z</updated>
+        <summary type="html"><![CDATA[NEW Youtube video is up! It's ALL about my new one-eyed ferret. Check it out and brighten your day 
+
+I just adopted an older ferret with an amazing story and a sweet personality! I can't wait for you all to meet him :)Ferret Anatomy Lesson: https://youtu.be/...(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -856,31 +898,6 @@ Marshall Premium Ferret Diet is the best choice for most ferrets, thanks to its 
 What to know before you buy ferret food
 The ferret diet
 While many animals can eat a wide range of foods, ferrets are obligate carnivores. This means that they eat meat exclusively and cannot survive without food that is rich in meat-based protein. Their b…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timeline photos]]></title>
-        <id>https://www.facebook.com/themodernferret/photos/a.1785187988359784/3126485647563338/?type=3</id>
-        <link href="https://www.facebook.com/themodernferret/photos/a.1785187988359784/3126485647563338/?type=3"/>
-        <updated>2022-09-14T03:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Happy September, everyone! What are your big plans for the month?
-I'll be celebrating my 30th birthday in a couple weeks so I'm really looking forward to that special time with friends - hoping for a brunch with some girlfriends and maybe some dancing. Any other suggestions?
-(This is September's photo from our annual FERRETS calendar. You can download a digital copy in our online store at www.themodernferret.com or pickup a physical copy at the link in our bio!)(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[when your tiny ferret just fits perfectly in your hand]]></title>
-        <id>https://voiceferret.tumblr.com/post/695257313772290048</id>
-        <link href="https://voiceferret.tumblr.com/post/695257313772290048"/>
-        <updated>2022-09-13T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[when your tiny ferret just fits perfectly in your hand
-Ferrets are adorable and loving animals that make great pets. They are also very active and playful, which can make them a handful at times. But their small size also means they can be easily carried around, and this is especially evident when they just fit perfectly in the palm of your hand.
-There is something special about being able to hold your ferret in your hand. They are so small and delicate, and yet they are also full of life and energy. When they are contentedly snuggled in your hand, it is a moment of calm in the midst of their playful chaos.
-Of course, this is not to say that you can or should carry your ferret around all the time. They still need plenty of space to run and play. But it is nice to know that when you need a break, or when your ferret needs a break from all the action, you can simply scoop them up and hold them close. And in those moments, everything feels right in the world.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
