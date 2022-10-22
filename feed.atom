@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T02:57:11.324Z</updated>
+    <updated>2022-10-22T03:14:52.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What surprised you by the loud noise?]]></title>
+        <id>https://voiceferret.blogspot.com/2022/10/what-surprised-you-by-loud-noise.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/10/what-surprised-you-by-loud-noise.html"/>
+        <updated>2022-10-22T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Can I Feed My Ferret? - The Dodo]]></title>
         <id>https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3LnRoZWRvZG8uY29tL2RvZG93ZWxsL3doYXQtZG8tZmVycmV0cy1lYXTSATxodHRwczovL3d3dy50aGVkb2RvLmNvbS9hbXBodG1sL2RvZG93ZWxsL3doYXQtZG8tZmVycmV0cy1lYXQ?oc=5</id>
@@ -801,26 +811,6 @@ Ultimately, though, it’s important to remember that toddlers are curious by na
 My ferret badger is the best pet I have ever had! She is so playful and loves to cuddle. I have had her for two years and she has never once made a mess in my house. She is the perfect pet for anyone who wants a low-maintenance, loving companion.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vol.322 Girls only dinner party. Salsa,Mole(Ferrets)&Hanpen,Chikuwa(Cats)ver.]]></title>
-        <id>https://voiceferret.blogspot.com/2022/09/vol322-girls-only-dinner-party.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/09/vol322-girls-only-dinner-party.html"/>
-        <updated>2022-09-22T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Oden 3 siblings (triplets) 3 siblings Hanpen … Cat Chikuwa… Cat (salsa) … Ferret( … To all the single ladies out there, we have the perfect solution for you – a girls only dinner party featuring some of your favorite dishes! Salsa, mole, and hanpen are all great options for those who want to get their groove on, while chikuwa is the perfect snack for those who want to relax with their girlfriends. So come on over and join us for some delicious fun!]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks for @me.and.the.fuzzies1 for "the claw" reenactment! So funny!]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3132549966956906/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3132549966956906/"/>
-        <updated>2022-09-22T05:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Thanks for @me.and.the.fuzzies1 for "the claw" reenactment! So funny!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
