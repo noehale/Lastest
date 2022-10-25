@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-24T03:43:14.744Z</updated>
+    <updated>2022-10-25T03:38:39.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Halloween Cage Tour 2022]]></title>
+        <id>https://voiceferret.blogspot.com/2022/10/halloween-cage-tour-2022.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/10/halloween-cage-tour-2022.html"/>
+        <updated>2022-10-25T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Checkout this years Halloween Cage Tour, accessories and ferret toys. I made the cage liners, cage cover and cage accessories.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toesies]]></title>
+        <id>https://voiceferret.tumblr.com/post/698971789260472320</id>
+        <link href="https://voiceferret.tumblr.com/post/698971789260472320"/>
+        <updated>2022-10-24T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Toesies]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Ferret】Ferret walk in red brick as a reward for working hard at the photo session]]></title>
         <id>https://voiceferret.blogspot.com/2022/10/ferretferret-walk-in-red-brick-as.html</id>
@@ -769,39 +789,6 @@ There’s something really special about the bond between humans and their pets,
 If you need something like this, you can check it out in my Amazon shop, linked in my bio!(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Pet's Life: One Fish, Two Birds and a Ferret]]></title>
-        <id>https://voiceferret.blogspot.com/2022/09/a-pets-life-one-fish-two-birds-and.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/09/a-pets-life-one-fish-two-birds-and.html"/>
-        <updated>2022-09-25T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Should we have pets? What kind of life should our pets expect from us? This is what I have been asking myself recently and I … A recent study has shown that owning a pet can have numerous benefits for humans, including reducing stress, anxiety and depression, and even increasing our lifespan. But what about the pets themselves? What is life like for them? In this article, we take a look at the lives of three different types of pet – a fish, two birds and a ferret.FishOf the three pets, fish have the shortest lifespan, with most only living for a few years. However, this doesn’t mean that their life is any less full or interesting.Many fish are social creatures and enjoy living in groups. This means they have the opportunity to interact with other members of their species on a daily basis, something that can be very stimulating and enjoyable.Fish also have a great sense of hearing and smell, and some can even see in ultraviolet light. This means they are able to take in and process a lot of information about their surroundings.BirdsBirds have a much longer lifespan than fish, with some species living for over 50 years. This means they have a lot of time to experience different aspects of life.For example, birds can fly, something that most other animals can’t do. This gives them a completely different perspective on the world and allows them to travel vast distances.Birds also have very good eyesight, which means they can see a wide range of colours and patterns. This can be particularly stunning when they are flying over vast landscapes or sunsets.FerretsFerrets are a type of small mammal that is closely related to the weasel. They have a lifespan of around 6-8 years.Ferrets are very active animals and love to play. This means they need a lot of space to run around in and plenty of toys to keep them entertained.Ferrets are also very social creatures and enjoy being around people and other animals. They are often very playful and can be very mischievous!]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timeline photos]]></title>
-        <id>https://www.facebook.com/themodernferret/photos/a.1785187988359784/3134825303396039/?type=3</id>
-        <link href="https://www.facebook.com/themodernferret/photos/a.1785187988359784/3134825303396039/?type=3"/>
-        <updated>2022-09-25T00:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Time for a Fun Ferret Fact!:
-The English word ‘ferret’ is derived from the latin word for ‘thief’, furonem. If you are new to ferrets, it is worth mentioning that ferrets are notorious for stealing and stashing just about everything (pens, keys, phone, charger, wallet, your heart..) so the name is quite fitting to their nature. What is a ferret? In short, they are thieves!
-The full scientific name for a ferret is Mustela putorius furo. In latin, this translates to “stinky mouse-killing thief”.
-Do you think this description is accurate or too harsh?(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kelpie, 6 years old and she’s still the tiniest zoom machine I’ve ever known.]]></title>
-        <id>https://voiceferret.tumblr.com/post/696253880184504320</id>
-        <link href="https://voiceferret.tumblr.com/post/696253880184504320"/>
-        <updated>2022-09-24T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Kelpie, 6 years old and she’s still the tiniest zoom machine I’ve ever known.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
