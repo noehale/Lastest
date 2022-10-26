@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T03:38:39.851Z</updated>
+    <updated>2022-10-26T03:04:59.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When I did a test run with a new humidifier …]]></title>
+        <id>https://voiceferret.blogspot.com/2022/10/when-i-did-test-run-with-new-humidifier.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/10/when-i-did-test-run-with-new-humidifier.html"/>
+        <updated>2022-10-26T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[This year, Fuku was also doing it as a facial device. —]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bronson is such a handsome dude]]></title>
+        <id>https://voiceferret.tumblr.com/post/699062386111528960</id>
+        <link href="https://voiceferret.tumblr.com/post/699062386111528960"/>
+        <updated>2022-10-25T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Bronson is such a handsome dude]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halloween Cage Tour 2022]]></title>
         <id>https://voiceferret.blogspot.com/2022/10/halloween-cage-tour-2022.html</id>
@@ -778,17 +798,6 @@ This week, I am fortunate enough to be taking care of a friend’s ferret. While
 There’s something really special about the bond between humans and their pets, and I’m grateful to be able to experience it firsthand this week. Taking care of a pet is a responsibility that shouldn’t be taken lightly, but it’s also a lot of fun. If you ever have the opportunity to petsit for a friend, I highly recommend it!]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hate to break it to you but "ferret proofing" is an endless battle between you and your ferret. That's because these weasels are...]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3135673866644516/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3135673866644516/"/>
-        <updated>2022-09-26T00:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Hate to break it to you but "ferret proofing" is an endless battle between you and your ferret. That's because these weasels are gifted problem solvers and they see any new barrier as a challenge rather than a limit (maybe that's a lesson we should all take with us in life actually??). I use this ferret gate to keep my ferret restricted to his room (my office). It's especially useful when he's on a plant-digging rampage or I need to contain him while I clean the other rooms of the house. Try as he might, he has not been able to climb over it! Have you guys used anything similar?
-If you need something like this, you can check it out in my Amazon shop, linked in my bio!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
