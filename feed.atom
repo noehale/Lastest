@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T03:12:50.922Z</updated>
+    <updated>2022-11-03T02:53:39.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret checking the owner’s wallet]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/ferret-checking-owners-wallet.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/ferret-checking-owners-wallet.html"/>
+        <updated>2022-11-03T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I just love him so much]]></title>
+        <id>https://voiceferret.tumblr.com/post/699787161725206528</id>
+        <link href="https://voiceferret.tumblr.com/post/699787161725206528"/>
+        <updated>2022-11-02T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[I just love him so much]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two men will take a bath]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/two-men-will-take-bath.html</id>
@@ -693,49 +713,6 @@ Toast loves to be carried around, but he knows that eventually he will tire out 
         <link href="https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtcmVsZWFzZWQtbmVhci1tZWV0ZWV0c2UvYXJ0aWNsZV9lYjQ3ZjEzNC00MzZhLTExZWQtYjdjOC0xZmI1YmM5MWM2NTQuaHRtbNIBAA?oc=5"/>
         <updated>2022-10-05T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[Eighteen black-footed ferrets were released recently at the animal's historic recovery site near Meeteetse, Wyoming.Twelve male and six female captive-born ferrets were coaxed into burrows in their new wildlands home. The small mammal that was once thought to be extinct was rediscovered in Wyoming 41 years ago. The Wyoming Game and Fish Department has been working on their recovery since then.In 1979, black-footed ferrets were considered extinct. In 1981, a ranch dog discovered a ferret in Meteetse, WY. This led to the discovery of a small population and the first recovery program. Today, the U.S. Fish &amp; Wildlife Service and its many partners are leading an effort to take ferrets off the Endangered Species List. This is their story. (Video courtesy of Wyoming Game and Fish Department) …]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science demands Domestic Ferrets be Classified as Domestic Animals]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/science-demands-domestic-ferrets-be.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/science-demands-domestic-ferrets-be.html"/>
-        <updated>2022-10-04T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[But people in power have a long history of bending science to fit their political agenda. The latest example, 4 species of bumble … OverviewThe debate over whether or not ferrets should be classified as domestic animals has been ongoing for many years, with arguments for and against both sides. Now, however, it appears that the scientific community is largely in agreement that ferrets should, in fact, be classified as domestic animals.The primary argument in favor of classifying ferrets as domestic animals is that they have been domesticated for centuries, and are significantly different from their wild ancestors. Ferrets were first domesticated in Europe over 2,000 years ago, and were brought to the United States in the 1800s. They have been bred in captivity for generations, and their be…]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(PHOTOS) 18 black-footed ferrets released on historic Wyoming recovery site - Oil City News]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL29pbGNpdHkubmV3cy9jb21tdW5pdHkvb3V0ZG9vcnMtY29tbXVuaXR5LzIwMjIvMTAvMDMvcGhvdG9zLTE4LWJsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLW9uLWhpc3RvcmljLXd5b21pbmctcmVjb3Zlcnktc2l0ZS_SAYsBaHR0cHM6Ly9vaWxjaXR5Lm5ld3MvY29tbXVuaXR5L291dGRvb3JzLWNvbW11bml0eS8yMDIyLzEwLzAzL3Bob3Rvcy0xOC1ibGFjay1mb290ZWQtZmVycmV0cy1yZWxlYXNlZC1vbi1oaXN0b3JpYy13eW9taW5nLXJlY292ZXJ5LXNpdGUvP2FtcA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL29pbGNpdHkubmV3cy9jb21tdW5pdHkvb3V0ZG9vcnMtY29tbXVuaXR5LzIwMjIvMTAvMDMvcGhvdG9zLTE4LWJsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLW9uLWhpc3RvcmljLXd5b21pbmctcmVjb3Zlcnktc2l0ZS_SAYsBaHR0cHM6Ly9vaWxjaXR5Lm5ld3MvY29tbXVuaXR5L291dGRvb3JzLWNvbW11bml0eS8yMDIyLzEwLzAzL3Bob3Rvcy0xOC1ibGFjay1mb290ZWQtZmVycmV0cy1yZWxlYXNlZC1vbi1oaXN0b3JpYy13eW9taW5nLXJlY292ZXJ5LXNpdGUvP2FtcA?oc=5"/>
-        <updated>2022-10-04T12:16:26.000Z</updated>
-        <summary type="html"><![CDATA[The Wyoming Game and Fish Department released 18 black-footed ferrets on the Meeteetse recovery site. (Wyoming Game and Fish)   CASPER, Wyo. — The Wyoming Game and Fish Department released 18 black-footed ferrets on the historic recovery site near Meeteetse last week, the department announced Monday.  The 12 male and six female ferrets born in captivity “were coaxed into burrows in their new wildlands home,” Game and Fish said. Black-footed ferrets were once thought extinct but were then rediscovered in Wyoming 41 years ago, and Game and Fish and the U.S. Fish and Wildlife Service have been working to help the species recover.  Game and Fish released the 18 ferrets in an effort to maintain at least 35 ferrets at the Meeteetse recovery site, a baseline set by the U.S. FWS. The department ob…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(PHOTOS) 18 black-footed ferrets released on historic Wyoming recovery site - Oil City News]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vb2lsY2l0eS5uZXdzL2NvbW11bml0eS9hbmltYWxzLzIwMjIvMTAvMDMvcGhvdG9zLTE4LWJsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLW9uLWhpc3RvcmljLXd5b21pbmctcmVjb3Zlcnktc2l0ZS_SAYABaHR0cHM6Ly9vaWxjaXR5Lm5ld3MvY29tbXVuaXR5L2FuaW1hbHMvMjAyMi8xMC8wMy9waG90b3MtMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtcmVsZWFzZWQtb24taGlzdG9yaWMtd3lvbWluZy1yZWNvdmVyeS1zaXRlLz9hbXA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vb2lsY2l0eS5uZXdzL2NvbW11bml0eS9hbmltYWxzLzIwMjIvMTAvMDMvcGhvdG9zLTE4LWJsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLW9uLWhpc3RvcmljLXd5b21pbmctcmVjb3Zlcnktc2l0ZS_SAYABaHR0cHM6Ly9vaWxjaXR5Lm5ld3MvY29tbXVuaXR5L2FuaW1hbHMvMjAyMi8xMC8wMy9waG90b3MtMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtcmVsZWFzZWQtb24taGlzdG9yaWMtd3lvbWluZy1yZWNvdmVyeS1zaXRlLz9hbXA?oc=5"/>
-        <updated>2022-10-04T09:16:20.000Z</updated>
-        <summary type="html"><![CDATA[The Wyoming Game and Fish Department released 18 black-footed ferrets on the Meeteetse recovery site. (Wyoming Game and Fish)   CASPER, Wyo. — The Wyoming Game and Fish Department released 18 black-footed ferrets on the historic recovery site near Meeteetse last week, the department announced Monday.  The 12 male and six female ferrets born in captivity “were coaxed into burrows in their new wildlands home,” Game and Fish said. Black-footed ferrets were once thought extinct but were then rediscovered in Wyoming 41 years ago, and Game and Fish and the U.S. Fish and Wildlife Service have been working to help the species recover.  Game and Fish released the 18 ferrets in an effort to maintain at least 35 ferrets at the Meeteetse recovery site, a baseline set by the U.S. FWS. The department ob…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh, hello there]]></title>
-        <id>https://voiceferret.tumblr.com/post/697069252967038976</id>
-        <link href="https://voiceferret.tumblr.com/post/697069252967038976"/>
-        <updated>2022-10-03T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Oh, hello there
-In recent years, the English-speaking world has seen a surge in the use of the phrase “oh, hello there”. While its origins are unknown, it is clear that this phrase has become a part of popular culture.
-There are many possible interpretations of the meaning of “oh, hello there”. It can be used as a polite way of acknowledging someone’s presence, or as a way of showing surprise. It can also be used as a way of initiating conversation, or as a way of showing interest in someone.
-Whatever the intention behind it, “oh, hello there” is a phrase that is here to stay. So next time you see someone, why not try out this friendly greeting and see where it takes you?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
