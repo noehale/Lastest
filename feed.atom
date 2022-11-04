@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T02:53:39.322Z</updated>
+    <updated>2022-11-04T03:00:14.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Golf Notes: When ferret’s attack - Fort Bragg Advocate-News]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LmFkdm9jYXRlLW5ld3MuY29tLzIwMjIvMTEvMDMvZ29sZi1ub3Rlcy13aGVuLWZlcnJldHMtYXR0YWNr0gFMaHR0cHM6Ly93d3cuYWR2b2NhdGUtbmV3cy5jb20vMjAyMi8xMS8wMy9nb2xmLW5vdGVzLXdoZW4tZmVycmV0cy1hdHRhY2svYW1wLw?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LmFkdm9jYXRlLW5ld3MuY29tLzIwMjIvMTEvMDMvZ29sZi1ub3Rlcy13aGVuLWZlcnJldHMtYXR0YWNr0gFMaHR0cHM6Ly93d3cuYWR2b2NhdGUtbmV3cy5jb20vMjAyMi8xMS8wMy9nb2xmLW5vdGVzLXdoZW4tZmVycmV0cy1hdHRhY2svYW1wLw?oc=5"/>
+        <updated>2022-11-04T03:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Last Sunday, Terry Ramos was teeing off to the fifth hole when he heard some rustling in the trees behind the tee. It seemed to Terry he was hearing a bird in distress. Turning around he saw a chipmunk scurrying up a tree. Terry knew chipmunks don’t attack birds so what was happening? He then saw a face poking out between a fork in one of the trees. The face was, Terry thought, a ferret. A ferret would and do attack birds. Ferrets are also illegal in California. It is illegal to bring a ferret into California. Ferrets are not natural native wild animals in the state so restrictions are in place to protect other native species from the introduction of ferrets. Jim Howarth, a former California highway patrolman, sitting in on the conversation, remembers there being state checkpoints where ca…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not seen very often… the magical Muttly blep.]]></title>
+        <id>https://voiceferret.tumblr.com/post/699877759138349056</id>
+        <link href="https://voiceferret.tumblr.com/post/699877759138349056"/>
+        <updated>2022-11-03T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Not seen very often… the magical Muttly blep.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret checking the owner’s wallet]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/ferret-checking-owners-wallet.html</id>
@@ -695,26 +715,6 @@ Toast loves to be carried around, but he knows that eventually he will tire out 
         <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game and Fish report the release of 18 black-footed ferrets on historic recovery site – Sheridan Media - Sheridan Media]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vc2hlcmlkYW5tZWRpYS5jb20vbmV3cy8xMTY4MzUvZ2FtZS1hbmQtZmlzaC1yZXBvcnQtdGhlLXJlbGVhc2Utb2YtMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtb24taGlzdG9yaWMtcmVjb3Zlcnktc2l0ZS_SAQA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vc2hlcmlkYW5tZWRpYS5jb20vbmV3cy8xMTY4MzUvZ2FtZS1hbmQtZmlzaC1yZXBvcnQtdGhlLXJlbGVhc2Utb2YtMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtb24taGlzdG9yaWMtcmVjb3Zlcnktc2l0ZS_SAQA?oc=5"/>
-        <updated>2022-10-05T10:24:31.000Z</updated>
-        <summary type="html"><![CDATA[Photo courtesy of the Wyoming Game and Fish Department.The Wyoming Game and Fish Department reports 18 black-footed ferrets were released last week on the historic recovery site near Meeteetse. Twelve male and six female captive-born ferrets were coaxed into burrows in their new wildlands home. The small mammal that was once thought to be extinct was rediscovered in Wyoming 41 years ago. Game and Fish has been working on their recovery since then. Game and Fish and U.S. Fish and Wildlife Service released the black-footed ferrets on private land. Partnerships with landowners in Wyoming have been key to the species recovery efforts, according to the department. “The Lazy BV and Pitchfork ranches are dedicated to black-footed ferrets and their success,” Game and Fish Nongame Supervisor Zack W…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 black-footed ferrets released near Meeteetse - Billings Gazette]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtcmVsZWFzZWQtbmVhci1tZWV0ZWV0c2UvYXJ0aWNsZV9lYjQ3ZjEzNC00MzZhLTExZWQtYjdjOC0xZmI1YmM5MWM2NTQuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vbmV3cy9zdGF0ZS1hbmQtcmVnaW9uYWwvMTgtYmxhY2stZm9vdGVkLWZlcnJldHMtcmVsZWFzZWQtbmVhci1tZWV0ZWV0c2UvYXJ0aWNsZV9lYjQ3ZjEzNC00MzZhLTExZWQtYjdjOC0xZmI1YmM5MWM2NTQuaHRtbNIBAA?oc=5"/>
-        <updated>2022-10-05T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eighteen black-footed ferrets were released recently at the animal's historic recovery site near Meeteetse, Wyoming.Twelve male and six female captive-born ferrets were coaxed into burrows in their new wildlands home. The small mammal that was once thought to be extinct was rediscovered in Wyoming 41 years ago. The Wyoming Game and Fish Department has been working on their recovery since then.In 1979, black-footed ferrets were considered extinct. In 1981, a ranch dog discovered a ferret in Meteetse, WY. This led to the discovery of a small population and the first recovery program. Today, the U.S. Fish &amp; Wildlife Service and its many partners are leading an effort to take ferrets off the Endangered Species List. This is their story. (Video courtesy of Wyoming Game and Fish Department) …]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
