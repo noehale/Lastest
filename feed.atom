@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-04T03:00:14.142Z</updated>
+    <updated>2022-11-05T02:50:19.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Da Ferret Boyz]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/da-ferret-boyz.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/da-ferret-boyz.html"/>
+        <updated>2022-11-05T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Autumn 2022 After the passing of Boo in September, life goes on for Monty and Snoopy. They play a little, sleep a lot, and keep …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He’s a happy baby. That’s so cute!]]></title>
+        <id>https://voiceferret.tumblr.com/post/699968354237153280</id>
+        <link href="https://voiceferret.tumblr.com/post/699968354237153280"/>
+        <updated>2022-11-04T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[He’s a happy baby. That’s so cute!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golf Notes: When ferret’s attack - Fort Bragg Advocate-News]]></title>
         <id>https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LmFkdm9jYXRlLW5ld3MuY29tLzIwMjIvMTEvMDMvZ29sZi1ub3Rlcy13aGVuLWZlcnJldHMtYXR0YWNr0gFMaHR0cHM6Ly93d3cuYWR2b2NhdGUtbmV3cy5jb20vMjAyMi8xMS8wMy9nb2xmLW5vdGVzLXdoZW4tZmVycmV0cy1hdHRhY2svYW1wLw?oc=5</id>
@@ -671,48 +691,6 @@ Here are a few tips to help you get started:
         <link href="https://voiceferret.blogspot.com/2022/10/i-thought-i-would-wake-up-but-i-went.html"/>
         <updated>2022-10-07T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 … by I don’t know about you, but there have been times in my life when I’ve been so tired that I thought I would just wake up and go back to bed. It’s not uncommon to feel this way after a long day at work or a night out with friends. However, there are times when this feeling can be more intense and last for several days. If you find yourself in this situation, it’s important to listen to your body and get the rest you need.It can be hard to let go of the things you need to do in order to get some rest, but it’s important to remember that your health comes first. If you’re feeling exhausted, try to take a nap or go to bed early. And if you find yourself struggling to stay awake, don’t be afraid to ask for help. There’s no shame in admitting that you need some assistance.In short, don’t push yourself too hard if you’re feeling tired. Get the rest you need and take care of yourself. Your body will thank you for it.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eighteen black-footed ferrets released outside Meeteetse - Casper Star-Tribune]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3RyaWIuY29tL25ld3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL2VpZ2h0ZWVuLWJsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLW91dHNpZGUtbWVldGVldHNlL2FydGljbGVfMmFmZWI5ODgtNDRkZS0xMWVkLThiYTYtZWY2ZDg4ZGFiNWI0Lmh0bWzSAQA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3RyaWIuY29tL25ld3Mvc3RhdGUtYW5kLXJlZ2lvbmFsL2VpZ2h0ZWVuLWJsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLW91dHNpZGUtbWVldGVldHNlL2FydGljbGVfMmFmZWI5ODgtNDRkZS0xMWVkLThiYTYtZWY2ZDg4ZGFiNWI0Lmh0bWzSAQA?oc=5"/>
-        <updated>2022-10-06T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[A black-footed ferret kit takes its first look at freedom as it transitions from a holding pen to a plateau filled with white-tailed prairie dogs near Meeteetse. Prairie dogs are the main food source for the little mammals.     Mark Davis, Powell Tribune       State wildlife managers gave another boost last week to the black-footed ferret population being reestablished near Meeteetse.The Wyoming Game and Fish Department released 18 captive-born ferrets — 12 males and six females — into the northwestern part of the state, where the last known black-footed ferrets were discovered in the wild in 1981. Prior to the find, North America’s only native ferret species was believed to be extinct.After successfully establishing a self-sustaining ferret population in Shirley Basin over the last two-an…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common and species-specific molecular signatures, networks, and regulators of influenza virus infection in mice, ferrets, and humans - Science]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LnNjaWVuY2Uub3JnL2RvaS8xMC4xMTI2L3NjaWFkdi5hYm01ODU50gEA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LnNjaWVuY2Uub3JnL2RvaS8xMC4xMTI2L3NjaWFkdi5hYm01ODU50gEA?oc=5"/>
-        <updated>2022-10-06T08:16:22.000Z</updated>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toast climbed up onto me so I’d carry him once he got tired]]></title>
-        <id>https://voiceferret.tumblr.com/post/697233793407434752</id>
-        <link href="https://voiceferret.tumblr.com/post/697233793407434752"/>
-        <updated>2022-10-05T15:39:21.000Z</updated>
-        <summary type="html"><![CDATA[Toast climbed up onto me so I’d carry him once he got tired
-Informal articles are not typically written in English. If you are writing informally in English, it is best to use simple language and sentences. However, if you want to write a formal article in English, it is important to use proper grammar and punctuation. An example of a formal article about toast climbing onto someone to be carried is provided below.
-Carrying Toast
-Toast loves to be carried around, but he knows that eventually he will tire out his owner. So, when he sees his owner sitting down, he climbs up onto them so they will carry him. This is a cute trick that Toast has learned and it always gets a smiles from his owner.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets began to use breathing molds]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/ferrets-began-to-use-breathing-molds.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/ferrets-began-to-use-breathing-molds.html"/>
-        <updated>2022-10-05T15:38:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bikke from Marshall Ferret and Butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
