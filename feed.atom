@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T02:50:27.724Z</updated>
+    <updated>2022-11-08T02:51:39.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[14 INTERESTING FACTS ABOUT FERRETS!]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/14-interesting-facts-about-ferrets.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/14-interesting-facts-about-ferrets.html"/>
+        <updated>2022-11-08T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, today you will learn FUN FACTS ABOUT FERRETS! The most interesting and amazing rodent animals are ferrets.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pro tip]]></title>
+        <id>https://voiceferret.tumblr.com/post/700240145429004288</id>
+        <link href="https://voiceferret.tumblr.com/post/700240145429004288"/>
+        <updated>2022-11-07T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[pro tip: ferrets love leaves]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Most Popular Pet in the World | Cats, Parrots, Ferrets, Hamster, Dogs and More]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/top-10-most-popular-pet-in-world-cats.html</id>
@@ -676,36 +696,6 @@ I just adopted an older ferret with an amazing story and a sweet personality! I 
         <link href="https://voiceferret.tumblr.com/post/697612834115354624"/>
         <updated>2022-10-09T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[We went away for two weeks, and returned to find one of our ferrets had grown his winter coat and looks MAJESTIC]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For my birthday, my SO made me a a ramen bowl with an illustration of my ferret]]></title>
-        <id>https://voiceferret.tumblr.com/post/697522238864457728</id>
-        <link href="https://voiceferret.tumblr.com/post/697522238864457728"/>
-        <updated>2022-10-08T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[For my birthday, my SO made me a a ramen bowl with an illustration of my ferret]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black-footed ferrets getting a boost in population recovery in Wyoming - Q2 News]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3Lmt0dnEuY29tL25ld3MvbG9jYWwtbmV3cy9ibGFjay1mb290ZWQtZmVycmV0cy1nZXR0aW5nLWEtYm9vc3QtaW4tcG9wdWxhdGlvbi1yZWNvdmVyeS1pbi13eW9taW5n0gF1aHR0cHM6Ly93d3cua3R2cS5jb20vbmV3cy9sb2NhbC1uZXdzL2JsYWNrLWZvb3RlZC1mZXJyZXRzLWdldHRpbmctYS1ib29zdC1pbi1wb3B1bGF0aW9uLXJlY292ZXJ5LWluLXd5b21pbmc_X2FtcD10cnVl?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3Lmt0dnEuY29tL25ld3MvbG9jYWwtbmV3cy9ibGFjay1mb290ZWQtZmVycmV0cy1nZXR0aW5nLWEtYm9vc3QtaW4tcG9wdWxhdGlvbi1yZWNvdmVyeS1pbi13eW9taW5n0gF1aHR0cHM6Ly93d3cua3R2cS5jb20vbmV3cy9sb2NhbC1uZXdzL2JsYWNrLWZvb3RlZC1mZXJyZXRzLWdldHRpbmctYS1ib29zdC1pbi1wb3B1bGF0aW9uLXJlY292ZXJ5LWluLXd5b21pbmc_X2FtcD10cnVl?oc=5"/>
-        <updated>2022-10-08T15:40:16.000Z</updated>
-        <summary type="html"><![CDATA[BILLINGS — Life in the animal kingdom is tough, and bouncing back from the edge of extinction is even tougher. But that’s exactly what the black-footed ferret is trying to do with a little help from animal biologists."These animals genetically were down to seven animals. Only seven animals left that were breeding and so to know that their numbers are bouncing back, there’s about 300-400 out in the wild right now. It’s a true success story. We released 18 of these incredibly endangered, one of the most endangered animals in North America, back to their natural habitat and it was an amazing experience," said Jeff Ewelt, executive director at ZooMontana.Prior to 1981, most biologists believed the black-footed ferret was extinct, but that all changed one day on the Hog family ranch near Meetee…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treat of the Day: Ferret received lifesaving pacemaker at Texas A&M - KBTX]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmtidHguY29tLzIwMjIvMTAvMDgvdHJlYXQtZGF5LWZlcnJldC1yZWNlaXZlZC1saWZlc2F2aW5nLXBhY2VtYWtlci10ZXhhcy1hbS_SAQA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmtidHguY29tLzIwMjIvMTAvMDgvdHJlYXQtZGF5LWZlcnJldC1yZWNlaXZlZC1saWZlc2F2aW5nLXBhY2VtYWtlci10ZXhhcy1hbS_SAQA?oc=5"/>
-        <updated>2022-10-08T15:26:00.000Z</updated>
-        <summary type="html"><![CDATA[BRYAN, Texas (KBTX) - It’s not every day that veterinarians at the Texas A&amp;M Small Animal Teaching Hospital (SATH) get to sew a pacemaker onto a beating heart roughly the size of a grape!But when Hypnos, a 5-year-old ferret, arrived at the SATH with a very slow heart rate, his veterinary team took on the challenge of helping the beloved pet return home healthy to his owner and ferret friends. This was the first ferret pacemaker procedure at the SATH in almost 10 years.Copyright 2022 KBTX. All rights reserved.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
