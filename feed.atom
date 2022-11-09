@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T02:51:39.247Z</updated>
+    <updated>2022-11-09T02:58:45.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My ferrets go camping]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/my-ferrets-go-camping.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/my-ferrets-go-camping.html"/>
+        <updated>2022-11-09T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[My ferrets go camping for the first time! Watch them play, dig, hike, and sit by the campfire.  thanks for visiting! Enjoy!!! Music: …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New animal ownership limits placed in Junction City for cats, dogs and ferrets - KSNT News]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvbG9jYWwtbmV3cy9uZXctYW5pbWFsLW93bmVyc2hpcC1saW1pdHMtcGxhY2VkLWluLWp1bmN0aW9uLWNpdHktZm9yLWNhdHMtZG9ncy1hbmQtZmVycmV0cy_SAXdodHRwczovL3d3dy5rc250LmNvbS9uZXdzL2xvY2FsLW5ld3MvbmV3LWFuaW1hbC1vd25lcnNoaXAtbGltaXRzLXBsYWNlZC1pbi1qdW5jdGlvbi1jaXR5LWZvci1jYXRzLWRvZ3MtYW5kLWZlcnJldHMvYW1wLw?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvbG9jYWwtbmV3cy9uZXctYW5pbWFsLW93bmVyc2hpcC1saW1pdHMtcGxhY2VkLWluLWp1bmN0aW9uLWNpdHktZm9yLWNhdHMtZG9ncy1hbmQtZmVycmV0cy_SAXdodHRwczovL3d3dy5rc250LmNvbS9uZXdzL2xvY2FsLW5ld3MvbmV3LWFuaW1hbC1vd25lcnNoaXAtbGltaXRzLXBsYWNlZC1pbi1qdW5jdGlvbi1jaXR5LWZvci1jYXRzLWRvZ3MtYW5kLWZlcnJldHMvYW1wLw?oc=5"/>
+        <updated>2022-11-09T13:07:44.000Z</updated>
+        <summary type="html"><![CDATA[JUNCTION CITY (KSNT) – A new city ordinance has been approved in Junction City which limits the number of animals in each residence within city limits.  City Attorney of Junction City Britain D. Stites announced on Nov. 8 that the City Commission voted on and approved the new limits for animals per residence. Households may own, harbor or possess no more than six dogs, cats, ferrets or any combination of the three animals. The previous limit was set at 19, according to Stites. The City Commission determined to grandfather dogs, cats or ferrets which are licensed on or before Dec. 30, 2022 during regular business hours of the City’s Customer Service Office. Animals not licensed before January 1, 2023, shall not gain a grandfather status.  This new ordinance does not allow people to exceed the limitations on pitbull ownership or other limitations contained in the ordinances of the city. A 20-year-old pitbull ban in Junction City was lifted in 2020 allowing local residents to own two pitbulls per household.  Owners, harborers or possessors convicted of cruelty to animals or other similar ordinances and statutes shall have the grandfather status of their animals revoked.  If you have any questions, you can call the Customer Service Office at 700 N. Jefferson St. or the Junction City Animal Shelter at 2424 N. Jackson St. during their normal business hours to license your animals with the City. Bring a copy of the animal’s current rabies vaccination.  Copyright 2022 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caramel has a thing for expanding over her brother]]></title>
+        <id>https://voiceferret.tumblr.com/post/700330742300983296</id>
+        <link href="https://voiceferret.tumblr.com/post/700330742300983296"/>
+        <updated>2022-11-08T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Caramel has a thing for expanding over her brother]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14 INTERESTING FACTS ABOUT FERRETS!]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/14-interesting-facts-about-ferrets.html</id>
@@ -676,26 +706,6 @@ I just adopted an older ferret with an amazing story and a sweet personality! I 
         <link href="https://voiceferret.tumblr.com/post/697703431194984448"/>
         <updated>2022-10-10T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Our new little boy, Ollivander!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full change of sleeping bed to winter specification]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/full-change-of-sleeping-bed-to-winter.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/full-change-of-sleeping-bed-to-winter.html"/>
-        <updated>2022-10-10T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[【Ferret Introduction】 Choco ♀Born on April 30, 2018 Name (Chi-chan, Chitaro, Hime) Cookie♂Born on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We went away for two weeks, and returned to find one of our ferrets had grown his winter coat and looks MAJESTIC]]></title>
-        <id>https://voiceferret.tumblr.com/post/697612834115354624</id>
-        <link href="https://voiceferret.tumblr.com/post/697612834115354624"/>
-        <updated>2022-10-09T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[We went away for two weeks, and returned to find one of our ferrets had grown his winter coat and looks MAJESTIC]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
