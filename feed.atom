@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T02:58:45.501Z</updated>
+    <updated>2022-11-10T02:53:12.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Messy daily life with ferrets (about the second half gift plan)]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/messy-daily-life-with-ferrets-about.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/messy-daily-life-with-ferrets-about.html"/>
+        <updated>2022-11-10T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[【Ferret introduction】 Choco Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) CookieBorn on November 15, 2021 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a lil ferret animation I made!]]></title>
+        <id>https://voiceferret.tumblr.com/post/700421339260092416</id>
+        <link href="https://voiceferret.tumblr.com/post/700421339260092416"/>
+        <updated>2022-11-09T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[a lil ferret animation I made!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My ferrets go camping]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/my-ferrets-go-camping.html</id>
@@ -686,26 +706,6 @@ I just adopted an older ferret with an amazing story and a sweet personality! I 
         <link href="https://voiceferret.tumblr.com/post/697794031478095872"/>
         <updated>2022-10-11T20:04:05.000Z</updated>
         <summary type="html"><![CDATA[cuddly little vampire rat]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I bought a carpet to reduce the burden on my feet]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/i-bought-carpet-to-reduce-burden-on-my.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/i-bought-carpet-to-reduce-burden-on-my.html"/>
-        <updated>2022-10-11T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I bought this carpet https://amzn.to/3fTZrbL ============================================== Born on January 19, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our new little boy, Ollivander!]]></title>
-        <id>https://voiceferret.tumblr.com/post/697703431194984448</id>
-        <link href="https://voiceferret.tumblr.com/post/697703431194984448"/>
-        <updated>2022-10-10T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Our new little boy, Ollivander!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
