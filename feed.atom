@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T02:53:58.462Z</updated>
+    <updated>2022-11-12T02:46:29.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Where to fish with chum, how to bring your ferret to California - Record Searchlight]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnJlZGRpbmcuY29tL3N0b3J5L3Nwb3J0cy8yMDIyLzExLzExL3doZXJlLWZpc2gtY2h1bS1ob3ctYnJpbmcteW91ci1mZXJyZXQtY2FsaWZvcm5pYS84Mjg5NjQxMDAxL9IBAA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnJlZGRpbmcuY29tL3N0b3J5L3Nwb3J0cy8yMDIyLzExLzExL3doZXJlLWZpc2gtY2h1bS1ob3ctYnJpbmcteW91ci1mZXJyZXQtY2FsaWZvcm5pYS84Mjg5NjQxMDAxL9IBAA?oc=5"/>
+        <updated>2022-11-12T04:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Orphaned bobcat explores meal hidden in boxA bobcat rescued at about six weeks old this summer explores a meal hidden in a tissue box at the Wildlife Clinic of Rhode Island.Q: When I fish in lakes in California, can I use chum? I’d like to use corn or other food to help attract fish.A: Whether you can chum will depend on where in California you’re fishing. Chumming is defined in California Code of Regulations as follows: “Placing any material in the water, other than on a hook while angling, for the purpose of attracting fish to a particular area in order that they may be taken.”There are a few waterways in California where chumming is legal: The Colorado River District, but only approved bait fishes may be used as chum except in the Salton Sea where corn may also be used.Carquinez Strait …]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Foster Ferrets definitely love nap time.]]></title>
+        <id>https://voiceferret.tumblr.com/post/700602533302910976</id>
+        <link href="https://voiceferret.tumblr.com/post/700602533302910976"/>
+        <updated>2022-11-11T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[The Foster Ferrets definitely love nap time.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Owners who don’t know how to play with ferrets]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/owners-who-dont-know-how-to-play-with.html</id>
@@ -665,57 +685,6 @@ According to the Royal Society for the Prevention of Cruelty to Animals Australi
         <link href="https://voiceferret.tumblr.com/post/697975222451781632"/>
         <updated>2022-10-13T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Randy‘s only job is being cute and he’s employee of the month]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Pro-The missing tool from your toolkit]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/ferret-pro-missing-tool-from-your.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/ferret-pro-missing-tool-from-your.html"/>
-        <updated>2022-10-13T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[The use of a Ferret Pro within the toolbox of a Professional Pest Control Operator as an essential inspection and recording tool.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Modern Ferret's cover photo]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3151561508389085/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3151561508389085/"/>
-        <updated>2022-10-13T08:36:22.000Z</updated>
-        <summary type="html"><![CDATA[(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet My NEW Ferret!]]></title>
-        <id>https://www.facebook.com/1785181675027082/posts/3151552145056688/</id>
-        <link href="https://www.facebook.com/1785181675027082/posts/3151552145056688/"/>
-        <updated>2022-10-13T08:21:38.000Z</updated>
-        <summary type="html"><![CDATA[NEW Youtube video is up! It's ALL about my new one-eyed ferret. Check it out and brighten your day 
-
-I just adopted an older ferret with an amazing story and a sweet personality! I can't wait for you all to meet him :)Ferret Anatomy Lesson: https://youtu.be/...(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet My NEW Ferret!]]></title>
-        <id>https://www.youtube.com/watch?v=r2akp9MEmjQ</id>
-        <link href="https://www.youtube.com/watch?v=r2akp9MEmjQ"/>
-        <updated>2022-10-13T08:00:20.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bear sleeping like he pays the rent]]></title>
-        <id>https://voiceferret.tumblr.com/post/697887271231373312</id>
-        <link href="https://voiceferret.tumblr.com/post/697887271231373312"/>
-        <updated>2022-10-12T20:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Bear sleeping like he pays the rent]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
