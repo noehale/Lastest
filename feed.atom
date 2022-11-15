@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-14T02:48:50.922Z</updated>
+    <updated>2022-11-15T02:41:48.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets sleep and wake up cute, but there is a big traffic jam ❤︎]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/ferrets-sleep-and-wake-up-cute-but.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/ferrets-sleep-and-wake-up-cute-but.html"/>
+        <updated>2022-11-15T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[【Ferret introduction】 Choco Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) CookieBorn on November 15, 2021 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[someone was pretty close to stealing an entire snickers bar]]></title>
+        <id>https://voiceferret.tumblr.com/post/700874324891074560</id>
+        <link href="https://voiceferret.tumblr.com/post/700874324891074560"/>
+        <updated>2022-11-14T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[someone was pretty close to stealing an entire snickers bar]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Congratulations】Mom discharged! What was Bicke’s reaction?]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/congratulationsmom-discharged-what-was.html</id>
