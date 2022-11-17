@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T02:43:15.034Z</updated>
+    <updated>2022-11-17T02:38:51.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hide and seek? Futon?]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/hide-and-seek-futon.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/hide-and-seek-futon.html"/>
+        <updated>2022-11-17T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I DID THE IMPOSSIBLE!!]]></title>
+        <id>https://voiceferret.tumblr.com/post/701055519184551937</id>
+        <link href="https://voiceferret.tumblr.com/post/701055519184551937"/>
+        <updated>2022-11-16T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[I DID THE IMPOSSIBLE!!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apprendre la propreté à son furet en 5 étapes !]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/apprendre-la-proprete-son-furet-en-5.html</id>
@@ -643,36 +663,6 @@ Did you know that ferrets make wonderful pets? We sat down with Haley of The Mod
         <link href="https://voiceferret.tumblr.com/post/698428207431614464"/>
         <updated>2022-10-18T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[👁👅👁]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets raging in a tunnel where they can only play for 5 minutes every day]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/ferrets-raging-in-tunnel-where-they-can.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/ferrets-raging-in-tunnel-where-they-can.html"/>
-        <updated>2022-10-18T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[【Ferret Introduction】 Choco ♀Born on April 30, 2018 Name (Chi-chan, Chitaro, Hime) Cookie♂Born on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First epidemiological survey of Leishmania infantum in the domestic ferret (Mustela putorius furo) in a canine leishmaniosis endemic area using serology and PCR - Parasites & Vectors - Parasites & Vectors]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vcGFyYXNpdGVzYW5kdmVjdG9ycy5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3MxMzA3MS0wMjItMDU1MTctedIBAA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vcGFyYXNpdGVzYW5kdmVjdG9ycy5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3MxMzA3MS0wMjItMDU1MTctedIBAA?oc=5"/>
-        <updated>2022-10-18T00:50:59.000Z</updated>
-        <summary type="html"><![CDATA[Baneth G, Thamsborg SM, Otranto D, Guillot J, Blaga R, Deplazes P, et al. Major parasitic zoonoses associated with dogs and cats in Europe. J Comp Pathol. 2016;155:S54-74. https://doi.org/10.1016/j.jcpa.2015.10.1792.Article  CAS  PubMed   Google Scholar  Cardoso L, Schallig H, Persichetti MF, Pennisi MG. New epidemiological aspects of animal leishmaniosis in Europe: the role of vertebrate hosts other than dogs. Pathogens. 2021;10:307. https://doi.org/10.3390/pathogens10030307.Article  CAS  PubMed  PubMed Central   Google Scholar  Alcover MM, Basurco A, Fernández A, Riera C, Fisa R, González A, et al. A cross-sectional study of Leishmania infantum infection in stray cats in the city of Zaragoza (Spain) using serology and PCR. Parasit Vectors. 2021;14:178. https://doi.org/10.1186/s13071-021-…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheerio likes new friends]]></title>
-        <id>https://voiceferret.tumblr.com/post/698337609918939136</id>
-        <link href="https://voiceferret.tumblr.com/post/698337609918939136"/>
-        <updated>2022-10-17T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Cheerio likes new friends]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
