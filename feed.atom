@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T02:38:51.764Z</updated>
+    <updated>2022-11-18T02:44:47.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets who do not breathe with their owners]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/ferrets-who-do-not-breathe-with-their.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/ferrets-who-do-not-breathe-with-their.html"/>
+        <updated>2022-11-18T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I work at an animal rescue and, yesterday, our ferrets took an enriching trip to our amphitheatre room!]]></title>
+        <id>https://voiceferret.tumblr.com/post/701146115937058816</id>
+        <link href="https://voiceferret.tumblr.com/post/701146115937058816"/>
+        <updated>2022-11-17T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[I work at an animal rescue and, yesterday, our ferrets took an enriching trip to our amphitheatre room!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hide and seek? Futon?]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/hide-and-seek-futon.html</id>
@@ -653,16 +673,6 @@ Did you know that ferrets make wonderful pets? We sat down with Haley of The Mod
         <link href="https://voiceferret.tumblr.com/post/698518804887683072"/>
         <updated>2022-10-19T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Happiness in a photo dock dock]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👁👅👁]]></title>
-        <id>https://voiceferret.tumblr.com/post/698428207431614464</id>
-        <link href="https://voiceferret.tumblr.com/post/698428207431614464"/>
-        <updated>2022-10-18T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[👁👅👁]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
