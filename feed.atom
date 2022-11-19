@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-18T02:44:47.182Z</updated>
+    <updated>2022-11-19T02:34:12.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret brincando com porquinho da índia]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/ferret-brincando-com-porquinho-da-india.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/ferret-brincando-com-porquinho-da-india.html"/>
+        <updated>2022-11-19T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Neste vídeo mostra a minha ferret Farofa (que já virou estrelinha) tentando brincar com a minha porquinha da índia Kuí (que …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sister got me a sign for the cage. It suits Schmitt…]]></title>
+        <id>https://voiceferret.tumblr.com/post/701236712766062592</id>
+        <link href="https://voiceferret.tumblr.com/post/701236712766062592"/>
+        <updated>2022-11-18T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Sister got me a sign for the cage. It suits Schmitt…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Ferrets See in the Dark?]]></title>
+        <id>https://noehale.github.io/can-ferrets-see-in-the-dark/</id>
+        <link href="https://noehale.github.io/can-ferrets-see-in-the-dark/"/>
+        <updated>2022-11-18T17:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Those of you who are wondering can ferrets see in th]]></summary>
+        <author>
+            <name>Noe Hale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets who do not breathe with their owners]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/ferrets-who-do-not-breathe-with-their.html</id>
@@ -653,26 +683,6 @@ Did you know that ferrets make wonderful pets? We sat down with Haley of The Mod
         <link href="https://voiceferret.tumblr.com/post/698609401308856320"/>
         <updated>2022-10-20T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[howdy]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chatting with a couple while clipping ferrets’ nails]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/chatting-with-couple-while-clipping.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/chatting-with-couple-while-clipping.html"/>
-        <updated>2022-10-20T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[【Ferret introduction】 Choco ♀Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) Cookie♂Born on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happiness in a photo dock dock]]></title>
-        <id>https://voiceferret.tumblr.com/post/698518804887683072</id>
-        <link href="https://voiceferret.tumblr.com/post/698518804887683072"/>
-        <updated>2022-10-19T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Happiness in a photo dock dock]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
