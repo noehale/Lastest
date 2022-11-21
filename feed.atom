@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-20T02:46:23.151Z</updated>
+    <updated>2022-11-21T02:43:03.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bikke dances all over]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/bikke-dances-all-over.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/bikke-dances-all-over.html"/>
+        <updated>2022-11-21T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whats your thoughts on SCP-7976]]></title>
+        <id>https://voiceferret.tumblr.com/post/701417906038325248</id>
+        <link href="https://voiceferret.tumblr.com/post/701417906038325248"/>
+        <updated>2022-11-20T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Whats your thoughts on SCP-7976]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topstars – Living a ferret's life]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/topstars-living-ferrets-life.html</id>
@@ -24,6 +44,17 @@
         <summary type="html"><![CDATA[Neste vídeo mostra a minha ferret Farofa (que já virou estrelinha) tentando brincar com a minha porquinha da índia Kuí (que …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back in 2017 I made a Youtube video called "World's Most Loved Ferret... Park Day!" and it still makes me smile to this day. You...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/683508169802866</id>
+        <link href="https://www.facebook.com/666603538159996/posts/683508169802866"/>
+        <updated>2022-11-19T01:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2017 I made a Youtube video called "World's Most Loved Ferret... Park Day!" and it still makes me smile to this day. You can find it through my link in bio if you are looking for an easy way to brighten your day!
+Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -74,6 +105,17 @@
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moose always loved to put on QUITE a performance when he was alive. Now Elijah is doing his best to live up to his brother. Does...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/682426479911035</id>
+        <link href="https://www.facebook.com/666603538159996/posts/682426479911035"/>
+        <updated>2022-11-17T13:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Moose always loved to put on QUITE a performance when he was alive. Now Elijah is doing his best to live up to his brother. Does your ferret specialize in any particular performances?
+#ferret #ferretgram #ferrets #instaferret #ferretism #ferretsofinstagram #フェレット #ferretlove #хорек #ferretlife #furet #frettchen #huron #fuzzbutt(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -643,36 +685,6 @@ Did you know that ferrets make wonderful pets? We sat down with Haley of The Mod
         <link href="https://voiceferret.tumblr.com/post/698790594879832064"/>
         <updated>2022-10-22T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Plenty of cozy places all over the house for a ferret to sleep, instead sleeps on her mom’s PS4 instead]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What surprised you by the loud noise?]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/what-surprised-you-by-loud-noise.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/what-surprised-you-by-loud-noise.html"/>
-        <updated>2022-10-22T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPW releases 30 threatened black-footed ferrets in eastern Colorado - KKTV]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmtrdHYuY29tLzIwMjIvMTAvMjEvY3B3LXJlbGVhc2VzLTMwLXRocmVhdGVuZWQtYmxhY2stZm9vdGVkLWZlcnJldHMtc291dGhlcm4tY29sb3JhZG8v0gEA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmtrdHYuY29tLzIwMjIvMTAvMjEvY3B3LXJlbGVhc2VzLTMwLXRocmVhdGVuZWQtYmxhY2stZm9vdGVkLWZlcnJldHMtc291dGhlcm4tY29sb3JhZG8v0gEA?oc=5"/>
-        <updated>2022-10-22T11:09:00.000Z</updated>
-        <summary type="html"><![CDATA[COLORADO SPRINGS, Colo. (KKTV) - This week, 30 federally threatened black-footed ferrets were released on Colorado’s eastern plains.The ferrets, one of the rarest mammals in North America, were raised at a U.S. Fish and Wildlife breeding facility. According to CPW’s website, black-footed ferrets were thought to be extinct twice, and were absent from Colorado since the early 1940s. A small population was found in Wyoming in 1981, which was used to help boost populations in the region. Officials say that there are currently about 600 black-footed ferrets both in captivity and the wild, and that all black-footed ferrets are now descendants of that population found in Wyoming.The ferrets were first reintroduced to Colorado back in 2001. This week’s release marks the eighth release site in eastern Colorado. The ferrets were released land owned by the Southern Plains Land Trust.See video of the release from Colorado Parks &amp; Wildlife here:Copyright 2022 KKTV. All rights reserved.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At least one cat and a ferret killed in 25th Avenue NW fire; blaze ruled accidental - Hickory Daily Record]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMingFodHRwczovL2hpY2tvcnlyZWNvcmQuY29tL25ld3MvbG9jYWwvYXQtbGVhc3Qtb25lLWNhdC1hbmQtYS1mZXJyZXQta2lsbGVkLWluLTI1dGgtYXZlbnVlLW53LWZpcmUtYmxhemUtcnVsZWQvYXJ0aWNsZV9lZGRkZGFkNi01MTQyLTExZWQtODgyZi0wYjgwYTQwZTJiNDMuaHRtbNIBogFodHRwczovL2hpY2tvcnlyZWNvcmQuY29tL25ld3MvbG9jYWwvYXQtbGVhc3Qtb25lLWNhdC1hbmQtYS1mZXJyZXQta2lsbGVkLWluLTI1dGgtYXZlbnVlLW53LWZpcmUtYmxhemUtcnVsZWQvYXJ0aWNsZV9lZGRkZGFkNi01MTQyLTExZWQtODgyZi0wYjgwYTQwZTJiNDMuYW1wLmh0bWw?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMingFodHRwczovL2hpY2tvcnlyZWNvcmQuY29tL25ld3MvbG9jYWwvYXQtbGVhc3Qtb25lLWNhdC1hbmQtYS1mZXJyZXQta2lsbGVkLWluLTI1dGgtYXZlbnVlLW53LWZpcmUtYmxhemUtcnVsZWQvYXJ0aWNsZV9lZGRkZGFkNi01MTQyLTExZWQtODgyZi0wYjgwYTQwZTJiNDMuaHRtbNIBogFodHRwczovL2hpY2tvcnlyZWNvcmQuY29tL25ld3MvbG9jYWwvYXQtbGVhc3Qtb25lLWNhdC1hbmQtYS1mZXJyZXQta2lsbGVkLWluLTI1dGgtYXZlbnVlLW53LWZpcmUtYmxhemUtcnVsZWQvYXJ0aWNsZV9lZGRkZGFkNi01MTQyLTExZWQtODgyZi0wYjgwYTQwZTJiNDMuYW1wLmh0bWw?oc=5"/>
-        <updated>2022-10-22T06:21:00.000Z</updated>
-        <summary type="html"><![CDATA[A fire heavily damaged a home on 25th Avenue NW and claimed the lives of at least two pets Thursday afternoon.None of the residents were harmed, Hickory Fire Department Education Coordinator Terri Byers said. Four people lived at the home, two of whom were there at the time of the fire.At least two family pets — a ferret and a cat — died in the fire, she said.The Catawba County Fire Marshal’s office ruled the fire accidental, according to a release from the Hickory Fire Department.Byers said the fire department deployed three fire engines, a ladder truck and a rescue truck. Catawba County EMS and Red Cross responded as well. Kevin Griffin is the City of Hickory reporter at the Hickory Daily Record.  Subscribe to our Daily Headlines newsletter.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
