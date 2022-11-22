@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-21T02:43:03.879Z</updated>
+    <updated>2022-11-22T02:41:08.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veranda sunbathing and veterinary shampoo]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/veranda-sunbathing-and-veterinary.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/veranda-sunbathing-and-veterinary.html"/>
+        <updated>2022-11-22T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[【Ferret introduction】 Choco Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) CookieBorn on November 15, 2021 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yesterday my house partially burned down, I wasn’t home, if I was I most likely would’ve died, unfortunately my ferrets didn’t make it, I am deeply hurt 💔 I don’t care about everything that burned down, I just so sad because I lost my babies, at least the smoke killed them and not the fire 😔]]></title>
+        <id>https://voiceferret.tumblr.com/post/701508503301423104</id>
+        <link href="https://voiceferret.tumblr.com/post/701508503301423104"/>
+        <updated>2022-11-21T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday my house partially burned down, I wasn’t home, if I was I most likely would’ve died, unfortunately my ferrets didn’t make it, I am deeply hurt  I don’t care about everything that burned down, I just so sad because I lost my babies, at least the smoke killed them and not the fire]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bikke dances all over]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/bikke-dances-all-over.html</id>
@@ -665,26 +685,6 @@ Did you know that ferrets make wonderful pets? We sat down with Haley of The Mod
         <link href="https://voiceferret.tumblr.com/post/698881191712063488"/>
         <updated>2022-10-23T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I’ll never forget you Gwin. I love you so so much]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret, Chameleon. Funny and Cute Animals as Pets | Exotic Animal | Animal Facts | Animal Life |#205]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/ferret-chameleon-funny-and-cute-animals.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/ferret-chameleon-funny-and-cute-animals.html"/>
-        <updated>2022-10-23T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferret, Chameleon. Funny and Cute Animals as Pets | Exotic Animal | Animal Facts | Animal Life | #205.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plenty of cozy places all over the house for a ferret to sleep, instead sleeps on her mom’s PS4 instead]]></title>
-        <id>https://voiceferret.tumblr.com/post/698790594879832064</id>
-        <link href="https://voiceferret.tumblr.com/post/698790594879832064"/>
-        <updated>2022-10-22T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Plenty of cozy places all over the house for a ferret to sleep, instead sleeps on her mom’s PS4 instead]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
