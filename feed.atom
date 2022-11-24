@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T02:25:17.056Z</updated>
+    <updated>2022-11-24T02:21:14.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When mom participates in a place where she feels good …]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/when-mom-participates-in-place-where.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/when-mom-participates-in-place-where.html"/>
+        <updated>2022-11-24T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My little girl]]></title>
+        <id>https://voiceferret.tumblr.com/post/701689698028027904</id>
+        <link href="https://voiceferret.tumblr.com/post/701689698028027904"/>
+        <updated>2022-11-23T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My little girl]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서랍이고 문이고 다 열어제끼는 페럿]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/blog-post.html</id>
@@ -665,26 +685,6 @@ Did you know that ferrets make wonderful pets? We sat down with Haley of The Mod
         <link href="https://voiceferret.tumblr.com/post/699062386111528960"/>
         <updated>2022-10-25T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Bronson is such a handsome dude]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halloween Cage Tour 2022]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/halloween-cage-tour-2022.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/halloween-cage-tour-2022.html"/>
-        <updated>2022-10-25T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Checkout this years Halloween Cage Tour, accessories and ferret toys. I made the cage liners, cage cover and cage accessories.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toesies]]></title>
-        <id>https://voiceferret.tumblr.com/post/698971789260472320</id>
-        <link href="https://voiceferret.tumblr.com/post/698971789260472320"/>
-        <updated>2022-10-24T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Toesies]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
