@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T02:22:37.701Z</updated>
+    <updated>2022-11-26T02:15:21.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Itasel’s snort is bad]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/itasels-snort-is-bad.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/itasels-snort-is-bad.html"/>
+        <updated>2022-11-26T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferret #ferret # ferret poco # grazing # how to play # pet # weasel # cute # nose breath When I welcomed a ferret for the first time in 3 years, I was scared …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I just lost the best furry friend I’ve ever known]]></title>
+        <id>https://voiceferret.tumblr.com/post/701870891115642880</id>
+        <link href="https://voiceferret.tumblr.com/post/701870891115642880"/>
+        <updated>2022-11-25T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[I just lost the best furry friend I’ve ever known]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make Betta Aquaterrarium l Snakehead Happened EMERGENCY l The Spray Foam Can Also Be Used In The Way]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/make-betta-aquaterrarium-l-snakehead.html</id>
@@ -666,27 +686,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <summary type="html"><![CDATA[she is such a baby]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets Having a BALL playing!]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/ferrets-having-ball-playing.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/ferrets-having-ball-playing.html"/>
-        <updated>2022-10-27T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[When you have a ferret in your life you have to give it a lot of exercise. Ferrets sleep most of the day, but they need to run around …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Questions with Haley from The Modern Ferret - Oxbow Animal Health]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/667435824743434</id>
-        <link href="https://www.facebook.com/666603538159996/posts/667435824743434"/>
-        <updated>2022-10-27T05:23:46.000Z</updated>
-        <summary type="html"><![CDATA[I did a fun interview with Oxbow Animal Health, talking about why I started The Modern Ferret 8 years ago, what lessons ferrets have taught me over the years, and what are most people's most common misconceptions about this amazing animal! Take some time to read. It's a fun one!
-Did you know that ferrets make wonderful pets? We sat down with Haley of The Modern Ferret to learn more about the joys of life with ferrets!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
