@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-27T02:27:13.598Z</updated>
+    <updated>2022-11-28T02:20:55.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DONKEY FASHION, FERRETS & PUPPIES | Finca life! Tenerife Horse Rescue]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/donkey-fashion-ferrets-puppies-finca.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/donkey-fashion-ferrets-puppies-finca.html"/>
+        <updated>2022-11-28T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Once again we have had a busy week and have barely managed to get a episode up for you! But at the last minute Roz and Edo …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caught in the act]]></title>
+        <id>https://voiceferret.tumblr.com/post/702052084611170304</id>
+        <link href="https://voiceferret.tumblr.com/post/702052084611170304"/>
+        <updated>2022-11-27T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Caught in the act]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret welcome complete closeness! !! Pick up at your favorite Ferret World & Procare Shampoo]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/ferret-welcome-complete-closeness-pick.html</id>
@@ -676,46 +696,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/699424773607915521"/>
         <updated>2022-10-29T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I WONDER WHAT THEY’RE THINKING?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret desperately chupachupa for new target]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/ferret-desperately-chupachupa-for-new.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/ferret-desperately-chupachupa-for-new.html"/>
-        <updated>2022-10-29T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[【Ferret introduction】 Choco ♀Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) Cookie♂Born on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When your ferret *chooses* to nap next to you 👌]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/668938087926541</id>
-        <link href="https://www.facebook.com/666603538159996/posts/668938087926541"/>
-        <updated>2022-10-29T06:24:02.000Z</updated>
-        <summary type="html"><![CDATA[When your ferret *chooses* to nap next to you 👌(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[can you spot the sneaky weasel? #ferret #ferrets #ferretsofinstagram]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/668854611268222</id>
-        <link href="https://www.facebook.com/666603538159996/posts/668854611268222"/>
-        <updated>2022-10-29T04:20:38.000Z</updated>
-        <summary type="html"><![CDATA[can you spot the sneaky weasel? #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Her face when she caught me filming her]]></title>
-        <id>https://voiceferret.tumblr.com/post/699334177139654656</id>
-        <link href="https://voiceferret.tumblr.com/post/699334177139654656"/>
-        <updated>2022-10-28T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Her face when she caught me filming her]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
