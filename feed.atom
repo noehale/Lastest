@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T02:20:55.508Z</updated>
+    <updated>2022-11-29T02:18:55.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret is fiercely welcomed as soon as it comes out]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/ferret-is-fiercely-welcomed-as-soon-as.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/ferret-is-fiercely-welcomed-as-soon-as.html"/>
+        <updated>2022-11-29T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just wanted to share my 5 month old furbabies!]]></title>
+        <id>https://voiceferret.tumblr.com/post/702142682807615488</id>
+        <link href="https://voiceferret.tumblr.com/post/702142682807615488"/>
+        <updated>2022-11-28T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Just wanted to share my 5 month old furbabies!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DONKEY FASHION, FERRETS & PUPPIES | Finca life! Tenerife Horse Rescue]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/donkey-fashion-ferrets-puppies-finca.html</id>
@@ -676,26 +696,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/699515370872127488"/>
         <updated>2022-10-30T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[To remember my bestest friend]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret disappearing in the trash]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/ferret-disappearing-in-trash.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/ferret-disappearing-in-trash.html"/>
-        <updated>2022-10-30T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I WONDER WHAT THEY’RE THINKING?]]></title>
-        <id>https://voiceferret.tumblr.com/post/699424773607915521</id>
-        <link href="https://voiceferret.tumblr.com/post/699424773607915521"/>
-        <updated>2022-10-29T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[I WONDER WHAT THEY’RE THINKING?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
