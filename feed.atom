@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-29T02:18:55.456Z</updated>
+    <updated>2022-11-30T02:17:22.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I’m spoiled by my mom today]]></title>
+        <id>https://voiceferret.blogspot.com/2022/11/im-spoiled-by-my-mom-today.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/11/im-spoiled-by-my-mom-today.html"/>
+        <updated>2022-11-30T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holiday photos did not go as planned]]></title>
+        <id>https://voiceferret.tumblr.com/post/702233278692851712</id>
+        <link href="https://voiceferret.tumblr.com/post/702233278692851712"/>
+        <updated>2022-11-29T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Holiday photos did not go as planned]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret is fiercely welcomed as soon as it comes out]]></title>
         <id>https://voiceferret.blogspot.com/2022/11/ferret-is-fiercely-welcomed-as-soon-as.html</id>
@@ -14,6 +34,19 @@
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret Yoga sweatshirts are back in my online shop! Check out my Etsy page through my link in bio!
+
+#ferret #ferretgram #ferrets...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/690259799127703</id>
+        <link href="https://www.facebook.com/666603538159996/posts/690259799127703"/>
+        <updated>2022-11-29T01:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Ferret Yoga sweatshirts are back in my online shop! Check out my Etsy page through my link in bio!
+#ferret #ferretgram #ferrets #instaferret #ferretism #ferretsofinstagram #フェレット #ferretlove #хорек #ferretlife #furet #frettchen #huron #fuzzbutt(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -666,36 +699,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/699605968123723776"/>
         <updated>2022-10-31T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[🎃 Happy Halloween 🎃]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy delicious rice with a hun-poon crusher]]></title>
-        <id>https://voiceferret.blogspot.com/2022/10/easy-delicious-rice-with-hun-poon.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/10/easy-delicious-rice-with-hun-poon.html"/>
-        <updated>2022-10-31T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[【Ferret introduction】 Choco ♀Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) Cookie♂Born on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DooktoberFest 2022 Ferret Show at York Expo Center - York Dispatch]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LnlvcmtkaXNwYXRjaC5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyMi8xMC8zMC9kb29rdG9iZXJmZXN0LTIwMjItZmVycmV0LXNob3cteW9yay1leHBvLWNlbnRlci8xMDY0NjQzNzAwMi_SAQA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LnlvcmtkaXNwYXRjaC5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyMi8xMC8zMC9kb29rdG9iZXJmZXN0LTIwMjItZmVycmV0LXNob3cteW9yay1leHBvLWNlbnRlci8xMDY0NjQzNzAwMi_SAQA?oc=5"/>
-        <updated>2022-10-31T06:44:00.000Z</updated>
-        <summary type="html"><![CDATA[DooktoberFest 2022 Ferret Show at York Expo Center in West Manchester Township, Saturday, Oct. 29, 2022.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To remember my bestest friend]]></title>
-        <id>https://voiceferret.tumblr.com/post/699515370872127488</id>
-        <link href="https://voiceferret.tumblr.com/post/699515370872127488"/>
-        <updated>2022-10-30T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[To remember my bestest friend]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
