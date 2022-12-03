@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-02T02:12:09.260Z</updated>
+    <updated>2022-12-03T02:03:56.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Haven’t seen them all day, check their favorite sleeping spot, the bathroom drawer. Epitome of comfort and luxury /s]]></title>
+        <id>https://voiceferret.tumblr.com/post/702505070811611136</id>
+        <link href="https://voiceferret.tumblr.com/post/702505070811611136"/>
+        <updated>2022-12-02T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Haven’t seen them all day, check their favorite sleeping spot, the bathroom drawer. Epitome of comfort and luxury /s]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ultimate X-MAS Ferret TikTok Compilation (2022)]]></title>
         <id>https://voiceferret.blogspot.com/2022/12/ultimate-x-mas-ferret-tiktok.html</id>
@@ -700,16 +710,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I just love him so much]]></title>
-        <id>https://voiceferret.tumblr.com/post/699787161725206528</id>
-        <link href="https://voiceferret.tumblr.com/post/699787161725206528"/>
-        <updated>2022-11-02T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[I just love him so much]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
