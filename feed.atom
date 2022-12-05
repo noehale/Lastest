@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-04T02:10:47.260Z</updated>
+    <updated>2022-12-05T02:09:06.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I’ll do various challenges ~]]></title>
+        <id>https://voiceferret.blogspot.com/2022/12/ill-do-various-challenges.html</id>
+        <link href="https://voiceferret.blogspot.com/2022/12/ill-do-various-challenges.html"/>
+        <updated>2022-12-05T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[is my ferret overweight? (first pic is from the summer)]]></title>
+        <id>https://voiceferret.tumblr.com/post/702686265331630081</id>
+        <link href="https://voiceferret.tumblr.com/post/702686265331630081"/>
+        <updated>2022-12-04T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[is my ferret overweight? (first pic is from the summer)]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If you let the energetic ferret play outside…　　　I took a walk with a ferret.]]></title>
         <id>https://voiceferret.blogspot.com/2022/12/if-you-let-energetic-ferret-play.html</id>
@@ -57,6 +77,22 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The best room in the house!
+
+Thanks to this video from @me.and.the.fuzzies1
+
+#best #room #in #the #flat #lovethem #ferret #ferre...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/692212198932463</id>
+        <link href="https://www.facebook.com/666603538159996/posts/692212198932463"/>
+        <updated>2022-12-02T01:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The best room in the house!
+Thanks to this video from @me.and.the.fuzzies1
+#best #room #in #the #flat #lovethem #ferret #ferretsoftiktok #spoilt #furbabies #pets #petsoftiktok #kidsroom #children #animals #animalsoftiktok(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lady Mondegreen and the ferret elves - Farmerville Gazette]]></title>
         <id>https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3LmZnYXpldHRlLmNvbS9vcGluaW9uL2xhZHktbW9uZGVncmVlbi1hbmQtZmVycmV0LWVsdmVz0gEA?oc=5</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3LmZnYXpldHRlLmNvbS9vcGluaW9uL2xhZHktbW9uZGVncmVlbi1hbmQtZmVycmV0LWVsdmVz0gEA?oc=5"/>
@@ -74,6 +110,17 @@
         <summary type="html"><![CDATA[Greetings from Tobi!]]></summary>
         <author>
             <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Ferrets are Best : Pros of Ferrets as Pets]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/691785035641846</id>
+        <link href="https://www.facebook.com/666603538159996/posts/691785035641846"/>
+        <updated>2022-12-01T09:12:16.000Z</updated>
+        <summary type="html"><![CDATA[I just posted a NEW Youtube video for you all to enjoy! https://youtu.be/E7DuBj7vAmc In this video I cover all my top PROS of ferret ownership. There will be a follow-up video where I go into all the CONS as well. Feel free to watch and comment your own thoughts on Youtube! https://youtu.be/E7DuBj7vAmc
+Any idea why ferrets are best for so many people?! In this video I list all the top reasons ferrets make great pets (aka the Pros of Ferrets). I touch on fer...(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -678,26 +725,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/700058952641232897"/>
         <updated>2022-11-05T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[my ferret comes into my bed every morning for pets and scritches and ends up knocking out as soon as he gets affection]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Da Ferret Boyz]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/da-ferret-boyz.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/da-ferret-boyz.html"/>
-        <updated>2022-11-05T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Autumn 2022 After the passing of Boo in September, life goes on for Monty and Snoopy. They play a little, sleep a lot, and keep …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[He’s a happy baby. That’s so cute!]]></title>
-        <id>https://voiceferret.tumblr.com/post/699968354237153280</id>
-        <link href="https://voiceferret.tumblr.com/post/699968354237153280"/>
-        <updated>2022-11-04T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[He’s a happy baby. That’s so cute!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
