@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T02:09:06.185Z</updated>
+    <updated>2022-12-06T02:10:04.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -705,26 +705,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/700149548531810304"/>
         <updated>2022-11-06T19:04:02.000Z</updated>
         <summary type="html"><![CDATA[Autumn walkies with the ferrets]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rabbit jumping ferret]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/rabbit-jumping-ferret.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/rabbit-jumping-ferret.html"/>
-        <updated>2022-11-06T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my ferret comes into my bed every morning for pets and scritches and ends up knocking out as soon as he gets affection]]></title>
-        <id>https://voiceferret.tumblr.com/post/700058952641232897</id>
-        <link href="https://voiceferret.tumblr.com/post/700058952641232897"/>
-        <updated>2022-11-05T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[my ferret comes into my bed every morning for pets and scritches and ends up knocking out as soon as he gets affection]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
