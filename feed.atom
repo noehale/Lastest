@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T02:10:04.595Z</updated>
+    <updated>2022-12-07T02:16:28.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -685,26 +685,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/700240145429004288"/>
         <updated>2022-11-07T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[pro tip: ferrets love leaves]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Most Popular Pet in the World | Cats, Parrots, Ferrets, Hamster, Dogs and More]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/top-10-most-popular-pet-in-world-cats.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/top-10-most-popular-pet-in-world-cats.html"/>
-        <updated>2022-11-07T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Pets are part of our life. And indeed, in countries like the United States, 68% of households have at least one pet. Adopting (or …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autumn walkies with the ferrets 🍂]]></title>
-        <id>https://voiceferret.tumblr.com/post/700149548531810304</id>
-        <link href="https://voiceferret.tumblr.com/post/700149548531810304"/>
-        <updated>2022-11-06T19:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Autumn walkies with the ferrets]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
