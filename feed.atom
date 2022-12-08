@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T02:16:28.966Z</updated>
+    <updated>2022-12-08T02:12:02.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I have been a huge animal person since I was a toddler. My parents said I always gravitated towards animals and books about natu...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/695823075238042</id>
+        <link href="https://www.facebook.com/666603538159996/posts/695823075238042"/>
+        <updated>2022-12-07T01:00:31.000Z</updated>
+        <summary type="html"><![CDATA[I have been a huge animal person since I was a toddler. My parents said I always gravitated towards animals and books about nature even before I could talk. I’ve had hamsters, rats, chinchillas, hedgehogs, dogs, cats, snakes, and lizards. Now I joke that I was searching for ferrets all that time -I just didn’t know it yet!
+When I got Moose (my first ferret), I wasn’t actually planning on getting a ferret at all. I went to a pet store to purchase a hedgehog with my boyfriend at the time. I had already owned one so I knew what the care would entail. However, when we arrived at the pet store where we meant to go check out the hedgehogs, we were instead struck by how playful and adorable the ferrets were. Many people describe ferrets as a combination of the best qualities of a puppy and a kitten rolled into one. I can attest to that!
+There was one particular little ball of fluff that caught my eye. He was very dark brown and sat all alone in the corner. I reached my hands into the tank and plucked him out. I set this little kit in the crook of my forearm, belly up, and he gazed right into my eyes. What really struck me is how calmly he sat there staring at me and taking this world in. That baby was Moose, of course, and it was absolutely love at first sight. I have been head-over-heels for ferrets ever since that day.
+#ferret #ferretgram #ferrets #instaferret #ferretism #ferretsofinstagram #フェレット #ferretlove #хорек #ferretlife #furet #frettchen #huron #fuzzbutt(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’ll do various challenges ~]]></title>
         <id>https://voiceferret.blogspot.com/2022/12/ill-do-various-challenges.html</id>
@@ -665,26 +678,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/700330742300983296"/>
         <updated>2022-11-08T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Caramel has a thing for expanding over her brother]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 INTERESTING FACTS ABOUT FERRETS!]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/14-interesting-facts-about-ferrets.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/14-interesting-facts-about-ferrets.html"/>
-        <updated>2022-11-08T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, today you will learn FUN FACTS ABOUT FERRETS! The most interesting and amazing rodent animals are ferrets.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pro tip]]></title>
-        <id>https://voiceferret.tumblr.com/post/700240145429004288</id>
-        <link href="https://voiceferret.tumblr.com/post/700240145429004288"/>
-        <updated>2022-11-07T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[pro tip: ferrets love leaves]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
