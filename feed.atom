@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T02:17:40.184Z</updated>
+    <updated>2022-12-12T02:12:35.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -588,26 +588,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/700693129881370624"/>
         <updated>2022-11-12T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[I think my ferret needs an intervention.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where to fish with chum, how to bring your ferret to California - Record Searchlight]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnJlZGRpbmcuY29tL3N0b3J5L3Nwb3J0cy8yMDIyLzExLzExL3doZXJlLWZpc2gtY2h1bS1ob3ctYnJpbmcteW91ci1mZXJyZXQtY2FsaWZvcm5pYS84Mjg5NjQxMDAxL9IBAA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnJlZGRpbmcuY29tL3N0b3J5L3Nwb3J0cy8yMDIyLzExLzExL3doZXJlLWZpc2gtY2h1bS1ob3ctYnJpbmcteW91ci1mZXJyZXQtY2FsaWZvcm5pYS84Mjg5NjQxMDAxL9IBAA?oc=5"/>
-        <updated>2022-11-12T04:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Orphaned bobcat explores meal hidden in boxA bobcat rescued at about six weeks old this summer explores a meal hidden in a tissue box at the Wildlife Clinic of Rhode Island.Q: When I fish in lakes in California, can I use chum? I’d like to use corn or other food to help attract fish.A: Whether you can chum will depend on where in California you’re fishing. Chumming is defined in California Code of Regulations as follows: “Placing any material in the water, other than on a hook while angling, for the purpose of attracting fish to a particular area in order that they may be taken.”There are a few waterways in California where chumming is legal: The Colorado River District, but only approved bait fishes may be used as chum except in the Salton Sea where corn may also be used.Carquinez Strait …]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Foster Ferrets definitely love nap time.]]></title>
-        <id>https://voiceferret.tumblr.com/post/700602533302910976</id>
-        <link href="https://voiceferret.tumblr.com/post/700602533302910976"/>
-        <updated>2022-11-11T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[The Foster Ferrets definitely love nap time.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
