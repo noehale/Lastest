@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T02:17:15.192Z</updated>
+    <updated>2022-12-14T02:15:28.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -548,26 +548,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <link href="https://voiceferret.tumblr.com/post/700874324891074560"/>
         <updated>2022-11-14T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[someone was pretty close to stealing an entire snickers bar]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Congratulations】Mom discharged! What was Bicke’s reaction?]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/congratulationsmom-discharged-what-was.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/congratulationsmom-discharged-what-was.html"/>
-        <updated>2022-11-14T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is Eddie. Eddie is a huge BRAT! He throws tantrums like a toddler when he doesn’t get his way. We are currently negotiating a blood price for a nail trim. Eddie is lucky he’s so cute!]]></title>
-        <id>https://voiceferret.tumblr.com/post/700783727211659264</id>
-        <link href="https://voiceferret.tumblr.com/post/700783727211659264"/>
-        <updated>2022-11-13T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[This is Eddie. Eddie is a huge BRAT! He throws tantrums like a toddler when he doesn’t get his way. We are currently negotiating a blood price for a nail trim. Eddie is lucky he’s so cute!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
