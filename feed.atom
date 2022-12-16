@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T02:14:49.960Z</updated>
+    <updated>2022-12-16T02:01:02.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="https://news.google.com/__i/rss/rd/articles/CBMifWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ltb25jb25zdGFibGUvMjAyMi8xMi8xNC90aGUtYmlkZW4tYWRtaW5pc3RyYXRpb25zLWVtYmFycmFzc2luZy1yZXZlcnNlLWZlcnJldG9uLWVuZXJneS1wb2xpY3kv0gGBAWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ltb25jb25zdGFibGUvMjAyMi8xMi8xNC90aGUtYmlkZW4tYWRtaW5pc3RyYXRpb25zLWVtYmFycmFzc2luZy1yZXZlcnNlLWZlcnJldG9uLWVuZXJneS1wb2xpY3kvYW1wLw?oc=5"/>
         <updated>2022-12-15T02:39:21.000Z</updated>
         <summary type="html"><![CDATA[WASHINGTON, D.C. - APRIL 22, 2018: An American flag flies over the south facade of the White House ... [+] in Washington, D.C. Additional security fences and barriers were added along the south perimeter to prevent people from jumping the fence and entering the restricted White House grounds. The Secret Service tightened the security on the south side in 2017 by closing access to the entire fence line on the South Lawn. (Photo by Robert Alexander/Getty Images)Getty ImagesIf you think American politics couldn’t get worse, then hold my beer. The White House seems to have caught a bout of the British disease — a weird and muddled energy policy. You can read the details of the UK’s latest fiasco here. However, the U.S. version is just as entertaining for anyone looking for policy consistency i…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black-footed ferret habitat to open at Sedgwick County Zoo - KSN-TV]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3Lmtzbi5jb20vbmV3cy9sb2NhbC9ibGFjay1mb290ZWQtZmVycmV0LWhhYml0YXQtdG8tb3Blbi1hdC1zZWRnd2ljay1jb3VudHktem9vL9IBXmh0dHBzOi8vd3d3Lmtzbi5jb20vbmV3cy9sb2NhbC9ibGFjay1mb290ZWQtZmVycmV0LWhhYml0YXQtdG8tb3Blbi1hdC1zZWRnd2ljay1jb3VudHktem9vL2FtcC8?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3Lmtzbi5jb20vbmV3cy9sb2NhbC9ibGFjay1mb290ZWQtZmVycmV0LWhhYml0YXQtdG8tb3Blbi1hdC1zZWRnd2ljay1jb3VudHktem9vL9IBXmh0dHBzOi8vd3d3Lmtzbi5jb20vbmV3cy9sb2NhbC9ibGFjay1mb290ZWQtZmVycmV0LWhhYml0YXQtdG8tb3Blbi1hdC1zZWRnd2ljay1jb3VudHktem9vL2FtcC8?oc=5"/>
+        <updated>2022-12-09T09:40:12.000Z</updated>
+        <summary type="html"><![CDATA[WICHITA, Kan. (KSNW) — A new habitat opening at the Sedgwick County Zoo will showcase a once-thought-extinct species. The Rogers Family Ferret Habitat, which will bring black-footed ferrets to the zoo, opens Wednesday, Dec. 14. The species of ferret was thought to be extinct until 1981 when a population was discovered in Wyoming. A disease nearly wiped out that population which saw its numbers drop to just 18 by 1987. Thanks to intervention, the species was saved and has started to be reintroduced into the wild.  The U.S. Fish and Wildlife Service has reintroduced around 300 captive-bred black-footed ferrets in Wyoming, South Dakota, Montana, Arizona, Colorado, Utah, Kansas, New Mexico, Canada, and Mexico. The zoo has been assisting in the recovery program, including participating in annual surveys and providing funding for supplies. The exhibit officially opens with a ribbon-cutting ceremony at 3 p.m. Wednesday. Admission to the zoo will be just $2 that day. Map to the black-footed ferret exhibit (Courtesy: Sedgwick County Zoo)For more information, visit the Sedgwick County Zoo website.  Copyright 2022 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -540,16 +550,6 @@ Do you ever take your ferret to the park?(Feed generated with FetchRSS)]]></summ
         <summary type="html"><![CDATA[Comment apprendre à un furet à aller à la litière ? Pourquoi ton furet n’utilise pas sa litière ? Pourquoi il fait toujours ses besoins à …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my handsome boy !! ❤️]]></title>
-        <id>https://voiceferret.tumblr.com/post/700964920921030656</id>
-        <link href="https://voiceferret.tumblr.com/post/700964920921030656"/>
-        <updated>2022-11-15T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[my handsome boy !!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
