@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T02:00:27.088Z</updated>
+    <updated>2022-12-20T02:06:03.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -485,16 +485,6 @@ Hope this helps someone today. Do you guys have any other suggestions for food a
         <link href="https://voiceferret.blogspot.com/2022/11/topstars-living-ferrets-life.html"/>
         <updated>2022-11-20T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[A video I made back in 2007 about our shelter ferrets from Frettig Gestoord, as well as some of our own ferrets. Filmed, directed …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret brincando com porquinho da índia]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/ferret-brincando-com-porquinho-da-india.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/ferret-brincando-com-porquinho-da-india.html"/>
-        <updated>2022-11-19T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Neste vídeo mostra a minha ferret Farofa (que já virou estrelinha) tentando brincar com a minha porquinha da índia Kuí (que …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
