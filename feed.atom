@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T02:06:03.100Z</updated>
+    <updated>2022-12-21T02:01:58.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -465,26 +465,6 @@ Hope this helps someone today. Do you guys have any other suggestions for food a
         <link href="https://voiceferret.blogspot.com/2022/11/bikke-dances-all-over.html"/>
         <updated>2022-11-21T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whats your thoughts on SCP-7976]]></title>
-        <id>https://voiceferret.tumblr.com/post/701417906038325248</id>
-        <link href="https://voiceferret.tumblr.com/post/701417906038325248"/>
-        <updated>2022-11-20T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Whats your thoughts on SCP-7976]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topstars – Living a ferret's life]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/topstars-living-ferrets-life.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/topstars-living-ferrets-life.html"/>
-        <updated>2022-11-20T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[A video I made back in 2007 about our shelter ferrets from Frettig Gestoord, as well as some of our own ferrets. Filmed, directed …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
