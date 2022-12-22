@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T02:01:58.951Z</updated>
+    <updated>2022-12-22T02:04:21.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do you guys use anything like this to contain your ferrets when you take them to outdoor spaces? 
+
+I think it's crucial to get s...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/705265267627156</id>
+        <link href="https://www.facebook.com/666603538159996/posts/705265267627156"/>
+        <updated>2022-12-19T01:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Do you guys use anything like this to contain your ferrets when you take them to outdoor spaces? 
+I think it's crucial to get something that zips (vs. velcro or doesn't have a bottom). What do you guys think?
+This particular one is available in The Modern Ferret Amazon shop if you are looking for a pretty solid one.
+#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alright, what does your ferret REALLY want for Christmas this year?
 
@@ -445,26 +460,6 @@ Hope this helps someone today. Do you guys have any other suggestions for food a
         <link href="https://voiceferret.blogspot.com/2022/11/veranda-sunbathing-and-veterinary.html"/>
         <updated>2022-11-22T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[【Ferret introduction】 Choco Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) CookieBorn on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yesterday my house partially burned down, I wasn’t home, if I was I most likely would’ve died, unfortunately my ferrets didn’t make it, I am deeply hurt 💔 I don’t care about everything that burned down, I just so sad because I lost my babies, at least the smoke killed them and not the fire 😔]]></title>
-        <id>https://voiceferret.tumblr.com/post/701508503301423104</id>
-        <link href="https://voiceferret.tumblr.com/post/701508503301423104"/>
-        <updated>2022-11-21T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday my house partially burned down, I wasn’t home, if I was I most likely would’ve died, unfortunately my ferrets didn’t make it, I am deeply hurt  I don’t care about everything that burned down, I just so sad because I lost my babies, at least the smoke killed them and not the fire]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bikke dances all over]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/bikke-dances-all-over.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/bikke-dances-all-over.html"/>
-        <updated>2022-11-21T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
