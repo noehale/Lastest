@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T02:06:55.245Z</updated>
+    <updated>2022-12-26T02:05:09.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -363,43 +363,6 @@ Any idea why ferrets are best for so many people?! In this video I list all the 
         <link href="https://voiceferret.blogspot.com/2022/11/itasels-snort-is-bad.html"/>
         <updated>2022-11-26T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[Ferret #ferret # ferret poco # grazing # how to play # pet # weasel # cute # nose breath When I welcomed a ferret for the first time in 3 years, I was scared …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's talk ferret UTI's!
-
-They are caused by an overgrowth of bacteria in the urinary systems -usually E. Coli or Staphylococcus...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/688299535990396</id>
-        <link href="https://www.facebook.com/666603538159996/posts/688299535990396"/>
-        <updated>2022-11-26T01:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Let's talk ferret UTI's!
-They are caused by an overgrowth of bacteria in the urinary systems -usually E. Coli or Staphylococcus. If left untreated, UTI’s can lead to kidney infections in ferrets.
-Here are some symptoms to look out for:
-Straining to pee, only peeing small amounts at a time, trying to pee but can’t, overly smelly pee. 
-Have you had any experience with this one?
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I just lost the best furry friend I’ve ever known]]></title>
-        <id>https://voiceferret.tumblr.com/post/701870891115642880</id>
-        <link href="https://voiceferret.tumblr.com/post/701870891115642880"/>
-        <updated>2022-11-25T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[I just lost the best furry friend I’ve ever known]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Betta Aquaterrarium l Snakehead Happened EMERGENCY l The Spray Foam Can Also Be Used In The Way]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/make-betta-aquaterrarium-l-snakehead.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/make-betta-aquaterrarium-l-snakehead.html"/>
-        <updated>2022-11-25T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[In This Video How To Quickly Make A Betta Fish Aquaterrarium How Has The Two Years Snakehead Fish Underwater Cave …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
