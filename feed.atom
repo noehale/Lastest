@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T02:05:09.909Z</updated>
+    <updated>2022-12-27T02:02:25.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -343,26 +343,6 @@ Any idea why ferrets are best for so many people?! In this video I list all the 
         <link href="https://voiceferret.blogspot.com/2022/11/ferret-welcome-complete-closeness-pick.html"/>
         <updated>2022-11-27T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[【Ferret introduction】 Choco Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) CookieBorn on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does my boy seem to have Wardenburg syndrome? He hisses all the time and seems hard of hearing, I think he’s either deaf or close to it.]]></title>
-        <id>https://voiceferret.tumblr.com/post/701961487542026241</id>
-        <link href="https://voiceferret.tumblr.com/post/701961487542026241"/>
-        <updated>2022-11-26T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Does my boy seem to have Wardenburg syndrome? He hisses all the time and seems hard of hearing, I think he’s either deaf or close to it.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Itasel’s snort is bad]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/itasels-snort-is-bad.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/itasels-snort-is-bad.html"/>
-        <updated>2022-11-26T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferret #ferret # ferret poco # grazing # how to play # pet # weasel # cute # nose breath When I welcomed a ferret for the first time in 3 years, I was scared …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
