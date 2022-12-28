@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T02:02:25.059Z</updated>
+    <updated>2022-12-28T02:03:20.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A big thank you to @cecimestreet for modeling one of my favorite sweatshirts from The Modern Ferret so beautifully! Illustrated ...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/711994990287517</id>
+        <link href="https://www.facebook.com/666603538159996/posts/711994990287517"/>
+        <updated>2022-12-28T01:00:15.000Z</updated>
+        <summary type="html"><![CDATA[A big thank you to @cecimestreet for modeling one of my favorite sweatshirts from The Modern Ferret so beautifully! Illustrated by @aubryjoi
+Did you guys know that a group of ferrets is called a business?
+You can grab your own in my Etsy shop, linked in my bio!
+#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/710421713778178</id>
+        <link href="https://www.facebook.com/666603538159996/posts/710421713778178"/>
+        <updated>2022-12-25T18:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Merry Christmas in 3 photos:
+1. Elijah doing his best ‘baby in the manger’ impression, cuddling with me and keeping me company on cold winter nights
+2. Elijah appreciating his “new water bowl” aka the Christmas tree base 😂
+3. Me worshipping Jesus at church, the reason for the season and the foundation of my life. 
+John 3:16
+For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let's talk about a common ferret illness today:
 
@@ -323,26 +351,6 @@ Any idea why ferrets are best for so many people?! In this video I list all the 
         <link href="https://voiceferret.blogspot.com/2022/11/donkey-fashion-ferrets-puppies-finca.html"/>
         <updated>2022-11-28T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[Once again we have had a busy week and have barely managed to get a episode up for you! But at the last minute Roz and Edo …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caught in the act]]></title>
-        <id>https://voiceferret.tumblr.com/post/702052084611170304</id>
-        <link href="https://voiceferret.tumblr.com/post/702052084611170304"/>
-        <updated>2022-11-27T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Caught in the act]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret welcome complete closeness! !! Pick up at your favorite Ferret World & Procare Shampoo]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/ferret-welcome-complete-closeness-pick.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/ferret-welcome-complete-closeness-pick.html"/>
-        <updated>2022-11-27T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[【Ferret introduction】 Choco Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) CookieBorn on November 15, 2021 …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
