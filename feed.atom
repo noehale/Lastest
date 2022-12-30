@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T02:05:32.776Z</updated>
+    <updated>2022-12-30T02:05:17.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -297,26 +297,6 @@ Any idea why ferrets are best for so many people?! In this video I list all the 
         <id>https://voiceferret.blogspot.com/2022/11/im-spoiled-by-my-mom-today.html</id>
         <link href="https://voiceferret.blogspot.com/2022/11/im-spoiled-by-my-mom-today.html"/>
         <updated>2022-11-30T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holiday photos did not go as planned]]></title>
-        <id>https://voiceferret.tumblr.com/post/702233278692851712</id>
-        <link href="https://voiceferret.tumblr.com/post/702233278692851712"/>
-        <updated>2022-11-29T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Holiday photos did not go as planned]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret is fiercely welcomed as soon as it comes out]]></title>
-        <id>https://voiceferret.blogspot.com/2022/11/ferret-is-fiercely-welcomed-as-soon-as.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/11/ferret-is-fiercely-welcomed-as-soon-as.html"/>
-        <updated>2022-11-29T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
