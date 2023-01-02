@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T02:20:10.842Z</updated>
+    <updated>2023-01-02T02:04:45.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -227,16 +227,6 @@ There was one particular little ball of fluff that caught my eye. He was very da
         <summary type="html"><![CDATA[Meet the Rug Raptors! !! Jett and Ten are a really fun pair of attack squirrels. Would you like to meet them? What toys do your pets …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haven’t seen them all day, check their favorite sleeping spot, the bathroom drawer. Epitome of comfort and luxury /s]]></title>
-        <id>https://voiceferret.tumblr.com/post/702505070811611136</id>
-        <link href="https://voiceferret.tumblr.com/post/702505070811611136"/>
-        <updated>2022-12-02T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Haven’t seen them all day, check their favorite sleeping spot, the bathroom drawer. Epitome of comfort and luxury /s]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
