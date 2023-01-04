@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T02:03:43.433Z</updated>
+    <updated>2023-01-04T02:07:52.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January rabies clinics planned in Mobile for dogs, cats, and ferrets - NBC 15 WPMI]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9qYW51YXJ5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tbW9iaWxlLWZvci1kb2dzLWNhdHMtYW5kLWZlcnJldHPSAWVodHRwczovL215bmJjMTUuY29tL2FtcC9uZXdzL2xvY2FsL2phbnVhcnktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1pbi1tb2JpbGUtZm9yLWRvZ3MtY2F0cy1hbmQtZmVycmV0cw?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9qYW51YXJ5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tbW9iaWxlLWZvci1kb2dzLWNhdHMtYW5kLWZlcnJldHPSAWVodHRwczovL215bmJjMTUuY29tL2FtcC9uZXdzL2xvY2FsL2phbnVhcnktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1pbi1tb2JpbGUtZm9yLWRvZ3MtY2F0cy1hbmQtZmVycmV0cw?oc=5"/>
+        <updated>2023-01-04T04:15:36.000Z</updated>
+        <summary type="html"><![CDATA[The Mobile County Health Department provides low-cost rabies shots for dogs, cats, and ferrets that are good for one year during weekend clinics. Here is a list]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch Where You Step: Ferrets love to sleep in clothes that smell like you. Dirty clothes smell the strongest so don’t be surpri...]]></title>
         <id>https://www.facebook.com/666603538159996/posts/716037849883231</id>
@@ -196,26 +206,6 @@ There was one particular little ball of fluff that caught my eye. He was very da
         <link href="https://voiceferret.blogspot.com/2022/12/ill-do-various-challenges.html"/>
         <updated>2022-12-05T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[is my ferret overweight? (first pic is from the summer)]]></title>
-        <id>https://voiceferret.tumblr.com/post/702686265331630081</id>
-        <link href="https://voiceferret.tumblr.com/post/702686265331630081"/>
-        <updated>2022-12-04T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[is my ferret overweight? (first pic is from the summer)]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you let the energetic ferret play outside…　　　I took a walk with a ferret.]]></title>
-        <id>https://voiceferret.blogspot.com/2022/12/if-you-let-energetic-ferret-play.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/12/if-you-let-energetic-ferret-play.html"/>
-        <updated>2022-12-04T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[We are filming for safety TikTok→@soynetherlands Twitter→@Netherlands0523 Netherlands Big Line Ferret …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
