@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T02:07:52.112Z</updated>
+    <updated>2023-01-05T02:08:59.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -198,16 +198,6 @@ There was one particular little ball of fluff that caught my eye. He was very da
 #ferret #ferretgram #ferrets #instaferret #ferretism #ferretsofinstagram #フェレット #ferretlove #хорек #ferretlife #furet #frettchen #huron #fuzzbutt(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’ll do various challenges ~]]></title>
-        <id>https://voiceferret.blogspot.com/2022/12/ill-do-various-challenges.html</id>
-        <link href="https://voiceferret.blogspot.com/2022/12/ill-do-various-challenges.html"/>
-        <updated>2022-12-05T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
