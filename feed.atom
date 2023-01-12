@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T02:10:12.475Z</updated>
+    <updated>2023-01-12T02:08:58.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I just found out there’s a Yu-Gi-Oh! ferret card, and it’s the most adorable thing I’ve seen.]]></title>
+        <id>https://voiceferret.tumblr.com/post/706128948472496128</id>
+        <link href="https://voiceferret.tumblr.com/post/706128948472496128"/>
+        <updated>2023-01-11T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[I just found out there’s a Yu-Gi-Oh! ferret card, and it’s the most adorable thing I’ve seen.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Ferret & Japanese Spitz】Christmas 🎄 with ferrets and Japan Spitz]]></title>
         <id>https://voiceferret.blogspot.com/2023/01/ferret-japanese-spitzchristmas-with.html</id>
@@ -279,19 +289,6 @@ Elijah keeps telling me he wants more tubes but all I want to do is buy tiny mit
         <summary type="html"><![CDATA[WASHINGTON, D.C. - APRIL 22, 2018: An American flag flies over the south facade of the White House ... [+] in Washington, D.C. Additional security fences and barriers were added along the south perimeter to prevent people from jumping the fence and entering the restricted White House grounds. The Secret Service tightened the security on the south side in 2017 by closing access to the entire fence line on the South Lawn. (Photo by Robert Alexander/Getty Images)Getty ImagesIf you think American politics couldn’t get worse, then hold my beer. The White House seems to have caught a bout of the British disease — a weird and muddled energy policy. You can read the details of the UK’s latest fiasco here. However, the U.S. version is just as entertaining for anyone looking for policy consistency i…]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you could buy anything for your ferret to eat and make them the meal of their dreams, what would it be?
-
-#ferret #ferretgram ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/700351914785158</id>
-        <link href="https://www.facebook.com/666603538159996/posts/700351914785158"/>
-        <updated>2022-12-13T01:00:23.000Z</updated>
-        <summary type="html"><![CDATA[If you could buy anything for your ferret to eat and make them the meal of their dreams, what would it be?
-#ferret #ferretgram #ferrets #instaferret #ferretism #ferretsofinstagram #フェレット #ferretlove #хорек #ferretlife #furet #frettchen #huron #fuzzbutt(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
