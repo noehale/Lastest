@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T02:11:06.786Z</updated>
+    <updated>2023-01-16T02:08:24.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -135,6 +135,16 @@ This hat (and shirt) in the photo is from my line of fun ferret merch, available
         <summary type="html"><![CDATA[Thank you for watching. It is a video of Christmas spending with Tsukune, a mountain view ferret, and a whitebait of Japan Spitz …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret legging, the sport of kings - Boing Boing]]></title>
+        <id>https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vYm9pbmdib2luZy5uZXQvMjAyMy8wMS8xMC9mZXJyZXQtbGVnZ2luZy10aGUtc3BvcnQtb2Yta2luZ3MuaHRtbNIBTGh0dHBzOi8vYm9pbmdib2luZy5uZXQvMjAyMy8wMS8xMC9mZXJyZXQtbGVnZ2luZy10aGUtc3BvcnQtb2Yta2luZ3MuaHRtbC9hbXA?oc=5</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vYm9pbmdib2luZy5uZXQvMjAyMy8wMS8xMC9mZXJyZXQtbGVnZ2luZy10aGUtc3BvcnQtb2Yta2luZ3MuaHRtbNIBTGh0dHBzOi8vYm9pbmdib2luZy5uZXQvMjAyMy8wMS8xMC9mZXJyZXQtbGVnZ2luZy10aGUtc3BvcnQtb2Yta2luZ3MuaHRtbC9hbXA?oc=5"/>
+        <updated>2023-01-11T05:50:54.000Z</updated>
+        <summary type="html"><![CDATA[The open conspiracy to keep Colin Kaepernick off the field is among the most underreported stories of the clash between sports and politics. David Zirin wrote a book about it, titled, The Kaepernick Effect: Taking a Knee, Changing the World." [thenewpress.com. Amazon] "In this powerful book, critically acclaimed sports journalist and author Dave Zirin chronicles… READ THE REST]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
