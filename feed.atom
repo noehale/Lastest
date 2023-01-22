@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-21T02:06:19.253Z</updated>
+    <updated>2023-01-22T02:11:13.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Ferret】Rainbow Bridge Animal Communication]]></title>
+        <id>https://voiceferret.blogspot.com/2023/01/ferretrainbow-bridge-animal.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/01/ferretrainbow-bridge-animal.html"/>
+        <updated>2023-01-22T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I asked Animal Communicator, who was indebted to me before, to communicate with Mint with animals. With chocolate …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We had a little photo shoot with Marty and Daphne!]]></title>
+        <id>https://voiceferret.tumblr.com/post/707034917353160705</id>
+        <link href="https://voiceferret.tumblr.com/post/707034917353160705"/>
+        <updated>2023-01-21T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[We had a little photo shoot with Marty and Daphne!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could it be?]]></title>
         <id>https://voiceferret.tumblr.com/post/706944320456048640</id>
