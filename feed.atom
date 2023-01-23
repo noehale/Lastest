@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-22T02:11:13.373Z</updated>
+    <updated>2023-01-23T02:07:09.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[I asked Animal Communicator, who was indebted to me before, to communicate with Mint with animals. With chocolate …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hi my name is Haley and I make strange faces while throwing loofahs at cameras. I also love ferrets (not pictured but inevitably...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/727996448687371</id>
+        <link href="https://www.facebook.com/666603538159996/posts/727996448687371"/>
+        <updated>2023-01-22T01:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Hi my name is Haley and I make strange faces while throwing loofahs at cameras. I also love ferrets (not pictured but inevitably sleeping somewhere near me right now). Besides ferrets, I have come to love getting involved in my local church and I love to read! Can you tell me some more about yourself? Maybe we have something unique in common!
+#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -497,21 +508,6 @@ You can grab your own in my Etsy shop, linked in my bio!
 3. Me worshipping Jesus at church, the reason for the season and the foundation of my life. 
 John 3:16
 For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's talk about a common ferret illness today:
-
-ECE (Epizootic catarrhal enteritis) is an inflammation of the intestinal lining...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/709121553908194</id>
-        <link href="https://www.facebook.com/666603538159996/posts/709121553908194"/>
-        <updated>2022-12-24T01:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Let's talk about a common ferret illness today:
-ECE (Epizootic catarrhal enteritis) is an inflammation of the intestinal lining that if left untreated can cause liver damage and death; it is a common and life-threatening illness in ferrets that is extremely contagious! It's nickname in the ferret community is 'green-slime'.
-Has anybody here had experience with this one? What was it like? Thank you for sharing!
-#ferret #ferrets #ferretinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
