@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T02:12:48.450Z</updated>
+    <updated>2023-02-01T02:22:42.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cozy Winter Days | Episode 28]]></title>
+        <id>https://voiceferret.blogspot.com/2023/01/cozy-winter-days-episode-28.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/01/cozy-winter-days-episode-28.html"/>
+        <updated>2023-02-01T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[pazuandfriends #ferret #animalcare 0:00 It’s been awhile! 1:59 My house is a mess 6:22 Yummy slow cook beef stew …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuteness overload]]></title>
+        <id>https://voiceferret.tumblr.com/post/707940887609720832</id>
+        <link href="https://voiceferret.tumblr.com/post/707940887609720832"/>
+        <updated>2023-01-31T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Cuteness overload]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Room Renovation: Update]]></title>
         <id>https://voiceferret.blogspot.com/2023/01/ferret-room-renovation-update.html</id>
