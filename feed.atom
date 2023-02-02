@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T02:22:42.840Z</updated>
+    <updated>2023-02-02T02:12:39.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tudo sobre o furão que pode ser criado em casa!]]></title>
+        <id>https://voiceferret.blogspot.com/2023/02/tudo-sobre-o-furao-que-pode-ser-criado.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/02/tudo-sobre-o-furao-que-pode-ser-criado.html"/>
+        <updated>2023-02-02T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Os furões são animais inteligentes e adoram interação, mas isso não deve ser forçado a ponto do animal ficar agressivo.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned the shower on for him and it made him do this… what is he doing here exactly?]]></title>
+        <id>https://voiceferret.tumblr.com/post/708031487473319936</id>
+        <link href="https://voiceferret.tumblr.com/post/708031487473319936"/>
+        <updated>2023-02-01T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[I turned the shower on for him and it made him do this… what is he doing here exactly?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cozy Winter Days | Episode 28]]></title>
         <id>https://voiceferret.blogspot.com/2023/01/cozy-winter-days-episode-28.html</id>
@@ -704,17 +724,6 @@ P.S. the sweatshirt in this picture is from my Etsy shop (link in bio)! It says 
         <summary type="html"><![CDATA[The Mobile County Health Department provides low-cost rabies shots for dogs, cats, and ferrets that are good for one year during weekend clinics. Here is a list]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Where You Step: Ferrets love to sleep in clothes that smell like you. Dirty clothes smell the strongest so don’t be surpri...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/716037849883231</id>
-        <link href="https://www.facebook.com/666603538159996/posts/716037849883231"/>
-        <updated>2023-01-03T01:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Watch Where You Step: Ferrets love to sleep in clothes that smell like you. Dirty clothes smell the strongest so don’t be surprised if you find your ferret curled up in the pajama pants you threw on the floor. This can become dangerous when you keep clothes scattered all over your floor. Think of it like a ‘ferret mine field’. Any piece of clothing could contain a ferret and if you step on them, you can cause serious injury. You have two options for this. You can either change your habits and keep all clothing off the floor, or you can shuffle your feet when you walk instead of stepping.
-#ferret #ferretgram #ferrets #instaferret #ferretism #ferretsofinstagram #フェレット #ferretlove #хорек #ferretlife #furet #frettchen #huron #fuzzbutt(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
