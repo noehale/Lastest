@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-02T02:12:39.886Z</updated>
+    <updated>2023-02-03T02:15:08.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Luminescence of Beta’s and ferret with live music by Chosen Few Pets LLC Nature Tech]]></title>
+        <id>https://voiceferret.blogspot.com/2023/02/luminescence-of-betas-and-ferret-with.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/02/luminescence-of-betas-and-ferret-with.html"/>
+        <updated>2023-02-03T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Setting up a beta tank Chillaxing with friends.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Beandip]]></title>
+        <id>https://voiceferret.tumblr.com/post/708122083638509568</id>
+        <link href="https://voiceferret.tumblr.com/post/708122083638509568"/>
+        <updated>2023-02-02T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Meet Beandip]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tudo sobre o furão que pode ser criado em casa!]]></title>
         <id>https://voiceferret.blogspot.com/2023/02/tudo-sobre-o-furao-que-pode-ser-criado.html</id>
@@ -147,6 +167,16 @@
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret, wild animal rescue thrives in Brandy Station - Inside NoVA]]></title>
+        <id>https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbnNpZGVub3ZhLmNvbS9jdWxwZXBlci9mZXJyZXQtd2lsZC1hbmltYWwtcmVzY3VlLXRocml2ZXMtaW4tYnJhbmR5LXN0YXRpb24vYXJ0aWNsZV9jNDg4OTNhZS05ZDkzLTExZWQtYmVhOS1hN2FhZGE2ZDkyNmUuaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbnNpZGVub3ZhLmNvbS9jdWxwZXBlci9mZXJyZXQtd2lsZC1hbmltYWwtcmVzY3VlLXRocml2ZXMtaW4tYnJhbmR5LXN0YXRpb24vYXJ0aWNsZV9jNDg4OTNhZS05ZDkzLTExZWQtYmVhOS1hN2FhZGE2ZDkyNmUuaHRtbNIBAA?oc=5"/>
+        <updated>2023-01-27T06:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -714,16 +744,6 @@ P.S. the sweatshirt in this picture is from my Etsy shop (link in bio)! It says 
 #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January rabies clinics planned in Mobile for dogs, cats, and ferrets - NBC 15 WPMI]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9qYW51YXJ5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tbW9iaWxlLWZvci1kb2dzLWNhdHMtYW5kLWZlcnJldHPSAWVodHRwczovL215bmJjMTUuY29tL2FtcC9uZXdzL2xvY2FsL2phbnVhcnktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1pbi1tb2JpbGUtZm9yLWRvZ3MtY2F0cy1hbmQtZmVycmV0cw?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9qYW51YXJ5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tbW9iaWxlLWZvci1kb2dzLWNhdHMtYW5kLWZlcnJldHPSAWVodHRwczovL215bmJjMTUuY29tL2FtcC9uZXdzL2xvY2FsL2phbnVhcnktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1pbi1tb2JpbGUtZm9yLWRvZ3MtY2F0cy1hbmQtZmVycmV0cw?oc=5"/>
-        <updated>2023-01-04T04:15:36.000Z</updated>
-        <summary type="html"><![CDATA[The Mobile County Health Department provides low-cost rabies shots for dogs, cats, and ferrets that are good for one year during weekend clinics. Here is a list]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
