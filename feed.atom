@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-03T02:15:08.660Z</updated>
+    <updated>2023-02-04T02:05:14.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grateful to wake up next to this potato every morning. #ferret #ferrets #ferretsofinstagram]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/736462957840720</id>
+        <link href="https://www.facebook.com/666603538159996/posts/736462957840720"/>
+        <updated>2023-02-04T01:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Grateful to wake up next to this potato every morning. #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luminescence of Beta’s and ferret with live music by Chosen Few Pets LLC Nature Tech]]></title>
         <id>https://voiceferret.blogspot.com/2023/02/luminescence-of-betas-and-ferret-with.html</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Setting up a beta tank Chillaxing with friends.]]></summary>
         <author>
             <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's do a survey: What ferret illnesses have you personally dealt with? And what was your experience?]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/735730097914006</id>
+        <link href="https://www.facebook.com/666603538159996/posts/735730097914006"/>
+        <updated>2023-02-03T01:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Let's do a survey: What ferret illnesses have you personally dealt with? And what was your experience?(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
