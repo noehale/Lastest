@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-04T02:05:14.242Z</updated>
+    <updated>2023-02-05T02:15:17.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abc animal, alphabet animal, animal start with letter F, Ferret, Flamingo, Fox, Frog, Falcon,]]></title>
+        <id>https://voiceferret.blogspot.com/2023/02/abc-animal-alphabet-animal-animal-start.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/02/abc-animal-alphabet-animal-animal-start.html"/>
+        <updated>2023-02-05T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[welcome to my channel, thank you friends for watching my video, I hope this channel develops well, I will continue to update …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rest in Peace to my sweet girl Daisy. My first baby. Mommy will miss your company and kisses so much. 🤍]]></title>
+        <id>https://voiceferret.tumblr.com/post/708303274749706240</id>
+        <link href="https://voiceferret.tumblr.com/post/708303274749706240"/>
+        <updated>2023-02-04T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Rest in Peace to my sweet girl Daisy. My first baby. Mommy will miss your company and kisses so much.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grateful to wake up next to this potato every morning. #ferret #ferrets #ferretsofinstagram]]></title>
         <id>https://www.facebook.com/666603538159996/posts/736462957840720</id>
@@ -739,31 +759,6 @@ It turns out that minks and ferrets do really look quite alike. They’re both f
         <summary type="html"><![CDATA[I saw many people making enrichment boxes for their fuzzies so I finally made one! Plain rice and oats w/bud tennis ball and ziploc bag(I zipped it after recording, he just likes the crinkle noise) and let him have at it. Didn’t think he’d have so much fun (name: Winston)]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret rolling delicious tangerines]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/ferret-rolling-delicious-tangerines.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/ferret-rolling-delicious-tangerines.html"/>
-        <updated>2023-01-06T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Speaking of Shizuoka, Mikan Mika-ni[Ferret introduction]Chocolate Born on April 30, 2018 Names (Chicchan, Chitaro, Hime) …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello lovely people. I just want to say thank you for following my journey with ferrets these last 8 years. It is such a blessin...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/717850053035344</id>
-        <link href="https://www.facebook.com/666603538159996/posts/717850053035344"/>
-        <updated>2023-01-06T01:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Hello lovely people. I just want to say thank you for following my journey with ferrets these last 8 years. It is such a blessing to be able to geek out about ferrets with you all. 
-I have always loved animals but like I've said before, I think all along I was just looking for a ferret! They are the perfect pet in so many ways. Don't you agree? 
-Was anyone else just looking for ferrets all along too? Why do they fit us so perfectly?
-Love you all!
-P.S. the sweatshirt in this picture is from my Etsy shop (link in bio)! It says 'Ferrets' in the style of the Friends TV show logo.
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
