@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-05T02:15:17.495Z</updated>
+    <updated>2023-02-06T02:06:26.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[cuddles]]></title>
+        <id>https://voiceferret.tumblr.com/post/708393871825108992</id>
+        <link href="https://voiceferret.tumblr.com/post/708393871825108992"/>
+        <updated>2023-02-05T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[cuddles]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abc animal, alphabet animal, animal start with letter F, Ferret, Flamingo, Fox, Frog, Falcon,]]></title>
         <id>https://voiceferret.blogspot.com/2023/02/abc-animal-alphabet-animal-animal-start.html</id>
@@ -747,16 +757,6 @@ It turns out that minks and ferrets do really look quite alike. They’re both f
         <link href="https://voiceferret.tumblr.com/post/705766560501006337"/>
         <updated>2023-01-07T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I lost the jelly to my donut last night. You will be missed forever. My heart is broken]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I saw many people making enrichment boxes for their fuzzies so I finally made one! Plain rice and oats w/bud tennis ball and ziploc bag(I zipped it after recording, he just likes the crinkle noise) and let him have at it. Didn’t think he’d have so much fun🥺🥺 (name]]></title>
-        <id>https://voiceferret.tumblr.com/post/705675963165458432</id>
-        <link href="https://voiceferret.tumblr.com/post/705675963165458432"/>
-        <updated>2023-01-06T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[I saw many people making enrichment boxes for their fuzzies so I finally made one! Plain rice and oats w/bud tennis ball and ziploc bag(I zipped it after recording, he just likes the crinkle noise) and let him have at it. Didn’t think he’d have so much fun (name: Winston)]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
