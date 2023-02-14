@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T02:14:30.042Z</updated>
+    <updated>2023-02-14T02:15:06.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Episode 1  day in the life with Daisy and Milo ferrets and furriends]]></title>
+        <id>https://voiceferret.blogspot.com/2023/02/episode-1-day-in-life-with-daisy-and.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/02/episode-1-day-in-life-with-daisy-and.html"/>
+        <updated>2023-02-14T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Daisy &amp; Milo ferrets and furriends Episode 1.]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 endangered ferrets released into the wild - 9News.com KUSA]]></title>
+        <id>https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LjluZXdzLmNvbS9hcnRpY2xlL2xpZmUvYW5pbWFscy9ibGFjay1mb290ZWQtZmVycmV0cy1yZWxlYXNlZC1jb2xvcmFkby83My02MDlhODQyNC03OTk2LTRlOGQtOWU2ZC04OTE4OGM5ZDVkNzDSAX1odHRwczovL3d3dy45bmV3cy5jb20vYW1wL2FydGljbGUvbGlmZS9hbmltYWxzL2JsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLWNvbG9yYWRvLzczLTYwOWE4NDI0LTc5OTYtNGU4ZC05ZTZkLTg5MTg4YzlkNWQ3MA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LjluZXdzLmNvbS9hcnRpY2xlL2xpZmUvYW5pbWFscy9ibGFjay1mb290ZWQtZmVycmV0cy1yZWxlYXNlZC1jb2xvcmFkby83My02MDlhODQyNC03OTk2LTRlOGQtOWU2ZC04OTE4OGM5ZDVkNzDSAX1odHRwczovL3d3dy45bmV3cy5jb20vYW1wL2FydGljbGUvbGlmZS9hbmltYWxzL2JsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLWNvbG9yYWRvLzczLTYwOWE4NDI0LTc5OTYtNGU4ZC05ZTZkLTg5MTg4YzlkNWQ3MA?oc=5"/>
+        <updated>2023-02-14T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your face is just too cute as always 🥰]]></title>
+        <id>https://voiceferret.tumblr.com/post/709118647922245632</id>
+        <link href="https://voiceferret.tumblr.com/post/709118647922245632"/>
+        <updated>2023-02-13T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Your face is just too cute as always]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trimming Day Routine]]></title>
         <id>https://voiceferret.blogspot.com/2023/02/trimming-day-routine.html</id>
@@ -715,26 +745,6 @@ What items have you had to relocate in your house due to your ferret's curious n
         <link href="https://voiceferret.tumblr.com/post/706581932841009152"/>
         <updated>2023-01-16T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[bath time with mommy haha [oc]]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Pick-up anniversary】It’s been 4 years since I met Choco]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/pick-up-anniversaryits-been-4-years.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/pick-up-anniversaryits-been-4-years.html"/>
-        <updated>2023-01-15T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s been four years since we welcomed chocolate. To be honest, I think the past year has been full of hardships and hardships for Choco. The painful thing …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[copy/paste]]></title>
-        <id>https://voiceferret.tumblr.com/post/706400739624419328</id>
-        <link href="https://voiceferret.tumblr.com/post/706400739624419328"/>
-        <updated>2023-01-14T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[copy/paste]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
