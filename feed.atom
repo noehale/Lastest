@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T02:15:34.381Z</updated>
+    <updated>2023-02-16T02:13:55.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets Live: Sleep and Feed. Cinnamon& Sassy]]></title>
+        <id>https://voiceferret.blogspot.com/2023/02/ferrets-live-sleep-and-feed-cinnamon.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/02/ferrets-live-sleep-and-feed-cinnamon.html"/>
+        <updated>2023-02-16T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Like*Subscribe*Share to Support Cinnamon and Sassy’s Channel If you want to help the channel, click the Amazon Associates …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Valentine’s Day from my beautiful monsters!!]]></title>
+        <id>https://voiceferret.tumblr.com/post/709299841298284544</id>
+        <link href="https://voiceferret.tumblr.com/post/709299841298284544"/>
+        <updated>2023-02-15T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Happy Valentine’s Day from my beautiful monsters!!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[He fell asleep on me 😂]]></title>
         <id>https://voiceferret.tumblr.com/post/709209245976084480</id>
@@ -723,38 +743,6 @@ This program has absolutely changed my life and touched my heart in ways I never
         <link href="https://voiceferret.tumblr.com/post/706672530160746496"/>
         <updated>2023-01-17T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[this is Trixie, main responsibility: supervising the neighborhood]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Owner panicked by “ferret dislocation”]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/owner-panicked-by-ferret-dislocation.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/owner-panicked-by-ferret-dislocation.html"/>
-        <updated>2023-01-17T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferret prolapse has a great visual impact, but it seems that if you deal with it without panicking, it can return to itself.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep in mind 'ferret-proofing' doesn't just mean blocking off dangerous areas, it also means removing toxic/poisonous food from ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/724846735669009</id>
-        <link href="https://www.facebook.com/666603538159996/posts/724846735669009"/>
-        <updated>2023-01-17T01:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Keep in mind 'ferret-proofing' doesn't just mean blocking off dangerous areas, it also means removing toxic/poisonous food from cabinets your ferret has access to!
-What items have you had to relocate in your house due to your ferret's curious nature?
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bath time with mommy haha [oc]]]></title>
-        <id>https://voiceferret.tumblr.com/post/706581932841009152</id>
-        <link href="https://voiceferret.tumblr.com/post/706581932841009152"/>
-        <updated>2023-01-16T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[bath time with mommy haha [oc]]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
