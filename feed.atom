@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T02:13:55.329Z</updated>
+    <updated>2023-02-17T02:18:01.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Playtime In CORNSTARCH PACKING PEANUTS!]]></title>
+        <id>https://voiceferret.blogspot.com/2023/02/ferret-playtime-in-cornstarch-packing.html</id>
+        <link href="https://voiceferret.blogspot.com/2023/02/ferret-playtime-in-cornstarch-packing.html"/>
+        <updated>2023-02-17T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[SharynZoo #Ferrets Welcome to the home of Sammy the Famous Mini Pig, his Bird Friends, FUN Ferret Sisters &amp; Crazy Cat sisters …]]></summary>
+        <author>
+            <name>voiceferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets Live: Sleep and Feed. Cinnamon& Sassy]]></title>
         <id>https://voiceferret.blogspot.com/2023/02/ferrets-live-sleep-and-feed-cinnamon.html</id>
@@ -24,6 +34,19 @@
         <summary type="html"><![CDATA[Happy Valentine’s Day from my beautiful monsters!!]]></summary>
         <author>
             <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Valentines Day! How are you showing your ferret how much you love them today?!
+
+#ferret #ferrets #ferretsofinstagram]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/743610213792661</id>
+        <link href="https://www.facebook.com/666603538159996/posts/743610213792661"/>
+        <updated>2023-02-15T01:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Happy Valentines Day! How are you showing your ferret how much you love them today?!
+#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -712,37 +735,6 @@ This program has absolutely changed my life and touched my heart in ways I never
         <link href="https://voiceferret.tumblr.com/post/706763127541383168"/>
         <updated>2023-01-18T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Snuggle buddies]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Time For Ferret Madnesss!]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/its-time-for-ferret-madnesss.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/its-time-for-ferret-madnesss.html"/>
-        <updated>2023-01-18T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the home of Sammy the Famous Mini Pig, his Bird Friends, FUN Ferret Sisters &amp; Crazy Cat sisters! We are here …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret on the Loose! – West Side Rag - westsiderag.com]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3Lndlc3RzaWRlcmFnLmNvbS8yMDIzLzAxLzE3L2ZlcnJldC1vbi10aGUtbG9vc2XSAQA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3Lndlc3RzaWRlcmFnLmNvbS8yMDIzLzAxLzE3L2ZlcnJldC1vbi10aGUtbG9vc2XSAQA?oc=5"/>
-        <updated>2023-01-18T05:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Get WSR FREE in your inbox    Photograph by Shelley Goldberg.You can’t say the Rag isn’t ferreting out the news! Reader Shelley Goldberg sent us the following bulletin.
-“I walked out of Time Warner after shopping at Whole Foods and almost collided with it. Then about 30 people including me were taking pics and following it. It walked alongside the entire front of the mall, then darted under a cop car. Some animal-loving woman tried to lure it back but it crossed the road and ended up in Columbus Circle. The woman and a guard from Time Warner (on his phone alerting security) threw a coat over it but it ran out from under. By this point, the crowd grew and I left!  No owner showed up. You never know!!”]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[this is Trixie, main responsibility]]></title>
-        <id>https://voiceferret.tumblr.com/post/706672530160746496</id>
-        <link href="https://voiceferret.tumblr.com/post/706672530160746496"/>
-        <updated>2023-01-17T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[this is Trixie, main responsibility: supervising the neighborhood]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
