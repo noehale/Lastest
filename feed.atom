@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T02:18:01.298Z</updated>
+    <updated>2023-02-18T02:10:15.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Long Limousine Mouse]]></title>
+        <id>https://voiceferret.tumblr.com/post/709481035920965632</id>
+        <link href="https://voiceferret.tumblr.com/post/709481035920965632"/>
+        <updated>2023-02-17T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Long Limousine Mouse]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Playtime In CORNSTARCH PACKING PEANUTS!]]></title>
         <id>https://voiceferret.blogspot.com/2023/02/ferret-playtime-in-cornstarch-packing.html</id>
@@ -687,56 +697,6 @@ This program has absolutely changed my life and touched my heart in ways I never
         <summary type="html"><![CDATA[When I thought it wouldn’t happen easily, everyone was cute and made a ferre dumpling, and the voice of mom’s heart leaked out in the cute appearance …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIY Harness || for Ferrets and other Small Pets]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/diy-harness-for-ferrets-and-other-small.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/diy-harness-for-ferrets-and-other-small.html"/>
-        <updated>2023-01-19T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Today you will learn how to make this super easy inexpensive harness for your ferret, rat or other small pet. It’s a safe easy way to …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tay-K Says He's Being Treated Like 'Hamster' and 'Ferret' Behind Bars - Complex]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNvbXBsZXguY29tL211c2ljL3RheS1rLXRyZWF0ZWQtbGlrZS1oYW1zdGVyLWZlcnJldC1iZWhpbmQtYmFyc9IBAA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNvbXBsZXguY29tL211c2ljL3RheS1rLXRyZWF0ZWQtbGlrZS1oYW1zdGVyLWZlcnJldC1iZWhpbmQtYmFyc9IBAA?oc=5"/>
-        <updated>2023-01-19T10:14:26.000Z</updated>
-        <summary type="html"><![CDATA[Tay-K is speaking out about the conditions he says he’s enduring while behind bars, likening his treatment to that of a “hamster” and a “ferret.”To recap: Tay-K was sentenced to 55 years in prison in 2019 in connection with the shooting death conviction of 21-year-old Ethan Walker. On Tuesday, the “The Race” artist updated fans via a three-tweet series of updates, starting with opening up about feeling as though he’s “[at] war within.”From there, Tay-K addressed his treatment while incarcerated by bringing in the aforementioned hamster and ferret comparisons.“I feel like a hamster in here,” Tay-K said in one tweet. In another, he said he was “literally” being treated “like a ferret in here rn.”See more below.Image via Tay-K on TwitterImage via Tay-K on TwitterImage via Tay-K on TwitterAs previously reported, Tay-K earlier this month questioned his 55-year sentence in a string of social media updates.“I bet if I was a lil white kid they wouldn’t have gave me no 55 years for a crime I was alleged to play the most insignificant role in when I was 16….they woulda rightfully argued that my mind wasn’t fully developed and gave me rehabilitation and a 2nd (1st) chance at adulthood,” he said at the time.Previous updates from Tay-K include a birthday-timed message on his 21st birthday in 2021, notably including comments about then-impending new music and his take on going platinum with his aforementioned hit “The Race.” Read more at this link.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tay-K Says He’s Being Treated Like ‘Hamster’ and ‘Ferret’ Behind Bars - Complex]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNvbXBsZXguY29tL211c2ljL3RheS1rLXRyZWF0ZWQtbGlrZS1oYW1zdGVyLWZlcnJldC1iZWhpbmQtYmFyc9IBT2h0dHBzOi8vYW1wLnd3dy5jb21wbGV4LmNvbS9tdXNpYy90YXktay10cmVhdGVkLWxpa2UtaGFtc3Rlci1mZXJyZXQtYmVoaW5kLWJhcnM?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmNvbXBsZXguY29tL211c2ljL3RheS1rLXRyZWF0ZWQtbGlrZS1oYW1zdGVyLWZlcnJldC1iZWhpbmQtYmFyc9IBT2h0dHBzOi8vYW1wLnd3dy5jb21wbGV4LmNvbS9tdXNpYy90YXktay10cmVhdGVkLWxpa2UtaGFtc3Rlci1mZXJyZXQtYmVoaW5kLWJhcnM?oc=5"/>
-        <updated>2023-01-19T10:14:26.000Z</updated>
-        <summary type="html"><![CDATA[Tay-K is speaking out about the conditions he says he’s enduring while behind bars, likening his treatment to that of a “hamster” and a “ferret.”To recap: Tay-K was sentenced to 55 years in prison in 2019 in connection with the shooting death conviction of 21-year-old Ethan Walker. On Tuesday, the “The Race” artist updated fans via a three-tweet series of updates, starting with opening up about feeling as though he’s “[at] war within.”From there, Tay-K addressed his treatment while incarcerated by bringing in the aforementioned hamster and ferret comparisons.“I feel like a hamster in here,” Tay-K said in one tweet. In another, he said he was “literally” being treated “like a ferret in here rn.”See more below.Image via Tay-K on TwitterImage via Tay-K on TwitterImage via Tay-K on TwitterAs previously reported, Tay-K earlier this month questioned his 55-year sentence in a string of social media updates.“I bet if I was a lil white kid they wouldn’t have gave me no 55 years for a crime I was alleged to play the most insignificant role in when I was 16….they woulda rightfully argued that my mind wasn’t fully developed and gave me rehabilitation and a 2nd (1st) chance at adulthood,” he said at the time.Previous updates from Tay-K include a birthday-timed message on his 21st birthday in 2021, notably including comments about then-impending new music and his take on going platinum with his aforementioned hit “The Race.” Read more at this link.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tay-K Says He’s Being Treated Like ‘Hamster’ and ‘Ferret’ Behind Bars - Yahoo Entertainment]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L3RheS1rLXNheXMtYmVpbmctdHJlYXRlZC0yMDEzMDgxODQuaHRtbNIBU2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9hbXBodG1sL2VudGVydGFpbm1lbnQvdGF5LWstc2F5cy1iZWluZy10cmVhdGVkLTIwMTMwODE4NC5odG1s?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L3RheS1rLXNheXMtYmVpbmctdHJlYXRlZC0yMDEzMDgxODQuaHRtbNIBU2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9hbXBodG1sL2VudGVydGFpbm1lbnQvdGF5LWstc2F5cy1iZWluZy10cmVhdGVkLTIwMTMwODE4NC5odG1s?oc=5"/>
-        <updated>2023-01-19T10:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Image via Instagram/@tayk47shawtyTay-K is speaking out about the conditions he says he’s enduring while behind bars, likening his treatment to that of a “hamster” and a “ferret.”To recap: Tay-K was sentenced to 55 years in prison in 2019 in connection with the shooting death conviction of 21-year-old Ethan Walker. On Tuesday, the “The Race” artist updated fans via a three-tweet series of updates, starting with opening up about feeling as though he’s “[at] war within.”From there, Tay-K addressed his treatment while incarcerated by bringing in the aforementioned hamster and ferret comparisons.“I feel like a hamster in here,” Tay-K said in one tweet. In another, he said he was “literally” being treated “like a ferret in here rn.”See more below.Image via Tay-K on TwitterImage via Tay-K on TwitterImage via Tay-K on TwitterAs previously reported, Tay-K earlier this month questioned his 55-year sentence in a string of social media updates.“I bet if I was a lil white kid they wouldn’t have gave me no 55 years for a crime I was alleged to play the most insignificant role in when I was 16….they woulda rightfully argued that my mind wasn’t fully developed and gave me rehabilitation and a 2nd (1st) chance at adulthood,” he said at the time.Previous updates from Tay-K include a birthday-timed message on his 21st birthday in 2021, notably including comments about then-impending new music and his take on going platinum with his aforementioned hit “The Race.” Read more at this link.Related ArticlesMore ComplexSign up for the Complex Newsletter for breaking news, events, and unique stories.Follow Complex on: Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snuggle buddies]]></title>
-        <id>https://voiceferret.tumblr.com/post/706763127541383168</id>
-        <link href="https://voiceferret.tumblr.com/post/706763127541383168"/>
-        <updated>2023-01-18T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Snuggle buddies]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
