@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T02:15:51.338Z</updated>
+    <updated>2023-02-21T02:15:07.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When it comes to bonding with ferrets, do you think there are certain strategies that work better for younger children vs. adult...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/747567313396951</id>
+        <link href="https://www.facebook.com/666603538159996/posts/747567313396951"/>
+        <updated>2023-02-21T01:00:10.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to bonding with ferrets, do you think there are certain strategies that work better for younger children vs. adults?
+#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 weasels in a hammock]]></title>
         <id>https://voiceferret.tumblr.com/post/709662230731538432</id>
@@ -676,37 +687,6 @@ This program has absolutely changed my life and touched my heart in ways I never
         <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Ferret】Rainbow Bridge Animal Communication]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/ferretrainbow-bridge-animal.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/ferretrainbow-bridge-animal.html"/>
-        <updated>2023-01-22T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I asked Animal Communicator, who was indebted to me before, to communicate with Mint with animals. With chocolate …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi my name is Haley and I make strange faces while throwing loofahs at cameras. I also love ferrets (not pictured but inevitably...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/727996448687371</id>
-        <link href="https://www.facebook.com/666603538159996/posts/727996448687371"/>
-        <updated>2023-01-22T01:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Hi my name is Haley and I make strange faces while throwing loofahs at cameras. I also love ferrets (not pictured but inevitably sleeping somewhere near me right now). Besides ferrets, I have come to love getting involved in my local church and I love to read! Can you tell me some more about yourself? Maybe we have something unique in common!
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We had a little photo shoot with Marty and Daphne!]]></title>
-        <id>https://voiceferret.tumblr.com/post/707034917353160705</id>
-        <link href="https://voiceferret.tumblr.com/post/707034917353160705"/>
-        <updated>2023-01-21T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[We had a little photo shoot with Marty and Daphne!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
