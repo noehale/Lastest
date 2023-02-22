@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T02:15:07.630Z</updated>
+    <updated>2023-02-22T02:13:32.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunday canal walk with Dino.]]></title>
+        <id>https://voiceferret.tumblr.com/post/709843424243810304</id>
+        <link href="https://voiceferret.tumblr.com/post/709843424243810304"/>
+        <updated>2023-02-21T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Sunday canal walk with Dino.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When it comes to bonding with ferrets, do you think there are certain strategies that work better for younger children vs. adult...]]></title>
         <id>https://www.facebook.com/666603538159996/posts/747567313396951</id>
@@ -677,16 +687,6 @@ This program has absolutely changed my life and touched my heart in ways I never
 #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birthday day, gifts, intestinal activity test results]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/birthday-day-gifts-intestinal-activity.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/birthday-day-gifts-intestinal-activity.html"/>
-        <updated>2023-01-23T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
