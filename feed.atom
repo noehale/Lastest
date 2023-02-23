@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T02:13:32.574Z</updated>
+    <updated>2023-02-23T02:11:43.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -43,6 +43,16 @@
         <link href="https://voiceferret.tumblr.com/post/709571632888430592"/>
         <updated>2023-02-18T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[They don’t event have to try to make me smile.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Playful, spunky' education ferret, Parker, dies at ZooAmerica in Hershey - PennLive]]></title>
+        <id>https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnBlbm5saXZlLmNvbS9saWZlLzIwMjMvMDIvcGxheWZ1bC1zcHVua3ktZWR1Y2F0aW9uLWZlcnJldC1wYXJrZXItZGllcy1hdC16b29hbWVyaWNhLWluLWhlcnNoZXkuaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnBlbm5saXZlLmNvbS9saWZlLzIwMjMvMDIvcGxheWZ1bC1zcHVua3ktZWR1Y2F0aW9uLWZlcnJldC1wYXJrZXItZGllcy1hdC16b29hbWVyaWNhLWluLWhlcnNoZXkuaHRtbNIBAA?oc=5"/>
+        <updated>2023-02-18T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -653,40 +663,6 @@ These ferret's teeth are sharp in order to tear through the meat and bone of the
         <summary type="html"><![CDATA[Ferret party from last year.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faut-il stériliser ou implanter son furet en 2023 ?]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/faut-il-steriliser-ou-implanter-son.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/faut-il-steriliser-ou-implanter-son.html"/>
-        <updated>2023-01-24T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Aujourd’hui en France, les furets sont majoritairement implantés pour leur stérilisation. La stérilisation chirurgicale est souvent …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This animal just moved into my towel drawer. Does he have squatter’s rights? What’s the eviction process?]]></title>
-        <id>https://voiceferret.tumblr.com/post/707216112613457920</id>
-        <link href="https://voiceferret.tumblr.com/post/707216112613457920"/>
-        <updated>2023-01-23T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[This animal just moved into my towel drawer. Does he have squatter’s rights? What’s the eviction process?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/729083501911999</id>
-        <link href="https://www.facebook.com/666603538159996/posts/729083501911999"/>
-        <updated>2023-01-23T14:28:18.000Z</updated>
-        <summary type="html"><![CDATA[I had the absolute pleasure of presenting about ferrets to children in an organization called Royal Family Kids (which serves neglected and abused children in the foster care system). It was so fun to teach the kids something and make them laugh.
-This program has absolutely changed my life and touched my heart in ways I never would’ve expected.  
-“He comforts us in all our troubles so that we can comfort others. When they are troubled, we will be able to give them the same comfort God has given us.”
-1 Corinthians 1:4
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
