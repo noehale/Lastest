@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T02:11:43.380Z</updated>
+    <updated>2023-02-24T02:11:54.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roz has recently taken to curling up in our random piles of clothes on the floor and my heart can’t take it 🥺🥺🥺]]></title>
+        <id>https://voiceferret.tumblr.com/post/710024617529655296</id>
+        <link href="https://voiceferret.tumblr.com/post/710024617529655296"/>
+        <updated>2023-02-23T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Roz has recently taken to curling up in our random piles of clothes on the floor and my heart can’t take it]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunday canal walk with Dino.]]></title>
         <id>https://voiceferret.tumblr.com/post/709843424243810304</id>
@@ -632,35 +642,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <link href="https://voiceferret.tumblr.com/post/707397305052069888"/>
         <updated>2023-01-25T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Pile!!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Do Ferrets Eat?
-
-The short answer: meat, bones, and organs.
-
-The easiest way to venture a guess as to what a ferret should ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/729932078493808</id>
-        <link href="https://www.facebook.com/666603538159996/posts/729932078493808"/>
-        <updated>2023-01-25T01:00:16.000Z</updated>
-        <summary type="html"><![CDATA[What Do Ferrets Eat?
-The short answer: meat, bones, and organs.
-The easiest way to venture a guess as to what a ferret should eat is to look at their teeth. Does this ferret’s mouth (above) remind you of any other animals’ mouths you may know?
-To me it looks an awful lot like a small dog or cat, NOT a rat or a mouse.
-These ferret's teeth are sharp in order to tear through the meat and bone of their prey! How cool!
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret party from last year.]]></title>
-        <id>https://voiceferret.tumblr.com/post/707306708166393856</id>
-        <link href="https://voiceferret.tumblr.com/post/707306708166393856"/>
-        <updated>2023-01-24T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Ferret party from last year.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
