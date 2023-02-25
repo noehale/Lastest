@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T02:11:54.934Z</updated>
+    <updated>2023-02-25T02:14:00.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -622,26 +622,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <link href="https://voiceferret.tumblr.com/post/707487904190119936"/>
         <updated>2023-01-26T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[How?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's FERRET Time!]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/its-ferret-time.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/its-ferret-time.html"/>
-        <updated>2023-01-26T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[SharynZoo #Ferrets Welcome to the home of Sammy the Famous Mini Pig, his Bird Friends, FUN Ferret Sisters &amp; Crazy Cat sisters …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pile!!]]></title>
-        <id>https://voiceferret.tumblr.com/post/707397305052069888</id>
-        <link href="https://voiceferret.tumblr.com/post/707397305052069888"/>
-        <updated>2023-01-25T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Pile!!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
