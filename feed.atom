@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T02:14:00.654Z</updated>
+    <updated>2023-02-26T02:22:22.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I just adopted this handsome fella and I can’t wait to see what kind of trouble he has in store for me]]></title>
+        <id>https://voiceferret.tumblr.com/post/710205811523272704</id>
+        <link href="https://voiceferret.tumblr.com/post/710205811523272704"/>
+        <updated>2023-02-25T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[I just adopted this handsome fella and I can’t wait to see what kind of trouble he has in store for me]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roz has recently taken to curling up in our random piles of clothes on the floor and my heart can’t take it 🥺🥺🥺]]></title>
         <id>https://voiceferret.tumblr.com/post/710024617529655296</id>
@@ -584,46 +594,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
 #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s been a cold day, but I’m full of energy]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/its-been-cold-day-but-im-full-of-energy.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/its-been-cold-day-but-im-full-of-energy.html"/>
-        <updated>2023-01-27T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret, wild animal rescue thrives in Brandy Station - Inside NoVA]]></title>
-        <id>https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbnNpZGVub3ZhLmNvbS9jdWxwZXBlci9mZXJyZXQtd2lsZC1hbmltYWwtcmVzY3VlLXRocml2ZXMtaW4tYnJhbmR5LXN0YXRpb24vYXJ0aWNsZV9jNDg4OTNhZS05ZDkzLTExZWQtYmVhOS1hN2FhZGE2ZDkyNmUuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbnNpZGVub3ZhLmNvbS9jdWxwZXBlci9mZXJyZXQtd2lsZC1hbmltYWwtcmVzY3VlLXRocml2ZXMtaW4tYnJhbmR5LXN0YXRpb24vYXJ0aWNsZV9jNDg4OTNhZS05ZDkzLTExZWQtYmVhOS1hN2FhZGE2ZDkyNmUuaHRtbNIBAA?oc=5"/>
-        <updated>2023-01-27T06:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret, wild animal rescue thrives in Brandy Station - Inside NoVA]]></title>
-        <id>https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5pbnNpZGVub3ZhLmNvbS9jdWxwZXBlci9mZXJyZXQtd2lsZC1hbmltYWwtcmVzY3VlLXRocml2ZXMtaW4tYnJhbmR5LXN0YXRpb24vYXJ0aWNsZV9jNDg4OTNhZS05ZDkzLTExZWQtYmVhOS1hN2FhZGE2ZDkyNmUuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5pbnNpZGVub3ZhLmNvbS9jdWxwZXBlci9mZXJyZXQtd2lsZC1hbmltYWwtcmVzY3VlLXRocml2ZXMtaW4tYnJhbmR5LXN0YXRpb24vYXJ0aWNsZV9jNDg4OTNhZS05ZDkzLTExZWQtYmVhOS1hN2FhZGE2ZDkyNmUuaHRtbNIBAA?oc=5"/>
-        <updated>2023-01-27T06:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Little did Karen Lamb know stepping into a pet store in Virginia over 25 years ago would change the direction of her life forever. “I made the cardinal mistake of seeing a cute little furry animal in a pet store and I bought it,” she recalled. “I didn’t know anything about them.”Lamb founded and has operated The Nirvana Ridge Ferret Rescue since 1997. She opened the rescue soon after she got her first pet ferret after moving to Virginia from California where owning ferrets as pets is illegal.          Over 2,000 ferrets have passed through Lamb’s Nirvana Ridge Ferret Rescue in Brandy Station.   Margarita Orange   Since then, over 2,000 ferrets have come through her door.California is one of two states that restricts ferret ownership - the other is Hawaii. The only way Californians can lega…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How?]]></title>
-        <id>https://voiceferret.tumblr.com/post/707487904190119936</id>
-        <link href="https://voiceferret.tumblr.com/post/707487904190119936"/>
-        <updated>2023-01-26T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[How?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
