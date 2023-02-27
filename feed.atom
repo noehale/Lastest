@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T02:22:22.419Z</updated>
+    <updated>2023-02-27T02:15:13.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[she give kiss]]></title>
+        <id>https://voiceferret.tumblr.com/post/710296409827688448</id>
+        <link href="https://voiceferret.tumblr.com/post/710296409827688448"/>
+        <updated>2023-02-26T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[she give kiss]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I just adopted this handsome fella and I can’t wait to see what kind of trouble he has in store for me]]></title>
         <id>https://voiceferret.tumblr.com/post/710205811523272704</id>
@@ -573,27 +583,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <summary type="html"><![CDATA[I adopted a pair of 3 year old abandoned little stinkies  I’d say they are they are adjusting well!]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The sister ferret who is good at appeal cunningly breaks through the brother and sister quarrel! !! 【ferret#1146】]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/the-sister-ferret-who-is-good-at-appeal.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/the-sister-ferret-who-is-good-at-appeal.html"/>
-        <updated>2023-01-28T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[【Ferret introduction】 Choco Born on April 30, 2018 Name (Chicchan, Chitaro, Hime) CookieBorn on November 15, 2021 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A great way to bond with ferrets is to give them some of your worn clothing to sleep in -it helps them get used to your scent an...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/731924251627924</id>
-        <link href="https://www.facebook.com/666603538159996/posts/731924251627924"/>
-        <updated>2023-01-28T01:00:15.000Z</updated>
-        <summary type="html"><![CDATA[A great way to bond with ferrets is to give them some of your worn clothing to sleep in -it helps them get used to your scent and associate it with safety! Do any of you do this? What of your clothing is their favorite?
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
