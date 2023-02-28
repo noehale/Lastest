@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T02:15:13.900Z</updated>
+    <updated>2023-02-28T02:14:24.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Had to have the plumber out to fix some things and Elijah quickly became his project manager.. anyone want to caption/narrate th...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/751510733002609</id>
+        <link href="https://www.facebook.com/666603538159996/posts/751510733002609"/>
+        <updated>2023-02-27T08:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Had to have the plumber out to fix some things and Elijah quickly became his project manager.. anyone want to caption/narrate this photo?😂 #ferret #littlehelper(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[she give kiss]]></title>
         <id>https://voiceferret.tumblr.com/post/710296409827688448</id>
@@ -17,6 +27,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Do your ferrets get along? How do they react around new ferrets?]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/750720989748250</id>
+        <link href="https://www.facebook.com/666603538159996/posts/750720989748250"/>
+        <updated>2023-02-26T01:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Do your ferrets get along? How do they react around new ferrets?(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I just adopted this handsome fella and I can’t wait to see what kind of trouble he has in store for me]]></title>
         <id>https://voiceferret.tumblr.com/post/710205811523272704</id>
         <link href="https://voiceferret.tumblr.com/post/710205811523272704"/>
@@ -24,6 +44,25 @@
         <summary type="html"><![CDATA[I just adopted this handsome fella and I can’t wait to see what kind of trouble he has in store for me]]></summary>
         <author>
             <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUESTION: Can some of you provide me with some info for an upcoming video? I have my own numbers I'll provide but I'd like to ge...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/750307809789568</id>
+        <link href="https://www.facebook.com/666603538159996/posts/750307809789568"/>
+        <updated>2023-02-25T07:16:46.000Z</updated>
+        <summary type="html"><![CDATA[QUESTION: Can some of you provide me with some info for an upcoming video? I have my own numbers I'll provide but I'd like to get some community feedback on the overall cost of ferrets so possible new owners can be prepared:
+What have been your costs for:
+-your ferrets themselves (and where you got them)
+-cage
+-accessories
+-food per month/ treats
+-unexpected vet bills (if you can post pictures of the bills, and any pics of procedure done, that would be awesome!!)
+-expected vet bills (vaccines, checkups, Deslorelin implants, insulinoma medication)
+-litter/potty pads
+This will be such an amazing resource for others! Thank you!!!(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -561,26 +600,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <link href="https://voiceferret.tumblr.com/post/707759694182236160"/>
         <updated>2023-01-29T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Rocko is ready for the work week to be over]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Owner and self-paced ferret who want to play]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/owner-and-self-paced-ferret-who-want-to.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/owner-and-self-paced-ferret-who-want-to.html"/>
-        <updated>2023-01-29T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I adopted a pair of 3 year old abandoned little stinkies 🤗 I’d say they are they are adjusting well!]]></title>
-        <id>https://voiceferret.tumblr.com/post/707669096075083776</id>
-        <link href="https://voiceferret.tumblr.com/post/707669096075083776"/>
-        <updated>2023-01-28T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[I adopted a pair of 3 year old abandoned little stinkies  I’d say they are they are adjusting well!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
