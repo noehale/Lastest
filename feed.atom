@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T02:14:24.807Z</updated>
+    <updated>2023-03-01T02:25:07.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[when you’re trying to have a snuggle with mom, but your big sister has no chill]]></title>
+        <id>https://voiceferret.tumblr.com/post/710477602051211264</id>
+        <link href="https://voiceferret.tumblr.com/post/710477602051211264"/>
+        <updated>2023-02-28T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[when you’re trying to have a snuggle with mom, but your big sister has no chill]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Had to have the plumber out to fix some things and Elijah quickly became his project manager.. anyone want to caption/narrate th...]]></title>
         <id>https://www.facebook.com/666603538159996/posts/751510733002609</id>
@@ -590,16 +600,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <link href="https://voiceferret.tumblr.com/post/707850291407716352"/>
         <updated>2023-01-30T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[styles by beans: SBB]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocko is ready for the work week to be over]]></title>
-        <id>https://voiceferret.tumblr.com/post/707759694182236160</id>
-        <link href="https://voiceferret.tumblr.com/post/707759694182236160"/>
-        <updated>2023-01-29T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Rocko is ready for the work week to be over]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
