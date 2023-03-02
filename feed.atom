@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T02:25:07.399Z</updated>
+    <updated>2023-03-02T02:20:18.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -558,48 +558,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <link href="https://voiceferret.tumblr.com/post/707940887609720832"/>
         <updated>2023-01-31T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Cuteness overload]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Room Renovation: Update]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/ferret-room-renovation-update.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/ferret-room-renovation-update.html"/>
-        <updated>2023-01-31T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferret Room Renovation Update! I finally got around to adding storage and cleaning up the ferrets old cage liners and …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets are masters of chaos! They love to climb on things they shouldn't all throughout your house and.. rearrange EVERYTHING! ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/733781684775514</id>
-        <link href="https://www.facebook.com/666603538159996/posts/733781684775514"/>
-        <updated>2023-01-31T01:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Ferrets are masters of chaos! They love to climb on things they shouldn't all throughout your house and.. rearrange EVERYTHING! What have your ferrets commandeered in your home to make their own?
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets are masters of chaos! They love to climb on things they shouldn't all throughout your house and.. rearrange EVERYTHING! ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/733779971442352</id>
-        <link href="https://www.facebook.com/666603538159996/posts/733779971442352"/>
-        <updated>2023-01-31T01:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Ferrets are masters of chaos! They love to climb on things they shouldn't all throughout your house and.. rearrange EVERYTHING! What have your ferrets commandeered in your home to make their own?
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[styles by beans]]></title>
-        <id>https://voiceferret.tumblr.com/post/707850291407716352</id>
-        <link href="https://voiceferret.tumblr.com/post/707850291407716352"/>
-        <updated>2023-01-30T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[styles by beans: SBB]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
