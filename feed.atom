@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T02:20:18.309Z</updated>
+    <updated>2023-03-03T03:50:15.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zoomies]]></title>
+        <id>https://voiceferret.tumblr.com/post/710658796120375296</id>
+        <link href="https://voiceferret.tumblr.com/post/710658796120375296"/>
+        <updated>2023-03-02T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Zoomies]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here are some symptoms of a common ferret illness called Adrenal Disease (referenced in Ferrets for Dummies). Check if your ferr...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/752449186242097</id>
+        <link href="https://www.facebook.com/666603538159996/posts/752449186242097"/>
+        <updated>2023-03-01T01:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Here are some symptoms of a common ferret illness called Adrenal Disease (referenced in Ferrets for Dummies). Check if your ferret exhibits any of these:
+Hair loss on tail (rat tail)
+Full body hair loss (if left untreated)
+Excessive itchiness
+Swollen vulva in spayed female ferrets
+Humping other ferrets
+Aggressive behavior
+Difficulty peeing
+Anemia in females
+Muscle thinning(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[when you’re trying to have a snuggle with mom, but your big sister has no chill]]></title>
         <id>https://voiceferret.tumblr.com/post/710477602051211264</id>
@@ -538,26 +567,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <link href="https://voiceferret.tumblr.com/post/708031487473319936"/>
         <updated>2023-02-01T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[I turned the shower on for him and it made him do this… what is he doing here exactly?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cozy Winter Days | Episode 28]]></title>
-        <id>https://voiceferret.blogspot.com/2023/01/cozy-winter-days-episode-28.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/01/cozy-winter-days-episode-28.html"/>
-        <updated>2023-02-01T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[pazuandfriends #ferret #animalcare 0:00 It’s been awhile! 1:59 My house is a mess 6:22 Yummy slow cook beef stew …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuteness overload]]></title>
-        <id>https://voiceferret.tumblr.com/post/707940887609720832</id>
-        <link href="https://voiceferret.tumblr.com/post/707940887609720832"/>
-        <updated>2023-01-31T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Cuteness overload]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
