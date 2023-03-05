@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T02:14:53.248Z</updated>
+    <updated>2023-03-05T02:26:55.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrero, my travel buddy sharing my hotel room. 🥰]]></title>
+        <id>https://voiceferret.tumblr.com/post/710839989954609152</id>
+        <link href="https://voiceferret.tumblr.com/post/710839989954609152"/>
+        <updated>2023-03-04T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Ferrero, my travel buddy sharing my hotel room.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zoomies]]></title>
         <id>https://voiceferret.tumblr.com/post/710658796120375296</id>
@@ -519,36 +529,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <summary type="html"><![CDATA[Grateful to wake up next to this potato every morning. #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luminescence of Beta’s and ferret with live music by Chosen Few Pets LLC Nature Tech]]></title>
-        <id>https://voiceferret.blogspot.com/2023/02/luminescence-of-betas-and-ferret-with.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/02/luminescence-of-betas-and-ferret-with.html"/>
-        <updated>2023-02-03T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Setting up a beta tank Chillaxing with friends.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's do a survey: What ferret illnesses have you personally dealt with? And what was your experience?]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/735730097914006</id>
-        <link href="https://www.facebook.com/666603538159996/posts/735730097914006"/>
-        <updated>2023-02-03T01:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Let's do a survey: What ferret illnesses have you personally dealt with? And what was your experience?(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Beandip]]></title>
-        <id>https://voiceferret.tumblr.com/post/708122083638509568</id>
-        <link href="https://voiceferret.tumblr.com/post/708122083638509568"/>
-        <updated>2023-02-02T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Meet Beandip]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
