@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T02:26:55.379Z</updated>
+    <updated>2023-03-06T02:17:34.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -519,16 +519,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <summary type="html"><![CDATA[Rest in Peace to my sweet girl Daisy. My first baby. Mommy will miss your company and kisses so much.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grateful to wake up next to this potato every morning. #ferret #ferrets #ferretsofinstagram]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/736462957840720</id>
-        <link href="https://www.facebook.com/666603538159996/posts/736462957840720"/>
-        <updated>2023-02-04T01:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Grateful to wake up next to this potato every morning. #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
