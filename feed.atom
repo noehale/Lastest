@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T02:17:34.199Z</updated>
+    <updated>2023-03-07T02:23:02.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My favourite recent photo of Buck and I cuddling 🥰]]></title>
+        <id>https://voiceferret.tumblr.com/post/711021185687830528</id>
+        <link href="https://voiceferret.tumblr.com/post/711021185687830528"/>
+        <updated>2023-03-06T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My favourite recent photo of Buck and I cuddling]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A post from The Modern Ferret]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/755167559303593</id>
+        <link href="https://www.facebook.com/666603538159996/posts/755167559303593"/>
+        <updated>2023-03-06T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrero, my travel buddy sharing my hotel room. 🥰]]></title>
         <id>https://voiceferret.tumblr.com/post/710839989954609152</id>
@@ -497,26 +517,6 @@ Want to learn how to train your ferret? In today's interview I speak with my fri
         <link href="https://voiceferret.tumblr.com/post/708393871825108992"/>
         <updated>2023-02-05T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[cuddles]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abc animal, alphabet animal, animal start with letter F, Ferret, Flamingo, Fox, Frog, Falcon,]]></title>
-        <id>https://voiceferret.blogspot.com/2023/02/abc-animal-alphabet-animal-animal-start.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/02/abc-animal-alphabet-animal-animal-start.html"/>
-        <updated>2023-02-05T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[welcome to my channel, thank you friends for watching my video, I hope this channel develops well, I will continue to update …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rest in Peace to my sweet girl Daisy. My first baby. Mommy will miss your company and kisses so much. 🤍]]></title>
-        <id>https://voiceferret.tumblr.com/post/708303274749706240</id>
-        <link href="https://voiceferret.tumblr.com/post/708303274749706240"/>
-        <updated>2023-02-04T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Rest in Peace to my sweet girl Daisy. My first baby. Mommy will miss your company and kisses so much.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
