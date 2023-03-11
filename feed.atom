@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T02:21:05.660Z</updated>
+    <updated>2023-03-11T02:02:09.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don't Get a Ferret : Downsides to Ferret Ownership]]></title>
+        <id>https://www.youtube.com/watch?v=uf8yADyTGI0</id>
+        <link href="https://www.youtube.com/watch?v=uf8yADyTGI0"/>
+        <updated>2023-03-11T12:20:25.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Pepper with her stub tail]]></title>
+        <id>https://voiceferret.tumblr.com/post/711383571897679872</id>
+        <link href="https://voiceferret.tumblr.com/post/711383571897679872"/>
+        <updated>2023-03-10T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[My Pepper with her stub tail]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pentagon is funding experiments on animals to recreate 'Havana Syndrome' - POLITICO]]></title>
         <id>https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDMvMDkvcGVudGFnb24tZnVuZGluZy1leHBlcmltZW50cy1hbmltYWxzLWhhdmFuYS1zeW5kcm9tZS0wMDA4NjM5M9IBAA?oc=5</id>
