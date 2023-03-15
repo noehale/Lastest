@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T01:54:59.495Z</updated>
+    <updated>2023-03-15T02:04:43.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I know that beans is s albino but would panda be a dark eyed white even with his black nose? And he does have a very light dark patch of fur on his paw]]></title>
+        <id>https://voiceferret.tumblr.com/post/711745959288340481</id>
+        <link href="https://voiceferret.tumblr.com/post/711745959288340481"/>
+        <updated>2023-03-14T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[I know that beans is s albino but would panda be a dark eyed white even with his black nose? And he does have a very light dark patch of fur on his paw]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ray Evernham Loves His Ferret as Much As—Maybe More Than—the #24 - Autoweek]]></title>
         <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmF1dG93ZWVrLmNvbS9jYXItbGlmZS9jbGFzc2ljLWNhcnMvYTQzMjg4ODExL3JheS1ldmVybmhhbS1sb3Zlcy1oaXMtZmVycmV0LWFzLW11Y2gtYXMtdGhlLTI0L9IBAA?oc=5</id>
@@ -415,16 +425,6 @@ This will be such an amazing resource for others! Thank you!!!(Feed generated wi
         <link href="https://voiceferret.blogspot.com/2023/02/trimming-day-routine.html"/>
         <updated>2023-02-13T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[Thank you for watching. This is a routine video of the trimming day of Japan Spitz whitebait (male / 3 years old). In the meantime ferrets …]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret with large legs]]></title>
-        <id>https://voiceferret.blogspot.com/2023/02/ferret-with-large-legs.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/02/ferret-with-large-legs.html"/>
-        <updated>2023-02-12T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m Bicke, a Marshall ferret and butterscotch born on January 19, 2019. Ferret World Nakano store on April 15, 2019 …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
