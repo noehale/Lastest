@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T02:04:43.488Z</updated>
+    <updated>2023-03-16T02:05:56.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The rare Three-headed Ferret!]]></title>
+        <id>https://voiceferret.tumblr.com/post/711836557420658688</id>
+        <link href="https://voiceferret.tumblr.com/post/711836557420658688"/>
+        <updated>2023-03-15T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[The rare Three-headed Ferret!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I know that beans is s albino but would panda be a dark eyed white even with his black nose? And he does have a very light dark patch of fur on his paw]]></title>
         <id>https://voiceferret.tumblr.com/post/711745959288340481</id>
@@ -34,6 +44,17 @@
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This journey into ferret-obsession started something like 7 or 8 years ago. In that time, a little Instagram was born that grew ...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/759532722200410</id>
+        <link href="https://www.facebook.com/666603538159996/posts/759532722200410"/>
+        <updated>2023-03-14T00:00:07.000Z</updated>
+        <summary type="html"><![CDATA[This journey into ferret-obsession started something like 7 or 8 years ago. In that time, a little Instagram was born that grew into a community of lovely, crazy, awesome ferret owners looking for a place to learn and support one another. Now we've got a Youtube channel and a website and amazing t-shirt designs! It's crazy how fast time goes! I hope each of you finds the courage to pursue something that brings you joy.
+#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -395,36 +416,6 @@ This will be such an amazing resource for others! Thank you!!!(Feed generated wi
         <link href="https://voiceferret.blogspot.com/2023/02/episode-1-day-in-life-with-daisy-and.html"/>
         <updated>2023-02-14T14:09:00.000Z</updated>
         <summary type="html"><![CDATA[Introduction to Daisy &amp; Milo ferrets and furriends Episode 1.]]></summary>
-        <author>
-            <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 endangered ferrets released into the wild - 9News.com KUSA]]></title>
-        <id>https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LjluZXdzLmNvbS9hcnRpY2xlL2xpZmUvYW5pbWFscy9ibGFjay1mb290ZWQtZmVycmV0cy1yZWxlYXNlZC1jb2xvcmFkby83My02MDlhODQyNC03OTk2LTRlOGQtOWU2ZC04OTE4OGM5ZDVkNzDSAX1odHRwczovL3d3dy45bmV3cy5jb20vYW1wL2FydGljbGUvbGlmZS9hbmltYWxzL2JsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLWNvbG9yYWRvLzczLTYwOWE4NDI0LTc5OTYtNGU4ZC05ZTZkLTg5MTg4YzlkNWQ3MA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LjluZXdzLmNvbS9hcnRpY2xlL2xpZmUvYW5pbWFscy9ibGFjay1mb290ZWQtZmVycmV0cy1yZWxlYXNlZC1jb2xvcmFkby83My02MDlhODQyNC03OTk2LTRlOGQtOWU2ZC04OTE4OGM5ZDVkNzDSAX1odHRwczovL3d3dy45bmV3cy5jb20vYW1wL2FydGljbGUvbGlmZS9hbmltYWxzL2JsYWNrLWZvb3RlZC1mZXJyZXRzLXJlbGVhc2VkLWNvbG9yYWRvLzczLTYwOWE4NDI0LTc5OTYtNGU4ZC05ZTZkLTg5MTg4YzlkNWQ3MA?oc=5"/>
-        <updated>2023-02-14T09:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your face is just too cute as always 🥰]]></title>
-        <id>https://voiceferret.tumblr.com/post/709118647922245632</id>
-        <link href="https://voiceferret.tumblr.com/post/709118647922245632"/>
-        <updated>2023-02-13T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Your face is just too cute as always]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trimming Day Routine]]></title>
-        <id>https://voiceferret.blogspot.com/2023/02/trimming-day-routine.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/02/trimming-day-routine.html"/>
-        <updated>2023-02-13T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Thank you for watching. This is a routine video of the trimming day of Japan Spitz whitebait (male / 3 years old). In the meantime ferrets …]]></summary>
         <author>
             <name>voiceferret</name>
         </author>
