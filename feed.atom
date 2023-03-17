@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T02:05:56.288Z</updated>
+    <updated>2023-03-17T02:03:27.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -385,39 +385,6 @@ This will be such an amazing resource for others! Thank you!!!(Feed generated wi
         <summary type="html"><![CDATA[Happy Valentine’s Day from my beautiful monsters!!]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Valentines Day! How are you showing your ferret how much you love them today?!
-
-#ferret #ferrets #ferretsofinstagram]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/743610213792661</id>
-        <link href="https://www.facebook.com/666603538159996/posts/743610213792661"/>
-        <updated>2023-02-15T01:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Happy Valentines Day! How are you showing your ferret how much you love them today?!
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[He fell asleep on me 😂]]></title>
-        <id>https://voiceferret.tumblr.com/post/709209245976084480</id>
-        <link href="https://voiceferret.tumblr.com/post/709209245976084480"/>
-        <updated>2023-02-14T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[He fell asleep on me]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Episode 1  day in the life with Daisy and Milo ferrets and furriends]]></title>
-        <id>https://voiceferret.blogspot.com/2023/02/episode-1-day-in-life-with-daisy-and.html</id>
-        <link href="https://voiceferret.blogspot.com/2023/02/episode-1-day-in-life-with-daisy-and.html"/>
-        <updated>2023-02-14T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to Daisy &amp; Milo ferrets and furriends Episode 1.]]></summary>
-        <author>
-            <name>voiceferret</name>
         </author>
     </entry>
 </feed>
