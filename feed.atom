@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T02:03:27.067Z</updated>
+    <updated>2023-03-18T02:03:49.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sweet Baby 2016-2023]]></title>
+        <id>https://voiceferret.tumblr.com/post/712017751480336384</id>
+        <link href="https://voiceferret.tumblr.com/post/712017751480336384"/>
+        <updated>2023-03-17T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Sweet Baby 2016-2023]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The rare Three-headed Ferret!]]></title>
         <id>https://voiceferret.tumblr.com/post/711836557420658688</id>
@@ -365,26 +375,6 @@ This will be such an amazing resource for others! Thank you!!!(Feed generated wi
         <summary type="html"><![CDATA[Like*Subscribe*Share to Support Cinnamon and Sassy’s Channel If you want to help the channel, click the Amazon Associates …]]></summary>
         <author>
             <name>voiceferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coronavirus: Ferret in Florida tests positive for COVID-19 - FOX13 Memphis]]></title>
-        <id>https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5mb3gxM21lbXBoaXMuY29tL3RyZW5kaW5nX2FyY2hpdmVzL2Nvcm9uYXZpcnVzLWZlcnJldC1pbi1mbG9yaWRhLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC0xOS9hcnRpY2xlXzdiZDc4OTM0LTNlYjYtNTZiNC05YTJiLTZiNjBiZmQ5ZTU5Ny5odG1s0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5mb3gxM21lbXBoaXMuY29tL3RyZW5kaW5nX2FyY2hpdmVzL2Nvcm9uYXZpcnVzLWZlcnJldC1pbi1mbG9yaWRhLXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC0xOS9hcnRpY2xlXzdiZDc4OTM0LTNlYjYtNTZiNC05YTJiLTZiNjBiZmQ5ZTU5Ny5odG1s0gEA?oc=5"/>
-        <updated>2023-02-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Valentine’s Day from my beautiful monsters!!]]></title>
-        <id>https://voiceferret.tumblr.com/post/709299841298284544</id>
-        <link href="https://voiceferret.tumblr.com/post/709299841298284544"/>
-        <updated>2023-02-15T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Happy Valentine’s Day from my beautiful monsters!!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
