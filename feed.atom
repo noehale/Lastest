@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T02:07:45.935Z</updated>
+    <updated>2023-03-21T01:57:06.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -350,16 +350,6 @@ This will be such an amazing resource for others! Thank you!!!(Feed generated wi
         <link href="https://voiceferret.tumblr.com/post/709662230731538432"/>
         <updated>2023-02-19T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[3 weasels in a hammock]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They don’t event have to try to make me smile.]]></title>
-        <id>https://voiceferret.tumblr.com/post/709571632888430592</id>
-        <link href="https://voiceferret.tumblr.com/post/709571632888430592"/>
-        <updated>2023-02-18T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[They don’t event have to try to make me smile.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
