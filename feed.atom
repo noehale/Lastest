@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T01:57:06.759Z</updated>
+    <updated>2023-03-22T01:59:20.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[He loves his ball pit 🌈🫶🏽🫧]]></title>
+        <id>https://voiceferret.tumblr.com/post/712380141262766080</id>
+        <link href="https://voiceferret.tumblr.com/post/712380141262766080"/>
+        <updated>2023-03-21T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[He loves his ball pit]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I put his blankies in the laundry and now my boy all upset 😢]]></title>
         <id>https://voiceferret.tumblr.com/post/712198944365625344</id>
@@ -342,16 +352,6 @@ This will be such an amazing resource for others! Thank you!!!(Feed generated wi
 #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 weasels in a hammock]]></title>
-        <id>https://voiceferret.tumblr.com/post/709662230731538432</id>
-        <link href="https://voiceferret.tumblr.com/post/709662230731538432"/>
-        <updated>2023-02-19T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[3 weasels in a hammock]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
