@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T01:59:20.200Z</updated>
+    <updated>2023-03-23T01:58:48.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets are SMARTER Than Dogs?]]></title>
+        <id>https://www.youtube.com/watch?v=hANT3Wpbyos</id>
+        <link href="https://www.youtube.com/watch?v=hANT3Wpbyos"/>
+        <updated>2023-03-23T05:37:53.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[He loves his ball pit 🌈🫶🏽🫧]]></title>
         <id>https://voiceferret.tumblr.com/post/712380141262766080</id>
@@ -341,17 +350,6 @@ This will be such an amazing resource for others! Thank you!!!(Feed generated wi
         <summary type="html"><![CDATA[Sunday canal walk with Dino.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When it comes to bonding with ferrets, do you think there are certain strategies that work better for younger children vs. adult...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/747567313396951</id>
-        <link href="https://www.facebook.com/666603538159996/posts/747567313396951"/>
-        <updated>2023-02-21T01:00:10.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to bonding with ferrets, do you think there are certain strategies that work better for younger children vs. adults?
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
