@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T01:57:41.122Z</updated>
+    <updated>2023-03-26T02:05:14.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Please keep my Astra in mind! :(]]></title>
+        <id>https://voiceferret.tumblr.com/post/712742528132186112</id>
+        <link href="https://voiceferret.tumblr.com/post/712742528132186112"/>
+        <updated>2023-03-25T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Please keep my Astra in mind!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reposting to help get Elijah more votes for the Oxbow Obies in the Snoozer category! Please vote on the OTHER post from yesterda...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/764965474990468</id>
+        <link href="https://www.facebook.com/666603538159996/posts/764965474990468"/>
+        <updated>2023-03-24T01:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Reposting to help get Elijah more votes for the Oxbow Obies in the Snoozer category! Please vote on the OTHER post from yesterday (that’s where Oxbow is counting all the votes). #ferret #ferrets #ferretsofinstagram #oxbowobies
+PS do you guys know the other famous ferrets participating? You can comment them below so others can find them! I know @thebookferret has some amazing content she’s submitted as well!(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This ‘little’ girl is nearly 3 pounds 😭 Just a few months ago she could fit in my palm!]]></title>
         <id>https://voiceferret.tumblr.com/post/712561332603535360</id>
@@ -351,16 +372,6 @@ What have been your costs for:
 This will be such an amazing resource for others! Thank you!!!(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roz has recently taken to curling up in our random piles of clothes on the floor and my heart can’t take it 🥺🥺🥺]]></title>
-        <id>https://voiceferret.tumblr.com/post/710024617529655296</id>
-        <link href="https://voiceferret.tumblr.com/post/710024617529655296"/>
-        <updated>2023-02-23T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Roz has recently taken to curling up in our random piles of clothes on the floor and my heart can’t take it]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
