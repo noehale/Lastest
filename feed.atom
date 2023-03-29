@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T02:02:09.955Z</updated>
+    <updated>2023-03-29T02:09:55.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Ferret Supplies : Must Have Items]]></title>
+        <id>https://www.youtube.com/watch?v=-daZI9wmm9M</id>
+        <link href="https://www.youtube.com/watch?v=-daZI9wmm9M"/>
+        <updated>2023-03-29T11:00:00.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret dies in Omaha house fire, occupants displaced - WOWT]]></title>
         <id>https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDMvMjcvb21haGEtZmlyZWZpZ2h0ZXJzLXJlc3BvbmQtaGFzY2FsbC1zdHJlZXQtaG91c2UtZmlyZS_SAQA?oc=5</id>
@@ -350,26 +359,6 @@ Muscle thinning(Feed generated with FetchRSS)]]></summary>
         <link href="https://voiceferret.tumblr.com/post/710477602051211264"/>
         <updated>2023-02-28T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[when you’re trying to have a snuggle with mom, but your big sister has no chill]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Had to have the plumber out to fix some things and Elijah quickly became his project manager.. anyone want to caption/narrate th...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/751510733002609</id>
-        <link href="https://www.facebook.com/666603538159996/posts/751510733002609"/>
-        <updated>2023-02-27T08:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Had to have the plumber out to fix some things and Elijah quickly became his project manager.. anyone want to caption/narrate this photo?😂 #ferret #littlehelper(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[she give kiss]]></title>
-        <id>https://voiceferret.tumblr.com/post/710296409827688448</id>
-        <link href="https://voiceferret.tumblr.com/post/710296409827688448"/>
-        <updated>2023-02-26T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[she give kiss]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
