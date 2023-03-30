@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T02:09:55.270Z</updated>
+    <updated>2023-03-30T02:02:18.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I was standing in the wrong place at the wrong time. -update on two neglected ferrets I rescued!]]></title>
+        <id>https://voiceferret.tumblr.com/post/713104914423922688</id>
+        <link href="https://voiceferret.tumblr.com/post/713104914423922688"/>
+        <updated>2023-03-29T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[I was standing in the wrong place at the wrong time. -update on two neglected ferrets I rescued!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Library ferrets call it a career | News, Sports, Jobs - Altoona Mirror]]></title>
+        <id>https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFsdG9vbmFtaXJyb3IuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzAzL2xpYnJhcnktZmVycmV0cy1jYWxsLWl0LWEtY2FyZWVyL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFsdG9vbmFtaXJyb3IuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzAzL2xpYnJhcnktZmVycmV0cy1jYWxsLWl0LWEtY2FyZWVyL9IBAA?oc=5"/>
+        <updated>2023-03-29T18:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Ferret Supplies : Must Have Items]]></title>
         <id>https://www.youtube.com/watch?v=-daZI9wmm9M</id>
