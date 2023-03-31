@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FbU3lBZs_X0",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FbU3lBZs_X0",
+          "publishedOn": "2023-03-31T10:00:07.000Z",
+          "wordCount": null,
+          "title": "Are Ferrets Rodents?",
+          "imageUrl": null
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/713104914423922688",
           "author": null,
           "description": "I was standing in the wrong place at the wrong time. -update on two neglected ferrets I rescued!",
@@ -344,26 +354,6 @@
           "wordCount": 745,
           "title": "Zoomies",
           "imageUrl": "https://64.media.tumblr.com/f4be43f069a69de764e9f7880c5c24dd/6969210f2c3f79b6-b5/s1280x1920/b3ca6d5468a9fb955bfc01697b23a97610384fb0.jpg"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/752449186242097",
-          "author": "The Modern Ferret",
-          "description": "Here are some symptoms of a common ferret illness called Adrenal Disease (referenced in Ferrets for Dummies). Check if your ferret exhibits any of these:\nHair loss on tail (rat tail)\nFull body hair loss (if left untreated)\nExcessive itchiness\nSwollen vulva in spayed female ferrets\nHumping other ferrets\nAggressive behavior\nDifficulty peeing\nAnemia in females\nMuscle thinning(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/752449186242097",
-          "publishedOn": "2023-03-01T01:00:07.000Z",
-          "wordCount": 782,
-          "title": "Here are some symptoms of a common ferret illness called Adrenal Disease (referenced in Ferrets for Dummies). Check if your ferr...",
-          "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/333999206_219546673883341_3266854252463425141_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=109&ccb=1-7&_nc_sid=8024bb&_nc_ohc=Kj_Flq2am4wAX-7V7by&_nc_ht=scontent-iad3-2.xx&oh=00_AfBB2mveCQm3MkoVSc4t37nGbRR4UmqdObtw6P7aRAAv8w&oe=6405A37C"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/710477602051211264",
-          "author": null,
-          "description": "when you’re trying to have a snuggle with mom, but your big sister has no chill",
-          "link": "https://voiceferret.tumblr.com/post/710477602051211264",
-          "publishedOn": "2023-02-28T20:04:01.000Z",
-          "wordCount": 814,
-          "title": "when you’re trying to have a snuggle with mom, but your big sister has no chill",
-          "imageUrl": "https://64.media.tumblr.com/a66b74f07f81be625d6d7b6644fb49e7/a2ef70e25fafbda9-c0/s1280x1920/e26b7fbde86f4bf22a10400f8daf4a56c35d5f3c.jpg"
         }
       ]
     }

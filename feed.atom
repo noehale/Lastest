@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T02:02:18.679Z</updated>
+    <updated>2023-03-31T02:00:51.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are Ferrets Rodents?]]></title>
+        <id>https://www.youtube.com/watch?v=FbU3lBZs_X0</id>
+        <link href="https://www.youtube.com/watch?v=FbU3lBZs_X0"/>
+        <updated>2023-03-31T10:00:07.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I was standing in the wrong place at the wrong time. -update on two neglected ferrets I rescued!]]></title>
         <id>https://voiceferret.tumblr.com/post/713104914423922688</id>
@@ -350,35 +359,6 @@ Wonder why some ferret owners tell you 'Don't Get a Ferret'? In this video, I li
         <link href="https://voiceferret.tumblr.com/post/710658796120375296"/>
         <updated>2023-03-02T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Zoomies]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are some symptoms of a common ferret illness called Adrenal Disease (referenced in Ferrets for Dummies). Check if your ferr...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/752449186242097</id>
-        <link href="https://www.facebook.com/666603538159996/posts/752449186242097"/>
-        <updated>2023-03-01T01:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Here are some symptoms of a common ferret illness called Adrenal Disease (referenced in Ferrets for Dummies). Check if your ferret exhibits any of these:
-Hair loss on tail (rat tail)
-Full body hair loss (if left untreated)
-Excessive itchiness
-Swollen vulva in spayed female ferrets
-Humping other ferrets
-Aggressive behavior
-Difficulty peeing
-Anemia in females
-Muscle thinning(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[when you’re trying to have a snuggle with mom, but your big sister has no chill]]></title>
-        <id>https://voiceferret.tumblr.com/post/710477602051211264</id>
-        <link href="https://voiceferret.tumblr.com/post/710477602051211264"/>
-        <updated>2023-02-28T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[when you’re trying to have a snuggle with mom, but your big sister has no chill]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
