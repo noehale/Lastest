@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T02:00:51.514Z</updated>
+    <updated>2023-04-01T01:57:29.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets used in cloning project find new home in Lawrence - WDAF FOX4 Kansas City]]></title>
+        <id>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5"/>
+        <updated>2023-03-31T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are Ferrets Rodents?]]></title>
         <id>https://www.youtube.com/watch?v=FbU3lBZs_X0</id>
