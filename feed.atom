@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T01:57:29.302Z</updated>
+    <updated>2023-04-02T01:58:39.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -359,16 +359,6 @@ Wonder why some ferret owners tell you 'Don't Get a Ferret'? In this video, I li
         <link href="https://voiceferret.tumblr.com/post/710839989954609152"/>
         <updated>2023-03-04T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Ferrero, my travel buddy sharing my hotel room.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoomies]]></title>
-        <id>https://voiceferret.tumblr.com/post/710658796120375296</id>
-        <link href="https://voiceferret.tumblr.com/post/710658796120375296"/>
-        <updated>2023-03-02T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Zoomies]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
