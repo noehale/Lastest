@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Dx7qQdBfQlE",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dx7qQdBfQlE",
+          "publishedOn": "2023-04-03T12:00:05.000Z",
+          "wordCount": null,
+          "title": "Playing Ferret : Happy National Ferret Day!",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -13,6 +23,16 @@
           "publishedOn": "2023-03-31T15:02:00.000Z",
           "wordCount": 6047,
           "title": "Ferrets used in cloning project find new home in Lawrence - WDAF FOX4 Kansas City",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lnlkci5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyMy8wMy8zMC9hZG9wdGFibGUtcGV0cy15b3JrLWNvdW50eS1zcGNhLWRvZ3MtY2F0cy1mZXJyZXQtdHVydGxlcy8xMTU2NzU1NzAwMi_SAQA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lnlkci5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyMy8wMy8zMC9hZG9wdGFibGUtcGV0cy15b3JrLWNvdW50eS1zcGNhLWRvZ3MtY2F0cy1mZXJyZXQtdHVydGxlcy8xMTU2NzU1NzAwMi_SAQA?oc=5",
+          "publishedOn": "2023-03-31T10:06:00.000Z",
+          "wordCount": 6047,
+          "title": "Adoptable pets from the York County SPCA March 29, 2023. Cats, Dogs, a ferret and turtles - York Daily Record",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {

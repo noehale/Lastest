@@ -2,15 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T01:58:39.086Z</updated>
+    <updated>2023-04-03T01:54:13.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Playing Ferret : Happy National Ferret Day!]]></title>
+        <id>https://www.youtube.com/watch?v=Dx7qQdBfQlE</id>
+        <link href="https://www.youtube.com/watch?v=Dx7qQdBfQlE"/>
+        <updated>2023-04-03T12:00:05.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets used in cloning project find new home in Lawrence - WDAF FOX4 Kansas City]]></title>
         <id>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5"/>
         <updated>2023-03-31T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adoptable pets from the York County SPCA March 29, 2023. Cats, Dogs, a ferret and turtles - York Daily Record]]></title>
+        <id>https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lnlkci5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyMy8wMy8zMC9hZG9wdGFibGUtcGV0cy15b3JrLWNvdW50eS1zcGNhLWRvZ3MtY2F0cy1mZXJyZXQtdHVydGxlcy8xMTU2NzU1NzAwMi_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lnlkci5jb20vcGljdHVyZS1nYWxsZXJ5L25ld3MvMjAyMy8wMy8zMC9hZG9wdGFibGUtcGV0cy15b3JrLWNvdW50eS1zcGNhLWRvZ3MtY2F0cy1mZXJyZXQtdHVydGxlcy8xMTU2NzU1NzAwMi_SAQA?oc=5"/>
+        <updated>2023-03-31T10:06:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
