@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T01:59:03.771Z</updated>
+    <updated>2023-04-05T01:40:30.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HAPPY NATIONAL FERRETS DAY🥳]]></title>
+        <id>https://voiceferret.tumblr.com/post/713648498429607936</id>
+        <link href="https://voiceferret.tumblr.com/post/713648498429607936"/>
+        <updated>2023-04-04T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[HAPPY NATIONAL FERRETS DAY]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fat Ferret : What Causes Weight Gain?]]></title>
         <id>https://www.youtube.com/watch?v=NkKX0FZCvFQ</id>
@@ -369,16 +379,6 @@ Wonder why some ferret owners tell you 'Don't Get a Ferret'? In this video, I li
         <summary type="html"><![CDATA[My favourite recent photo of Buck and I cuddling]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A post from The Modern Ferret]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/755167559303593</id>
-        <link href="https://www.facebook.com/666603538159996/posts/755167559303593"/>
-        <updated>2023-03-06T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
