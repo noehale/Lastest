@@ -6,6 +6,36 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=P1Dm0r6PpPQ",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P1Dm0r6PpPQ",
+          "publishedOn": "2023-04-07T11:00:12.000Z",
+          "wordCount": null,
+          "title": "Ferret Smell : What to do about it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/713829690265288704",
+          "author": null,
+          "description": "he politely asks if he can have egg",
+          "link": "https://voiceferret.tumblr.com/post/713829690265288704",
+          "publishedOn": "2023-04-06T20:04:01.000Z",
+          "wordCount": 777,
+          "title": "he politely asks if he can have egg",
+          "imageUrl": "https://64.media.tumblr.com/f2e38760118b4e03cd97dab678cdd2c2/9d8110e273533744-12/s1280x1920/8d1adb9cd1c50ea80909a7481e86ae6fffbd453e.jpg"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyL9IBXWh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyL9IBXWh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+          "publishedOn": "2023-04-06T12:03:00.000Z",
+          "wordCount": 6048,
+          "title": "Animal cruelty case puts strain on dog shelter - WWNY",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/713648498429607936",
           "author": null,
           "description": "HAPPY NATIONAL FERRETS DAY",

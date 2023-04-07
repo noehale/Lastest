@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T01:56:01.915Z</updated>
+    <updated>2023-04-07T01:52:37.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Smell : What to do about it?]]></title>
+        <id>https://www.youtube.com/watch?v=P1Dm0r6PpPQ</id>
+        <link href="https://www.youtube.com/watch?v=P1Dm0r6PpPQ"/>
+        <updated>2023-04-07T11:00:12.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[he politely asks if he can have egg]]></title>
+        <id>https://voiceferret.tumblr.com/post/713829690265288704</id>
+        <link href="https://voiceferret.tumblr.com/post/713829690265288704"/>
+        <updated>2023-04-06T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[he politely asks if he can have egg]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animal cruelty case puts strain on dog shelter - WWNY]]></title>
+        <id>https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyL9IBXWh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyL9IBXWh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5"/>
+        <updated>2023-04-06T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HAPPY NATIONAL FERRETS DAY🥳]]></title>
         <id>https://voiceferret.tumblr.com/post/713648498429607936</id>
