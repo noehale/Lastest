@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T01:50:00.597Z</updated>
+    <updated>2023-04-09T01:57:24.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New family member Riley’s first time at the beach!]]></title>
+        <id>https://voiceferret.tumblr.com/post/714010884208525312</id>
+        <link href="https://voiceferret.tumblr.com/post/714010884208525312"/>
+        <updated>2023-04-08T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[New family member Riley’s first time at the beach!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Smell : What to do about it?]]></title>
         <id>https://www.youtube.com/watch?v=P1Dm0r6PpPQ</id>
@@ -365,16 +375,6 @@ Wonder why some ferret owners tell you 'Don't Get a Ferret'? In this video, I li
         <link href="https://voiceferret.tumblr.com/post/711383571897679872"/>
         <updated>2023-03-10T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[My Pepper with her stub tail]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pentagon is funding experiments on animals to recreate 'Havana Syndrome' - POLITICO]]></title>
-        <id>https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDMvMDkvcGVudGFnb24tZnVuZGluZy1leHBlcmltZW50cy1hbmltYWxzLWhhdmFuYS1zeW5kcm9tZS0wMDA4NjM5M9IBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDMvMDkvcGVudGFnb24tZnVuZGluZy1leHBlcmltZW50cy1hbmltYWxzLWhhdmFuYS1zeW5kcm9tZS0wMDA4NjM5M9IBAA?oc=5"/>
-        <updated>2023-03-10T11:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
