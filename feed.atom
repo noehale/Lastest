@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T01:53:21.685Z</updated>
+    <updated>2023-04-11T01:55:41.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Here's what happened to the escaped ferret seen wandering Kaukauna's north side - kaukaunacommunitynews.com]]></title>
+        <id>https://news.google.com/rss/articles/CBMie2h0dHBzOi8va2F1a2F1bmFjb21tdW5pdHluZXdzLmNvbS8yMDIzLzA0LzEwL2hlcmVzLXdoYXQtaGFwcGVuZWQtdG8tdGhlLWVzY2FwZWQtZmVycmV0LXNlZW4td2FuZGVyaW5nLWthdWthdW5hcy1ub3J0aC1zaWRlL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMie2h0dHBzOi8va2F1a2F1bmFjb21tdW5pdHluZXdzLmNvbS8yMDIzLzA0LzEwL2hlcmVzLXdoYXQtaGFwcGVuZWQtdG8tdGhlLWVzY2FwZWQtZmVycmV0LXNlZW4td2FuZGVyaW5nLWthdWthdW5hcy1ub3J0aC1zaWRlL9IBAA?oc=5"/>
+        <updated>2023-04-11T08:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I took beans out on a walk today any other fun outdoor activities I should do with him I don’t want to keep him inside all day after we just lost his brother]]></title>
+        <id>https://voiceferret.tumblr.com/post/714192080398909440</id>
+        <link href="https://voiceferret.tumblr.com/post/714192080398909440"/>
+        <updated>2023-04-10T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[I took beans out on a walk today any other fun outdoor activities I should do with him I don’t want to keep him inside all day after we just lost his brother]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New family member Riley’s first time at the beach!]]></title>
         <id>https://voiceferret.tumblr.com/post/714010884208525312</id>
