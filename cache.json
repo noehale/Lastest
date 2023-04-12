@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sRd68tucA1c",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sRd68tucA1c",
+          "publishedOn": "2023-04-12T11:00:24.000Z",
+          "wordCount": null,
+          "title": "Ferret Diet",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8va2F1a2F1bmFjb21tdW5pdHluZXdzLmNvbS8yMDIzLzA0LzEwL2hlcmVzLXdoYXQtaGFwcGVuZWQtdG8tdGhlLWVzY2FwZWQtZmVycmV0LXNlZW4td2FuZGVyaW5nLWthdWthdW5hcy1ub3J0aC1zaWRlL9IBAA?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -344,26 +354,6 @@
           "wordCount": 1214,
           "title": "This journey into ferret-obsession started something like 7 or 8 years ago. In that time, a little Instagram was born that grew ...",
           "imageUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/336448769_188487677261386_4766583629962465080_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=104&ccb=1-7&_nc_sid=8024bb&_nc_ohc=BU3SwnomFk4AX-gMDf6&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAvtBLBt8a_IJFiGGMilKXvgCaDwKvAComMOHUVnMpE1g&oe=6417FA62"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/759300722223610",
-          "author": "The Modern Ferret",
-          "description": "@oxbowanimalhealth Exciting news! Elijah will be participating in the #oxbowsponsored Oxbow Obies this year! I'm just providing sneaky hints for now (you'll learn more in the coming week), but for now I'll just say there's some awesome famous ferrets participating, and we get to have a little friendly competition for some really great prizes! Stay tuned everyone! #ferret #ferrets #oxbowobies(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/759300722223610",
-          "publishedOn": "2023-03-13T12:00:22.000Z",
-          "wordCount": 901,
-          "title": "@oxbowanimalhealth Exciting news! Elijah will be participating in the #oxbowsponsored Oxbow Obies this year! I'm just providing ...",
-          "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/335016295_773534930520778_8431508815671585614_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=8024bb&_nc_ohc=SkYOb6FrzJAAX_3R67A&_nc_ht=scontent-iad3-2.xx&oh=00_AfAIkhLuFUfJMaMmMtVov5Pv6kHwgMk4Wg1P9T4iN1k6sg&oe=6414C98B"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/711564767311151104",
-          "author": null,
-          "description": "Mr. Wheezy is proud he dug a tunnel from one side of my mattress to the other. (Foam still in his claws) How could I be mad with this face?",
-          "link": "https://voiceferret.tumblr.com/post/711564767311151104",
-          "publishedOn": "2023-03-12T20:04:03.000Z",
-          "wordCount": 874,
-          "title": "Mr. Wheezy is proud he dug a tunnel from one side of my mattress to the other. (Foam still in his claws) How could I be mad with this face?",
-          "imageUrl": "https://64.media.tumblr.com/09c8d244ee6cc7b5d16e55c788813d02/cf72107829be0847-92/s1280x1920/2a37102a2bc51babdc2c07b17d235de9afcd84eb.jpg"
         }
       ]
     }

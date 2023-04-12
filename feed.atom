@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T01:55:41.623Z</updated>
+    <updated>2023-04-12T01:56:42.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Diet]]></title>
+        <id>https://www.youtube.com/watch?v=sRd68tucA1c</id>
+        <link href="https://www.youtube.com/watch?v=sRd68tucA1c"/>
+        <updated>2023-04-12T11:00:24.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's what happened to the escaped ferret seen wandering Kaukauna's north side - kaukaunacommunitynews.com]]></title>
         <id>https://news.google.com/rss/articles/CBMie2h0dHBzOi8va2F1a2F1bmFjb21tdW5pdHluZXdzLmNvbS8yMDIzLzA0LzEwL2hlcmVzLXdoYXQtaGFwcGVuZWQtdG8tdGhlLWVzY2FwZWQtZmVycmV0LXNlZW4td2FuZGVyaW5nLWthdWthdW5hcy1ub3J0aC1zaWRlL9IBAA?oc=5</id>
@@ -347,26 +356,6 @@ I'll be posting my contest submissions sometime between March 20-April 1 and I n
 #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@oxbowanimalhealth Exciting news! Elijah will be participating in the #oxbowsponsored Oxbow Obies this year! I'm just providing ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/759300722223610</id>
-        <link href="https://www.facebook.com/666603538159996/posts/759300722223610"/>
-        <updated>2023-03-13T12:00:22.000Z</updated>
-        <summary type="html"><![CDATA[@oxbowanimalhealth Exciting news! Elijah will be participating in the #oxbowsponsored Oxbow Obies this year! I'm just providing sneaky hints for now (you'll learn more in the coming week), but for now I'll just say there's some awesome famous ferrets participating, and we get to have a little friendly competition for some really great prizes! Stay tuned everyone! #ferret #ferrets #oxbowobies(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr. Wheezy is proud he dug a tunnel from one side of my mattress to the other. (Foam still in his claws) How could I be mad with this face?]]></title>
-        <id>https://voiceferret.tumblr.com/post/711564767311151104</id>
-        <link href="https://voiceferret.tumblr.com/post/711564767311151104"/>
-        <updated>2023-03-12T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Mr. Wheezy is proud he dug a tunnel from one side of my mattress to the other. (Foam still in his claws) How could I be mad with this face?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
