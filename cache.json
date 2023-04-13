@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbXlmb3g4LmNvbS9vZmZiZWF0L3ZpZGVvLWZlcnJldC10YWtlbi1pbi1icmF6ZW4tdGhlZnQtZnJvbS1ncmFoYW0tcGV0LXN0b3JlLWZvdW5kLWJ5LXBvbGljZS_SAWhodHRwczovL215Zm94OC5jb20vb2ZmYmVhdC92aWRlby1mZXJyZXQtdGFrZW4taW4tYnJhemVuLXRoZWZ0LWZyb20tZ3JhaGFtLXBldC1zdG9yZS1mb3VuZC1ieS1wb2xpY2UvYW1wLw?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbXlmb3g4LmNvbS9vZmZiZWF0L3ZpZGVvLWZlcnJldC10YWtlbi1pbi1icmF6ZW4tdGhlZnQtZnJvbS1ncmFoYW0tcGV0LXN0b3JlLWZvdW5kLWJ5LXBvbGljZS_SAWhodHRwczovL215Zm94OC5jb20vb2ZmYmVhdC92aWRlby1mZXJyZXQtdGFrZW4taW4tYnJhemVuLXRoZWZ0LWZyb20tZ3JhaGFtLXBldC1zdG9yZS1mb3VuZC1ieS1wb2xpY2UvYW1wLw?oc=5",
+          "publishedOn": "2023-04-13T08:06:49.000Z",
+          "wordCount": 6053,
+          "title": "VIDEO: Ferret taken in brazen theft from Graham pet store found by police - WGHP FOX8 Greensboro",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/714373271762649088",
+          "author": null,
+          "description": "More salmon oil please!",
+          "link": "https://voiceferret.tumblr.com/post/714373271762649088",
+          "publishedOn": "2023-04-12T20:04:01.000Z",
+          "wordCount": 763,
+          "title": "More salmon oil please! 🐠🐟",
+          "imageUrl": "https://64.media.tumblr.com/bfc4b698c48fd6362f18fe39e53f8f68/7d67aba94267a8b2-68/s1280x1920/87debd6c69bce7b2fd7ea8861ae5a9794d94e637.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sRd68tucA1c",
           "author": "The Modern Ferret",
           "description": "",
@@ -36,6 +56,26 @@
           "imageUrl": "https://64.media.tumblr.com/fd70fa04a17ca54045f35bd458ea47f5/39c90b7d45a8c75f-1b/s1280x1920/207d388bcdf56791bddc7892e21e10253147fc95.jpg"
         },
         {
+          "id": "https://www.facebook.com/666603538159996/posts/773671334119882",
+          "author": "The Modern Ferret",
+          "description": "My cousin just sent me this old photo of Elijah and the neighbor cat, Calvin. How does your ferret get along with other pets #ferret #ferrets(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/773671334119882",
+          "publishedOn": "2023-04-10T10:28:09.000Z",
+          "wordCount": 1127,
+          "title": "My cousin just sent me this old photo of Elijah and the neighbor cat, Calvin. How does your ferret get along with other pets #fe...",
+          "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/340606855_1703911596698301_1169779110718127007_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=8024bb&_nc_ohc=ngcx9VNnejUAX97fYxq&_nc_ht=scontent-iad3-1.xx&oh=00_AfCXe3Bru-gUwbmN-dmzmPI6_DnL6dij2j_TTpikgwOcTw&oe=643C07BF"
+        },
+        {
+          "id": "https://www.facebook.com/666603538159996/posts/772992670854415",
+          "author": "The Modern Ferret",
+          "description": "(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/772992670854415",
+          "publishedOn": "2023-04-09T02:05:47.000Z",
+          "wordCount": 729,
+          "title": "Photos from Siberian Lizard's post",
+          "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/333307617_590047906348827_4712633588025127179_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=110474&_nc_ohc=JASIF1gbTUUAX9Ci1uj&_nc_ht=scontent-iad3-2.xx&oh=00_AfD1fgXBGxCwUmVBHRwhHo_cD1WMMvOqsBOOWy_iBJZeeA&oe=643CC410"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/714010884208525312",
           "author": null,
           "description": "New family member Riley’s first time at the beach!",
@@ -44,6 +84,16 @@
           "wordCount": 782,
           "title": "New family member Riley’s first time at the beach!",
           "imageUrl": "https://64.media.tumblr.com/757ad906b2d8759eb400ce2d41aca3e1/98447d8d04e3cf33-97/s1280x1920/0ceb61c2ce6ce75cbf2aefafb938d274e629b6a5.jpg"
+        },
+        {
+          "id": "https://www.facebook.com/666603538159996/posts/772689480884734",
+          "author": "The Modern Ferret",
+          "description": "I NEED YOUR INPUT: So many people ask me for a ferret shelter near them so they can adopt instead of shop. Can you comment the name, location, and webiste/phone of a ferret shelter near you? I want to create a resource page on Themodernferret.com ! :)(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/772689480884734",
+          "publishedOn": "2023-04-08T10:35:57.000Z",
+          "wordCount": 1280,
+          "title": "I NEED YOUR INPUT: So many people ask me for a ferret shelter near them so they can adopt instead of shop. Can you comment the n...",
+          "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/339980305_1248874349060351_2632925605299266082_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=8024bb&_nc_ohc=XSe7RG0gPGEAX-bbZFj&_nc_ht=scontent-iad3-1.xx&oh=00_AfBy5FWdF9AKhpa6sQOJgOaY2SN3HmaX4AVcQIfoKtAU1A&oe=643D2CE1"
         },
         {
           "id": "https://www.youtube.com/watch?v=P1Dm0r6PpPQ",
@@ -64,6 +114,16 @@
           "wordCount": 777,
           "title": "he politely asks if he can have egg",
           "imageUrl": "https://64.media.tumblr.com/f2e38760118b4e03cd97dab678cdd2c2/9d8110e273533744-12/s1280x1920/8d1adb9cd1c50ea80909a7481e86ae6fffbd453e.jpg"
+        },
+        {
+          "id": "https://www.facebook.com/666603538159996/posts/771787470974935",
+          "author": "The Modern Ferret",
+          "description": "“Mom stop working and notice me already.” #ferret(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/771787470974935",
+          "publishedOn": "2023-04-06T16:10:00.000Z",
+          "wordCount": 811,
+          "title": "“Mom stop working and notice me already.” #ferret",
+          "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/340006300_205775138817229_2883722287930446093_n.jpg?stp=dst-jpg_p960x960&_nc_cat=111&ccb=1-7&_nc_sid=8024bb&_nc_ohc=N_daxP-Kx2kAX_Sj7te&_nc_ht=scontent-iad3-2.xx&oh=00_AfBNRVEBGFb3wTzcuqkPIfgOx00l-RVIgwhZ6Na8DI99uA&oe=643CA185"
         },
         {
           "id": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyL9IBXWh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5",
@@ -324,36 +384,6 @@
           "wordCount": 885,
           "title": "I know that beans is s albino but would panda be a dark eyed white even with his black nose? And he does have a very light dark patch of fur on his paw",
           "imageUrl": "https://64.media.tumblr.com/9e623600364428e730367dcf3a68e623/203ffc425bc41026-77/s1280x1920/cb0f595e48bab9562b924f8e0e85fb0db056250b.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmF1dG93ZWVrLmNvbS9jYXItbGlmZS9jbGFzc2ljLWNhcnMvYTQzMjg4ODExL3JheS1ldmVybmhhbS1sb3Zlcy1oaXMtZmVycmV0LWFzLW11Y2gtYXMtdGhlLTI0L9IBAA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmF1dG93ZWVrLmNvbS9jYXItbGlmZS9jbGFzc2ljLWNhcnMvYTQzMjg4ODExL3JheS1ldmVybmhhbS1sb3Zlcy1oaXMtZmVycmV0LWFzLW11Y2gtYXMtdGhlLTI0L9IBAA?oc=5",
-          "publishedOn": "2023-03-14T10:23:25.000Z",
-          "wordCount": 6138,
-          "title": "Ray Evernham Loves His Ferret as Much As—Maybe More Than—the #24 - Autoweek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDMvMTMvcGV0YS11cmdlcy1wZW50YWdvbi10by1zdG9wLWRpc3R1cmJpbmctcmFkaWF0aW9uLXRlc3RzLW9uLWZlcnJldHMtbW9ua2V5cy0wMDA4NjY2MdIBAA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDMvMTMvcGV0YS11cmdlcy1wZW50YWdvbi10by1zdG9wLWRpc3R1cmJpbmctcmFkaWF0aW9uLXRlc3RzLW9uLWZlcnJldHMtbW9ua2V5cy0wMDA4NjY2MdIBAA?oc=5",
-          "publishedOn": "2023-03-14T03:01:00.000Z",
-          "wordCount": 6138,
-          "title": "PETA urges Pentagon to stop 'disturbing' radiation tests on ferrets, monkeys - POLITICO",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/759532722200410",
-          "author": "The Modern Ferret",
-          "description": "This journey into ferret-obsession started something like 7 or 8 years ago. In that time, a little Instagram was born that grew into a community of lovely, crazy, awesome ferret owners looking for a place to learn and support one another. Now we've got a Youtube channel and a website and amazing t-shirt designs! It's crazy how fast time goes! I hope each of you finds the courage to pursue something that brings you joy.\n#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/759532722200410",
-          "publishedOn": "2023-03-14T00:00:07.000Z",
-          "wordCount": 1214,
-          "title": "This journey into ferret-obsession started something like 7 or 8 years ago. In that time, a little Instagram was born that grew ...",
-          "imageUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/336448769_188487677261386_4766583629962465080_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=104&ccb=1-7&_nc_sid=8024bb&_nc_ohc=BU3SwnomFk4AX-gMDf6&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAvtBLBt8a_IJFiGGMilKXvgCaDwKvAComMOHUVnMpE1g&oe=6417FA62"
         }
       ]
     }
