@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T01:55:19.631Z</updated>
+    <updated>2023-04-14T01:54:27.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Say 'Ferret']]></title>
+        <id>https://www.youtube.com/watch?v=oCIq7WrDF3Y</id>
+        <link href="https://www.youtube.com/watch?v=oCIq7WrDF3Y"/>
+        <updated>2023-04-14T11:00:32.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VIDEO: Ferret taken in brazen theft from Graham pet store found by police - WGHP FOX8 Greensboro]]></title>
         <id>https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbXlmb3g4LmNvbS9vZmZiZWF0L3ZpZGVvLWZlcnJldC10YWtlbi1pbi1icmF6ZW4tdGhlZnQtZnJvbS1ncmFoYW0tcGV0LXN0b3JlLWZvdW5kLWJ5LXBvbGljZS_SAWhodHRwczovL215Zm94OC5jb20vb2ZmYmVhdC92aWRlby1mZXJyZXQtdGFrZW4taW4tYnJhemVuLXRoZWZ0LWZyb20tZ3JhaGFtLXBldC1zdG9yZS1mb3VuZC1ieS1wb2xpY2UvYW1wLw?oc=5</id>
@@ -373,16 +382,6 @@ I'll be posting my contest submissions sometime between March 20-April 1 and I n
         <link href="https://voiceferret.tumblr.com/post/711836557420658688"/>
         <updated>2023-03-15T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[The rare Three-headed Ferret!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I know that beans is s albino but would panda be a dark eyed white even with his black nose? And he does have a very light dark patch of fur on his paw]]></title>
-        <id>https://voiceferret.tumblr.com/post/711745959288340481</id>
-        <link href="https://voiceferret.tumblr.com/post/711745959288340481"/>
-        <updated>2023-03-14T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[I know that beans is s albino but would panda be a dark eyed white even with his black nose? And he does have a very light dark patch of fur on his paw]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
