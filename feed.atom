@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T01:54:27.629Z</updated>
+    <updated>2023-04-15T01:57:16.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mistakes New Ferret Owners Make - UPDATED Top 10 List]]></title>
+        <id>https://www.youtube.com/watch?v=DxJyIKiS_gU</id>
+        <link href="https://www.youtube.com/watch?v=DxJyIKiS_gU"/>
+        <updated>2023-04-15T11:11:27.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wafflez says hello]]></title>
+        <id>https://voiceferret.tumblr.com/post/714554467915300864</id>
+        <link href="https://voiceferret.tumblr.com/post/714554467915300864"/>
+        <updated>2023-04-14T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Wafflez says hello]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Say 'Ferret']]></title>
         <id>https://www.youtube.com/watch?v=oCIq7WrDF3Y</id>
@@ -372,16 +391,6 @@ I'll be posting my contest submissions sometime between March 20-April 1 and I n
         <link href="https://voiceferret.tumblr.com/post/712017751480336384"/>
         <updated>2023-03-17T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Sweet Baby 2016-2023]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rare Three-headed Ferret!]]></title>
-        <id>https://voiceferret.tumblr.com/post/711836557420658688</id>
-        <link href="https://voiceferret.tumblr.com/post/711836557420658688"/>
-        <updated>2023-03-15T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[The rare Three-headed Ferret!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
