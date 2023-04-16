@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T01:57:16.293Z</updated>
+    <updated>2023-04-16T02:02:38.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Colden's album]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/776555683831447</id>
+        <link href="https://www.facebook.com/666603538159996/posts/776555683831447"/>
+        <updated>2023-04-16T00:56:33.000Z</updated>
+        <summary type="html"><![CDATA[looks fierce to me...
+*Colden*(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEHOLD! The ferocious, mini polar bear, Lottie. Your toes will never be safe.]]></title>
+        <id>https://voiceferret.tumblr.com/post/714645065488826368</id>
+        <link href="https://voiceferret.tumblr.com/post/714645065488826368"/>
+        <updated>2023-04-15T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[BEHOLD! The ferocious, mini polar bear, Lottie. Your toes will never be safe.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistakes New Ferret Owners Make - UPDATED Top 10 List]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/776286637191685</id>
+        <link href="https://www.facebook.com/666603538159996/posts/776286637191685"/>
+        <updated>2023-04-15T11:14:06.000Z</updated>
+        <summary type="html"><![CDATA[NEW Video! Which of these common ferret owner mistakes are you making?!?
+Ready to learn the TOP mistakes new ferret owners make -and see if you are guilty of any of these? In this video, I list all the most common mistakes new fe...(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mistakes New Ferret Owners Make - UPDATED Top 10 List]]></title>
         <id>https://www.youtube.com/watch?v=DxJyIKiS_gU</id>
