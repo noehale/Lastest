@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T02:02:38.460Z</updated>
+    <updated>2023-04-17T01:57:23.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -252,6 +252,16 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ferrets used in cloning project find new home in Lawrence - KSNT News]]></title>
+        <id>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL9IBWGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL2FtcC8?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL9IBWGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL2FtcC8?oc=5"/>
+        <updated>2023-03-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I was standing in the wrong place at the wrong time. -update on two neglected ferrets I rescued!]]></title>
         <id>https://voiceferret.tumblr.com/post/713104914423922688</id>
         <link href="https://voiceferret.tumblr.com/post/713104914423922688"/>
@@ -404,27 +414,6 @@ I'll be posting my contest submissions sometime between March 20-April 1 and I n
 #ferret #ferrets #oxbowobies(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUN FACT: Ferrets are distant ancestors of Leprechauns ! Would anyone else care to share facts about ferrets that aren't really ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/761627518657597</id>
-        <link href="https://www.facebook.com/666603538159996/posts/761627518657597"/>
-        <updated>2023-03-18T00:00:03.000Z</updated>
-        <summary type="html"><![CDATA[FUN FACT: Ferrets are distant ancestors of Leprechauns ! Would anyone else care to share facts about ferrets that aren't really facts at all?
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet Baby 2016-2023]]></title>
-        <id>https://voiceferret.tumblr.com/post/712017751480336384</id>
-        <link href="https://voiceferret.tumblr.com/post/712017751480336384"/>
-        <updated>2023-03-17T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Sweet Baby 2016-2023]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
