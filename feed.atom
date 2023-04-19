@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T01:55:04.137Z</updated>
+    <updated>2023-04-19T01:59:22.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Live big boy footage]]></title>
+        <id>https://voiceferret.tumblr.com/post/714916853587296256</id>
+        <link href="https://voiceferret.tumblr.com/post/714916853587296256"/>
+        <updated>2023-04-18T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Live big boy footage]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Vet]]></title>
         <id>https://www.youtube.com/watch?v=pn6mm6lKqGw</id>
@@ -214,6 +224,16 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['Bittersweet!' Altoona library retires 'furry' staff members: ferrets Draco & Juniper - WJAC Johnstown]]></title>
+        <id>https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd2phY3R2LmNvbS9uZXdzL2xvY2FsL2JpdHRlcnN3ZWV0LWFsdG9vbmEtbGlicmFyeS1yZXRpcmVzLWZ1cnJ5LXN0YWZmLW1lbWJlcnMtZmVycmV0cy1kcmFjby1qdW5pcGVy0gFvaHR0cHM6Ly93amFjdHYuY29tL2FtcC9uZXdzL2xvY2FsL2JpdHRlcnN3ZWV0LWFsdG9vbmEtbGlicmFyeS1yZXRpcmVzLWZ1cnJ5LXN0YWZmLW1lbWJlcnMtZmVycmV0cy1kcmFjby1qdW5pcGVy?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd2phY3R2LmNvbS9uZXdzL2xvY2FsL2JpdHRlcnN3ZWV0LWFsdG9vbmEtbGlicmFyeS1yZXRpcmVzLWZ1cnJ5LXN0YWZmLW1lbWJlcnMtZmVycmV0cy1kcmFjby1qdW5pcGVy0gFvaHR0cHM6Ly93amFjdHYuY29tL2FtcC9uZXdzL2xvY2FsL2JpdHRlcnN3ZWV0LWFsdG9vbmEtbGlicmFyeS1yZXRpcmVzLWZ1cnJ5LXN0YWZmLW1lbWJlcnMtZmVycmV0cy1kcmFjby1qdW5pcGVy?oc=5"/>
+        <updated>2023-04-04T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HAPPY NATIONAL FERRETS DAY🥳]]></title>
         <id>https://voiceferret.tumblr.com/post/713648498429607936</id>
         <link href="https://voiceferret.tumblr.com/post/713648498429607936"/>
@@ -405,16 +425,6 @@ PS do you guys know the other famous ferrets participating? You can comment them
         <link href="https://voiceferret.tumblr.com/post/712380141262766080"/>
         <updated>2023-03-21T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[He loves his ball pit]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I put his blankies in the laundry and now my boy all upset 😢]]></title>
-        <id>https://voiceferret.tumblr.com/post/712198944365625344</id>
-        <link href="https://voiceferret.tumblr.com/post/712198944365625344"/>
-        <updated>2023-03-19T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[I put his blankies in the laundry and now my boy all upset]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
