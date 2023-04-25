@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T01:59:15.961Z</updated>
+    <updated>2023-04-25T01:58:23.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Endangered black-footed ferrets continuing epic comeback with help from Pueblo sites - Pueblo Chieftain]]></title>
+        <id>https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGllZnRhaW4uY29tL3N0b3J5L25ld3MvMjAyMy8wNC8yNC9ibGFjay1mb290ZWQtZmVycmV0cy1jb250aW51ZS1jb21lYmFjay13aXRoLWhlbHAtZnJvbS1jcHctcHVlYmxvLXNpdGVzLzcwMTMxNDQ2MDA3L9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGllZnRhaW4uY29tL3N0b3J5L25ld3MvMjAyMy8wNC8yNC9ibGFjay1mb290ZWQtZmVycmV0cy1jb250aW51ZS1jb21lYmFjay13aXRoLWhlbHAtZnJvbS1jcHctcHVlYmxvLXNpdGVzLzcwMTMxNDQ2MDA3L9IBAA?oc=5"/>
+        <updated>2023-04-25T03:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any idea what this could be?]]></title>
+        <id>https://voiceferret.tumblr.com/post/715460435716997120</id>
+        <link href="https://voiceferret.tumblr.com/post/715460435716997120"/>
+        <updated>2023-04-24T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Any idea what this could be?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Train Your Ferret]]></title>
         <id>https://www.youtube.com/watch?v=P5EOgrwT0c8</id>
@@ -435,16 +455,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <updated>2023-03-27T08:54:22.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Please keep my Astra in mind! :(]]></title>
-        <id>https://voiceferret.tumblr.com/post/712742528132186112</id>
-        <link href="https://voiceferret.tumblr.com/post/712742528132186112"/>
-        <updated>2023-03-25T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Please keep my Astra in mind!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
