@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T01:58:16.779Z</updated>
+    <updated>2023-04-29T01:57:21.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bird flu appears to be able to spread 'efficiently' among ferrets - The Jerusalem Post]]></title>
+        <id>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ20gE6aHR0cHM6Ly9tLmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ2L2FtcA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ20gE6aHR0cHM6Ly9tLmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ2L2FtcA?oc=5"/>
+        <updated>2023-04-27T23:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If I were to start doing outreach with ferrets again at local schools, assisted living facilities for the elderly, and mental he...]]></title>
         <id>https://www.facebook.com/666603538159996/posts/782514059902276</id>
@@ -434,26 +444,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <id>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL9IBWGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL2FtcC8?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL9IBWGh0dHBzOi8vd3d3LmtzbnQuY29tL25ld3MvZmVycmV0cy11c2VkLWluLWNsb25pbmctcHJvamVjdC1maW5kLW5ldy1ob21lLWluLWxhd3JlbmNlL2FtcC8?oc=5"/>
         <updated>2023-03-30T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I was standing in the wrong place at the wrong time. -update on two neglected ferrets I rescued!]]></title>
-        <id>https://voiceferret.tumblr.com/post/713104914423922688</id>
-        <link href="https://voiceferret.tumblr.com/post/713104914423922688"/>
-        <updated>2023-03-29T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[I was standing in the wrong place at the wrong time. -update on two neglected ferrets I rescued!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Library ferrets call it a career | News, Sports, Jobs - Altoona Mirror]]></title>
-        <id>https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFsdG9vbmFtaXJyb3IuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzAzL2xpYnJhcnktZmVycmV0cy1jYWxsLWl0LWEtY2FyZWVyL9IBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFsdG9vbmFtaXJyb3IuY29tL25ld3MvbG9jYWwtbmV3cy8yMDIzLzAzL2xpYnJhcnktZmVycmV0cy1jYWxsLWl0LWEtY2FyZWVyL9IBAA?oc=5"/>
-        <updated>2023-03-29T18:08:09.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
