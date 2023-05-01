@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.facebook.com/666603538159996/posts/784344106385938",
+          "author": "The Modern Ferret",
+          "description": "Here is a book my mom made when she was around 10 (the same age as the kid I now mentor through Royal Family Kids). My mom loved animals just like I do and just like my mentee does. I feel like she could’ve handed me this same hand-written book yesterday!\nLosing my mom unexpectedly has not been an easy journey but I am grateful for the community I have to share these special things with.\nI am also grateful that through the tears, Elijah is right next to me, sniffing the contents of this box.(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/784344106385938",
+          "publishedOn": "2023-04-30T15:50:44.000Z",
+          "wordCount": 852,
+          "title": "Photos from The Modern Ferret's post",
+          "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/343972166_3353624911595376_8506784817269949529_n.jpg?stp=dst-jpg_p960x960&_nc_cat=109&ccb=1-7&_nc_sid=8024bb&_nc_ohc=NGCjcT22v7oAX_vIwjU&_nc_ht=scontent-iad3-1.xx&oh=00_AfBVm4mHCBRVfRaQkpESerw-9fS1hLBi6IeGPL5SPV8QXw&oe=64550851"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_f4da0JnJdc",
           "author": "The Modern Ferret",
           "description": "",
@@ -444,16 +454,6 @@
           "wordCount": null,
           "title": "Playing Ferret : Happy National Ferret Day!",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5",
-          "publishedOn": "2023-03-31T15:02:00.000Z",
-          "wordCount": 6047,
-          "title": "Ferrets used in cloning project find new home in Lawrence - WDAF FOX4 Kansas City",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }

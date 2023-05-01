@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T01:58:46.942Z</updated>
+    <updated>2023-05-01T01:58:44.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/784344106385938</id>
+        <link href="https://www.facebook.com/666603538159996/posts/784344106385938"/>
+        <updated>2023-04-30T15:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Here is a book my mom made when she was around 10 (the same age as the kid I now mentor through Royal Family Kids). My mom loved animals just like I do and just like my mentee does. I feel like she could’ve handed me this same hand-written book yesterday!
+Losing my mom unexpectedly has not been an easy journey but I am grateful for the community I have to share these special things with.
+I am also grateful that through the tears, Elijah is right next to me, sniffing the contents of this box.(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets vs Dogs]]></title>
         <id>https://www.youtube.com/watch?v=_f4da0JnJdc</id>
@@ -438,16 +450,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <updated>2023-04-03T12:00:05.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets used in cloning project find new home in Lawrence - WDAF FOX4 Kansas City]]></title>
-        <id>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NGtjLmNvbS9uZXdzL2ZlcnJldHMtdXNlZC1pbi1jbG9uaW5nLXByb2plY3QtZmluZC1uZXctaG9tZS1pbi1sYXdyZW5jZS_SAVZodHRwczovL2ZveDRrYy5jb20vbmV3cy9mZXJyZXRzLXVzZWQtaW4tY2xvbmluZy1wcm9qZWN0LWZpbmQtbmV3LWhvbWUtaW4tbGF3cmVuY2UvYW1wLw?oc=5"/>
-        <updated>2023-03-31T15:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
