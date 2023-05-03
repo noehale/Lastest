@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T01:56:44.670Z</updated>
+    <updated>2023-05-03T01:56:00.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Long Do Ferrets Live?]]></title>
+        <id>https://www.youtube.com/watch?v=FZeZx89BRdE</id>
+        <link href="https://www.youtube.com/watch?v=FZeZx89BRdE"/>
+        <updated>2023-05-03T03:00:16.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I know they’re not the same thing, but here’s some Ukrainian soldiers reclaiming their bunker from a marbled polecat.]]></title>
         <id>https://voiceferret.tumblr.com/post/716094614721937408</id>
@@ -449,15 +458,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <id>https://www.youtube.com/watch?v=NkKX0FZCvFQ</id>
         <link href="https://www.youtube.com/watch?v=NkKX0FZCvFQ"/>
         <updated>2023-04-04T11:00:10.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing Ferret : Happy National Ferret Day!]]></title>
-        <id>https://www.youtube.com/watch?v=Dx7qQdBfQlE</id>
-        <link href="https://www.youtube.com/watch?v=Dx7qQdBfQlE"/>
-        <updated>2023-04-03T12:00:05.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
         </author>
