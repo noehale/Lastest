@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T01:52:21.291Z</updated>
+    <updated>2023-05-06T01:51:23.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 Ferret Calendar for PRE-ORDER NOW!]]></title>
+        <id>https://www.youtube.com/watch?v=NMsxp8v-pKY</id>
+        <link href="https://www.youtube.com/watch?v=NMsxp8v-pKY"/>
+        <updated>2023-05-06T10:38:12.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Keep Ferrets with Rodents? Here's Why NOT!]]></title>
+        <id>https://www.youtube.com/watch?v=vw4YICJK3T8</id>
+        <link href="https://www.youtube.com/watch?v=vw4YICJK3T8"/>
+        <updated>2023-05-06T04:00:43.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I left the room for 2 minutes. 💀]]></title>
+        <id>https://voiceferret.tumblr.com/post/716457002854989824</id>
+        <link href="https://voiceferret.tumblr.com/post/716457002854989824"/>
+        <updated>2023-05-05T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[I left the room for 2 minutes.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hi everyone, could you please share your soup recipes with me?]]></title>
         <id>https://voiceferret.tumblr.com/post/716366405404065792</id>
@@ -431,16 +459,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <summary type="html"><![CDATA[“Mom stop working and notice me already.” #ferret(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animal cruelty case puts strain on dog shelter - WWNY]]></title>
-        <id>https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyL9IBXWh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyL9IBXWh0dHBzOi8vd3d3Lnd3bnl0di5jb20vMjAyMy8wNC8wNS9hbmltYWwtY3J1ZWx0eS1jYXNlLXB1dHMtc3RyYWluLWRvZy1zaGVsdGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5"/>
-        <updated>2023-04-06T12:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
