@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T02:03:08.550Z</updated>
+    <updated>2023-05-08T01:58:16.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -420,16 +420,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <summary type="html"><![CDATA[New family member Riley’s first time at the beach!]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I NEED YOUR INPUT: So many people ask me for a ferret shelter near them so they can adopt instead of shop. Can you comment the n...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/772689480884734</id>
-        <link href="https://www.facebook.com/666603538159996/posts/772689480884734"/>
-        <updated>2023-04-08T10:35:57.000Z</updated>
-        <summary type="html"><![CDATA[I NEED YOUR INPUT: So many people ask me for a ferret shelter near them so they can adopt instead of shop. Can you comment the name, location, and webiste/phone of a ferret shelter near you? I want to create a resource page on Themodernferret.com ! :)(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
