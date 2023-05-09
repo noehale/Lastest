@@ -2,15 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T01:58:16.814Z</updated>
+    <updated>2023-05-09T01:57:55.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Simon]]></title>
+        <id>https://voiceferret.tumblr.com/post/716728794803847168</id>
+        <link href="https://voiceferret.tumblr.com/post/716728794803847168"/>
+        <updated>2023-05-08T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Simon]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Ferret Calendar for PRE-ORDER NOW!]]></title>
         <id>https://www.youtube.com/watch?v=NMsxp8v-pKY</id>
         <link href="https://www.youtube.com/watch?v=NMsxp8v-pKY"/>
         <updated>2023-05-06T10:38:12.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excuse me while I SOB FOR A MINUTE 😭😭😭😭😭😭😭 #ferret #ferrets #ferretsofinstagram 
+
+Maybe I’ll get to film my ferret documentary a...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/787651352721880</id>
+        <link href="https://www.facebook.com/666603538159996/posts/787651352721880"/>
+        <updated>2023-05-06T09:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Excuse me while I SOB FOR A MINUTE 😭😭😭😭😭😭😭 #ferret #ferrets #ferretsofinstagram 
+Maybe I’ll get to film my ferret documentary and write my ferret Children’s book after all 🤯🙏(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Ferret 2024 12" x 12" Wall Calendar]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/787515002735515</id>
+        <link href="https://www.facebook.com/666603538159996/posts/787515002735515"/>
+        <updated>2023-05-06T04:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Pre-order your 2024 Ferret Calendar today!
+Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon rides, relaxing bubble baths, and even the occasional trip to outer space. These joyful and colorful images were created to celebrate the playful nature of ferrets and to educate the world about this amazing animal. Print...(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
@@ -69,6 +103,16 @@
         <link href="https://voiceferret.tumblr.com/post/716094614721937408"/>
         <updated>2023-05-01T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I know they’re not the same thing, but here’s some Ukrainian soldiers reclaiming their bunker from a marbled polecat.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bird Flu Spreads Easily Among Ferrets - Precision Vaccinations]]></title>
+        <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnByZWNpc2lvbnZhY2NpbmF0aW9ucy5jb20vMjAyMy8wNC8zMC9iaXJkLWZsdS1zcHJlYWRzLWVhc2lseS1hbW9uZy1mZXJyZXRz0gFaaHR0cHM6Ly93d3cucHJlY2lzaW9udmFjY2luYXRpb25zLmNvbS8yMDIzLzA0LzMwL2JpcmQtZmx1LXNwcmVhZHMtZWFzaWx5LWFtb25nLWZlcnJldHM_YW1w?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnByZWNpc2lvbnZhY2NpbmF0aW9ucy5jb20vMjAyMy8wNC8zMC9iaXJkLWZsdS1zcHJlYWRzLWVhc2lseS1hbW9uZy1mZXJyZXRz0gFaaHR0cHM6Ly93d3cucHJlY2lzaW9udmFjY2luYXRpb25zLmNvbS8yMDIzLzA0LzMwL2JpcmQtZmx1LXNwcmVhZHMtZWFzaWx5LWFtb25nLWZlcnJldHM_YW1w?oc=5"/>
+        <updated>2023-05-01T13:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -400,26 +444,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <summary type="html"><![CDATA[My cousin just sent me this old photo of Elijah and the neighbor cat, Calvin. How does your ferret get along with other pets #ferret #ferrets(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos from Siberian Lizard's post]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/772992670854415</id>
-        <link href="https://www.facebook.com/666603538159996/posts/772992670854415"/>
-        <updated>2023-04-09T02:05:47.000Z</updated>
-        <summary type="html"><![CDATA[(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New family member Riley’s first time at the beach!]]></title>
-        <id>https://voiceferret.tumblr.com/post/714010884208525312</id>
-        <link href="https://voiceferret.tumblr.com/post/714010884208525312"/>
-        <updated>2023-04-08T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[New family member Riley’s first time at the beach!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
