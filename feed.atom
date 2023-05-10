@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T01:57:55.582Z</updated>
+    <updated>2023-05-10T01:55:24.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -434,16 +434,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <summary type="html"><![CDATA[I took beans out on a walk today any other fun outdoor activities I should do with him I don’t want to keep him inside all day after we just lost his brother]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My cousin just sent me this old photo of Elijah and the neighbor cat, Calvin. How does your ferret get along with other pets #fe...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/773671334119882</id>
-        <link href="https://www.facebook.com/666603538159996/posts/773671334119882"/>
-        <updated>2023-04-10T10:28:09.000Z</updated>
-        <summary type="html"><![CDATA[My cousin just sent me this old photo of Elijah and the neighbor cat, Calvin. How does your ferret get along with other pets #ferret #ferrets(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
