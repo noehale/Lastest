@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T01:55:24.828Z</updated>
+    <updated>2023-05-11T01:56:04.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I'm Partnering with Oxbow Animal Health to Share Some Ferret Facts!]]></title>
+        <id>https://www.youtube.com/watch?v=tqAGV1WZS2E</id>
+        <link href="https://www.youtube.com/watch?v=tqAGV1WZS2E"/>
+        <updated>2023-05-11T03:50:44.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s Braxton :)]]></title>
+        <id>https://voiceferret.tumblr.com/post/716909987102883840</id>
+        <link href="https://voiceferret.tumblr.com/post/716909987102883840"/>
+        <updated>2023-05-10T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Here’s Braxton]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simon]]></title>
         <id>https://voiceferret.tumblr.com/post/716728794803847168</id>
@@ -412,26 +431,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <link href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L9IBXmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L2FtcC8?oc=5"/>
         <updated>2023-04-11T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's what happened to the escaped ferret seen wandering Kaukauna's north side - kaukaunacommunitynews.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMie2h0dHBzOi8va2F1a2F1bmFjb21tdW5pdHluZXdzLmNvbS8yMDIzLzA0LzEwL2hlcmVzLXdoYXQtaGFwcGVuZWQtdG8tdGhlLWVzY2FwZWQtZmVycmV0LXNlZW4td2FuZGVyaW5nLWthdWthdW5hcy1ub3J0aC1zaWRlL9IBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMie2h0dHBzOi8va2F1a2F1bmFjb21tdW5pdHluZXdzLmNvbS8yMDIzLzA0LzEwL2hlcmVzLXdoYXQtaGFwcGVuZWQtdG8tdGhlLWVzY2FwZWQtZmVycmV0LXNlZW4td2FuZGVyaW5nLWthdWthdW5hcy1ub3J0aC1zaWRlL9IBAA?oc=5"/>
-        <updated>2023-04-11T08:58:38.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I took beans out on a walk today any other fun outdoor activities I should do with him I don’t want to keep him inside all day after we just lost his brother]]></title>
-        <id>https://voiceferret.tumblr.com/post/714192080398909440</id>
-        <link href="https://voiceferret.tumblr.com/post/714192080398909440"/>
-        <updated>2023-04-10T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[I took beans out on a walk today any other fun outdoor activities I should do with him I don’t want to keep him inside all day after we just lost his brother]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
