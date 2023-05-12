@@ -2,15 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T01:56:04.285Z</updated>
+    <updated>2023-05-12T01:54:20.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Speak Ferret]]></title>
+        <id>https://www.youtube.com/watch?v=oOGzzmMqkMI</id>
+        <link href="https://www.youtube.com/watch?v=oOGzzmMqkMI"/>
+        <updated>2023-05-12T03:00:37.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I found Little Man in a dumpster 🙃. He was temporarily boxed and given a tinfoil ball, that’s what he’s digging around for lol. He’s safe and happy now]]></title>
+        <id>https://voiceferret.tumblr.com/post/717000583892156416</id>
+        <link href="https://voiceferret.tumblr.com/post/717000583892156416"/>
+        <updated>2023-05-11T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[I found Little Man in a dumpster . He was temporarily boxed and given a tinfoil ball, that’s what he’s digging around for lol. He’s safe and happy now]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm Partnering with Oxbow Animal Health to Share Some Ferret Facts!]]></title>
         <id>https://www.youtube.com/watch?v=tqAGV1WZS2E</id>
         <link href="https://www.youtube.com/watch?v=tqAGV1WZS2E"/>
         <updated>2023-05-11T03:50:44.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to teach some awesome ferret facts and dispel a common myth! Feel f...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/790154395804909</id>
+        <link href="https://www.facebook.com/666603538159996/posts/790154395804909"/>
+        <updated>2023-05-11T03:19:05.000Z</updated>
+        <summary type="html"><![CDATA[#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to teach some awesome ferret facts and dispel a common myth! Feel free to share your own favorite ferret facts in the comment section below. And also make sure to check out @oxbowanimalhealth ferret food, treats, and enrichment items today! #ferret #ferrets #ferretsofinstagram https://oxbowanimalhealth.com/product/essentials-ferret-food/(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
@@ -412,25 +441,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <link href="https://voiceferret.tumblr.com/post/714373271762649088"/>
         <updated>2023-04-12T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[More salmon oil please!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Diet]]></title>
-        <id>https://www.youtube.com/watch?v=sRd68tucA1c</id>
-        <link href="https://www.youtube.com/watch?v=sRd68tucA1c"/>
-        <updated>2023-04-12T11:00:24.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Altoona man accused of stealing documents, pet ferret - WTAJ - www.wtaj.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L9IBXmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L2FtcC8?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L9IBXmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L2FtcC8?oc=5"/>
-        <updated>2023-04-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>

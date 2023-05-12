@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oOGzzmMqkMI",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oOGzzmMqkMI",
+          "publishedOn": "2023-05-12T03:00:37.000Z",
+          "wordCount": null,
+          "title": "How to Speak Ferret",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/717000583892156416",
+          "author": null,
+          "description": "I found Little Man in a dumpster . He was temporarily boxed and given a tinfoil ball, that’s what he’s digging around for lol. He’s safe and happy now",
+          "link": "https://voiceferret.tumblr.com/post/717000583892156416",
+          "publishedOn": "2023-05-11T20:04:01.000Z",
+          "wordCount": 863,
+          "title": "I found Little Man in a dumpster 🙃. He was temporarily boxed and given a tinfoil ball, that’s what he’s digging around for lol. He’s safe and happy now",
+          "imageUrl": "https://64.media.tumblr.com/7478f07fe884c75fa01feaf0c04d9642/093ce7eda4626971-b4/s1280x1920/550cf9f6a40e4111ba84b62782a164e4a62728bb.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tqAGV1WZS2E",
           "author": "The Modern Ferret",
           "description": "",
@@ -13,6 +33,16 @@
           "publishedOn": "2023-05-11T03:50:44.000Z",
           "wordCount": null,
           "title": "I'm Partnering with Oxbow Animal Health to Share Some Ferret Facts!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.facebook.com/666603538159996/posts/790154395804909",
+          "author": "The Modern Ferret",
+          "description": "#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to teach some awesome ferret facts and dispel a common myth! Feel free to share your own favorite ferret facts in the comment section below. And also make sure to check out @oxbowanimalhealth ferret food, treats, and enrichment items today! #ferret #ferrets #ferretsofinstagram https://oxbowanimalhealth.com/product/essentials-ferret-food/(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/790154395804909",
+          "publishedOn": "2023-05-11T03:19:05.000Z",
+          "wordCount": 82,
+          "title": "#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to teach some awesome ferret facts and dispel a common myth! Feel f...",
           "imageUrl": null
         },
         {
@@ -414,26 +444,6 @@
           "wordCount": 763,
           "title": "More salmon oil please! 🐠🐟",
           "imageUrl": "https://64.media.tumblr.com/bfc4b698c48fd6362f18fe39e53f8f68/7d67aba94267a8b2-68/s1280x1920/87debd6c69bce7b2fd7ea8861ae5a9794d94e637.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sRd68tucA1c",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sRd68tucA1c",
-          "publishedOn": "2023-04-12T11:00:24.000Z",
-          "wordCount": null,
-          "title": "Ferret Diet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L9IBXmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L2FtcC8?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L9IBXmh0dHBzOi8vd3d3Lnd0YWouY29tL25ld3MvbG9jYWwtbmV3cy9hbHRvb25hLW1hbi1hY2N1c2VkLW9mLXN0ZWFsaW5nLWRvY3VtZW50cy1wZXQtZmVycmV0L2FtcC8?oc=5",
-          "publishedOn": "2023-04-11T21:00:00.000Z",
-          "wordCount": 6041,
-          "title": "Altoona man accused of stealing documents, pet ferret - WTAJ - www.wtaj.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }
