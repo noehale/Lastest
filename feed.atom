@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T01:54:41.087Z</updated>
+    <updated>2023-05-14T02:00:50.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The sacred Pudding]]></title>
+        <id>https://voiceferret.tumblr.com/post/717181777443258368</id>
+        <link href="https://voiceferret.tumblr.com/post/717181777443258368"/>
+        <updated>2023-05-13T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[The sacred Pudding]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Speak Ferret]]></title>
         <id>https://www.youtube.com/watch?v=oOGzzmMqkMI</id>
@@ -60,6 +70,16 @@
         <link href="https://voiceferret.tumblr.com/post/716728794803847168"/>
         <updated>2023-05-08T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Simon]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pet care: Ferret surgery was a success ... but we misplaced the patient - Albuquerque Journal]]></title>
+        <id>https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2MzQvcGV0LWNhcmUtZmVycmV0LXN1cmdlcnktd2FzLWEtc3VjY2Vzcy1idXQtd2UtbWlzcGxhY2VkLXRoZS1wYXRpZW50Lmh0bWzSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2MzQvcGV0LWNhcmUtZmVycmV0LXN1cmdlcnktd2FzLWEtc3VjY2Vzcy1idXQtd2UtbWlzcGxhY2VkLXRoZS1wYXRpZW50Lmh0bWzSAQA?oc=5"/>
+        <updated>2023-05-08T09:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -434,15 +454,6 @@ Ready to learn the TOP mistakes new ferret owners make -and see if you are guilt
         <summary type="html"><![CDATA[Wafflez says hello]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Say 'Ferret']]></title>
-        <id>https://www.youtube.com/watch?v=oCIq7WrDF3Y</id>
-        <link href="https://www.youtube.com/watch?v=oCIq7WrDF3Y"/>
-        <updated>2023-04-14T11:00:32.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
