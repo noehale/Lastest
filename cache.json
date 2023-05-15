@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-05-15T09:01:42.000Z",
+          "wordCount": 6015,
+          "title": "Pet care: Ferret on the run; no one having fun - Albuquerque Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/717181777443258368",
           "author": null,
           "description": "The sacred Pudding",
@@ -14,6 +24,16 @@
           "wordCount": 744,
           "title": "The sacred Pudding",
           "imageUrl": "https://64.media.tumblr.com/a2dbe29d32532681994bc83c1e441dca/f0390078f014d05e-14/s1280x1920/afcd4a44decae1b2212226e866dc18f26d98176f.jpg"
+        },
+        {
+          "id": "https://www.facebook.com/666603538159996/posts/791384772348538",
+          "author": "The Modern Ferret",
+          "description": "check out the video in this article -does that really look like a domestic ferret to you?? hmm...\nHe's so happy to be safe(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/791384772348538",
+          "publishedOn": "2023-05-13T11:18:39.000Z",
+          "wordCount": 962,
+          "title": "Hiker Hailed a Hero for Rescuing Abandoned Little Ferret She Found on Trail",
+          "imageUrl": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/10426704747716623629?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1aUjZR.img%3Fh%3D630%26w%3D1200%26m%3D6%26q%3D60%26o%3Dt%26l%3Df%26f%3Djpg&fb_obo=1&utld=akamaized.net&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbERU4eTlxwsX8-EVZNRS4JLUNsZSQv93A3GtdKIagVlfw&oe=6462ECF6&_nc_sid=030c62"
         },
         {
           "id": "https://www.youtube.com/watch?v=oOGzzmMqkMI",
@@ -424,36 +444,6 @@
           "wordCount": 793,
           "title": "BEHOLD! The ferocious, mini polar bear, Lottie. Your toes will never be safe.",
           "imageUrl": "https://64.media.tumblr.com/7b006f4a56b0e9c53da0247dc16671ce/f7150878cac485d8-2c/s2048x3072/fd5992652d07074b8b945613643efe28a3d18834.jpg"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/776286637191685",
-          "author": "The Modern Ferret",
-          "description": "NEW Video! Which of these common ferret owner mistakes are you making?!?\nReady to learn the TOP mistakes new ferret owners make -and see if you are guilty of any of these? In this video, I list all the most common mistakes new fe...(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/776286637191685",
-          "publishedOn": "2023-04-15T11:14:06.000Z",
-          "wordCount": 762,
-          "title": "Mistakes New Ferret Owners Make - UPDATED Top 10 List",
-          "imageUrl": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/17666497628426464624?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDxJyIKiS_gU%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbE3WKxpC2_J3Xi_SOu_n1mRza8FFoO0eTEV-6Q_L9r1pg&oe=643CAF0E&_nc_sid=6ac203"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DxJyIKiS_gU",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DxJyIKiS_gU",
-          "publishedOn": "2023-04-15T11:11:27.000Z",
-          "wordCount": null,
-          "title": "Mistakes New Ferret Owners Make - UPDATED Top 10 List",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/714554467915300864",
-          "author": null,
-          "description": "Wafflez says hello",
-          "link": "https://voiceferret.tumblr.com/post/714554467915300864",
-          "publishedOn": "2023-04-14T20:04:03.000Z",
-          "wordCount": 758,
-          "title": "Wafflez says hello",
-          "imageUrl": "https://64.media.tumblr.com/66d13f6e8600f1b6c612c103bd09ca92/089eb1e7d5db993c-03/s1280x1920/c7f4a95d06d14bfc017341a4851080197ef82d54.png"
         }
       ]
     }

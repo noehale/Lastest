@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T02:00:50.815Z</updated>
+    <updated>2023-05-15T01:59:58.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pet care: Ferret on the run; no one having fun - Albuquerque Journal]]></title>
+        <id>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5"/>
+        <updated>2023-05-15T09:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The sacred Pudding]]></title>
         <id>https://voiceferret.tumblr.com/post/717181777443258368</id>
@@ -14,6 +24,17 @@
         <summary type="html"><![CDATA[The sacred Pudding]]></summary>
         <author>
             <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiker Hailed a Hero for Rescuing Abandoned Little Ferret She Found on Trail]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/791384772348538</id>
+        <link href="https://www.facebook.com/666603538159996/posts/791384772348538"/>
+        <updated>2023-05-13T11:18:39.000Z</updated>
+        <summary type="html"><![CDATA[check out the video in this article -does that really look like a domestic ferret to you?? hmm...
+He's so happy to be safe(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -422,36 +443,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <link href="https://voiceferret.tumblr.com/post/714645065488826368"/>
         <updated>2023-04-15T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[BEHOLD! The ferocious, mini polar bear, Lottie. Your toes will never be safe.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistakes New Ferret Owners Make - UPDATED Top 10 List]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/776286637191685</id>
-        <link href="https://www.facebook.com/666603538159996/posts/776286637191685"/>
-        <updated>2023-04-15T11:14:06.000Z</updated>
-        <summary type="html"><![CDATA[NEW Video! Which of these common ferret owner mistakes are you making?!?
-Ready to learn the TOP mistakes new ferret owners make -and see if you are guilty of any of these? In this video, I list all the most common mistakes new fe...(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistakes New Ferret Owners Make - UPDATED Top 10 List]]></title>
-        <id>https://www.youtube.com/watch?v=DxJyIKiS_gU</id>
-        <link href="https://www.youtube.com/watch?v=DxJyIKiS_gU"/>
-        <updated>2023-04-15T11:11:27.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wafflez says hello]]></title>
-        <id>https://voiceferret.tumblr.com/post/714554467915300864</id>
-        <link href="https://voiceferret.tumblr.com/post/714554467915300864"/>
-        <updated>2023-04-14T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Wafflez says hello]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
