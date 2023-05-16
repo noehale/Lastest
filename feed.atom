@@ -2,15 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T01:59:58.398Z</updated>
+    <updated>2023-05-16T01:59:33.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[POV]]></title>
+        <id>https://voiceferret.tumblr.com/post/717362973640933376</id>
+        <link href="https://voiceferret.tumblr.com/post/717362973640933376"/>
+        <updated>2023-05-15T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[POV: you are holding a forbidden snack]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Ferrets are Best : Pros of Ferrets as Pets]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/792465318907150</id>
+        <link href="https://www.facebook.com/666603538159996/posts/792465318907150"/>
+        <updated>2023-05-15T09:43:07.000Z</updated>
+        <summary type="html"><![CDATA[If you want a reason to smile today, watch this video :) 
+
+Any idea why ferrets are best for so many people?! In this video, I list all the top reasons ferrets make great pets (aka the Pros of Ferrets). I touch on fe...(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pet care: Ferret on the run; no one having fun - Albuquerque Journal]]></title>
         <id>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5"/>
         <updated>2023-05-15T09:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House fire in Pueblo County claims the life of pet ferret - KRDO]]></title>
+        <id>https://news.google.com/rss/articles/CBMiW2h0dHBzOi8va3Jkby5jb20vbmV3cy8yMDIzLzA1LzE0L2hvdXNlLWZpcmUtaW4tcHVlYmxvLWNvdW50eS1jbGFpbXMtdGhlLWxpZmUtb2YtcGV0LWZlcnJldC_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8va3Jkby5jb20vbmV3cy8yMDIzLzA1LzE0L2hvdXNlLWZpcmUtaW4tcHVlYmxvLWNvdW50eS1jbGFpbXMtdGhlLWxpZmUtb2YtcGV0LWZlcnJldC_SAQA?oc=5"/>
+        <updated>2023-05-15T08:04:04.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
@@ -424,27 +456,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <summary type="html"><![CDATA[INPUT NEEDED (again, because you guys give such great ideas): I'm now writing a script on best ferret toys. I have my personal favorites but I was wondering if you guys could share items your ferrets have really enjoyed? And what did they like about it? Feel free to link to it as well. Maybe share unsuccessful toys too. I LOVE reading your input!(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colden's album]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/776555683831447</id>
-        <link href="https://www.facebook.com/666603538159996/posts/776555683831447"/>
-        <updated>2023-04-16T00:56:33.000Z</updated>
-        <summary type="html"><![CDATA[looks fierce to me...
-*Colden*(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEHOLD! The ferocious, mini polar bear, Lottie. Your toes will never be safe.]]></title>
-        <id>https://voiceferret.tumblr.com/post/714645065488826368</id>
-        <link href="https://voiceferret.tumblr.com/post/714645065488826368"/>
-        <updated>2023-04-15T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[BEHOLD! The ferocious, mini polar bear, Lottie. Your toes will never be safe.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
