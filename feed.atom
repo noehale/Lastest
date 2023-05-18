@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T01:59:47.015Z</updated>
+    <updated>2023-05-18T01:57:50.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -456,25 +456,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <summary type="html"><![CDATA[Live big boy footage]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Vet]]></title>
-        <id>https://www.youtube.com/watch?v=pn6mm6lKqGw</id>
-        <link href="https://www.youtube.com/watch?v=pn6mm6lKqGw"/>
-        <updated>2023-04-18T11:00:33.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INPUT NEEDED (again, because you guys give such great ideas): I'm now writing a script on best ferret toys. I have my personal f...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/777390583747957</id>
-        <link href="https://www.facebook.com/666603538159996/posts/777390583747957"/>
-        <updated>2023-04-17T14:36:44.000Z</updated>
-        <summary type="html"><![CDATA[INPUT NEEDED (again, because you guys give such great ideas): I'm now writing a script on best ferret toys. I have my personal favorites but I was wondering if you guys could share items your ferrets have really enjoyed? And what did they like about it? Feel free to link to it as well. Maybe share unsuccessful toys too. I LOVE reading your input!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
