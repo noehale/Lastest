@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-20T01:55:17.671Z</updated>
+    <updated>2023-05-21T02:04:12.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A rare picture of awake ferrets that isn’t blurry]]></title>
+        <id>https://voiceferret.tumblr.com/post/717815957334163456</id>
+        <link href="https://voiceferret.tumblr.com/post/717815957334163456"/>
+        <updated>2023-05-20T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[A rare picture of awake ferrets that isn’t blurry]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[True Cost of Ferrets : REAL Owners Answer]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/795096928643989</id>
+        <link href="https://www.facebook.com/666603538159996/posts/795096928643989"/>
+        <updated>2023-05-20T09:15:31.000Z</updated>
+        <summary type="html"><![CDATA[I calculated ALL the upfront costs associated with a ferret in this week's video! Did I come close to what you spent or not? Let me know in the comments
+Have you ever wondered what is the true cost of ferrets as pets? Get your 2024 Ferret Calendar Here (#1 on Amazon): https://geni.us/2024FerretCalendarIn this...(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[True Cost of Ferrets : REAL Owners Answer]]></title>
         <id>https://www.youtube.com/watch?v=A19omJB6MVc</id>
@@ -473,15 +494,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <updated>2023-04-22T10:08:11.000Z</updated>
         <summary type="html"><![CDATA[Can you show me your best 'Ferret in hammock' pics (or video ;) ) that I can include in my Best Products Youtube video? I have this line in there: 
 "..there’s a lot of fun options starting to pop up too. You’ve got standard open hammocks, tube-shaped hammocks, banana-shaped ones, race-cars, monkeys, you name it!""(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Cost : How Much Are Ferrets?]]></title>
-        <id>https://www.youtube.com/watch?v=HDt-twhy1uM</id>
-        <link href="https://www.youtube.com/watch?v=HDt-twhy1uM"/>
-        <updated>2023-04-21T05:15:00.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
         </author>
