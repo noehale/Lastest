@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T02:04:12.505Z</updated>
+    <updated>2023-05-22T02:03:42.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pet care: Who caught (the ferret) Miss Ellie? - Albuquerque Journal]]></title>
+        <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI2MDA2MDgvd2hvLWNhdWdodC10aGUtZmVycmV0LW1pc3MtZWxsaWUuaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI2MDA2MDgvd2hvLWNhdWdodC10aGUtZmVycmV0LW1pc3MtZWxsaWUuaHRtbNIBAA?oc=5"/>
+        <updated>2023-05-22T09:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why he such a smol bean?]]></title>
+        <id>https://voiceferret.tumblr.com/post/717906553411452928</id>
+        <link href="https://voiceferret.tumblr.com/post/717906553411452928"/>
+        <updated>2023-05-21T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Why he such a smol bean?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Ferret 2024 12" x 12" Wall Calendar]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/795650661921949</id>
+        <link href="https://www.facebook.com/666603538159996/posts/795650661921949"/>
+        <updated>2023-05-21T05:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Help us get back to the #1 New Release spot on Amazon by pre-ordering your 2024 Ferret Calendar today!
+Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon rides, relaxing bubble baths, and even the occasional trip to outer space. These joyful and colorful images were created to celebrate the playful nature of ferrets and to educate the world about this amazing animal. Stay ...(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A rare picture of awake ferrets that isn’t blurry]]></title>
         <id>https://voiceferret.tumblr.com/post/717815957334163456</id>
@@ -485,17 +516,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <summary type="html"><![CDATA[For those who know about my Gobi bear, I would like to inform you a week ago I took him to vet bc he seemed sick &amp; was put on medicine &amp; ever since then he has lost a pound, walking:running &amp; not sliding, &amp; caught him on their couch so he’s jumping too! So happy he is himself again!]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you show me your best 'Ferret in hammock' pics (or video ;) ) that I can include in my Best Products Youtube video? I have t...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/779866986833650</id>
-        <link href="https://www.facebook.com/666603538159996/posts/779866986833650"/>
-        <updated>2023-04-22T10:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Can you show me your best 'Ferret in hammock' pics (or video ;) ) that I can include in my Best Products Youtube video? I have this line in there: 
-"..there’s a lot of fun options starting to pop up too. You’ve got standard open hammocks, tube-shaped hammocks, banana-shaped ones, race-cars, monkeys, you name it!""(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
