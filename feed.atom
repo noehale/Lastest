@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T02:03:42.015Z</updated>
+    <updated>2023-05-23T01:58:59.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Big Do Ferrets Get?]]></title>
+        <id>https://www.youtube.com/watch?v=YKYWSJ6DWUg</id>
+        <link href="https://www.youtube.com/watch?v=YKYWSJ6DWUg"/>
+        <updated>2023-05-23T00:00:22.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This weekend is Irelia’s Victory Lap ❤️]]></title>
+        <id>https://voiceferret.tumblr.com/post/717997150904188928</id>
+        <link href="https://voiceferret.tumblr.com/post/717997150904188928"/>
+        <updated>2023-05-22T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[This weekend is Irelia’s Victory Lap]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pet care: Who caught (the ferret) Miss Ellie? - Albuquerque Journal]]></title>
         <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI2MDA2MDgvd2hvLWNhdWdodC10aGUtZmVycmV0LW1pc3MtZWxsaWUuaHRtbNIBAA?oc=5</id>
@@ -495,25 +514,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <link href="https://voiceferret.tumblr.com/post/715460435716997120"/>
         <updated>2023-04-24T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Any idea what this could be?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Train Your Ferret]]></title>
-        <id>https://www.youtube.com/watch?v=P5EOgrwT0c8</id>
-        <link href="https://www.youtube.com/watch?v=P5EOgrwT0c8"/>
-        <updated>2023-04-23T11:00:08.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For those who know about my Gobi bear, I would like to inform you a week ago I took him to vet bc he seemed sick & was put on medicine & ever since then he has lost a pound, walking:running & not sliding, & caught him on their couch so he’s jumping too! So happy he is himself again!]]></title>
-        <id>https://voiceferret.tumblr.com/post/715279244067012608</id>
-        <link href="https://voiceferret.tumblr.com/post/715279244067012608"/>
-        <updated>2023-04-22T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[For those who know about my Gobi bear, I would like to inform you a week ago I took him to vet bc he seemed sick &amp; was put on medicine &amp; ever since then he has lost a pound, walking:running &amp; not sliding, &amp; caught him on their couch so he’s jumping too! So happy he is himself again!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
