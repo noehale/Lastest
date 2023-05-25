@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T02:02:41.581Z</updated>
+    <updated>2023-05-25T01:58:01.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My males both hate bath time. Sophia on the other hand enjoys it almost too much and demands all the treatment she can get..]]></title>
+        <id>https://voiceferret.tumblr.com/post/718178344874672128</id>
+        <link href="https://voiceferret.tumblr.com/post/718178344874672128"/>
+        <updated>2023-05-24T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[My males both hate bath time. Sophia on the other hand enjoys it almost too much and demands all the treatment she can get..]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lil Nim found the perfect sleeping spot]]></title>
         <id>https://voiceferret.tumblr.com/post/718087747676569600</id>
@@ -506,26 +516,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <summary type="html"><![CDATA[NEED FEEDBACK: Can you share with me your favorite ferret-proofing products (with links) or DIY solutions? Thank you! Any funny relevant ferret photos are appreciated too :)(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endangered black-footed ferrets continuing epic comeback with help from Pueblo sites - Pueblo Chieftain]]></title>
-        <id>https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGllZnRhaW4uY29tL3N0b3J5L25ld3MvMjAyMy8wNC8yNC9ibGFjay1mb290ZWQtZmVycmV0cy1jb250aW51ZS1jb21lYmFjay13aXRoLWhlbHAtZnJvbS1jcHctcHVlYmxvLXNpdGVzLzcwMTMxNDQ2MDA3L9IBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jaGllZnRhaW4uY29tL3N0b3J5L25ld3MvMjAyMy8wNC8yNC9ibGFjay1mb290ZWQtZmVycmV0cy1jb250aW51ZS1jb21lYmFjay13aXRoLWhlbHAtZnJvbS1jcHctcHVlYmxvLXNpdGVzLzcwMTMxNDQ2MDA3L9IBAA?oc=5"/>
-        <updated>2023-04-25T03:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any idea what this could be?]]></title>
-        <id>https://voiceferret.tumblr.com/post/715460435716997120</id>
-        <link href="https://voiceferret.tumblr.com/post/715460435716997120"/>
-        <updated>2023-04-24T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Any idea what this could be?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
