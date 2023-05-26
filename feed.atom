@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T01:58:01.201Z</updated>
+    <updated>2023-05-26T01:58:07.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets as Pets]]></title>
+        <id>https://www.youtube.com/watch?v=t18TcIWAirI</id>
+        <link href="https://www.youtube.com/watch?v=t18TcIWAirI"/>
+        <updated>2023-05-26T00:45:02.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3-Month Old, Cinnamon Toast]]></title>
+        <id>https://voiceferret.tumblr.com/post/718268943775793152</id>
+        <link href="https://voiceferret.tumblr.com/post/718268943775793152"/>
+        <updated>2023-05-25T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[3-Month Old, Cinnamon Toast]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My males both hate bath time. Sophia on the other hand enjoys it almost too much and demands all the treatment she can get..]]></title>
         <id>https://voiceferret.tumblr.com/post/718178344874672128</id>
@@ -497,25 +516,6 @@ P.S. My friend recently made me a logo to show her support!!(Feed generated with
         <summary type="html"><![CDATA[We lost our Tommy yesterday to cancer. We are devastated and I can’t stop crying. She was 7 and lived a full life but I can’t live without her. I love you Tommy Tommy 2016-2023]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Boy or Girl : How to tell the difference?]]></title>
-        <id>https://www.youtube.com/watch?v=eJS3SlrUtJc</id>
-        <link href="https://www.youtube.com/watch?v=eJS3SlrUtJc"/>
-        <updated>2023-04-26T11:00:21.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEED FEEDBACK: Can you share with me your favorite ferret-proofing products (with links) or DIY solutions? Thank you! Any funny ...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/781750709978611</id>
-        <link href="https://www.facebook.com/666603538159996/posts/781750709978611"/>
-        <updated>2023-04-26T00:28:04.000Z</updated>
-        <summary type="html"><![CDATA[NEED FEEDBACK: Can you share with me your favorite ferret-proofing products (with links) or DIY solutions? Thank you! Any funny relevant ferret photos are appreciated too :)(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
