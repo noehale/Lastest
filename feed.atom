@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T01:58:07.294Z</updated>
+    <updated>2023-05-27T01:56:47.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Black-footed ferrets return to Wyoming - Casper Star-Tribune]]></title>
+        <id>https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdHJpYi5jb20vbmV3cy9sb2NhbC9ibGFjay1mb290ZWQtZmVycmV0cy1yZXR1cm4tdG8td3lvbWluZy92aWRlb183ZWNjY2VjYS1kM2I2LTVhYjgtOTdiYi1mNzBjMTg5OTVmMjQuaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdHJpYi5jb20vbmV3cy9sb2NhbC9ibGFjay1mb290ZWQtZmVycmV0cy1yZXR1cm4tdG8td3lvbWluZy92aWRlb183ZWNjY2VjYS1kM2I2LTVhYjgtOTdiYi1mNzBjMTg5OTVmMjQuaHRtbNIBAA?oc=5"/>
+        <updated>2023-05-27T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caption this]]></title>
+        <id>https://voiceferret.tumblr.com/post/718359541025243136</id>
+        <link href="https://voiceferret.tumblr.com/post/718359541025243136"/>
+        <updated>2023-05-26T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Caption this]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets as Pets]]></title>
         <id>https://www.youtube.com/watch?v=t18TcIWAirI</id>
@@ -23,6 +43,16 @@
         <summary type="html"><![CDATA[3-Month Old, Cinnamon Toast]]></summary>
         <author>
             <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hi my name is Haley. I currently have one ferret named Elijah. He only has one eye, he sleeps next to me every night, and his fa...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/797828091704206</id>
+        <link href="https://www.facebook.com/666603538159996/posts/797828091704206"/>
+        <updated>2023-05-25T03:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Hi my name is Haley. I currently have one ferret named Elijah. He only has one eye, he sleeps next to me every night, and his favorite pastime is pooping next to the front door. Please introduce yourself and your ferret!! #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
         </author>
     </entry>
     <entry>
@@ -483,37 +513,6 @@ Some animals can detect many chemical signals over great distances and can make 
         <link href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ20gE6aHR0cHM6Ly9tLmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ2L2FtcA?oc=5"/>
         <updated>2023-04-27T23:17:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I were to start doing outreach with ferrets again at local schools, assisted living facilities for the elderly, and mental he...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/782514059902276</id>
-        <link href="https://www.facebook.com/666603538159996/posts/782514059902276"/>
-        <updated>2023-04-27T11:48:13.000Z</updated>
-        <summary type="html"><![CDATA[If I were to start doing outreach with ferrets again at local schools, assisted living facilities for the elderly, and mental health homes, would any of you guys be interested in supporting this project monthly? This is something I've wanted to do for probably ten years but I wouldn't be able to do it alone. 
-P.S. My friend recently made me a logo to show her support!!(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pembroke Pines PD searching for owner of missing ferret - WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale]]></title>
-        <id>https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3N2bi5jb20vbmV3cy9sb2NhbC9icm93YXJkL3BlbWJyb2tlLXBpbmVzLXBkLXNlYXJjaGluZy1mb3Itb3duZXItb2YtbWlzc2luZy1mZXJyZXQv0gFgaHR0cHM6Ly93c3ZuLmNvbS9uZXdzL2xvY2FsL2Jyb3dhcmQvcGVtYnJva2UtcGluZXMtcGQtc2VhcmNoaW5nLWZvci1vd25lci1vZi1taXNzaW5nLWZlcnJldC9hbXAv?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3N2bi5jb20vbmV3cy9sb2NhbC9icm93YXJkL3BlbWJyb2tlLXBpbmVzLXBkLXNlYXJjaGluZy1mb3Itb3duZXItb2YtbWlzc2luZy1mZXJyZXQv0gFgaHR0cHM6Ly93c3ZuLmNvbS9uZXdzL2xvY2FsL2Jyb3dhcmQvcGVtYnJva2UtcGluZXMtcGQtc2VhcmNoaW5nLWZvci1vd25lci1vZi1taXNzaW5nLWZlcnJldC9hbXAv?oc=5"/>
-        <updated>2023-04-27T03:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We lost our Tommy yesterday to cancer. We are devastated and I can’t stop crying. She was 7 and lived a full life but I can’t live without her. I love you Tommy 💔Tommy 2016-2023]]></title>
-        <id>https://voiceferret.tumblr.com/post/715641630329290752</id>
-        <link href="https://voiceferret.tumblr.com/post/715641630329290752"/>
-        <updated>2023-04-26T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[We lost our Tommy yesterday to cancer. We are devastated and I can’t stop crying. She was 7 and lived a full life but I can’t live without her. I love you Tommy Tommy 2016-2023]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
