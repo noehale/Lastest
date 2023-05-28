@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T01:56:47.817Z</updated>
+    <updated>2023-05-28T02:09:28.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Just wanted to share a picture of Chai. She passed today after being with me for 9 years. She is going to be missed.]]></title>
+        <id>https://voiceferret.tumblr.com/post/718450135302029312</id>
+        <link href="https://voiceferret.tumblr.com/post/718450135302029312"/>
+        <updated>2023-05-27T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Just wanted to share a picture of Chai. She passed today after being with me for 9 years. She is going to be missed.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to talk enrichment! Can you share some ways YOU like to provide enr...]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/799048754915473</id>
+        <link href="https://www.facebook.com/666603538159996/posts/799048754915473"/>
+        <updated>2023-05-27T15:18:57.000Z</updated>
+        <summary type="html"><![CDATA[#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to talk enrichment! Can you share some ways YOU like to provide enrichment for YOUR ferret? 😊
+What do you think of Oxbow’s Forage Mat? Make sure to check out @oxbowanimalhealth ferret food, treat, and enrichment items today: https://oxbowanimalhealth.com/ferrets/
+#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Ferret Enrichment is SO Important : Featuring Oxbow Animal Health]]></title>
+        <id>https://www.youtube.com/watch?v=OACya2TnFdY</id>
+        <link href="https://www.youtube.com/watch?v=OACya2TnFdY"/>
+        <updated>2023-05-27T14:22:01.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black-footed ferrets return to Wyoming - Casper Star-Tribune]]></title>
         <id>https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdHJpYi5jb20vbmV3cy9sb2NhbC9ibGFjay1mb290ZWQtZmVycmV0cy1yZXR1cm4tdG8td3lvbWluZy92aWRlb183ZWNjY2VjYS1kM2I2LTVhYjgtOTdiYi1mNzBjMTg5OTVmMjQuaHRtbNIBAA?oc=5</id>
@@ -505,16 +536,6 @@ I am also grateful that through the tears, Elijah is right next to me, sniffing 
 Some animals can detect many chemical signals over great distances and can make rapid and accurate mental associations about them.(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bird flu appears to be able to spread 'efficiently' among ferrets - The Jerusalem Post]]></title>
-        <id>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ20gE6aHR0cHM6Ly9tLmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ2L2FtcA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ20gE6aHR0cHM6Ly9tLmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzQxMzQ2L2FtcA?oc=5"/>
-        <updated>2023-04-27T23:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
