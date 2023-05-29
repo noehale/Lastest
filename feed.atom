@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-28T02:09:28.894Z</updated>
+    <updated>2023-05-29T02:04:37.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A sliding ferret]]></title>
+        <id>https://voiceferret.tumblr.com/post/718540731847966720</id>
+        <link href="https://voiceferret.tumblr.com/post/718540731847966720"/>
+        <updated>2023-05-28T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[A sliding ferret]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just wanted to share a picture of Chai. She passed today after being with me for 9 years. She is going to be missed.]]></title>
         <id>https://voiceferret.tumblr.com/post/718450135302029312</id>
@@ -523,17 +533,6 @@ I am also grateful that through the tears, Elijah is right next to me, sniffing 
         <link href="https://www.facebook.com/666603538159996/posts/784106513076364"/>
         <updated>2023-04-30T05:05:51.000Z</updated>
         <summary type="html"><![CDATA[Did I ever show you guys this ferret I made in ceramics class back in college? He followed me all the way to Nebraska! #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The scent of sickness: 5 questions answered about using dogs – and mice and ferrets – to detect disease]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/783605419793140</id>
-        <link href="https://www.facebook.com/666603538159996/posts/783605419793140"/>
-        <updated>2023-04-29T10:22:17.000Z</updated>
-        <summary type="html"><![CDATA[Read about the section on how they trained ferrets to detect the avian flu! Fascinating!
-Some animals can detect many chemical signals over great distances and can make rapid and accurate mental associations about them.(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
