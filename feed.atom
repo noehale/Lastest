@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T02:04:37.726Z</updated>
+    <updated>2023-05-30T02:04:21.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Help please… We found a pair of abandoned ferrets, and police basically told us to f*ck off, what do I do while waiting for rehome?]]></title>
+        <id>https://voiceferret.tumblr.com/post/718631329045118976</id>
+        <link href="https://voiceferret.tumblr.com/post/718631329045118976"/>
+        <updated>2023-05-29T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Help please… We found a pair of abandoned ferrets, and police basically told us to f*ck off, what do I do while waiting for rehome?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A sliding ferret]]></title>
         <id>https://voiceferret.tumblr.com/post/718540731847966720</id>
@@ -514,25 +524,6 @@ Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon ride
         <summary type="html"><![CDATA[Here is a book my mom made when she was around 10 (the same age as the kid I now mentor through Royal Family Kids). My mom loved animals just like I do and just like my mentee does. I feel like she could’ve handed me this same hand-written book yesterday!
 Losing my mom unexpectedly has not been an easy journey but I am grateful for the community I have to share these special things with.
 I am also grateful that through the tears, Elijah is right next to me, sniffing the contents of this box.(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets vs Dogs]]></title>
-        <id>https://www.youtube.com/watch?v=_f4da0JnJdc</id>
-        <link href="https://www.youtube.com/watch?v=_f4da0JnJdc"/>
-        <updated>2023-04-30T11:00:26.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did I ever show you guys this ferret I made in ceramics class back in college? He followed me all the way to Nebraska! #ferret #...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/784106513076364</id>
-        <link href="https://www.facebook.com/666603538159996/posts/784106513076364"/>
-        <updated>2023-04-30T05:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Did I ever show you guys this ferret I made in ceramics class back in college? He followed me all the way to Nebraska! #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
