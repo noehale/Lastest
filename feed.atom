@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T02:18:22.206Z</updated>
+    <updated>2023-06-01T02:42:26.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Beautiful girl nebula.]]></title>
+        <id>https://voiceferret.tumblr.com/post/718812522882400256</id>
+        <link href="https://voiceferret.tumblr.com/post/718812522882400256"/>
+        <updated>2023-05-31T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[My Beautiful girl nebula.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Weasel?]]></title>
         <id>https://www.youtube.com/watch?v=3X64RqC88-A</id>
@@ -503,16 +513,6 @@ Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon ride
         <updated>2023-05-03T03:00:16.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I know they’re not the same thing, but here’s some Ukrainian soldiers reclaiming their bunker from a marbled polecat.]]></title>
-        <id>https://voiceferret.tumblr.com/post/716094614721937408</id>
-        <link href="https://voiceferret.tumblr.com/post/716094614721937408"/>
-        <updated>2023-05-01T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[I know they’re not the same thing, but here’s some Ukrainian soldiers reclaiming their bunker from a marbled polecat.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
