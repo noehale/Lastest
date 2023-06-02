@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-01T02:42:26.795Z</updated>
+    <updated>2023-06-02T02:16:04.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Which Popular Pets Should Not Be Kept With Ferrets? - Oxbow Animal Health]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/801947457958936</id>
+        <link href="https://www.facebook.com/666603538159996/posts/801947457958936"/>
+        <updated>2023-06-02T00:20:53.000Z</updated>
+        <summary type="html"><![CDATA[I just wrote another article for Oxbow Animal Health! It's such a privilege to make content for them. Please take a moment to read and let me know what you think!
+Can ferrets safely coexist with other popular pets? It depends! Learn more about which pet species should never be kept with ferrets.(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too skinny?]]></title>
+        <id>https://voiceferret.tumblr.com/post/718903120278798336</id>
+        <link href="https://voiceferret.tumblr.com/post/718903120278798336"/>
+        <updated>2023-06-01T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Too skinny?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Ferret Tests My Hammock #ferret #ferrets #ferreting]]></title>
+        <id>https://www.youtube.com/watch?v=D3ao02v53PU</id>
+        <link href="https://www.youtube.com/watch?v=D3ao02v53PU"/>
+        <updated>2023-06-01T19:00:08.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Beautiful girl nebula.]]></title>
         <id>https://voiceferret.tumblr.com/post/718812522882400256</id>
@@ -504,15 +534,6 @@ Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon ride
         <summary type="html"><![CDATA[Hi I am Zeus aren’t I the cutest….]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Do Ferrets Live?]]></title>
-        <id>https://www.youtube.com/watch?v=FZeZx89BRdE</id>
-        <link href="https://www.youtube.com/watch?v=FZeZx89BRdE"/>
-        <updated>2023-05-03T03:00:16.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
