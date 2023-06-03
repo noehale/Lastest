@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-02T02:16:04.085Z</updated>
+    <updated>2023-06-03T02:11:03.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets down your trousers? That’s Life! - The Guardian]]></title>
+        <id>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZdIBWmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZQ?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZdIBWmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZQ?oc=5"/>
+        <updated>2023-06-03T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret Food : What NOT to Eat!]]></title>
+        <id>https://www.youtube.com/watch?v=q4gpT-1gO7o</id>
+        <link href="https://www.youtube.com/watch?v=q4gpT-1gO7o"/>
+        <updated>2023-06-03T00:45:02.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does anyone else have to talk their ferret into leaving the dryer?]]></title>
+        <id>https://voiceferret.tumblr.com/post/718993717246279680</id>
+        <link href="https://voiceferret.tumblr.com/post/718993717246279680"/>
+        <updated>2023-06-02T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Does anyone else have to talk their ferret into leaving the dryer?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Which Popular Pets Should Not Be Kept With Ferrets? - Oxbow Animal Health]]></title>
         <id>https://www.facebook.com/666603538159996/posts/801947457958936</id>
@@ -522,16 +551,6 @@ Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon ride
         <link href="https://voiceferret.tumblr.com/post/716366405404065792"/>
         <updated>2023-05-04T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Hi everyone, could you please share your soup recipes with me?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi I am Zeus aren’t I the cutest….❤️🤗]]></title>
-        <id>https://voiceferret.tumblr.com/post/716275809149648896</id>
-        <link href="https://voiceferret.tumblr.com/post/716275809149648896"/>
-        <updated>2023-05-03T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Hi I am Zeus aren’t I the cutest….]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
