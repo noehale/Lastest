@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T02:11:03.007Z</updated>
+    <updated>2023-06-04T02:38:14.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -531,26 +531,6 @@ Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon ride
         <link href="https://voiceferret.tumblr.com/post/716457002854989824"/>
         <updated>2023-05-05T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I left the room for 2 minutes.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lizards, ferrets, turtle among 122 animals removed from Blakely residence in hoarding case - The Albany Herald]]></title>
-        <id>https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5hbGJhbnloZXJhbGQuY29tL25ld3MvbGl6YXJkcy1mZXJyZXRzLXR1cnRsZS1hbW9uZy0xMjItYW5pbWFscy1yZW1vdmVkLWZyb20tYmxha2VseS1yZXNpZGVuY2UtaW4taG9hcmRpbmctY2FzZS9hcnRpY2xlX2NlNDA5Zjg4LWVhYTgtMTFlZC04ZWQ4LTY3MmRhZjAwYzcxMC5odG1s0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5hbGJhbnloZXJhbGQuY29tL25ld3MvbGl6YXJkcy1mZXJyZXRzLXR1cnRsZS1hbW9uZy0xMjItYW5pbWFscy1yZW1vdmVkLWZyb20tYmxha2VseS1yZXNpZGVuY2UtaW4taG9hcmRpbmctY2FzZS9hcnRpY2xlX2NlNDA5Zjg4LWVhYTgtMTFlZC04ZWQ4LTY3MmRhZjAwYzcxMC5odG1s0gEA?oc=5"/>
-        <updated>2023-05-05T08:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi everyone, could you please share your soup recipes with me?]]></title>
-        <id>https://voiceferret.tumblr.com/post/716366405404065792</id>
-        <link href="https://voiceferret.tumblr.com/post/716366405404065792"/>
-        <updated>2023-05-04T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone, could you please share your soup recipes with me?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
