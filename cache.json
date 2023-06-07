@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VKDTzT-P5qA",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VKDTzT-P5qA",
+          "publishedOn": "2023-06-07T03:30:12.000Z",
+          "wordCount": null,
+          "title": "How to Bond with Your Ferret",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/719356105311027200",
+          "author": null,
+          "description": "Sheriff Anzû says howdy Just finished crocheting this little hat for my little man",
+          "link": "https://voiceferret.tumblr.com/post/719356105311027200",
+          "publishedOn": "2023-06-06T20:04:01.000Z",
+          "wordCount": 809,
+          "title": "Sheriff Anzû says howdy⭐️ Just finished crocheting this little hat for my little man",
+          "imageUrl": "https://64.media.tumblr.com/16c87d8aadd9adbd7cbd8e876575d84d/5a2fd78b74b072d3-10/s1280x1920/64e8205754ac8b17dab16d754e7526287db9574e.jpg"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/719265510328582144",
           "author": null,
           "description": "Potatoes are not enough, now she stole a melon",
@@ -494,16 +514,6 @@
           "wordCount": 764,
           "title": "Simon",
           "imageUrl": "https://64.media.tumblr.com/5d440374687ad473778764d238166283/a22db6b7029c25e1-34/s1280x1920/eebd9dc01fb6b2393918cd00dd3c3424483fcc81.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2MzQvcGV0LWNhcmUtZmVycmV0LXN1cmdlcnktd2FzLWEtc3VjY2Vzcy1idXQtd2UtbWlzcGxhY2VkLXRoZS1wYXRpZW50Lmh0bWzSAQA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2MzQvcGV0LWNhcmUtZmVycmV0LXN1cmdlcnktd2FzLWEtc3VjY2Vzcy1idXQtd2UtbWlzcGxhY2VkLXRoZS1wYXRpZW50Lmh0bWzSAQA?oc=5",
-          "publishedOn": "2023-05-08T09:03:50.000Z",
-          "wordCount": 6015,
-          "title": "Pet care: Ferret surgery was a success ... but we misplaced the patient - Albuquerque Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }
