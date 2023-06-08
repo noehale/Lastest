@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T02:19:44.517Z</updated>
+    <updated>2023-06-08T02:18:58.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My guy Taxes LOVES hummus. I’ve tried to feed him everything that ferrets are supposed to like but he only wants hummus. Why?? (Pic unrelated)]]></title>
+        <id>https://voiceferret.tumblr.com/post/719446701588578304</id>
+        <link href="https://voiceferret.tumblr.com/post/719446701588578304"/>
+        <updated>2023-06-07T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[My guy Taxes LOVES hummus. I’ve tried to feed him everything that ferrets are supposed to like but he only wants hummus. Why?? (Pic unrelated)]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Bond with Your Ferret]]></title>
         <id>https://www.youtube.com/watch?v=VKDTzT-P5qA</id>
@@ -498,16 +508,6 @@ He's so happy to be safe(Feed generated with FetchRSS)]]></summary>
         <link href="https://voiceferret.tumblr.com/post/716909987102883840"/>
         <updated>2023-05-10T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Here’s Braxton]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simon]]></title>
-        <id>https://voiceferret.tumblr.com/post/716728794803847168</id>
-        <link href="https://voiceferret.tumblr.com/post/716728794803847168"/>
-        <updated>2023-05-08T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Simon]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
