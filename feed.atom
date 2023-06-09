@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T02:18:58.280Z</updated>
+    <updated>2023-06-09T02:19:54.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sleepy]]></title>
+        <id>https://voiceferret.tumblr.com/post/719537298949259264</id>
+        <link href="https://voiceferret.tumblr.com/post/719537298949259264"/>
+        <updated>2023-06-08T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Sleepy]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My guy Taxes LOVES hummus. I’ve tried to feed him everything that ferrets are supposed to like but he only wants hummus. Why?? (Pic unrelated)]]></title>
         <id>https://voiceferret.tumblr.com/post/719446701588578304</id>
