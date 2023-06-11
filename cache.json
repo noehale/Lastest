@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://voiceferret.tumblr.com/post/719718492727820288",
+          "author": null,
+          "description": "my ferret is a bit… odd?",
+          "link": "https://voiceferret.tumblr.com/post/719718492727820288",
+          "publishedOn": "2023-06-10T20:04:01.000Z",
+          "wordCount": 770,
+          "title": "my ferret is a bit… odd?",
+          "imageUrl": "https://64.media.tumblr.com/c8eeea80bbf60b05c2dd570fe8d1dfec/4e37e232638e3860-93/s2048x3072/dd22ae89e3c1eed108a7ac9c840a2ffb7add5fce.jpg"
+        },
+        {
           "id": "https://www.facebook.com/666603538159996/posts/806675540819461",
           "author": "The Modern Ferret",
           "description": "I had the honor of writing another educational piece about ferrets for Oxbow Animal Health. I'd love if you could take a few minutes to check it out and tell me what you think!\nThere are important considerations to make when deciding if it's a good idea to pair dogs with ferrets. Learn more.(Feed generated with FetchRSS)",
@@ -514,26 +524,6 @@
           "wordCount": 962,
           "title": "Hiker Hailed a Hero for Rescuing Abandoned Little Ferret She Found on Trail",
           "imageUrl": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/10426704747716623629?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1aUjZR.img%3Fh%3D630%26w%3D1200%26m%3D6%26q%3D60%26o%3Dt%26l%3Df%26f%3Djpg&fb_obo=1&utld=akamaized.net&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbERU4eTlxwsX8-EVZNRS4JLUNsZSQv93A3GtdKIagVlfw&oe=6462ECF6&_nc_sid=030c62"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oOGzzmMqkMI",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oOGzzmMqkMI",
-          "publishedOn": "2023-05-12T03:00:37.000Z",
-          "wordCount": null,
-          "title": "How to Speak Ferret",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/717000583892156416",
-          "author": null,
-          "description": "I found Little Man in a dumpster . He was temporarily boxed and given a tinfoil ball, that’s what he’s digging around for lol. He’s safe and happy now",
-          "link": "https://voiceferret.tumblr.com/post/717000583892156416",
-          "publishedOn": "2023-05-11T20:04:01.000Z",
-          "wordCount": 863,
-          "title": "I found Little Man in a dumpster 🙃. He was temporarily boxed and given a tinfoil ball, that’s what he’s digging around for lol. He’s safe and happy now",
-          "imageUrl": "https://64.media.tumblr.com/7478f07fe884c75fa01feaf0c04d9642/093ce7eda4626971-b4/s1280x1920/550cf9f6a40e4111ba84b62782a164e4a62728bb.jpg"
         }
       ]
     }
