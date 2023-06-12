@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T02:27:45.852Z</updated>
+    <updated>2023-06-12T02:18:19.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Will he ever leave my drinks alone? 🥲]]></title>
+        <id>https://voiceferret.tumblr.com/post/719809093045518336</id>
+        <link href="https://voiceferret.tumblr.com/post/719809093045518336"/>
+        <updated>2023-06-11T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Will he ever leave my drinks alone?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[my ferret is a bit… odd?]]></title>
         <id>https://voiceferret.tumblr.com/post/719718492727820288</id>
@@ -44,6 +54,16 @@ There are important considerations to make when deciding if it's a good idea to 
         <updated>2023-06-10T02:00:12.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bird, ferret rescued from burning Burghill home - WFMJ]]></title>
+        <id>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LndmbWouY29tL3N0b3J5LzQ5MDU4NTAwL2JpcmQtZmVycmV0LXJlc2N1ZWQtZnJvbS1idXJuaW5nLWJ1cmdoaWxsLWhvbWXSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LndmbWouY29tL3N0b3J5LzQ5MDU4NTAwL2JpcmQtZmVycmV0LXJlc2N1ZWQtZnJvbS1idXJuaW5nLWJ1cmdoaWxsLWhvbWXSAQA?oc=5"/>
+        <updated>2023-06-09T22:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -511,17 +531,6 @@ Any idea why ferrets are best for so many people?! In this video, I list all the
         <summary type="html"><![CDATA[The sacred Pudding]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiker Hailed a Hero for Rescuing Abandoned Little Ferret She Found on Trail]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/791384772348538</id>
-        <link href="https://www.facebook.com/666603538159996/posts/791384772348538"/>
-        <updated>2023-05-13T11:18:39.000Z</updated>
-        <summary type="html"><![CDATA[check out the video in this article -does that really look like a domestic ferret to you?? hmm...
-He's so happy to be safe(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
