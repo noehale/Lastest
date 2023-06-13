@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-12T02:18:19.302Z</updated>
+    <updated>2023-06-13T02:08:00.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Does My Ferret Like Me? Signs They DONT!]]></title>
+        <id>https://www.youtube.com/watch?v=5EO2ARrS5Do</id>
+        <link href="https://www.youtube.com/watch?v=5EO2ARrS5Do"/>
+        <updated>2023-06-13T00:00:07.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[His Buddy died yesterday]]></title>
+        <id>https://voiceferret.tumblr.com/post/719899688466268160</id>
+        <link href="https://voiceferret.tumblr.com/post/719899688466268160"/>
+        <updated>2023-06-12T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[His Buddy died yesterday]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will he ever leave my drinks alone? 🥲]]></title>
         <id>https://voiceferret.tumblr.com/post/719809093045518336</id>
@@ -519,16 +538,6 @@ Any idea why ferrets are best for so many people?! In this video, I list all the
         <link href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8va3Jkby5jb20vbmV3cy8yMDIzLzA1LzE0L2hvdXNlLWZpcmUtaW4tcHVlYmxvLWNvdW50eS1jbGFpbXMtdGhlLWxpZmUtb2YtcGV0LWZlcnJldC_SAQA?oc=5"/>
         <updated>2023-05-15T08:04:04.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The sacred Pudding]]></title>
-        <id>https://voiceferret.tumblr.com/post/717181777443258368</id>
-        <link href="https://voiceferret.tumblr.com/post/717181777443258368"/>
-        <updated>2023-05-13T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[The sacred Pudding]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
