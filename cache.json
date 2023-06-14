@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvZmVycmV0LXByaWNlcy1wdXJjaGFzZS1jb3N0LXN1cHBsaWVzLWZvb2QtYW5kLW1vcmUv0gEA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvZmVycmV0LXByaWNlcy1wdXJjaGFzZS1jb3N0LXN1cHBsaWVzLWZvb2QtYW5kLW1vcmUv0gEA?oc=5",
+          "publishedOn": "2023-06-13T15:27:12.000Z",
+          "wordCount": 5976,
+          "title": "Ferret Prices in 2023: Purchase Cost, Supplies, Food, and More! - AZ Animals",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5EO2ARrS5Do",
           "author": "The Modern Ferret",
           "description": "",
@@ -514,36 +524,6 @@
           "wordCount": 754,
           "title": "POV",
           "imageUrl": "https://64.media.tumblr.com/8a1ccdb19c69cd80c1d41efc982e5c73/35c5729c666a5d8f-fc/s1280x1920/3f29320983b6ab4ad1a2e6b8f3ba9b475d56ef01.jpg"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/792465318907150",
-          "author": "The Modern Ferret",
-          "description": "If you want a reason to smile today, watch this video :) \n\nAny idea why ferrets are best for so many people?! In this video, I list all the top reasons ferrets make great pets (aka the Pros of Ferrets). I touch on fe...(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/792465318907150",
-          "publishedOn": "2023-05-15T09:43:07.000Z",
-          "wordCount": 768,
-          "title": "Why Ferrets are Best : Pros of Ferrets as Pets",
-          "imageUrl": "https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/8697832832732964229?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FE7DuBj7vAmc%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbE-amvrMrYQM9qTylPxNBvazslinyZVpJ7QEzpa-uS2wQ&oe=64645FAE&_nc_sid=030c62"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzI1OTg2NjkvcGV0LWNhcmUtZmVycmV0LW9uLXRoZS1ydW4tbm8tb25lLWhhdmluZy1mdW4uaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-05-15T09:01:42.000Z",
-          "wordCount": 6015,
-          "title": "Pet care: Ferret on the run; no one having fun - Albuquerque Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8va3Jkby5jb20vbmV3cy8yMDIzLzA1LzE0L2hvdXNlLWZpcmUtaW4tcHVlYmxvLWNvdW50eS1jbGFpbXMtdGhlLWxpZmUtb2YtcGV0LWZlcnJldC_SAQA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8va3Jkby5jb20vbmV3cy8yMDIzLzA1LzE0L2hvdXNlLWZpcmUtaW4tcHVlYmxvLWNvdW50eS1jbGFpbXMtdGhlLWxpZmUtb2YtcGV0LWZlcnJldC_SAQA?oc=5",
-          "publishedOn": "2023-05-15T08:04:04.000Z",
-          "wordCount": 6015,
-          "title": "House fire in Pueblo County claims the life of pet ferret - KRDO",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }
