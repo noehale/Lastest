@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AMYpxxLMEns",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AMYpxxLMEns",
+          "publishedOn": "2023-06-16T00:00:06.000Z",
+          "wordCount": null,
+          "title": "Does My Ferret Like Me? Signs They Do!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/720171479023730688",
+          "author": null,
+          "description": "those socks were later found under the couch…",
+          "link": "https://voiceferret.tumblr.com/post/720171479023730688",
+          "publishedOn": "2023-06-15T20:04:02.000Z",
+          "wordCount": 780,
+          "title": "those socks were later found under the couch…😅",
+          "imageUrl": "https://64.media.tumblr.com/c88a8b1e0933a1f8f1fa90670814ed14/c20dcf30a9f003cb-12/s1280x1920/bd3e7730d19f3614efaeca854dc976d6936bcbce.jpg"
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbmV3cy55YWhvby5jb20vcHJhaXJpZS1kb2ctcmVtb3ZhbC1oZWlsLXZhbGxleS0wMzI1MDAwMDAuaHRtbNIBTWh0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9wcmFpcmllLWRvZy1yZW1vdmFsLWhlaWwtdmFsbGV5LTAzMjUwMDAwMC5odG1s?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -23,6 +43,16 @@
           "publishedOn": "2023-06-13T15:27:12.000Z",
           "wordCount": 5976,
           "title": "Ferret Prices in 2023: Purchase Cost, Supplies, Food, and More! - AZ Animals",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vcm9ja2xhbmRuZXdzLmNvbS9oZWFsdGgtZGVwYXJ0bWVudC1vZmZlcnMtZnJlZS1yYWJpZXMtc2hvdHMtZm9yLWNhdHMtZG9ncy1hbmQtZmVycmV0cy1vbi1zdW5kYXktanVseS05LTIwMjMv0gEA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vcm9ja2xhbmRuZXdzLmNvbS9oZWFsdGgtZGVwYXJ0bWVudC1vZmZlcnMtZnJlZS1yYWJpZXMtc2hvdHMtZm9yLWNhdHMtZG9ncy1hbmQtZmVycmV0cy1vbi1zdW5kYXktanVseS05LTIwMjMv0gEA?oc=5",
+          "publishedOn": "2023-06-13T06:39:02.000Z",
+          "wordCount": 5976,
+          "title": "Health Department Offers Free Rabies Shots for Cats, Dogs, And Ferrets on Sunday, July 9, 2023 - RocklandNews",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -504,26 +534,6 @@
           "wordCount": 780,
           "title": "Newest hire at our company, everyone meet Appa!",
           "imageUrl": "https://64.media.tumblr.com/a5b6528c80c037ba808cc2500183523c/e224a8faa4e94e51-71/s1280x1920/4b093c8d27a9d5712722b5d2801cf8b258edb201.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V7GvQb2b4KU",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V7GvQb2b4KU",
-          "publishedOn": "2023-05-17T11:15:00.000Z",
-          "wordCount": null,
-          "title": "Ferret Biting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/717453570358870016",
-          "author": null,
-          "description": "You love it? lol",
-          "link": "https://voiceferret.tumblr.com/post/717453570358870016",
-          "publishedOn": "2023-05-16T20:04:03.000Z",
-          "wordCount": 763,
-          "title": "You love it? lol",
-          "imageUrl": "https://64.media.tumblr.com/f1acd7cc5bb5e65e959612ed244b1150/c5134ab81377b9bd-73/s1280x1920/8ea5305e4e767e8e06bc4fafae9b8d1ab1a212a5.jpg"
         }
       ]
     }

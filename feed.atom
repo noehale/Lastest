@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T02:06:10.855Z</updated>
+    <updated>2023-06-16T02:07:17.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Does My Ferret Like Me? Signs They Do!]]></title>
+        <id>https://www.youtube.com/watch?v=AMYpxxLMEns</id>
+        <link href="https://www.youtube.com/watch?v=AMYpxxLMEns"/>
+        <updated>2023-06-16T00:00:06.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[those socks were later found under the couch…😅]]></title>
+        <id>https://voiceferret.tumblr.com/post/720171479023730688</id>
+        <link href="https://voiceferret.tumblr.com/post/720171479023730688"/>
+        <updated>2023-06-15T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[those socks were later found under the couch…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prairie dog removal at Heil Valley Ranch angers residents - Yahoo News]]></title>
         <id>https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbmV3cy55YWhvby5jb20vcHJhaXJpZS1kb2ctcmVtb3ZhbC1oZWlsLXZhbGxleS0wMzI1MDAwMDAuaHRtbNIBTWh0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9wcmFpcmllLWRvZy1yZW1vdmFsLWhlaWwtdmFsbGV5LTAzMjUwMDAwMC5odG1s?oc=5</id>
@@ -21,6 +40,16 @@
         <id>https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvZmVycmV0LXByaWNlcy1wdXJjaGFzZS1jb3N0LXN1cHBsaWVzLWZvb2QtYW5kLW1vcmUv0gEA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvZmVycmV0LXByaWNlcy1wdXJjaGFzZS1jb3N0LXN1cHBsaWVzLWZvb2QtYW5kLW1vcmUv0gEA?oc=5"/>
         <updated>2023-06-13T15:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Department Offers Free Rabies Shots for Cats, Dogs, And Ferrets on Sunday, July 9, 2023 - RocklandNews]]></title>
+        <id>https://news.google.com/rss/articles/CBMidGh0dHBzOi8vcm9ja2xhbmRuZXdzLmNvbS9oZWFsdGgtZGVwYXJ0bWVudC1vZmZlcnMtZnJlZS1yYWJpZXMtc2hvdHMtZm9yLWNhdHMtZG9ncy1hbmQtZmVycmV0cy1vbi1zdW5kYXktanVseS05LTIwMjMv0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMidGh0dHBzOi8vcm9ja2xhbmRuZXdzLmNvbS9oZWFsdGgtZGVwYXJ0bWVudC1vZmZlcnMtZnJlZS1yYWJpZXMtc2hvdHMtZm9yLWNhdHMtZG9ncy1hbmQtZmVycmV0cy1vbi1zdW5kYXktanVseS05LTIwMjMv0gEA?oc=5"/>
+        <updated>2023-06-13T06:39:02.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
@@ -497,25 +526,6 @@ Have you ever wondered what is the true cost of ferrets as pets? Get your 2024 F
         <link href="https://voiceferret.tumblr.com/post/717634762588733440"/>
         <updated>2023-05-18T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Newest hire at our company, everyone meet Appa!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Biting]]></title>
-        <id>https://www.youtube.com/watch?v=V7GvQb2b4KU</id>
-        <link href="https://www.youtube.com/watch?v=V7GvQb2b4KU"/>
-        <updated>2023-05-17T11:15:00.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You love it? lol]]></title>
-        <id>https://voiceferret.tumblr.com/post/717453570358870016</id>
-        <link href="https://voiceferret.tumblr.com/post/717453570358870016"/>
-        <updated>2023-05-16T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[You love it? lol]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
