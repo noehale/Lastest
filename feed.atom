@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T02:07:17.312Z</updated>
+    <updated>2023-06-17T02:02:44.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[He waits outside the shower door to lick my toes 💀]]></title>
+        <id>https://voiceferret.tumblr.com/post/720262074793607168</id>
+        <link href="https://voiceferret.tumblr.com/post/720262074793607168"/>
+        <updated>2023-06-16T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[He waits outside the shower door to lick my toes]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet reading with my favorite snuggle buddy #ferret #ferrets #ferretsofinstagram]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/810360320450983</id>
+        <link href="https://www.facebook.com/666603538159996/posts/810360320450983"/>
+        <updated>2023-06-16T17:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Quiet reading with my favorite snuggle buddy #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does My Ferret Like Me? Signs They Do!]]></title>
         <id>https://www.youtube.com/watch?v=AMYpxxLMEns</id>
@@ -220,6 +240,16 @@ There are important considerations to make when deciding if it's a good idea to 
         <updated>2023-06-03T00:45:02.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Black-Footed Ferret Mom Hickory and Her New Kits on Public Webcam - Smithsonian's National Zoo and Conservation Biology Institute]]></title>
+        <id>https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L25ld3Mvd2F0Y2gtYmxhY2stZm9vdGVkLWZlcnJldC1tb20taGlja29yeS1hbmQtaGVyLW5ldy1raXRzLXB1YmxpYy13ZWJjYW3SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L25ld3Mvd2F0Y2gtYmxhY2stZm9vdGVkLWZlcnJldC1tb20taGlja29yeS1hbmQtaGVyLW5ldy1raXRzLXB1YmxpYy13ZWJjYW3SAQA?oc=5"/>
+        <updated>2023-06-02T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
