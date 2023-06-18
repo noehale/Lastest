@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-17T02:02:44.556Z</updated>
+    <updated>2023-06-18T02:20:51.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is anyone else’s ferret obsessed with licking them?]]></title>
+        <id>https://voiceferret.tumblr.com/post/720352672914489344</id>
+        <link href="https://voiceferret.tumblr.com/post/720352672914489344"/>
+        <updated>2023-06-17T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Is anyone else’s ferret obsessed with licking them?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[He waits outside the shower door to lick my toes 💀]]></title>
         <id>https://voiceferret.tumblr.com/post/720262074793607168</id>
@@ -537,25 +547,6 @@ Have you ever wondered what is the true cost of ferrets as pets? Get your 2024 F
         <link href="https://voiceferret.tumblr.com/post/717725359541567488"/>
         <updated>2023-05-19T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[My ferrets and the art they inspired]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets Stealing Stuff : Why Do They Do That?!]]></title>
-        <id>https://www.youtube.com/watch?v=taQDbvO0-Go</id>
-        <link href="https://www.youtube.com/watch?v=taQDbvO0-Go"/>
-        <updated>2023-05-19T11:00:22.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newest hire at our company, everyone meet Appa!]]></title>
-        <id>https://voiceferret.tumblr.com/post/717634762588733440</id>
-        <link href="https://voiceferret.tumblr.com/post/717634762588733440"/>
-        <updated>2023-05-18T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Newest hire at our company, everyone meet Appa!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
