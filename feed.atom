@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-18T02:20:51.734Z</updated>
+    <updated>2023-06-19T02:08:14.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Our shameless baby, Lady passed away but she left quite an impression.]]></title>
+        <id>https://voiceferret.tumblr.com/post/720443271269236736</id>
+        <link href="https://voiceferret.tumblr.com/post/720443271269236736"/>
+        <updated>2023-06-18T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Our shameless baby, Lady passed away but she left quite an impression.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is anyone else’s ferret obsessed with licking them?]]></title>
         <id>https://voiceferret.tumblr.com/post/720352672914489344</id>
@@ -43,6 +53,16 @@
         <updated>2023-06-16T00:00:06.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dose-Dependent Response to Infection with Ebola Virus in the Ferret Model and Evidence of Viral Evolution in the Eye | Journal of Virology - American Society for Microbiology]]></title>
+        <id>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vam91cm5hbHMuYXNtLm9yZy9kb2kvMTAuMTEyOC9qdmkuMDA4MzMtMjHSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vam91cm5hbHMuYXNtLm9yZy9kb2kvMTAuMTEyOC9qdmkuMDA4MzMtMjHSAQA?oc=5"/>
+        <updated>2023-06-15T22:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -507,46 +527,6 @@ Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon ride
         <link href="https://voiceferret.tumblr.com/post/717815957334163456"/>
         <updated>2023-05-20T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[A rare picture of awake ferrets that isn’t blurry]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[True Cost of Ferrets : REAL Owners Answer]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/795096928643989</id>
-        <link href="https://www.facebook.com/666603538159996/posts/795096928643989"/>
-        <updated>2023-05-20T09:15:31.000Z</updated>
-        <summary type="html"><![CDATA[I calculated ALL the upfront costs associated with a ferret in this week's video! Did I come close to what you spent or not? Let me know in the comments
-Have you ever wondered what is the true cost of ferrets as pets? Get your 2024 Ferret Calendar Here (#1 on Amazon): https://geni.us/2024FerretCalendarIn this...(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[True Cost of Ferrets : REAL Owners Answer]]></title>
-        <id>https://www.youtube.com/watch?v=A19omJB6MVc</id>
-        <link href="https://www.youtube.com/watch?v=A19omJB6MVc"/>
-        <updated>2023-05-20T09:10:45.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinder Morgan Wins 'Tax Ferret' Argument at Texas High Court - Bloomberg Tax]]></title>
-        <id>https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2RhaWx5LXRheC1yZXBvcnQtc3RhdGUva2luZGVyLW1vcmdhbi13aW5zLXRheC1mZXJyZXQtYXJndW1lbnQtYXQtdGV4YXMtaGlnaC1jb3VydNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3cy5ibG9vbWJlcmd0YXguY29tL2RhaWx5LXRheC1yZXBvcnQtc3RhdGUva2luZGVyLW1vcmdhbi13aW5zLXRheC1mZXJyZXQtYXJndW1lbnQtYXQtdGV4YXMtaGlnaC1jb3VydNIBAA?oc=5"/>
-        <updated>2023-05-20T05:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My ferrets and the art they inspired]]></title>
-        <id>https://voiceferret.tumblr.com/post/717725359541567488</id>
-        <link href="https://voiceferret.tumblr.com/post/717725359541567488"/>
-        <updated>2023-05-19T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[My ferrets and the art they inspired]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
