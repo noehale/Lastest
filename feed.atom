@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-19T02:08:14.132Z</updated>
+    <updated>2023-06-20T02:02:32.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What does it mean?]]></title>
+        <id>https://voiceferret.tumblr.com/post/720533868252397569</id>
+        <link href="https://voiceferret.tumblr.com/post/720533868252397569"/>
+        <updated>2023-06-19T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[What does it mean?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our shameless baby, Lady passed away but she left quite an impression.]]></title>
         <id>https://voiceferret.tumblr.com/post/720443271269236736</id>
@@ -506,27 +516,6 @@ What do you think of Oxbow’s Forage Mat? Make sure to check out @oxbowanimalhe
         <link href="https://voiceferret.tumblr.com/post/717906553411452928"/>
         <updated>2023-05-21T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Why he such a smol bean?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Ferret 2024 12" x 12" Wall Calendar]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/795650661921949</id>
-        <link href="https://www.facebook.com/666603538159996/posts/795650661921949"/>
-        <updated>2023-05-21T05:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Help us get back to the #1 New Release spot on Amazon by pre-ordering your 2024 Ferret Calendar today!
-Meet the Modern Ferret, a distinguished creature who enjoys hot air balloon rides, relaxing bubble baths, and even the occasional trip to outer space. These joyful and colorful images were created to celebrate the playful nature of ferrets and to educate the world about this amazing animal. Stay ...(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A rare picture of awake ferrets that isn’t blurry]]></title>
-        <id>https://voiceferret.tumblr.com/post/717815957334163456</id>
-        <link href="https://voiceferret.tumblr.com/post/717815957334163456"/>
-        <updated>2023-05-20T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[A rare picture of awake ferrets that isn’t blurry]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
