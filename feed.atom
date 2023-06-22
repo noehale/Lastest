@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T02:03:33.830Z</updated>
+    <updated>2023-06-22T02:08:53.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My sweet little troublemaker fearne, went from being a pain in my butt, to my sick baby so fast. The emergency vet said it was an upper respiratory infection, so she’s on amoxicillin, and I have to give it 24 hours to see if her condition improves. It is so hard to sit here and watch her struggle.]]></title>
+        <id>https://voiceferret.tumblr.com/post/720715060951105536</id>
+        <link href="https://voiceferret.tumblr.com/post/720715060951105536"/>
+        <updated>2023-06-21T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My sweet little troublemaker fearne, went from being a pain in my butt, to my sick baby so fast. The emergency vet said it was an upper respiratory infection, so she’s on amoxicillin, and I have to give it 24 hours to see if her condition improves. It is so hard to sit here and watch her struggle.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ways to Bond with Your Ferret : Share Space]]></title>
         <id>https://www.youtube.com/watch?v=qSNQNJmGiWk</id>
@@ -496,25 +506,6 @@ What do you think of Oxbow’s Forage Mat? Make sure to check out @oxbowanimalhe
         <link href="https://voiceferret.tumblr.com/post/718087747676569600"/>
         <updated>2023-05-23T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Lil Nim found the perfect sleeping spot]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Big Do Ferrets Get?]]></title>
-        <id>https://www.youtube.com/watch?v=YKYWSJ6DWUg</id>
-        <link href="https://www.youtube.com/watch?v=YKYWSJ6DWUg"/>
-        <updated>2023-05-23T00:00:22.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This weekend is Irelia’s Victory Lap ❤️]]></title>
-        <id>https://voiceferret.tumblr.com/post/717997150904188928</id>
-        <link href="https://voiceferret.tumblr.com/post/717997150904188928"/>
-        <updated>2023-05-22T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[This weekend is Irelia’s Victory Lap]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
