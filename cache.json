@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_1njUn_YY84",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_1njUn_YY84",
+          "publishedOn": "2023-06-23T07:19:46.000Z",
+          "wordCount": null,
+          "title": "True Cost Of Ferrets: How Much I Spent At The Vet $$$",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/720805658208976896",
+          "author": null,
+          "description": "How to ferret-proof a couch?",
+          "link": "https://voiceferret.tumblr.com/post/720805658208976896",
+          "publishedOn": "2023-06-22T20:04:03.000Z",
+          "wordCount": 754,
+          "title": "How to ferret-proof a couch?",
+          "imageUrl": "https://64.media.tumblr.com/2f6b7c79d1be39b1fbf6c7c4b0291fdd/7f5a3a77b29d1945-2b/s1280x1920/0d55cc540b0fdf3f651cf4757d677251fc46ee77.jpg"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/720715060951105536",
           "author": null,
           "description": "My sweet little troublemaker fearne, went from being a pain in my butt, to my sick baby so fast. The emergency vet said it was an upper respiratory infection, so she’s on amoxicillin, and I have to give it 24 hours to see if her condition improves. It is so hard to sit here and watch her struggle.",
@@ -504,16 +524,6 @@
           "wordCount": 843,
           "title": "My males both hate bath time. Sophia on the other hand enjoys it almost too much and demands all the treatment she can get..",
           "imageUrl": "https://64.media.tumblr.com/c98d781627d75607f2911fc27c16f2c3/746329c230989e53-61/s500x750/d9034cadcb68ede60a61dc981950fcd02ae84fd3.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/718087747676569600",
-          "author": null,
-          "description": "Lil Nim found the perfect sleeping spot",
-          "link": "https://voiceferret.tumblr.com/post/718087747676569600",
-          "publishedOn": "2023-05-23T20:04:01.000Z",
-          "wordCount": 764,
-          "title": "Lil Nim found the perfect sleeping spot",
-          "imageUrl": "https://64.media.tumblr.com/19c2683ca5ec14e06debd9fdf74d26cc/44830a044a9203a2-1d/s1280x1920/c4043da38b5df1f54044be6f068421cbd74098fc.jpg"
         }
       ]
     }
