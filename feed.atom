@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T02:19:41.585Z</updated>
+    <updated>2023-06-25T02:39:15.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grieving the loss of my baby ferret]]></title>
+        <id>https://voiceferret.tumblr.com/post/720986850445213696</id>
+        <link href="https://voiceferret.tumblr.com/post/720986850445213696"/>
+        <updated>2023-06-24T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Grieving the loss of my baby ferret]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should Prairie Dogs Be Used As Practice Prey For Ferrets? - Psychology Today]]></title>
         <id>https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnBzeWNob2xvZ3l0b2RheS5jb20vdXMvYmxvZy9hbmltYWwtZW1vdGlvbnMvMjAyMzA2L3Nob3VsZC1wcmFpcmllLWRvZ3MtYmUtdXNlZC1hcy1wcmFjdGljZS1wcmV5LWZvci1mZXJyZXRz0gF7aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS91cy9ibG9nL2FuaW1hbC1lbW90aW9ucy8yMDIzMDYvc2hvdWxkLXByYWlyaWUtZG9ncy1iZS11c2VkLWFzLXByYWN0aWNlLXByZXktZm9yLWZlcnJldHM_YW1w?oc=5</id>
@@ -516,25 +526,6 @@ What do you think of Oxbow’s Forage Mat? Make sure to check out @oxbowanimalhe
         <link href="https://voiceferret.tumblr.com/post/718359541025243136"/>
         <updated>2023-05-26T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[Caption this]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets as Pets]]></title>
-        <id>https://www.youtube.com/watch?v=t18TcIWAirI</id>
-        <link href="https://www.youtube.com/watch?v=t18TcIWAirI"/>
-        <updated>2023-05-26T00:45:02.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3-Month Old, Cinnamon Toast]]></title>
-        <id>https://voiceferret.tumblr.com/post/718268943775793152</id>
-        <link href="https://voiceferret.tumblr.com/post/718268943775793152"/>
-        <updated>2023-05-25T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[3-Month Old, Cinnamon Toast]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
