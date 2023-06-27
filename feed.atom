@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T02:26:34.800Z</updated>
+    <updated>2023-06-27T02:23:30.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ways to Bond with Your Ferret : Get Low!]]></title>
+        <id>https://www.youtube.com/watch?v=jpAsoDYEy8Y</id>
+        <link href="https://www.youtube.com/watch?v=jpAsoDYEy8Y"/>
+        <updated>2023-06-27T01:00:36.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[when you have to leave for your vacation and they give you this look.. </3]]></title>
+        <id>https://voiceferret.tumblr.com/post/721168044193398785</id>
+        <link href="https://voiceferret.tumblr.com/post/721168044193398785"/>
+        <updated>2023-06-26T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[when you have to leave for your vacation and they give you this look.. 3]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ursula showing off her new fur after her implant. No more nekkid pole(cat)-dancin’!]]></title>
         <id>https://voiceferret.tumblr.com/post/721077450575167488</id>
@@ -487,28 +506,6 @@ Can ferrets safely coexist with other popular pets? It depends! Learn more about
         <summary type="html"><![CDATA[A sliding ferret]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just wanted to share a picture of Chai. She passed today after being with me for 9 years. She is going to be missed.]]></title>
-        <id>https://voiceferret.tumblr.com/post/718450135302029312</id>
-        <link href="https://voiceferret.tumblr.com/post/718450135302029312"/>
-        <updated>2023-05-27T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Just wanted to share a picture of Chai. She passed today after being with me for 9 years. She is going to be missed.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to talk enrichment! Can you share some ways YOU like to provide enr...]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/799048754915473</id>
-        <link href="https://www.facebook.com/666603538159996/posts/799048754915473"/>
-        <updated>2023-05-27T15:18:57.000Z</updated>
-        <summary type="html"><![CDATA[#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to talk enrichment! Can you share some ways YOU like to provide enrichment for YOUR ferret? 😊
-What do you think of Oxbow’s Forage Mat? Make sure to check out @oxbowanimalhealth ferret food, treat, and enrichment items today: https://oxbowanimalhealth.com/ferrets/
-#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>

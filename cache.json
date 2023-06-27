@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jpAsoDYEy8Y",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jpAsoDYEy8Y",
+          "publishedOn": "2023-06-27T01:00:36.000Z",
+          "wordCount": null,
+          "title": "Ways to Bond with Your Ferret : Get Low!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/721168044193398785",
+          "author": null,
+          "description": "when you have to leave for your vacation and they give you this look.. 3",
+          "link": "https://voiceferret.tumblr.com/post/721168044193398785",
+          "publishedOn": "2023-06-26T20:04:01.000Z",
+          "wordCount": 798,
+          "title": "when you have to leave for your vacation and they give you this look.. </3",
+          "imageUrl": "https://64.media.tumblr.com/dca90d70c25334e40e4952b5b6044f7c/b4be1246e5440a49-d5/s1280x1920/f758cc8abaaac53685960dbac1d7a8684a3c4326.jpg"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/721077450575167488",
           "author": null,
           "description": "Ursula showing off her new fur after her implant. No more nekkid pole(cat)-dancin’!",
@@ -494,26 +514,6 @@
           "wordCount": 744,
           "title": "A sliding ferret",
           "imageUrl": "https://64.media.tumblr.com/f1900982ad3c430b4877bb6e6a1d4acf/2e38b5ffe2efb6ee-e1/s500x750/48d9bb71c256fe4501c052ae8d71daa53207842e.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/718450135302029312",
-          "author": null,
-          "description": "Just wanted to share a picture of Chai. She passed today after being with me for 9 years. She is going to be missed.",
-          "link": "https://voiceferret.tumblr.com/post/718450135302029312",
-          "publishedOn": "2023-05-27T20:04:01.000Z",
-          "wordCount": 843,
-          "title": "Just wanted to share a picture of Chai. She passed today after being with me for 9 years. She is going to be missed.",
-          "imageUrl": "https://64.media.tumblr.com/42c031deaeb04da6f7a7dc482f1106a2/8c7d767e8f18a4ff-b9/s1280x1920/ddd2c4765006ea72570d3239d6b426585fc04e4e.jpg"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/799048754915473",
-          "author": "The Modern Ferret",
-          "description": "#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to talk enrichment! Can you share some ways YOU like to provide enrichment for YOUR ferret? 😊\nWhat do you think of Oxbow’s Forage Mat? Make sure to check out @oxbowanimalhealth ferret food, treat, and enrichment items today: https://oxbowanimalhealth.com/ferrets/\n#ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/799048754915473",
-          "publishedOn": "2023-05-27T15:18:57.000Z",
-          "wordCount": 82,
-          "title": "#oxbowsponsored Today I'm partnering with #oxbowanimalhealth to talk enrichment! Can you share some ways YOU like to provide enr...",
-          "imageUrl": null
         }
       ]
     }
