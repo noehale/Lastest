@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-27T02:23:30.467Z</updated>
+    <updated>2023-06-28T02:21:53.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -494,16 +494,6 @@ Can ferrets safely coexist with other popular pets? It depends! Learn more about
         <link href="https://voiceferret.tumblr.com/post/718631329045118976"/>
         <updated>2023-05-29T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Help please… We found a pair of abandoned ferrets, and police basically told us to f*ck off, what do I do while waiting for rehome?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A sliding ferret]]></title>
-        <id>https://voiceferret.tumblr.com/post/718540731847966720</id>
-        <link href="https://voiceferret.tumblr.com/post/718540731847966720"/>
-        <updated>2023-05-28T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[A sliding ferret]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
