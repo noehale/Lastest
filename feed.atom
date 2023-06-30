@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T02:18:26.278Z</updated>
+    <updated>2023-06-30T02:15:35.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When the love of ferrets borders on OBSESSION -I found this old picture from around 10 years ago… #ferret]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/817190876434594</id>
+        <link href="https://www.facebook.com/666603538159996/posts/817190876434594"/>
+        <updated>2023-06-30T01:23:48.000Z</updated>
+        <summary type="html"><![CDATA[When the love of ferrets borders on OBSESSION -I found this old picture from around 10 years ago… #ferret(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My love bugs ❤️]]></title>
+        <id>https://voiceferret.tumblr.com/post/721439836965371904</id>
+        <link href="https://voiceferret.tumblr.com/post/721439836965371904"/>
+        <updated>2023-06-29T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My love bugs]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reintroduction of ferrets on Standing Rock Reservation a work in progress - Timberlakesouthdakota]]></title>
         <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWJlcmxha2Vzb3V0aGRha290YS5jb20vbmV3cy9yZWludHJvZHVjdGlvbi1mZXJyZXRzLXN0YW5kaW5nLXJvY2stcmVzZXJ2YXRpb24td29yay1wcm9ncmVzc9IBAA?oc=5</id>
@@ -485,25 +505,6 @@ Can ferrets safely coexist with other popular pets? It depends! Learn more about
         <link href="https://voiceferret.tumblr.com/post/718812522882400256"/>
         <updated>2023-05-31T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[My Beautiful girl nebula.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Weasel?]]></title>
-        <id>https://www.youtube.com/watch?v=3X64RqC88-A</id>
-        <link href="https://www.youtube.com/watch?v=3X64RqC88-A"/>
-        <updated>2023-05-31T02:00:02.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our vet mailed us this after we made the hard choice to send Loki over the rainbow bridge. DIP chaos maker 💜]]></title>
-        <id>https://voiceferret.tumblr.com/post/718721926972997632</id>
-        <link href="https://voiceferret.tumblr.com/post/718721926972997632"/>
-        <updated>2023-05-30T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Our vet mailed us this after we made the hard choice to send Loki over the rainbow bridge. DIP chaos maker]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
