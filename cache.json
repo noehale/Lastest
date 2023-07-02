@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://voiceferret.tumblr.com/post/721621030998818819",
+          "author": null,
+          "description": "Play fighting or not?",
+          "link": "https://voiceferret.tumblr.com/post/721621030998818819",
+          "publishedOn": "2023-07-01T20:04:03.000Z",
+          "wordCount": 749,
+          "title": "Play fighting or not?",
+          "imageUrl": "https://64.media.tumblr.com/2ada14548e79e85871271b208b2854bd/f35a990f5fc107e4-c2/s1280x1920/91fc7e972cf745bb28f57ed0559add8ff3638144.jpg"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy53enptMTMuY29tL3ZpZGVvL25ld3MvZmVycmV0LWNhdXNlcy1zdGlyLWluLWFsbGVnYW4tYWZ0ZXItbWFraW5nLWZhc3QtZm9vZC1waXQtc3RvcHMvNjktYmRhMDQyMWQtMzc2Zi00YWVkLTkyYTAtYWJmMmZlOGVlNTlm0gEA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy53enptMTMuY29tL3ZpZGVvL25ld3MvZmVycmV0LWNhdXNlcy1zdGlyLWluLWFsbGVnYW4tYWZ0ZXItbWFraW5nLWZhc3QtZm9vZC1waXQtc3RvcHMvNjktYmRhMDQyMWQtMzc2Zi00YWVkLTkyYTAtYWJmMmZlOGVlNTlm0gEA?oc=5",
+          "publishedOn": "2023-07-01T17:19:00.000Z",
+          "wordCount": 6029,
+          "title": "Ferret causes stir in Allegan after making fast food pit stops - WZZM13.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3iZyDlRUPgY",
           "author": "The Modern Ferret",
           "description": "",
@@ -494,36 +514,6 @@
           "wordCount": 786,
           "title": "Does anyone else have to talk their ferret into leaving the dryer?",
           "imageUrl": "https://64.media.tumblr.com/2a6b3c5ed914979d0d54f7e124d3491d/595310e08c801b5c-e9/s1280x1920/460e4a43050086997d1646dbaa445368fe8f461f.jpg"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/801947457958936",
-          "author": "The Modern Ferret",
-          "description": "I just wrote another article for Oxbow Animal Health! It's such a privilege to make content for them. Please take a moment to read and let me know what you think!\nCan ferrets safely coexist with other popular pets? It depends! Learn more about which pet species should never be kept with ferrets.(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/801947457958936",
-          "publishedOn": "2023-06-02T00:20:53.000Z",
-          "wordCount": 1303,
-          "title": "Which Popular Pets Should Not Be Kept With Ferrets? - Oxbow Animal Health",
-          "imageUrl": "https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/1763682615039736362?url=https%3A%2F%2Foxbowanimalhealth.com%2Fwp-content%2Fuploads%2F2023%2F04%2F132.jpg&fb_obo=1&utld=oxbowanimalhealth.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbGMDxfRj-rahHDRPfOmWFsgAHQF9fMnJ_zmT4GVZDAmzQ&oe=647AA8FF&_nc_sid=528b31"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/718903120278798336",
-          "author": null,
-          "description": "Too skinny?",
-          "link": "https://voiceferret.tumblr.com/post/718903120278798336",
-          "publishedOn": "2023-06-01T20:04:01.000Z",
-          "wordCount": 747,
-          "title": "Too skinny?",
-          "imageUrl": "https://64.media.tumblr.com/23acea34be3200577fdf0dce3542d2ca/eea5cc65f5bdec75-91/s1280x1920/8880480ac39627e6c202d4309c4ace1d864fa7d2.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D3ao02v53PU",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D3ao02v53PU",
-          "publishedOn": "2023-06-01T19:00:08.000Z",
-          "wordCount": null,
-          "title": "My Ferret Tests My Hammock #ferret #ferrets #ferreting",
-          "imageUrl": null
         }
       ]
     }
