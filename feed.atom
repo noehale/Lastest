@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T02:28:07.079Z</updated>
+    <updated>2023-07-03T02:21:40.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My ferrets and their mugshots.]]></title>
+        <id>https://voiceferret.tumblr.com/post/721711628028133376</id>
+        <link href="https://voiceferret.tumblr.com/post/721711628028133376"/>
+        <updated>2023-07-02T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My ferrets and their mugshots.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Play fighting or not?]]></title>
         <id>https://voiceferret.tumblr.com/post/721621030998818819</id>
@@ -465,45 +475,6 @@ There are important considerations to make when deciding if it's a good idea to 
         <link href="https://voiceferret.tumblr.com/post/719174911889965056"/>
         <updated>2023-06-04T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[The little theif in the house]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets down your trousers? That’s Life! - The Guardian]]></title>
-        <id>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZdIBWmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZQ?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZdIBWmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMy9qdW4vMDIvZmVycmV0cy1kb3duLXlvdXItdHJvdXNlcnMtdGhhdHMtbGlmZQ?oc=5"/>
-        <updated>2023-06-03T06:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Food : What NOT to Eat!]]></title>
-        <id>https://www.youtube.com/watch?v=q4gpT-1gO7o</id>
-        <link href="https://www.youtube.com/watch?v=q4gpT-1gO7o"/>
-        <updated>2023-06-03T00:45:02.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Black-Footed Ferret Mom Hickory and Her New Kits on Public Webcam - Smithsonian's National Zoo and Conservation Biology Institute]]></title>
-        <id>https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L25ld3Mvd2F0Y2gtYmxhY2stZm9vdGVkLWZlcnJldC1tb20taGlja29yeS1hbmQtaGVyLW5ldy1raXRzLXB1YmxpYy13ZWJjYW3SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L25ld3Mvd2F0Y2gtYmxhY2stZm9vdGVkLWZlcnJldC1tb20taGlja29yeS1hbmQtaGVyLW5ldy1raXRzLXB1YmxpYy13ZWJjYW3SAQA?oc=5"/>
-        <updated>2023-06-02T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does anyone else have to talk their ferret into leaving the dryer?]]></title>
-        <id>https://voiceferret.tumblr.com/post/718993717246279680</id>
-        <link href="https://voiceferret.tumblr.com/post/718993717246279680"/>
-        <updated>2023-06-02T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone else have to talk their ferret into leaving the dryer?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
