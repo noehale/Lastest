@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T02:21:40.615Z</updated>
+    <updated>2023-07-04T02:22:54.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ways to Bond with Your Ferret : Nap Together!]]></title>
+        <id>https://www.youtube.com/watch?v=6xoSLQfwJMM</id>
+        <link href="https://www.youtube.com/watch?v=6xoSLQfwJMM"/>
+        <updated>2023-07-04T01:30:02.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So Kaylee found the cats litter box after I cleaned it and decided to make a zen garden (I immediately moved it out of her reach after this video). Needless to say she has a rice dig box now 😅]]></title>
+        <id>https://voiceferret.tumblr.com/post/721802224362274816</id>
+        <link href="https://voiceferret.tumblr.com/post/721802224362274816"/>
+        <updated>2023-07-03T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[So Kaylee found the cats litter box after I cleaned it and decided to make a zen garden (I immediately moved it out of her reach after this video). Needless to say she has a rice dig box now]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My ferrets and their mugshots.]]></title>
         <id>https://voiceferret.tumblr.com/post/721711628028133376</id>
