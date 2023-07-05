@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T02:22:54.506Z</updated>
+    <updated>2023-07-05T02:21:23.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cat and Ferret Playing Together Melts Hearts: 'Silly Derps' - Newsweek]]></title>
+        <id>https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jYXQtZmVycmV0LXBsYXlpbmctdG9nZXRoZXItbWVsdHMtaGVhcnRzLTE4MTA1MTbSAU9odHRwczovL3d3dy5uZXdzd2Vlay5jb20vY2F0LWZlcnJldC1wbGF5aW5nLXRvZ2V0aGVyLW1lbHRzLWhlYXJ0cy0xODEwNTE2P2FtcD0x?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jYXQtZmVycmV0LXBsYXlpbmctdG9nZXRoZXItbWVsdHMtaGVhcnRzLTE4MTA1MTbSAU9odHRwczovL3d3dy5uZXdzd2Vlay5jb20vY2F0LWZlcnJldC1wbGF5aW5nLXRvZ2V0aGVyLW1lbHRzLWhlYXJ0cy0xODEwNTE2P2FtcD0x?oc=5"/>
+        <updated>2023-07-04T22:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's The True Cost of a Ferret? | Detailed Breakdown of The Average Cost of Ferrets – The Modern Ferret]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/819631666190515</id>
+        <link href="https://www.facebook.com/666603538159996/posts/819631666190515"/>
+        <updated>2023-07-04T08:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Here is a detailed cost breakdown of how much ferrets cost over the course of an entire lifetime. I made tables and also included a lot of your guys' responses. Take a look and tell me what you think! :
+In-depth breakdown of the average monthly cost, annual costs and lifetime cost of owning a ferret. Real numbers from 300+ ferret owners (ferret food, cages, accessories, vets) -you can find everything here!(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ways to Bond with Your Ferret : Nap Together!]]></title>
         <id>https://www.youtube.com/watch?v=6xoSLQfwJMM</id>
@@ -484,16 +505,6 @@ There are important considerations to make when deciding if it's a good idea to 
         <link href="https://voiceferret.tumblr.com/post/719265510328582144"/>
         <updated>2023-06-05T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Potatoes are not enough, now she stole a melon]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The little theif in the house 😂]]></title>
-        <id>https://voiceferret.tumblr.com/post/719174911889965056</id>
-        <link href="https://voiceferret.tumblr.com/post/719174911889965056"/>
-        <updated>2023-06-04T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[The little theif in the house]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
