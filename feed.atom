@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T02:21:23.678Z</updated>
+    <updated>2023-07-06T02:23:50.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puffins: Rats and ferrets targeted to protect Rathlin Island seabirds - BBC]]></title>
+        <id>https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTY2MDg4NjIw0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjYwODg2MjAuYW1w?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTY2MDg4NjIw0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjYwODg2MjAuYW1w?oc=5"/>
+        <updated>2023-07-06T00:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She makes double triple sure that she poops just riiiiight off the potty pad.]]></title>
+        <id>https://voiceferret.tumblr.com/post/721983416655036416</id>
+        <link href="https://voiceferret.tumblr.com/post/721983416655036416"/>
+        <updated>2023-07-05T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[She makes double triple sure that she poops just riiiiight off the potty pad.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cat and Ferret Playing Together Melts Hearts: 'Silly Derps' - Newsweek]]></title>
         <id>https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jYXQtZmVycmV0LXBsYXlpbmctdG9nZXRoZXItbWVsdHMtaGVhcnRzLTE4MTA1MTbSAU9odHRwczovL3d3dy5uZXdzd2Vlay5jb20vY2F0LWZlcnJldC1wbGF5aW5nLXRvZ2V0aGVyLW1lbHRzLWhlYXJ0cy0xODEwNTE2P2FtcD0x?oc=5</id>
@@ -495,16 +515,6 @@ There are important considerations to make when deciding if it's a good idea to 
         <link href="https://voiceferret.tumblr.com/post/719356105311027200"/>
         <updated>2023-06-06T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Sheriff Anzû says howdy Just finished crocheting this little hat for my little man]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potatoes are not enough, now she stole a melon]]></title>
-        <id>https://voiceferret.tumblr.com/post/719265510328582144</id>
-        <link href="https://voiceferret.tumblr.com/post/719265510328582144"/>
-        <updated>2023-06-05T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Potatoes are not enough, now she stole a melon]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
