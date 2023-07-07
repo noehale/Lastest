@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://voiceferret.tumblr.com/post/722074016278593536",
+          "author": null,
+          "description": "They found my replica Hellboy gun",
+          "link": "https://voiceferret.tumblr.com/post/722074016278593536",
+          "publishedOn": "2023-07-06T20:04:03.000Z",
+          "wordCount": 769,
+          "title": "They found my replica Hellboy gun",
+          "imageUrl": "https://64.media.tumblr.com/ee9ccd41ff3ea2bce8498dd95cb6860c/7b160e66e6dc8f96-62/s1280x1920/2a29f555af86c6f5a8e4e9e8eb98c6f4979f688c.jpg"
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTY2MDg4NjIw0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjYwODg2MjAuYW1w?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -504,26 +514,6 @@
           "wordCount": 847,
           "title": "My guy Taxes LOVES hummus. I’ve tried to feed him everything that ferrets are supposed to like but he only wants hummus. Why?? (Pic unrelated)",
           "imageUrl": "https://64.media.tumblr.com/0d449c07cf81b112d1d5e5e80450f6cf/9231d684b6139509-44/s1280x1920/089872ce32f191b5dd1cd857a142dc0e90509a4f.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VKDTzT-P5qA",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VKDTzT-P5qA",
-          "publishedOn": "2023-06-07T03:30:12.000Z",
-          "wordCount": null,
-          "title": "How to Bond with Your Ferret",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/719356105311027200",
-          "author": null,
-          "description": "Sheriff Anzû says howdy Just finished crocheting this little hat for my little man",
-          "link": "https://voiceferret.tumblr.com/post/719356105311027200",
-          "publishedOn": "2023-06-06T20:04:01.000Z",
-          "wordCount": 809,
-          "title": "Sheriff Anzû says howdy⭐️ Just finished crocheting this little hat for my little man",
-          "imageUrl": "https://64.media.tumblr.com/16c87d8aadd9adbd7cbd8e876575d84d/5a2fd78b74b072d3-10/s1280x1920/64e8205754ac8b17dab16d754e7526287db9574e.jpg"
         }
       ]
     }

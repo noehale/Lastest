@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T02:23:50.972Z</updated>
+    <updated>2023-07-07T02:21:11.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[They found my replica Hellboy gun]]></title>
+        <id>https://voiceferret.tumblr.com/post/722074016278593536</id>
+        <link href="https://voiceferret.tumblr.com/post/722074016278593536"/>
+        <updated>2023-07-06T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[They found my replica Hellboy gun]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Puffins: Rats and ferrets targeted to protect Rathlin Island seabirds - BBC]]></title>
         <id>https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTY2MDg4NjIw0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjYwODg2MjAuYW1w?oc=5</id>
@@ -496,25 +506,6 @@ There are important considerations to make when deciding if it's a good idea to 
         <link href="https://voiceferret.tumblr.com/post/719446701588578304"/>
         <updated>2023-06-07T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[My guy Taxes LOVES hummus. I’ve tried to feed him everything that ferrets are supposed to like but he only wants hummus. Why?? (Pic unrelated)]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Bond with Your Ferret]]></title>
-        <id>https://www.youtube.com/watch?v=VKDTzT-P5qA</id>
-        <link href="https://www.youtube.com/watch?v=VKDTzT-P5qA"/>
-        <updated>2023-06-07T03:30:12.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheriff Anzû says howdy⭐️ Just finished crocheting this little hat for my little man]]></title>
-        <id>https://voiceferret.tumblr.com/post/719356105311027200</id>
-        <link href="https://voiceferret.tumblr.com/post/719356105311027200"/>
-        <updated>2023-06-06T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Sheriff Anzû says howdy Just finished crocheting this little hat for my little man]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
