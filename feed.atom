@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T02:19:57.485Z</updated>
+    <updated>2023-07-09T02:31:43.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why physicists tried to put a ferret in a particle accelerator - Big Think]]></title>
+        <id>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYmlndGhpbmsuY29tL3RoZS1wYXN0L3BhcnRpY2xlLWFjY2VsZXJhdG9yLWZlcnJldC_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYmlndGhpbmsuY29tL3RoZS1wYXN0L3BhcnRpY2xlLWFjY2VsZXJhdG9yLWZlcnJldC_SAQA?oc=5"/>
+        <updated>2023-07-09T09:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferrets]]></title>
+        <id>https://voiceferret.tumblr.com/post/722255212489932800</id>
+        <link href="https://voiceferret.tumblr.com/post/722255212489932800"/>
+        <updated>2023-07-08T20:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Ferrets: Solid, Liquid, or Gas?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Sisters Alarm Mom With Their Comical Playtime Antics - Yahoo Life]]></title>
         <id>https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9saWZlc3R5bGUvZmVycmV0LXNpc3RlcnMtYWxhcm0tbW9tLWNvbWljYWwtMTU0MDAwOTE0Lmh0bWzSAVdodHRwczovL3d3dy55YWhvby5jb20vYW1waHRtbC9saWZlc3R5bGUvZmVycmV0LXNpc3RlcnMtYWxhcm0tbW9tLWNvbWljYWwtMTU0MDAwOTE0Lmh0bWw?oc=5</id>
@@ -505,16 +525,6 @@ There are important considerations to make when deciding if it's a good idea to 
         <link href="https://voiceferret.tumblr.com/post/719627896023547904"/>
         <updated>2023-06-09T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Picked up this guy today!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleepy]]></title>
-        <id>https://voiceferret.tumblr.com/post/719537298949259264</id>
-        <link href="https://voiceferret.tumblr.com/post/719537298949259264"/>
-        <updated>2023-06-08T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Sleepy]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
