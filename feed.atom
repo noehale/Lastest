@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T02:24:28.779Z</updated>
+    <updated>2023-07-11T02:14:58.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Colorado Parks and Wildlife celebrates program to restore black-footed ferret - CBS Colardo]]></title>
+        <id>https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2NvbG9yYWRvL25ld3MvcmVzdG9yYXRpb24tYmxhY2stZm9vdGVkLWZlcnJldC1jb2xvcmFkby1wcm9ncmFtL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9jb2xvcmFkby9uZXdzL3Jlc3RvcmF0aW9uLWJsYWNrLWZvb3RlZC1mZXJyZXQtY29sb3JhZG8tcHJvZ3JhbS8?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2NvbG9yYWRvL25ld3MvcmVzdG9yYXRpb24tYmxhY2stZm9vdGVkLWZlcnJldC1jb2xvcmFkby1wcm9ncmFtL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9jb2xvcmFkby9uZXdzL3Jlc3RvcmF0aW9uLWJsYWNrLWZvb3RlZC1mZXJyZXQtY29sb3JhZG8tcHJvZ3JhbS8?oc=5"/>
+        <updated>2023-07-11T04:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s go already!!]]></title>
+        <id>https://voiceferret.tumblr.com/post/722436401958961152</id>
+        <link href="https://voiceferret.tumblr.com/post/722436401958961152"/>
+        <updated>2023-07-10T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Let’s go already!!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does anyone have any idea what this white thing in his ear might be??]]></title>
         <id>https://voiceferret.tumblr.com/post/722345804649644032</id>
@@ -475,16 +495,6 @@ Ever wonder what is factored into the true cost of ferrets ? Get your 2024 Ferre
         <link href="https://voiceferret.tumblr.com/post/719809093045518336"/>
         <updated>2023-06-11T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[Will he ever leave my drinks alone?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my ferret is a bit… odd?]]></title>
-        <id>https://voiceferret.tumblr.com/post/719718492727820288</id>
-        <link href="https://voiceferret.tumblr.com/post/719718492727820288"/>
-        <updated>2023-06-10T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[my ferret is a bit… odd?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
