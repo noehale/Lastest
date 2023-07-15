@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=faUArJn_O7U",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=faUArJn_O7U",
+          "publishedOn": "2023-07-15T12:00:24.000Z",
+          "wordCount": null,
+          "title": "Ways to Bond with Your Ferret : Feed Them",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/722798791848230912",
+          "author": null,
+          "description": "is he okay?",
+          "link": "https://voiceferret.tumblr.com/post/722798791848230912",
+          "publishedOn": "2023-07-14T20:04:03.000Z",
+          "wordCount": 744,
+          "title": "is he okay?",
+          "imageUrl": "https://64.media.tumblr.com/8ae41f0d5b8663781657b9b4bba6b8f6/dfd9c42b853c5061-4a/s1280x1920/a42d6bb26e6230fa62a466897a5d46569a93f609.jpg"
+        },
+        {
           "id": "https://www.facebook.com/666603538159996/posts/824632059023809",
           "author": "The Modern Ferret",
           "description": "I posted a blog listing all my TOP reasons ferrets ROCK as pets -do you agree?\nFrom their cute and cuddly nature to their mischievous antics, learn why ferrets are the best pets &amp; also why they may not be for everyone. Genuine advice from 30+ ferret owners. Find out if a ferret is right for you.(Feed generated with FetchRSS)",
@@ -494,16 +514,6 @@
           "wordCount": 780,
           "title": "those socks were later found under the couch…😅",
           "imageUrl": "https://64.media.tumblr.com/c88a8b1e0933a1f8f1fa90670814ed14/c20dcf30a9f003cb-12/s1280x1920/bd3e7730d19f3614efaeca854dc976d6936bcbce.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbmV3cy55YWhvby5jb20vcHJhaXJpZS1kb2ctcmVtb3ZhbC1oZWlsLXZhbGxleS0wMzI1MDAwMDAuaHRtbNIBTWh0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9wcmFpcmllLWRvZy1yZW1vdmFsLWhlaWwtdmFsbGV5LTAzMjUwMDAwMC5odG1s?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbmV3cy55YWhvby5jb20vcHJhaXJpZS1kb2ctcmVtb3ZhbC1oZWlsLXZhbGxleS0wMzI1MDAwMDAuaHRtbNIBTWh0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9wcmFpcmllLWRvZy1yZW1vdmFsLWhlaWwtdmFsbGV5LTAzMjUwMDAwMC5odG1s?oc=5",
-          "publishedOn": "2023-06-14T17:25:00.000Z",
-          "wordCount": 5976,
-          "title": "Prairie dog removal at Heil Valley Ranch angers residents - Yahoo News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }
