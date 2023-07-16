@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T02:22:39.155Z</updated>
+    <updated>2023-07-16T02:39:14.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Eva]]></title>
+        <id>https://voiceferret.tumblr.com/post/722889390498660352</id>
+        <link href="https://voiceferret.tumblr.com/post/722889390498660352"/>
+        <updated>2023-07-15T20:04:05.000Z</updated>
+        <summary type="html"><![CDATA[Meet Eva]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ways to Bond with Your Ferret : Feed Them]]></title>
         <id>https://www.youtube.com/watch?v=faUArJn_O7U</id>
@@ -478,35 +488,6 @@ Ever wonder what is factored into the true cost of ferrets ? Get your 2024 Ferre
         <summary type="html"><![CDATA[Quiet reading with my favorite snuggle buddy #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does My Ferret Like Me? Signs They Do!]]></title>
-        <id>https://www.youtube.com/watch?v=AMYpxxLMEns</id>
-        <link href="https://www.youtube.com/watch?v=AMYpxxLMEns"/>
-        <updated>2023-06-16T00:00:06.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dose-Dependent Response to Infection with Ebola Virus in the Ferret Model and Evidence of Viral Evolution in the Eye | Journal of Virology - American Society for Microbiology]]></title>
-        <id>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vam91cm5hbHMuYXNtLm9yZy9kb2kvMTAuMTEyOC9qdmkuMDA4MzMtMjHSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vam91cm5hbHMuYXNtLm9yZy9kb2kvMTAuMTEyOC9qdmkuMDA4MzMtMjHSAQA?oc=5"/>
-        <updated>2023-06-15T22:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[those socks were later found under the couch…😅]]></title>
-        <id>https://voiceferret.tumblr.com/post/720171479023730688</id>
-        <link href="https://voiceferret.tumblr.com/post/720171479023730688"/>
-        <updated>2023-06-15T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[those socks were later found under the couch…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
