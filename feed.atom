@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T02:39:14.619Z</updated>
+    <updated>2023-07-17T02:27:08.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I guess you could say that one of our ferrets is a little special 😅]]></title>
+        <id>https://voiceferret.tumblr.com/post/722979984504979456</id>
+        <link href="https://voiceferret.tumblr.com/post/722979984504979456"/>
+        <updated>2023-07-16T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[I guess you could say that one of our ferrets is a little special]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photos from AVIVA Woodlands's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/826285692191779</id>
+        <link href="https://www.facebook.com/666603538159996/posts/826285692191779"/>
+        <updated>2023-07-16T16:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for having me and Elijah!(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Eva]]></title>
         <id>https://voiceferret.tumblr.com/post/722889390498660352</id>
@@ -468,26 +488,6 @@ Ever wonder what is factored into the true cost of ferrets ? Get your 2024 Ferre
         <summary type="html"><![CDATA[Is anyone else’s ferret obsessed with licking them?]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[He waits outside the shower door to lick my toes 💀]]></title>
-        <id>https://voiceferret.tumblr.com/post/720262074793607168</id>
-        <link href="https://voiceferret.tumblr.com/post/720262074793607168"/>
-        <updated>2023-06-16T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[He waits outside the shower door to lick my toes]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiet reading with my favorite snuggle buddy #ferret #ferrets #ferretsofinstagram]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/810360320450983</id>
-        <link href="https://www.facebook.com/666603538159996/posts/810360320450983"/>
-        <updated>2023-06-16T17:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Quiet reading with my favorite snuggle buddy #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
