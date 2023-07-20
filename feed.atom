@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T03:16:09.502Z</updated>
+    <updated>2023-07-20T01:59:05.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -485,16 +485,6 @@ Ever wonder what is factored into the true cost of ferrets ? Get your 2024 Ferre
         <link href="https://voiceferret.tumblr.com/post/720624463960571904"/>
         <updated>2023-06-20T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[mae has the high ground]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does it mean?]]></title>
-        <id>https://voiceferret.tumblr.com/post/720533868252397569</id>
-        <link href="https://voiceferret.tumblr.com/post/720533868252397569"/>
-        <updated>2023-06-19T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[What does it mean?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
