@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T02:01:35.187Z</updated>
+    <updated>2023-07-22T01:58:21.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ways to Bond with Your Ferret : Wash Cloth Technique]]></title>
+        <id>https://www.youtube.com/watch?v=s_tEE4jUSgM</id>
+        <link href="https://www.youtube.com/watch?v=s_tEE4jUSgM"/>
+        <updated>2023-07-22T12:00:28.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moves house – strange ferret]]></title>
         <id>https://voiceferret.tumblr.com/post/723342373302714368</id>
@@ -466,16 +475,6 @@ Ever wonder what is factored into the true cost of ferrets ? Get your 2024 Ferre
         <link href="https://voiceferret.tumblr.com/post/720805658208976896"/>
         <updated>2023-06-22T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[How to ferret-proof a couch?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My sweet little troublemaker fearne, went from being a pain in my butt, to my sick baby so fast. The emergency vet said it was an upper respiratory infection, so she’s on amoxicillin, and I have to give it 24 hours to see if her condition improves. It is so hard to sit here and watch her struggle.]]></title>
-        <id>https://voiceferret.tumblr.com/post/720715060951105536</id>
-        <link href="https://voiceferret.tumblr.com/post/720715060951105536"/>
-        <updated>2023-06-21T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[My sweet little troublemaker fearne, went from being a pain in my butt, to my sick baby so fast. The emergency vet said it was an upper respiratory infection, so she’s on amoxicillin, and I have to give it 24 hours to see if her condition improves. It is so hard to sit here and watch her struggle.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s_tEE4jUSgM",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s_tEE4jUSgM",
+          "publishedOn": "2023-07-22T12:00:28.000Z",
+          "wordCount": null,
+          "title": "Ways to Bond with Your Ferret : Wash Cloth Technique",
+          "imageUrl": null
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/723342373302714368",
           "author": null,
           "description": "Moves house – strange ferret",
@@ -474,16 +484,6 @@
           "wordCount": 754,
           "title": "How to ferret-proof a couch?",
           "imageUrl": "https://64.media.tumblr.com/2f6b7c79d1be39b1fbf6c7c4b0291fdd/7f5a3a77b29d1945-2b/s1280x1920/0d55cc540b0fdf3f651cf4757d677251fc46ee77.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/720715060951105536",
-          "author": null,
-          "description": "My sweet little troublemaker fearne, went from being a pain in my butt, to my sick baby so fast. The emergency vet said it was an upper respiratory infection, so she’s on amoxicillin, and I have to give it 24 hours to see if her condition improves. It is so hard to sit here and watch her struggle.",
-          "link": "https://voiceferret.tumblr.com/post/720715060951105536",
-          "publishedOn": "2023-06-21T20:04:03.000Z",
-          "wordCount": 976,
-          "title": "My sweet little troublemaker fearne, went from being a pain in my butt, to my sick baby so fast. The emergency vet said it was an upper respiratory infection, so she’s on amoxicillin, and I have to give it 24 hours to see if her condition improves. It is so hard to sit here and watch her struggle.",
-          "imageUrl": "https://64.media.tumblr.com/90cf29b8c93536d1a06d5f6ff74aa726/1190f20cd2f5bb79-32/s1280x1920/c2913539234246cc2178e5e1374df92f45f00e4d.jpg"
         }
       ]
     }
