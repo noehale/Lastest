@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T02:00:57.083Z</updated>
+    <updated>2023-07-25T02:12:03.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oh no Millie has turned into liquid]]></title>
+        <id>https://voiceferret.tumblr.com/post/723704759396220928</id>
+        <link href="https://voiceferret.tumblr.com/post/723704759396220928"/>
+        <updated>2023-07-24T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Oh no Millie has turned into liquid]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anyone else deal with their ferret friends opening doors? Or is Mr. Wheezy just extra?]]></title>
         <id>https://voiceferret.tumblr.com/post/723523567944417280</id>
@@ -148,6 +158,16 @@ From their cute and cuddly nature to their mischievous antics, learn why ferrets
         <id>https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lmt3Y2guY29tL3ZpZGVvLzIwMjMvMDcvMTEvY29sb3JhZG8tcGFya3Mtd2lsZGxpZmUtY2VsZWJyYXRlcy10ZW4teWVhcnMtYmxhY2stZm9vdGVkLWZlcnJldC1yZXN0b3JhdGlvbi13b3JrLTIv0gEA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lmt3Y2guY29tL3ZpZGVvLzIwMjMvMDcvMTEvY29sb3JhZG8tcGFya3Mtd2lsZGxpZmUtY2VsZWJyYXRlcy10ZW4teWVhcnMtYmxhY2stZm9vdGVkLWZlcnJldC1yZXN0b3JhdGlvbi13b3JrLTIv0gEA?oc=5"/>
         <updated>2023-07-12T00:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorado Parks and Wildlife celebrates ten years of black-footed ferret restoration work - KKCO]]></title>
+        <id>https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iYzExbmV3cy5jb20vdmlkZW8vMjAyMy8wNy8xMS9jb2xvcmFkby1wYXJrcy13aWxkbGlmZS1jZWxlYnJhdGVzLXRlbi15ZWFycy1ibGFjay1mb290ZWQtZmVycmV0LXJlc3RvcmF0aW9uLXdvcmsv0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iYzExbmV3cy5jb20vdmlkZW8vMjAyMy8wNy8xMS9jb2xvcmFkby1wYXJrcy13aWxkbGlmZS1jZWxlYnJhdGVzLXRlbi15ZWFycy1ibGFjay1mb290ZWQtZmVycmV0LXJlc3RvcmF0aW9uLXdvcmsv0gEA?oc=5"/>
+        <updated>2023-07-11T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
@@ -416,16 +436,6 @@ In-depth breakdown of the average monthly cost, annual costs and lifetime cost o
         <link href="https://voiceferret.tumblr.com/post/721077450575167488"/>
         <updated>2023-06-25T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[Ursula showing off her new fur after her implant. No more nekkid pole(cat)-dancin’!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grieving the loss of my baby ferret]]></title>
-        <id>https://voiceferret.tumblr.com/post/720986850445213696</id>
-        <link href="https://voiceferret.tumblr.com/post/720986850445213696"/>
-        <updated>2023-06-24T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Grieving the loss of my baby ferret]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
