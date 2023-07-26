@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T02:12:03.833Z</updated>
+    <updated>2023-07-26T02:02:55.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cats, dogs, ferrets. What to know on licensing pets in Lee County - News-Press]]></title>
+        <id>https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5ld3MtcHJlc3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMy8wNy8yNS9jYXRzLWRvZ3MtZmVycmV0cy1saWNlbnNpbmctcGV0cy1pbi1sZWUtY291bnR5LWZsb3JpZGEvNzA0NjEwMDUwMDcv0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5ld3MtcHJlc3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMy8wNy8yNS9jYXRzLWRvZ3MtZmVycmV0cy1saWNlbnNpbmctcGV0cy1pbi1sZWUtY291bnR5LWZsb3JpZGEvNzA0NjEwMDUwMDcv0gEA?oc=5"/>
+        <updated>2023-07-26T04:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ways to Bond with Your Ferret : Train Them]]></title>
+        <id>https://www.youtube.com/watch?v=tdJI3rHHD40</id>
+        <link href="https://www.youtube.com/watch?v=tdJI3rHHD40"/>
+        <updated>2023-07-26T00:00:47.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh no Millie has turned into liquid]]></title>
         <id>https://voiceferret.tumblr.com/post/723704759396220928</id>
@@ -426,16 +445,6 @@ In-depth breakdown of the average monthly cost, annual costs and lifetime cost o
         <link href="https://voiceferret.tumblr.com/post/721168044193398785"/>
         <updated>2023-06-26T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[when you have to leave for your vacation and they give you this look.. 3]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ursula showing off her new fur after her implant. No more nekkid pole(cat)-dancin’!]]></title>
-        <id>https://voiceferret.tumblr.com/post/721077450575167488</id>
-        <link href="https://voiceferret.tumblr.com/post/721077450575167488"/>
-        <updated>2023-06-25T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Ursula showing off her new fur after her implant. No more nekkid pole(cat)-dancin’!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
