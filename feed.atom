@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T01:50:38.018Z</updated>
+    <updated>2023-07-30T01:54:27.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dear Apple, your camera phones may be good, but they aren’t quite “I’ve got a pet ferret” good. This is my formal complaint. (Feat. Angel)]]></title>
+        <id>https://voiceferret.tumblr.com/post/724157745946935296</id>
+        <link href="https://voiceferret.tumblr.com/post/724157745946935296"/>
+        <updated>2023-07-29T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Dear Apple, your camera phones may be good, but they aren’t quite “I’ve got a pet ferret” good. This is my formal complaint. (Feat. Angel)]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ways to Bond with Your Ferret : Dont Do THIS!]]></title>
         <id>https://www.youtube.com/watch?v=7Nbkmn1boKk</id>
@@ -445,26 +455,6 @@ In-depth breakdown of the average monthly cost, annual costs and lifetime cost o
         <link href="https://voiceferret.tumblr.com/post/721530432478396416"/>
         <updated>2023-06-30T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Simone absolutely going insane]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the love of ferrets borders on OBSESSION -I found this old picture from around 10 years ago… #ferret]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/817190876434594</id>
-        <link href="https://www.facebook.com/666603538159996/posts/817190876434594"/>
-        <updated>2023-06-30T01:23:48.000Z</updated>
-        <summary type="html"><![CDATA[When the love of ferrets borders on OBSESSION -I found this old picture from around 10 years ago… #ferret(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My love bugs ❤️]]></title>
-        <id>https://voiceferret.tumblr.com/post/721439836965371904</id>
-        <link href="https://voiceferret.tumblr.com/post/721439836965371904"/>
-        <updated>2023-06-29T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[My love bugs]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
