@@ -6,6 +6,36 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Yd47HtM5J4E",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Yd47HtM5J4E",
+          "publishedOn": "2023-08-01T12:00:30.000Z",
+          "wordCount": null,
+          "title": "Why Doesn't My Ferret Like Me??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3Mva2l0dGVuLWFuZC1mZXJyZXQtbWFrZS11bmxpa2VseS1mcmllbmRzaGlwLWF0LXV0YWgtYW5pbWFsLXNoZWx0ZXLSAQA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3Mva2l0dGVuLWFuZC1mZXJyZXQtbWFrZS11bmxpa2VseS1mcmllbmRzaGlwLWF0LXV0YWgtYW5pbWFsLXNoZWx0ZXLSAQA?oc=5",
+          "publishedOn": "2023-08-01T04:06:30.000Z",
+          "wordCount": 6018,
+          "title": "Kitten and ferret make unlikely friendship at Utah animal shelter - FOX 13 News Utah",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/724338940332720128",
+          "author": null,
+          "description": "Any ferret rescues near Greenville, SC or local redditors looking to add to their group?",
+          "link": "https://voiceferret.tumblr.com/post/724338940332720128",
+          "publishedOn": "2023-07-31T20:04:03.000Z",
+          "wordCount": 797,
+          "title": "Any ferret rescues near Greenville, SC or local redditors looking to add to their group?",
+          "imageUrl": "https://64.media.tumblr.com/f1347fb827d69ebce8b7e879f7dbc4dc/481e94714f29c24b-6f/s1280x1920/0f437ae7ff84ee8fd839669c080724317338257f.jpg"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/724157745946935296",
           "author": null,
           "description": "Dear Apple, your camera phones may be good, but they aren’t quite “I’ve got a pet ferret” good. This is my formal complaint. (Feat. Angel)",
@@ -424,26 +454,6 @@
           "wordCount": 768,
           "title": "My ferrets and their mugshots.",
           "imageUrl": "https://64.media.tumblr.com/67e090346d72d991df949ab1976e2bfa/2ea7ceeb5e9d7939-d0/s640x960/e7ffebf22a2b99324c6c5028f3d33e747d9a4726.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/721621030998818819",
-          "author": null,
-          "description": "Play fighting or not?",
-          "link": "https://voiceferret.tumblr.com/post/721621030998818819",
-          "publishedOn": "2023-07-01T20:04:03.000Z",
-          "wordCount": 749,
-          "title": "Play fighting or not?",
-          "imageUrl": "https://64.media.tumblr.com/2ada14548e79e85871271b208b2854bd/f35a990f5fc107e4-c2/s1280x1920/91fc7e972cf745bb28f57ed0559add8ff3638144.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy53enptMTMuY29tL3ZpZGVvL25ld3MvZmVycmV0LWNhdXNlcy1zdGlyLWluLWFsbGVnYW4tYWZ0ZXItbWFraW5nLWZhc3QtZm9vZC1waXQtc3RvcHMvNjktYmRhMDQyMWQtMzc2Zi00YWVkLTkyYTAtYWJmMmZlOGVlNTlm0gEA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy53enptMTMuY29tL3ZpZGVvL25ld3MvZmVycmV0LWNhdXNlcy1zdGlyLWluLWFsbGVnYW4tYWZ0ZXItbWFraW5nLWZhc3QtZm9vZC1waXQtc3RvcHMvNjktYmRhMDQyMWQtMzc2Zi00YWVkLTkyYTAtYWJmMmZlOGVlNTlm0gEA?oc=5",
-          "publishedOn": "2023-07-01T17:19:00.000Z",
-          "wordCount": 6029,
-          "title": "Ferret causes stir in Allegan after making fast food pit stops - WZZM13.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }

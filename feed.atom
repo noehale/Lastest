@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-31T01:57:05.916Z</updated>
+    <updated>2023-08-01T02:03:51.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Doesn't My Ferret Like Me??]]></title>
+        <id>https://www.youtube.com/watch?v=Yd47HtM5J4E</id>
+        <link href="https://www.youtube.com/watch?v=Yd47HtM5J4E"/>
+        <updated>2023-08-01T12:00:30.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kitten and ferret make unlikely friendship at Utah animal shelter - FOX 13 News Utah]]></title>
+        <id>https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3Mva2l0dGVuLWFuZC1mZXJyZXQtbWFrZS11bmxpa2VseS1mcmllbmRzaGlwLWF0LXV0YWgtYW5pbWFsLXNoZWx0ZXLSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3Mva2l0dGVuLWFuZC1mZXJyZXQtbWFrZS11bmxpa2VseS1mcmllbmRzaGlwLWF0LXV0YWgtYW5pbWFsLXNoZWx0ZXLSAQA?oc=5"/>
+        <updated>2023-08-01T04:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any ferret rescues near Greenville, SC or local redditors looking to add to their group?]]></title>
+        <id>https://voiceferret.tumblr.com/post/724338940332720128</id>
+        <link href="https://voiceferret.tumblr.com/post/724338940332720128"/>
+        <updated>2023-07-31T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Any ferret rescues near Greenville, SC or local redditors looking to add to their group?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dear Apple, your camera phones may be good, but they aren’t quite “I’ve got a pet ferret” good. This is my formal complaint. (Feat. Angel)]]></title>
         <id>https://voiceferret.tumblr.com/post/724157745946935296</id>
@@ -416,26 +445,6 @@ In-depth breakdown of the average monthly cost, annual costs and lifetime cost o
         <link href="https://voiceferret.tumblr.com/post/721711628028133376"/>
         <updated>2023-07-02T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[My ferrets and their mugshots.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Play fighting or not?]]></title>
-        <id>https://voiceferret.tumblr.com/post/721621030998818819</id>
-        <link href="https://voiceferret.tumblr.com/post/721621030998818819"/>
-        <updated>2023-07-01T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Play fighting or not?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret causes stir in Allegan after making fast food pit stops - WZZM13.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy53enptMTMuY29tL3ZpZGVvL25ld3MvZmVycmV0LWNhdXNlcy1zdGlyLWluLWFsbGVnYW4tYWZ0ZXItbWFraW5nLWZhc3QtZm9vZC1waXQtc3RvcHMvNjktYmRhMDQyMWQtMzc2Zi00YWVkLTkyYTAtYWJmMmZlOGVlNTlm0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy53enptMTMuY29tL3ZpZGVvL25ld3MvZmVycmV0LWNhdXNlcy1zdGlyLWluLWFsbGVnYW4tYWZ0ZXItbWFraW5nLWZhc3QtZm9vZC1waXQtc3RvcHMvNjktYmRhMDQyMWQtMzc2Zi00YWVkLTkyYTAtYWJmMmZlOGVlNTlm0gEA?oc=5"/>
-        <updated>2023-07-01T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
