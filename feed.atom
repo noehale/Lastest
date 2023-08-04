@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T01:53:03.965Z</updated>
+    <updated>2023-08-04T01:53:57.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[cuddles and morr cuddles 🥰]]></title>
+        <id>https://voiceferret.tumblr.com/post/724610731940659200</id>
+        <link href="https://voiceferret.tumblr.com/post/724610731940659200"/>
+        <updated>2023-08-03T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[cuddles and morr cuddles]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safe to say this is hers now]]></title>
         <id>https://voiceferret.tumblr.com/post/724429535574130688</id>
@@ -405,16 +415,6 @@ From their cute and cuddly nature to their mischievous antics, learn why ferrets
         <link href="https://voiceferret.tumblr.com/post/721983416655036416"/>
         <updated>2023-07-05T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[She makes double triple sure that she poops just riiiiight off the potty pad.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cat and Ferret Playing Together Melts Hearts: 'Silly Derps' - Newsweek]]></title>
-        <id>https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jYXQtZmVycmV0LXBsYXlpbmctdG9nZXRoZXItbWVsdHMtaGVhcnRzLTE4MTA1MTbSAU9odHRwczovL3d3dy5uZXdzd2Vlay5jb20vY2F0LWZlcnJldC1wbGF5aW5nLXRvZ2V0aGVyLW1lbHRzLWhlYXJ0cy0xODEwNTE2P2FtcD0x?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jYXQtZmVycmV0LXBsYXlpbmctdG9nZXRoZXItbWVsdHMtaGVhcnRzLTE4MTA1MTbSAU9odHRwczovL3d3dy5uZXdzd2Vlay5jb20vY2F0LWZlcnJldC1wbGF5aW5nLXRvZ2V0aGVyLW1lbHRzLWhlYXJ0cy0xODEwNTE2P2FtcD0x?oc=5"/>
-        <updated>2023-07-04T22:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
