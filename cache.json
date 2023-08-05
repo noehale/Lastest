@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DbIGsUyiApk",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DbIGsUyiApk",
+          "publishedOn": "2023-08-05T06:45:00.000Z",
+          "wordCount": null,
+          "title": "Why You Should Bond with Your Ferret",
+          "imageUrl": null
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/724610731940659200",
           "author": null,
           "description": "cuddles and morr cuddles",
@@ -24,6 +34,16 @@
           "wordCount": 772,
           "title": "Safe to say this is hers now",
           "imageUrl": "https://64.media.tumblr.com/57c6acc74db9a2cf7568144a74ff6e3b/7716b5d2709312aa-f8/s1280x1920/b09d566748970a68d92e1512ddef8e0f5b414fc5.jpg"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8va2dhYi5jb20vZmVycmV0LXJldW5pdGVkLXdpdGgtZmFtaWx5LWFmdGVyLWJlaW5nLXJlc2N1ZWQtZnJvbS13aW5kb3ctd2VsbC_SAQA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8va2dhYi5jb20vZmVycmV0LXJldW5pdGVkLXdpdGgtZmFtaWx5LWFmdGVyLWJlaW5nLXJlc2N1ZWQtZnJvbS13aW5kb3ctd2VsbC_SAQA?oc=5",
+          "publishedOn": "2023-08-01T14:08:19.000Z",
+          "wordCount": 6040,
+          "title": "Ferret Reunited With Family After Being Rescued From Window Well - Kgab",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
           "id": "https://www.youtube.com/watch?v=Yd47HtM5J4E",
@@ -404,26 +424,6 @@
           "wordCount": 769,
           "title": "They found my replica Hellboy gun",
           "imageUrl": "https://64.media.tumblr.com/ee9ccd41ff3ea2bce8498dd95cb6860c/7b160e66e6dc8f96-62/s1280x1920/2a29f555af86c6f5a8e4e9e8eb98c6f4979f688c.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTY2MDg4NjIw0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjYwODg2MjAuYW1w?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTY2MDg4NjIw0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjYwODg2MjAuYW1w?oc=5",
-          "publishedOn": "2023-07-06T00:48:48.000Z",
-          "wordCount": 6029,
-          "title": "Puffins: Rats and ferrets targeted to protect Rathlin Island seabirds - BBC",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/721983416655036416",
-          "author": null,
-          "description": "She makes double triple sure that she poops just riiiiight off the potty pad.",
-          "link": "https://voiceferret.tumblr.com/post/721983416655036416",
-          "publishedOn": "2023-07-05T20:04:01.000Z",
-          "wordCount": 802,
-          "title": "She makes double triple sure that she poops just riiiiight off the potty pad.",
-          "imageUrl": "https://64.media.tumblr.com/4aff07a9498d39d1d6692192d5dd7299/8a4b61b74f888a7a-11/s1280x1920/12c35f2b517201e06806acb04e0f0dbc3306f722.jpg"
         }
       ]
     }
