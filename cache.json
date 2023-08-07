@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.facebook.com/666603538159996/posts/836595711160777",
+          "author": "The Modern Ferret",
+          "description": "The perfect nap buddy. #ferret(Feed generated with FetchRSS)",
+          "link": "https://www.facebook.com/666603538159996/posts/836595711160777",
+          "publishedOn": "2023-08-06T13:31:43.000Z",
+          "wordCount": 1673,
+          "title": "The perfect nap buddy. #ferret",
+          "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/365698298_836595694494112_6200511810465408151_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8024bb&_nc_ohc=iP0eXiTirdcAX_Pp4c4&_nc_ht=scontent-iad3-2.xx&oh=00_AfAVUyGouM-KJoTnPXQzzrEorOSLo81MwOS_vdprlTWgrA&oe=64D5A943"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DbIGsUyiApk",
           "author": "The Modern Ferret",
           "description": "",
@@ -14,6 +24,16 @@
           "wordCount": null,
           "title": "Why You Should Bond with Your Ferret",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMDMvbW9iaWxlLWNvdW50eS1yYWJpZXMtY2xpbmljcy1wbGFubmVkLWF1Z3VzdC1kb2dzLWNhdHMtZmVycmV0cy_SAXBodHRwczovL3d3dy5mb3gxMHR2LmNvbS8yMDIzLzA4LzAzL21vYmlsZS1jb3VudHktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1hdWd1c3QtZG9ncy1jYXRzLWZlcnJldHMvP291dHB1dFR5cGU9YW1w?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMDMvbW9iaWxlLWNvdW50eS1yYWJpZXMtY2xpbmljcy1wbGFubmVkLWF1Z3VzdC1kb2dzLWNhdHMtZmVycmV0cy_SAXBodHRwczovL3d3dy5mb3gxMHR2LmNvbS8yMDIzLzA4LzAzL21vYmlsZS1jb3VudHktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1hdWd1c3QtZG9ncy1jYXRzLWZlcnJldHMvP291dHB1dFR5cGU9YW1w?oc=5",
+          "publishedOn": "2023-08-04T05:46:00.000Z",
+          "wordCount": 6040,
+          "title": "Mobile County rabies clinics planned in August for dogs, cats and ferrets - Fox 10 News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
           "id": "https://voiceferret.tumblr.com/post/724610731940659200",
@@ -394,26 +414,6 @@
           "wordCount": 761,
           "title": "Ferrets",
           "imageUrl": "https://64.media.tumblr.com/e4fef3d1f6099a96c4142923ac4ea8f8/00c3ff017d28b163-54/s1280x1920/acf7290a39cb11e40e55f458bbde3d2ba553f9ea.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9saWZlc3R5bGUvZmVycmV0LXNpc3RlcnMtYWxhcm0tbW9tLWNvbWljYWwtMTU0MDAwOTE0Lmh0bWzSAVdodHRwczovL3d3dy55YWhvby5jb20vYW1waHRtbC9saWZlc3R5bGUvZmVycmV0LXNpc3RlcnMtYWxhcm0tbW9tLWNvbWljYWwtMTU0MDAwOTE0Lmh0bWw?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9saWZlc3R5bGUvZmVycmV0LXNpc3RlcnMtYWxhcm0tbW9tLWNvbWljYWwtMTU0MDAwOTE0Lmh0bWzSAVdodHRwczovL3d3dy55YWhvby5jb20vYW1waHRtbC9saWZlc3R5bGUvZmVycmV0LXNpc3RlcnMtYWxhcm0tbW9tLWNvbWljYWwtMTU0MDAwOTE0Lmh0bWw?oc=5",
-          "publishedOn": "2023-07-08T05:40:00.000Z",
-          "wordCount": 6029,
-          "title": "Ferret Sisters Alarm Mom With Their Comical Playtime Antics - Yahoo Life",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kNTHPzbR8CY",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kNTHPzbR8CY",
-          "publishedOn": "2023-07-08T00:00:40.000Z",
-          "wordCount": null,
-          "title": "Ways to Bond with Your Ferret : Include Them",
-          "imageUrl": null
         }
       ]
     }
