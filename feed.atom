@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-07T01:54:57.321Z</updated>
+    <updated>2023-08-08T01:53:12.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/837102517776763</id>
+        <link href="https://www.facebook.com/666603538159996/posts/837102517776763"/>
+        <updated>2023-08-07T11:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Elijah the ferret is at it again! Thanks to Aviva Woodlands Memory Care Unit for having us! It was a day of ferrets, scripture, prayer, and coloring #ferret #ferrets #jesus(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The perfect nap buddy. #ferret]]></title>
         <id>https://www.facebook.com/666603538159996/posts/836595711160777</id>
@@ -385,26 +395,6 @@ From their cute and cuddly nature to their mischievous antics, learn why ferrets
         <link href="https://voiceferret.tumblr.com/post/722345804649644032"/>
         <updated>2023-07-09T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Does anyone have any idea what this white thing in his ear might be??]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why physicists tried to put a ferret in a particle accelerator - Big Think]]></title>
-        <id>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYmlndGhpbmsuY29tL3RoZS1wYXN0L3BhcnRpY2xlLWFjY2VsZXJhdG9yLWZlcnJldC_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYmlndGhpbmsuY29tL3RoZS1wYXN0L3BhcnRpY2xlLWFjY2VsZXJhdG9yLWZlcnJldC_SAQA?oc=5"/>
-        <updated>2023-07-09T09:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets]]></title>
-        <id>https://voiceferret.tumblr.com/post/722255212489932800</id>
-        <link href="https://voiceferret.tumblr.com/post/722255212489932800"/>
-        <updated>2023-07-08T20:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Ferrets: Solid, Liquid, or Gas?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
