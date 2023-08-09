@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T01:53:12.754Z</updated>
+    <updated>2023-08-09T01:54:03.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ways to Bond with Your Ferret : How Long Does It Take?]]></title>
+        <id>https://www.youtube.com/watch?v=pk3MMy7Xh_Q</id>
+        <link href="https://www.youtube.com/watch?v=pk3MMy7Xh_Q"/>
+        <updated>2023-08-09T12:00:35.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misty’s kits almost 24 hrs old now .]]></title>
+        <id>https://voiceferret.tumblr.com/post/725063714654519296</id>
+        <link href="https://voiceferret.tumblr.com/post/725063714654519296"/>
+        <updated>2023-08-08T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Misty’s kits almost 24 hrs old now .]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
         <id>https://www.facebook.com/666603538159996/posts/837102517776763</id>
@@ -385,16 +404,6 @@ From their cute and cuddly nature to their mischievous antics, learn why ferrets
         <link href="https://voiceferret.tumblr.com/post/722436401958961152"/>
         <updated>2023-07-10T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Let’s go already!!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does anyone have any idea what this white thing in his ear might be??]]></title>
-        <id>https://voiceferret.tumblr.com/post/722345804649644032</id>
-        <link href="https://voiceferret.tumblr.com/post/722345804649644032"/>
-        <updated>2023-07-09T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone have any idea what this white thing in his ear might be??]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
