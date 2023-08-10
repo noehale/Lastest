@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T01:54:03.684Z</updated>
+    <updated>2023-08-10T01:58:44.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dobby wants everyone to know that he is now 3 years old]]></title>
+        <id>https://voiceferret.tumblr.com/post/725154313273573376</id>
+        <link href="https://voiceferret.tumblr.com/post/725154313273573376"/>
+        <updated>2023-08-09T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Dobby wants everyone to know that he is now 3 years old]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ways to Bond with Your Ferret : How Long Does It Take?]]></title>
         <id>https://www.youtube.com/watch?v=pk3MMy7Xh_Q</id>
@@ -384,26 +394,6 @@ From their cute and cuddly nature to their mischievous antics, learn why ferrets
         <link href="https://voiceferret.tumblr.com/post/722526998725001216"/>
         <updated>2023-07-11T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the family Mushu]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colorado Parks and Wildlife celebrates program to restore black-footed ferret - CBS Colardo]]></title>
-        <id>https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2NvbG9yYWRvL25ld3MvcmVzdG9yYXRpb24tYmxhY2stZm9vdGVkLWZlcnJldC1jb2xvcmFkby1wcm9ncmFtL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9jb2xvcmFkby9uZXdzL3Jlc3RvcmF0aW9uLWJsYWNrLWZvb3RlZC1mZXJyZXQtY29sb3JhZG8tcHJvZ3JhbS8?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2NvbG9yYWRvL25ld3MvcmVzdG9yYXRpb24tYmxhY2stZm9vdGVkLWZlcnJldC1jb2xvcmFkby1wcm9ncmFtL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9jb2xvcmFkby9uZXdzL3Jlc3RvcmF0aW9uLWJsYWNrLWZvb3RlZC1mZXJyZXQtY29sb3JhZG8tcHJvZ3JhbS8?oc=5"/>
-        <updated>2023-07-11T04:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s go already!!]]></title>
-        <id>https://voiceferret.tumblr.com/post/722436401958961152</id>
-        <link href="https://voiceferret.tumblr.com/post/722436401958961152"/>
-        <updated>2023-07-10T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Let’s go already!!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
