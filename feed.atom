@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T01:34:28.521Z</updated>
+    <updated>2023-08-13T01:39:01.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Health : Choosing a GOOD Vet]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/839611217525893</id>
+        <link href="https://www.facebook.com/666603538159996/posts/839611217525893"/>
+        <updated>2023-08-12T10:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Check out my latest Youtube video! It's a resource to help us all find the BEST ferret vets!
+It's important to take ferret health seriously, and one of the first steps is finding a good ferret vet!Get your 2024 Ferret Calendar Here (#1 on Amazon): ht...(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Health : Choosing a GOOD Vet]]></title>
         <id>https://www.youtube.com/watch?v=pfXA_3Tf-2M</id>
