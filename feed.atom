@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T01:39:01.198Z</updated>
+    <updated>2023-08-14T01:37:46.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[what a stinker!]]></title>
+        <id>https://voiceferret.tumblr.com/post/725516701343580160</id>
+        <link href="https://voiceferret.tumblr.com/post/725516701343580160"/>
+        <updated>2023-08-13T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[what a stinker!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Health : Choosing a GOOD Vet]]></title>
         <id>https://www.facebook.com/666603538159996/posts/839611217525893</id>
@@ -364,25 +374,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://voiceferret.tumblr.com/post/722889390498660352"/>
         <updated>2023-07-15T20:04:05.000Z</updated>
         <summary type="html"><![CDATA[Meet Eva]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ways to Bond with Your Ferret : Feed Them]]></title>
-        <id>https://www.youtube.com/watch?v=faUArJn_O7U</id>
-        <link href="https://www.youtube.com/watch?v=faUArJn_O7U"/>
-        <updated>2023-07-15T12:00:24.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[is he okay?]]></title>
-        <id>https://voiceferret.tumblr.com/post/722798791848230912</id>
-        <link href="https://voiceferret.tumblr.com/post/722798791848230912"/>
-        <updated>2023-07-14T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[is he okay?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://voiceferret.tumblr.com/post/725516701343580160",
+          "author": null,
+          "description": "what a stinker!",
+          "link": "https://voiceferret.tumblr.com/post/725516701343580160",
+          "publishedOn": "2023-08-13T20:04:04.000Z",
+          "wordCount": 754,
+          "title": "what a stinker!",
+          "imageUrl": "https://64.media.tumblr.com/60dd01dbe81fb2d99d72a18e94fd951e/4bae51329b11bc54-1a/s1280x1920/3483d56e72e97e821322e8d20a6bad94d330bbd2.jpg"
+        },
+        {
           "id": "https://www.facebook.com/666603538159996/posts/839611217525893",
           "author": "The Modern Ferret",
           "description": "Check out my latest Youtube video! It's a resource to help us all find the BEST ferret vets!\nIt's important to take ferret health seriously, and one of the first steps is finding a good ferret vet!Get your 2024 Ferret Calendar Here (#1 on Amazon): ht...(Feed generated with FetchRSS)",
@@ -374,26 +384,6 @@
           "wordCount": 754,
           "title": "Meet Eva",
           "imageUrl": "https://64.media.tumblr.com/5d2032dd34f70b18603fd43c30d15229/8a514dad21c8214b-f0/s1280x1920/cafb04bae6496d8d1a3a5304e99895391871adbc.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=faUArJn_O7U",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=faUArJn_O7U",
-          "publishedOn": "2023-07-15T12:00:24.000Z",
-          "wordCount": null,
-          "title": "Ways to Bond with Your Ferret : Feed Them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/722798791848230912",
-          "author": null,
-          "description": "is he okay?",
-          "link": "https://voiceferret.tumblr.com/post/722798791848230912",
-          "publishedOn": "2023-07-14T20:04:03.000Z",
-          "wordCount": 744,
-          "title": "is he okay?",
-          "imageUrl": "https://64.media.tumblr.com/8ae41f0d5b8663781657b9b4bba6b8f6/dfd9c42b853c5061-4a/s1280x1920/a42d6bb26e6230fa62a466897a5d46569a93f609.jpg"
         }
       ]
     }
