@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T01:36:21.142Z</updated>
+    <updated>2023-08-17T01:35:13.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A ferret is nearly run over. A DPW supervisor takes it in - Scranton Times-Tribune]]></title>
+        <id>https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aGV0aW1lcy10cmlidW5lLmNvbS9uZXdzL2EtZmVycmV0LWlzLW5lYXJseS1ydW4tb3Zlci1hLWRwdy1zdXBlcnZpc29yLXRha2VzLWl0LWluL2FydGljbGVfNjBlZjFjYWItMTE5Yi01YjQ4LTk3MzUtZjI4NThmMDIyYWE0Lmh0bWzSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aGV0aW1lcy10cmlidW5lLmNvbS9uZXdzL2EtZmVycmV0LWlzLW5lYXJseS1ydW4tb3Zlci1hLWRwdy1zdXBlcnZpc29yLXRha2VzLWl0LWluL2FydGljbGVfNjBlZjFjYWItMTE5Yi01YjQ4LTk3MzUtZjI4NThmMDIyYWE0Lmh0bWzSAQA?oc=5"/>
+        <updated>2023-08-17T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hole puncher]]></title>
+        <id>https://voiceferret.tumblr.com/post/725788492108595200</id>
+        <link href="https://voiceferret.tumblr.com/post/725788492108595200"/>
+        <updated>2023-08-16T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Hole puncher]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaaahhhhh that’s the spot !!]]></title>
         <id>https://voiceferret.tumblr.com/post/725697894324322304</id>
@@ -355,16 +375,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <updated>2023-07-18T19:00:16.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Felicia the ferret flushes out Fermilab’s tubes]]></title>
-        <id>https://voiceferret.tumblr.com/post/723070580866400257</id>
-        <link href="https://voiceferret.tumblr.com/post/723070580866400257"/>
-        <updated>2023-07-17T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Felicia the ferret flushes out Fermilab’s tubes]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
