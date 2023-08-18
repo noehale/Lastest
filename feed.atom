@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T01:35:13.913Z</updated>
+    <updated>2023-08-18T01:36:15.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Smell : Do They Need Baths?]]></title>
+        <id>https://www.youtube.com/watch?v=OILkfMTH0a0</id>
+        <link href="https://www.youtube.com/watch?v=OILkfMTH0a0"/>
+        <updated>2023-08-18T02:00:17.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A ferret is nearly run over. A DPW supervisor takes it in - Scranton Times-Tribune]]></title>
         <id>https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aGV0aW1lcy10cmlidW5lLmNvbS9uZXdzL2EtZmVycmV0LWlzLW5lYXJseS1ydW4tb3Zlci1hLWRwdy1zdXBlcnZpc29yLXRha2VzLWl0LWluL2FydGljbGVfNjBlZjFjYWItMTE5Yi01YjQ4LTk3MzUtZjI4NThmMDIyYWE0Lmh0bWzSAQA?oc=5</id>
@@ -356,25 +365,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <summary type="html"><![CDATA[Moves house – strange ferret]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does anyone else’s ferret do this?]]></title>
-        <id>https://voiceferret.tumblr.com/post/723161177530744832</id>
-        <link href="https://voiceferret.tumblr.com/post/723161177530744832"/>
-        <updated>2023-07-18T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone else’s ferret do this?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ways to Bond with Your Ferret : Hold Them!]]></title>
-        <id>https://www.youtube.com/watch?v=ldWyXFFE6Mw</id>
-        <link href="https://www.youtube.com/watch?v=ldWyXFFE6Mw"/>
-        <updated>2023-07-18T19:00:16.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>

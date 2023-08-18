@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OILkfMTH0a0",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OILkfMTH0a0",
+          "publishedOn": "2023-08-18T02:00:17.000Z",
+          "wordCount": null,
+          "title": "Ferret Smell : Do They Need Baths?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aGV0aW1lcy10cmlidW5lLmNvbS9uZXdzL2EtZmVycmV0LWlzLW5lYXJseS1ydW4tb3Zlci1hLWRwdy1zdXBlcnZpc29yLXRha2VzLWl0LWluL2FydGljbGVfNjBlZjFjYWItMTE5Yi01YjQ4LTk3MzUtZjI4NThmMDIyYWE0Lmh0bWzSAQA?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -364,26 +374,6 @@
           "wordCount": 754,
           "title": "Moves house – strange ferret",
           "imageUrl": "https://64.media.tumblr.com/6146c799861f48df90c2c39e71c21f47/79ade5d2c0b6f98a-65/s1280x1920/28b11701b0c81ea4a060fe8495e7390b08fa13b7.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/723161177530744832",
-          "author": null,
-          "description": "Does anyone else’s ferret do this?",
-          "link": "https://voiceferret.tumblr.com/post/723161177530744832",
-          "publishedOn": "2023-07-18T20:04:01.000Z",
-          "wordCount": 759,
-          "title": "Does anyone else’s ferret do this?",
-          "imageUrl": "https://64.media.tumblr.com/68551a0b40f0301f7f523fb88489acd5/b0ce263a9a6bb1d6-93/s1280x1920/a4e859b1e1c11a8f8e1656fca9ffdedf8b602517.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ldWyXFFE6Mw",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ldWyXFFE6Mw",
-          "publishedOn": "2023-07-18T19:00:16.000Z",
-          "wordCount": null,
-          "title": "Ways to Bond with Your Ferret : Hold Them!",
-          "imageUrl": null
         }
       ]
     }
