@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T01:36:15.047Z</updated>
+    <updated>2023-08-19T01:33:23.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My lil bushy tail when he was 3 months old]]></title>
+        <id>https://voiceferret.tumblr.com/post/725969685984706560</id>
+        <link href="https://voiceferret.tumblr.com/post/725969685984706560"/>
+        <updated>2023-08-18T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[My lil bushy tail when he was 3 months old]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Smell : Do They Need Baths?]]></title>
         <id>https://www.youtube.com/watch?v=OILkfMTH0a0</id>
