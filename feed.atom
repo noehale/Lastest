@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T01:36:55.552Z</updated>
+    <updated>2023-08-22T01:37:34.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[scrunckly old man photos]]></title>
+        <id>https://voiceferret.tumblr.com/post/726241473872445440</id>
+        <link href="https://voiceferret.tumblr.com/post/726241473872445440"/>
+        <updated>2023-08-21T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[scrunckly old man photos]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[are giant house spiders dangerous to ferrets?]]></title>
         <id>https://voiceferret.tumblr.com/post/726150881633075200</id>
@@ -22,6 +32,16 @@
         <link href="https://voiceferret.tumblr.com/post/725969685984706560"/>
         <updated>2023-08-18T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[My lil bushy tail when he was 3 months old]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black-footed Ferret Kit Update: Vaxxed and Ready to Roll - Smithsonian's National Zoo and Conservation Biology Institute]]></title>
+        <id>https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L2FuaW1hbHMvbmV3cy9ibGFjay1mb290ZWQtZmVycmV0LWtpdC11cGRhdGUtdmF4eGVkLWFuZC1yZWFkeS1yb2xs0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmF0aW9uYWx6b28uc2kuZWR1L2FuaW1hbHMvbmV3cy9ibGFjay1mb290ZWQtZmVycmV0LWtpdC11cGRhdGUtdmF4eGVkLWFuZC1yZWFkeS1yb2xs0gEA?oc=5"/>
+        <updated>2023-08-18T09:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -344,16 +364,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://voiceferret.tumblr.com/post/723704759396220928"/>
         <updated>2023-07-24T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Oh no Millie has turned into liquid]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone else deal with their ferret friends opening doors? Or is Mr. Wheezy just extra?]]></title>
-        <id>https://voiceferret.tumblr.com/post/723523567944417280</id>
-        <link href="https://voiceferret.tumblr.com/post/723523567944417280"/>
-        <updated>2023-07-22T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Anyone else deal with their ferret friends opening doors? Or is Mr. Wheezy just extra?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
