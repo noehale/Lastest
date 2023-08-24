@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T01:36:39.089Z</updated>
+    <updated>2023-08-24T01:36:32.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One of my ferrets is getting featured in a calendar!!]]></title>
+        <id>https://voiceferret.tumblr.com/post/726422670492811264</id>
+        <link href="https://voiceferret.tumblr.com/post/726422670492811264"/>
+        <updated>2023-08-23T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[One of my ferrets is getting featured in a calendar!!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Ferrets Smell : Possible Causes]]></title>
         <id>https://www.youtube.com/watch?v=H9giVFp5V-0</id>
@@ -375,16 +385,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <updated>2023-07-26T00:00:47.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh no Millie has turned into liquid]]></title>
-        <id>https://voiceferret.tumblr.com/post/723704759396220928</id>
-        <link href="https://voiceferret.tumblr.com/post/723704759396220928"/>
-        <updated>2023-07-24T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Oh no Millie has turned into liquid]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
