@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T01:36:32.597Z</updated>
+    <updated>2023-08-25T01:38:42.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Found it in Twitter😭❤️]]></title>
+        <id>https://voiceferret.tumblr.com/post/726513266879283200</id>
+        <link href="https://voiceferret.tumblr.com/post/726513266879283200"/>
+        <updated>2023-08-24T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Found it in Twitter]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One of my ferrets is getting featured in a calendar!!]]></title>
         <id>https://voiceferret.tumblr.com/post/726422670492811264</id>
@@ -366,25 +376,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <summary type="html"><![CDATA[found this old video of my Luna playing with baby Goose, she was so good with him when he was tiny]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cats, dogs, ferrets. What to know on licensing pets in Lee County - News-Press]]></title>
-        <id>https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5ld3MtcHJlc3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMy8wNy8yNS9jYXRzLWRvZ3MtZmVycmV0cy1saWNlbnNpbmctcGV0cy1pbi1sZWUtY291bnR5LWZsb3JpZGEvNzA0NjEwMDUwMDcv0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5ld3MtcHJlc3MuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMy8wNy8yNS9jYXRzLWRvZ3MtZmVycmV0cy1saWNlbnNpbmctcGV0cy1pbi1sZWUtY291bnR5LWZsb3JpZGEvNzA0NjEwMDUwMDcv0gEA?oc=5"/>
-        <updated>2023-07-26T04:14:29.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ways to Bond with Your Ferret : Train Them]]></title>
-        <id>https://www.youtube.com/watch?v=tdJI3rHHD40</id>
-        <link href="https://www.youtube.com/watch?v=tdJI3rHHD40"/>
-        <updated>2023-07-26T00:00:47.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
