@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T01:38:42.577Z</updated>
+    <updated>2023-08-26T01:34:58.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dangerous for Ferret : Essential Oils]]></title>
+        <id>https://www.youtube.com/watch?v=nvQve5965bY</id>
+        <link href="https://www.youtube.com/watch?v=nvQve5965bY"/>
+        <updated>2023-08-26T01:45:02.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Found it in Twitter😭❤️]]></title>
         <id>https://voiceferret.tumblr.com/post/726513266879283200</id>
@@ -364,16 +373,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vYml6YXJyZS10cnVlLXN0b3J5LXBoeXNpY2lzdHMtb25jZS1wdXQtYS1mZXJyZXQtaW4tYS1wYXJ0aWNsZS1hY2NlbGVyYXRvctIBAA?oc=5"/>
         <updated>2023-07-27T15:06:37.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[found this old video of my Luna playing with baby Goose, she was so good with him when he was tiny]]></title>
-        <id>https://voiceferret.tumblr.com/post/723885953704476672</id>
-        <link href="https://voiceferret.tumblr.com/post/723885953704476672"/>
-        <updated>2023-07-26T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[found this old video of my Luna playing with baby Goose, she was so good with him when he was tiny]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
