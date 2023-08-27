@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T01:34:58.968Z</updated>
+    <updated>2023-08-27T01:40:42.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[These two noodles take on Grant Wood’s American Gothic.]]></title>
+        <id>https://voiceferret.tumblr.com/post/726694459042136064</id>
+        <link href="https://voiceferret.tumblr.com/post/726694459042136064"/>
+        <updated>2023-08-26T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[These two noodles take on Grant Wood’s American Gothic.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dangerous for Ferret : Essential Oils]]></title>
         <id>https://www.youtube.com/watch?v=nvQve5965bY</id>
@@ -345,36 +355,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <updated>2023-07-29T02:00:04.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burrillville Animal Control looking for owner of lost ferret - WLNE-TV (ABC6)]]></title>
-        <id>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFiYzYuY29tL2J1cnJpbGx2aWxsZS1hbmltYWwtY29udHJvbC1sb29raW5nLWZvci1vd25lci1vZi1sb3N0LWZlcnJldC_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFiYzYuY29tL2J1cnJpbGx2aWxsZS1hbmltYWwtY29udHJvbC1sb29raW5nLWZvci1vd25lci1vZi1sb3N0LWZlcnJldC_SAQA?oc=5"/>
-        <updated>2023-07-28T11:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[whenever my boyfriend has oatmeal with bananas]]></title>
-        <id>https://voiceferret.tumblr.com/post/723976553075195904</id>
-        <link href="https://voiceferret.tumblr.com/post/723976553075195904"/>
-        <updated>2023-07-27T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[whenever my boyfriend has oatmeal with bananas]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bizarre True Story: Physicists Once Put a Ferret in a Particle Accelerator - ScienceAlert]]></title>
-        <id>https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vYml6YXJyZS10cnVlLXN0b3J5LXBoeXNpY2lzdHMtb25jZS1wdXQtYS1mZXJyZXQtaW4tYS1wYXJ0aWNsZS1hY2NlbGVyYXRvctIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vYml6YXJyZS10cnVlLXN0b3J5LXBoeXNpY2lzdHMtb25jZS1wdXQtYS1mZXJyZXQtaW4tYS1wYXJ0aWNsZS1hY2NlbGVyYXRvctIBAA?oc=5"/>
-        <updated>2023-07-27T15:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
