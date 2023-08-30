@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T01:38:41.075Z</updated>
+    <updated>2023-08-30T01:38:28.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marshall Ferret : How to Tell You have a Marshall Ferret]]></title>
+        <id>https://www.youtube.com/watch?v=cJN95eb0Yvk</id>
+        <link href="https://www.youtube.com/watch?v=cJN95eb0Yvk"/>
+        <updated>2023-08-30T00:15:05.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Made an Instagram account for my little business.]]></title>
         <id>https://voiceferret.tumblr.com/post/726875655206207488</id>
