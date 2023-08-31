@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T01:38:28.334Z</updated>
+    <updated>2023-08-31T01:39:04.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Little Atari has gained his wings and flew over the rainbow bridge. Its been a few days and I still miss him.]]></title>
+        <id>https://voiceferret.tumblr.com/post/727056846978007040</id>
+        <link href="https://voiceferret.tumblr.com/post/727056846978007040"/>
+        <updated>2023-08-30T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Little Atari has gained his wings and flew over the rainbow bridge. Its been a few days and I still miss him.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret missing from Mobile pet shop, MPD want to talk with woman - Fox 10 News]]></title>
+        <id>https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tL3ZpZGVvLzIwMjMvMDgvMzAvZmVycmV0LW1pc3NpbmctbW9iaWxlLXBldC1zaG9wLW1wZC13YW50LXRhbGstd2l0aC13b21hbi_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tL3ZpZGVvLzIwMjMvMDgvMzAvZmVycmV0LW1pc3NpbmctbW9iaWxlLXBldC1zaG9wLW1wZC13YW50LXRhbGstd2l0aC13b21hbi_SAQA?oc=5"/>
+        <updated>2023-08-30T17:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marshall Ferret : How to Tell You have a Marshall Ferret]]></title>
         <id>https://www.youtube.com/watch?v=cJN95eb0Yvk</id>
@@ -324,35 +344,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8va2dhYi5jb20vZmVycmV0LXJldW5pdGVkLXdpdGgtZmFtaWx5LWFmdGVyLWJlaW5nLXJlc2N1ZWQtZnJvbS13aW5kb3ctd2VsbC_SAQA?oc=5"/>
         <updated>2023-08-01T14:08:19.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Doesn't My Ferret Like Me??]]></title>
-        <id>https://www.youtube.com/watch?v=Yd47HtM5J4E</id>
-        <link href="https://www.youtube.com/watch?v=Yd47HtM5J4E"/>
-        <updated>2023-08-01T12:00:30.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kitten and ferret make unlikely friendship at Utah animal shelter - FOX 13 News Utah]]></title>
-        <id>https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3Mva2l0dGVuLWFuZC1mZXJyZXQtbWFrZS11bmxpa2VseS1mcmllbmRzaGlwLWF0LXV0YWgtYW5pbWFsLXNoZWx0ZXLSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3Mva2l0dGVuLWFuZC1mZXJyZXQtbWFrZS11bmxpa2VseS1mcmllbmRzaGlwLWF0LXV0YWgtYW5pbWFsLXNoZWx0ZXLSAQA?oc=5"/>
-        <updated>2023-08-01T04:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any ferret rescues near Greenville, SC or local redditors looking to add to their group?]]></title>
-        <id>https://voiceferret.tumblr.com/post/724338940332720128</id>
-        <link href="https://voiceferret.tumblr.com/post/724338940332720128"/>
-        <updated>2023-07-31T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Any ferret rescues near Greenville, SC or local redditors looking to add to their group?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
