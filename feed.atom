@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T01:39:04.945Z</updated>
+    <updated>2023-09-01T01:43:29.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Bathing : Does it Help Smell?]]></title>
+        <id>https://www.youtube.com/watch?v=JAEPvuknURs</id>
+        <link href="https://www.youtube.com/watch?v=JAEPvuknURs"/>
+        <updated>2023-08-31T19:00:15.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online sleuths identify alleged 'ferret-napper' - Wichita - KWCH]]></title>
+        <id>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmt3Y2guY29tL3ZpZGVvLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmt3Y2guY29tL3ZpZGVvLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBAA?oc=5"/>
+        <updated>2023-08-31T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online sleuths identify alleged ‘ferret-napper’ - Fox 10 News]]></title>
+        <id>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBYGh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBYGh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5"/>
+        <updated>2023-08-31T16:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Little Atari has gained his wings and flew over the rainbow bridge. Its been a few days and I still miss him.]]></title>
         <id>https://voiceferret.tumblr.com/post/727056846978007040</id>
@@ -324,26 +353,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://voiceferret.tumblr.com/post/724610731940659200"/>
         <updated>2023-08-03T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[cuddles and morr cuddles]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safe to say this is hers now]]></title>
-        <id>https://voiceferret.tumblr.com/post/724429535574130688</id>
-        <link href="https://voiceferret.tumblr.com/post/724429535574130688"/>
-        <updated>2023-08-01T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Safe to say this is hers now]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Reunited With Family After Being Rescued From Window Well - Kgab]]></title>
-        <id>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8va2dhYi5jb20vZmVycmV0LXJldW5pdGVkLXdpdGgtZmFtaWx5LWFmdGVyLWJlaW5nLXJlc2N1ZWQtZnJvbS13aW5kb3ctd2VsbC_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8va2dhYi5jb20vZmVycmV0LXJldW5pdGVkLXdpdGgtZmFtaWx5LWFmdGVyLWJlaW5nLXJlc2N1ZWQtZnJvbS13aW5kb3ctd2VsbC_SAQA?oc=5"/>
-        <updated>2023-08-01T14:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>

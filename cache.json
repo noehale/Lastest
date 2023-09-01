@@ -6,6 +6,36 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JAEPvuknURs",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JAEPvuknURs",
+          "publishedOn": "2023-08-31T19:00:15.000Z",
+          "wordCount": null,
+          "title": "Ferret Bathing : Does it Help Smell?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmt3Y2guY29tL3ZpZGVvLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBAA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmt3Y2guY29tL3ZpZGVvLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBAA?oc=5",
+          "publishedOn": "2023-08-31T16:59:00.000Z",
+          "wordCount": 5333,
+          "title": "Online sleuths identify alleged 'ferret-napper' - Wichita - KWCH",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBYGh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBYGh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+          "publishedOn": "2023-08-31T16:22:00.000Z",
+          "wordCount": 5333,
+          "title": "Online sleuths identify alleged ‘ferret-napper’ - Fox 10 News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/727056846978007040",
           "author": null,
           "description": "Little Atari has gained his wings and flew over the rainbow bridge. Its been a few days and I still miss him.",
@@ -334,26 +364,6 @@
           "wordCount": 752,
           "title": "cuddles and morr cuddles 🥰",
           "imageUrl": "https://64.media.tumblr.com/9e75b3fb4af49d32ca32e4921d734b99/0c49fdfe13db5f19-c1/s1280x1920/2431b50b9146ac2a675dfa32ae757b41a199ff4b.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/724429535574130688",
-          "author": null,
-          "description": "Safe to say this is hers now",
-          "link": "https://voiceferret.tumblr.com/post/724429535574130688",
-          "publishedOn": "2023-08-01T20:04:02.000Z",
-          "wordCount": 772,
-          "title": "Safe to say this is hers now",
-          "imageUrl": "https://64.media.tumblr.com/57c6acc74db9a2cf7568144a74ff6e3b/7716b5d2709312aa-f8/s1280x1920/b09d566748970a68d92e1512ddef8e0f5b414fc5.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8va2dhYi5jb20vZmVycmV0LXJldW5pdGVkLXdpdGgtZmFtaWx5LWFmdGVyLWJlaW5nLXJlc2N1ZWQtZnJvbS13aW5kb3ctd2VsbC_SAQA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8va2dhYi5jb20vZmVycmV0LXJldW5pdGVkLXdpdGgtZmFtaWx5LWFmdGVyLWJlaW5nLXJlc2N1ZWQtZnJvbS13aW5kb3ctd2VsbC_SAQA?oc=5",
-          "publishedOn": "2023-08-01T14:08:19.000Z",
-          "wordCount": 6040,
-          "title": "Ferret Reunited With Family After Being Rescued From Window Well - Kgab",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }
