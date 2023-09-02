@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T01:43:29.222Z</updated>
+    <updated>2023-09-02T01:35:17.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[reggie getting in his steps]]></title>
+        <id>https://voiceferret.tumblr.com/post/727238042252869632</id>
+        <link href="https://voiceferret.tumblr.com/post/727238042252869632"/>
+        <updated>2023-09-01T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[reggie getting in his steps]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/849249593228722</id>
+        <link href="https://www.facebook.com/666603538159996/posts/849249593228722"/>
+        <updated>2023-09-01T16:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Even though my ferret looks terrified, thank you to Nikki for babysitting my son! 😂 #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Bathing : Does it Help Smell?]]></title>
         <id>https://www.youtube.com/watch?v=JAEPvuknURs</id>
