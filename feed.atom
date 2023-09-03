@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T01:35:17.047Z</updated>
+    <updated>2023-09-03T01:41:07.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daisy]]></title>
+        <id>https://voiceferret.tumblr.com/post/727328639976439808</id>
+        <link href="https://voiceferret.tumblr.com/post/727328639976439808"/>
+        <updated>2023-09-02T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Daisy]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[reggie getting in his steps]]></title>
         <id>https://voiceferret.tumblr.com/post/727238042252869632</id>
@@ -33,6 +43,16 @@
         <updated>2023-08-31T19:00:15.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online sleuths identify alleged 'ferret-napper' - WBRC]]></title>
+        <id>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndicmMuY29tL3ZpZGVvLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LndicmMuY29tL3ZpZGVvLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBAA?oc=5"/>
+        <updated>2023-08-31T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -355,26 +375,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <updated>2023-08-05T06:45:00.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile County rabies clinics planned in August for dogs, cats and ferrets - Fox 10 News]]></title>
-        <id>https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMDMvbW9iaWxlLWNvdW50eS1yYWJpZXMtY2xpbmljcy1wbGFubmVkLWF1Z3VzdC1kb2dzLWNhdHMtZmVycmV0cy_SAXBodHRwczovL3d3dy5mb3gxMHR2LmNvbS8yMDIzLzA4LzAzL21vYmlsZS1jb3VudHktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1hdWd1c3QtZG9ncy1jYXRzLWZlcnJldHMvP291dHB1dFR5cGU9YW1w?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMDMvbW9iaWxlLWNvdW50eS1yYWJpZXMtY2xpbmljcy1wbGFubmVkLWF1Z3VzdC1kb2dzLWNhdHMtZmVycmV0cy_SAXBodHRwczovL3d3dy5mb3gxMHR2LmNvbS8yMDIzLzA4LzAzL21vYmlsZS1jb3VudHktcmFiaWVzLWNsaW5pY3MtcGxhbm5lZC1hdWd1c3QtZG9ncy1jYXRzLWZlcnJldHMvP291dHB1dFR5cGU9YW1w?oc=5"/>
-        <updated>2023-08-04T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cuddles and morr cuddles 🥰]]></title>
-        <id>https://voiceferret.tumblr.com/post/724610731940659200</id>
-        <link href="https://voiceferret.tumblr.com/post/724610731940659200"/>
-        <updated>2023-08-03T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[cuddles and morr cuddles]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
