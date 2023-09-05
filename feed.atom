@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T01:39:34.795Z</updated>
+    <updated>2023-09-05T01:37:08.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[how can they be so cute]]></title>
+        <id>https://voiceferret.tumblr.com/post/727509831808843776</id>
+        <link href="https://voiceferret.tumblr.com/post/727509831808843776"/>
+        <updated>2023-09-04T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[how can they be so cute]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daisy]]></title>
         <id>https://voiceferret.tumblr.com/post/727328639976439808</id>
@@ -354,16 +364,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://www.facebook.com/666603538159996/posts/837102517776763"/>
         <updated>2023-08-07T11:17:54.000Z</updated>
         <summary type="html"><![CDATA[Elijah the ferret is at it again! Thanks to Aviva Woodlands Memory Care Unit for having us! It was a day of ferrets, scripture, prayer, and coloring #ferret #ferrets #jesus(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The perfect nap buddy. #ferret]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/836595711160777</id>
-        <link href="https://www.facebook.com/666603538159996/posts/836595711160777"/>
-        <updated>2023-08-06T13:31:43.000Z</updated>
-        <summary type="html"><![CDATA[The perfect nap buddy. #ferret(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
