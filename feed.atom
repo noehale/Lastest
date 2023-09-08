@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T01:38:40.726Z</updated>
+    <updated>2023-09-08T01:39:12.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calling All Ferrets! It's Time To Show Off Your Skills. - Eugene Weekly]]></title>
+        <id>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZXVnZW5ld2Vla2x5LmNvbS8yMDIzLzA5LzA3L2NhbGxpbmctYWxsLWZlcnJldHMtaXRzLXRpbWUtdG8tc2hvdy1vZmYteW91ci1za2lsbHMv0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZXVnZW5ld2Vla2x5LmNvbS8yMDIzLzA5LzA3L2NhbGxpbmctYWxsLWZlcnJldHMtaXRzLXRpbWUtdG8tc2hvdy1vZmYteW91ci1za2lsbHMv0gEA?oc=5"/>
+        <updated>2023-09-07T21:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting ready for date]]></title>
+        <id>https://voiceferret.tumblr.com/post/727781622688186368</id>
+        <link href="https://voiceferret.tumblr.com/post/727781622688186368"/>
+        <updated>2023-09-07T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Getting ready for date]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Smell in House : What to do about it?]]></title>
         <id>https://www.youtube.com/watch?v=5EBE6dqUptI</id>
@@ -344,25 +364,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://voiceferret.tumblr.com/post/725154313273573376"/>
         <updated>2023-08-09T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Dobby wants everyone to know that he is now 3 years old]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ways to Bond with Your Ferret : How Long Does It Take?]]></title>
-        <id>https://www.youtube.com/watch?v=pk3MMy7Xh_Q</id>
-        <link href="https://www.youtube.com/watch?v=pk3MMy7Xh_Q"/>
-        <updated>2023-08-09T12:00:35.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misty’s kits almost 24 hrs old now .]]></title>
-        <id>https://voiceferret.tumblr.com/post/725063714654519296</id>
-        <link href="https://voiceferret.tumblr.com/post/725063714654519296"/>
-        <updated>2023-08-08T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Misty’s kits almost 24 hrs old now .]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
