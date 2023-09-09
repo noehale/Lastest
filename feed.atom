@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T01:39:12.865Z</updated>
+    <updated>2023-09-09T01:36:01.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Litter Box : It's Making Them Smell!]]></title>
+        <id>https://www.youtube.com/watch?v=oU788eR-byU</id>
+        <link href="https://www.youtube.com/watch?v=oU788eR-byU"/>
+        <updated>2023-09-09T01:00:44.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Vibes]]></title>
+        <id>https://voiceferret.tumblr.com/post/727872220632924160</id>
+        <link href="https://voiceferret.tumblr.com/post/727872220632924160"/>
+        <updated>2023-09-08T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Good Vibes]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calling All Ferrets! It's Time To Show Off Your Skills. - Eugene Weekly]]></title>
         <id>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZXVnZW5ld2Vla2x5LmNvbS8yMDIzLzA5LzA3L2NhbGxpbmctYWxsLWZlcnJldHMtaXRzLXRpbWUtdG8tc2hvdy1vZmYteW91ci1za2lsbHMv0gEA?oc=5</id>
@@ -22,6 +41,16 @@
         <link href="https://voiceferret.tumblr.com/post/727781622688186368"/>
         <updated>2023-09-07T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Getting ready for date]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDS0202 Universal Influenza Preclinical Ferret Data to be Presented in Oral Lecture at 9th ESWI Conference - Yahoo Finance]]></title>
+        <id>https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wZHMwMjAyLXVuaXZlcnNhbC1pbmZsdWVuemEtcHJlY2xpbmljYWwtZmVycmV0LTEyMDAwMDMwMy5odG1s0gFkaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcGRzMDIwMi11bml2ZXJzYWwtaW5mbHVlbnphLXByZWNsaW5pY2FsLWZlcnJldC0xMjAwMDAzMDMuaHRtbA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wZHMwMjAyLXVuaXZlcnNhbC1pbmZsdWVuemEtcHJlY2xpbmljYWwtZmVycmV0LTEyMDAwMDMwMy5odG1s0gFkaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcGRzMDIwMi11bml2ZXJzYWwtaW5mbHVlbnphLXByZWNsaW5pY2FsLWZlcnJldC0xMjAwMDAzMDMuaHRtbA?oc=5"/>
+        <updated>2023-09-07T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -354,16 +383,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9oZWFsdGgvYXJjaGl2ZS8yMDIzLzA4L2RheS1jYXJlLWZlcnJldC1mbHUtdHJhbnNtaXNzaW9uLXJlc2VhcmNoLzY3NDk3Mi_SAQA?oc=5"/>
         <updated>2023-08-11T07:16:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dobby wants everyone to know that he is now 3 years old]]></title>
-        <id>https://voiceferret.tumblr.com/post/725154313273573376</id>
-        <link href="https://voiceferret.tumblr.com/post/725154313273573376"/>
-        <updated>2023-08-09T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Dobby wants everyone to know that he is now 3 years old]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
