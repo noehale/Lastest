@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T01:36:01.069Z</updated>
+    <updated>2023-09-10T01:41:23.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/853475079472840</id>
+        <link href="https://www.facebook.com/666603538159996/posts/853475079472840"/>
+        <updated>2023-09-10T07:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Elijah knocked it out of the park at his latest assisted living facility visit! We took him on a tour to visit all the residents.  
+I saw so much light and hope in there today. It was such a joy to connect with these amazing people and use this platform for good #ferret #jesuschrist(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I bought a Marshall ferret today]]></title>
+        <id>https://voiceferret.tumblr.com/post/727962817038336000</id>
+        <link href="https://voiceferret.tumblr.com/post/727962817038336000"/>
+        <updated>2023-09-09T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[I bought a Marshall ferret today]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Litter Box : It's Making Them Smell!]]></title>
         <id>https://www.youtube.com/watch?v=oU788eR-byU</id>
@@ -170,6 +191,16 @@
         <updated>2023-08-30T00:15:05.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mystery of a Missing Mobile Ferret - WKRG News 5]]></title>
+        <id>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LndrcmcuY29tL21vYmlsZS1jb3VudHkvbXlzdGVyeS1vZi1hLW1pc3NpbmctbW9iaWxlLWZlcnJldC_SAUpodHRwczovL3d3dy53a3JnLmNvbS9tb2JpbGUtY291bnR5L215c3Rlcnktb2YtYS1taXNzaW5nLW1vYmlsZS1mZXJyZXQvYW1wLw?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LndrcmcuY29tL21vYmlsZS1jb3VudHkvbXlzdGVyeS1vZi1hLW1pc3NpbmctbW9iaWxlLWZlcnJldC_SAUpodHRwczovL3d3dy53a3JnLmNvbS9tb2JpbGUtY291bnR5L215c3Rlcnktb2YtYS1taXNzaW5nLW1vYmlsZS1mZXJyZXQvYW1wLw?oc=5"/>
+        <updated>2023-08-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -373,16 +404,6 @@ It's important to take ferret health seriously, and one of the first steps is fi
         <link href="https://voiceferret.tumblr.com/post/725335504602710016"/>
         <updated>2023-08-11T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[So my son has been obsessed with taking .5 zoom pictures of us, so naturally the ferrets needed a turn!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets Could Unlock How Flue Spreads in Day Cares - The Atlantic]]></title>
-        <id>https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9oZWFsdGgvYXJjaGl2ZS8yMDIzLzA4L2RheS1jYXJlLWZlcnJldC1mbHUtdHJhbnNtaXNzaW9uLXJlc2VhcmNoLzY3NDk3Mi_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9oZWFsdGgvYXJjaGl2ZS8yMDIzLzA4L2RheS1jYXJlLWZlcnJldC1mbHUtdHJhbnNtaXNzaW9uLXJlc2VhcmNoLzY3NDk3Mi_SAQA?oc=5"/>
-        <updated>2023-08-11T07:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
