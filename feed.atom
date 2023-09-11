@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T01:41:23.667Z</updated>
+    <updated>2023-09-11T01:39:58.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[101 Year Old Meets Ferret #ferret]]></title>
+        <id>https://www.youtube.com/watch?v=HUpupRL0gUg</id>
+        <link href="https://www.youtube.com/watch?v=HUpupRL0gUg"/>
+        <updated>2023-09-11T03:17:13.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
         <id>https://www.facebook.com/666603538159996/posts/853475079472840</id>
@@ -365,45 +374,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/725516701343580160"/>
         <updated>2023-08-13T20:04:04.000Z</updated>
         <summary type="html"><![CDATA[what a stinker!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Health : Choosing a GOOD Vet]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/839611217525893</id>
-        <link href="https://www.facebook.com/666603538159996/posts/839611217525893"/>
-        <updated>2023-08-12T10:16:20.000Z</updated>
-        <summary type="html"><![CDATA[Check out my latest Youtube video! It's a resource to help us all find the BEST ferret vets!
-It's important to take ferret health seriously, and one of the first steps is finding a good ferret vet!Get your 2024 Ferret Calendar Here (#1 on Amazon): ht...(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Health : Choosing a GOOD Vet]]></title>
-        <id>https://www.youtube.com/watch?v=pfXA_3Tf-2M</id>
-        <link href="https://www.youtube.com/watch?v=pfXA_3Tf-2M"/>
-        <updated>2023-08-12T10:13:42.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Part of this World" Ferret Parody]]></title>
-        <id>https://www.youtube.com/watch?v=d0e5BCWQFnQ</id>
-        <link href="https://www.youtube.com/watch?v=d0e5BCWQFnQ"/>
-        <updated>2023-08-12T02:00:29.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So my son has been obsessed with taking .5 zoom pictures of us, so naturally the ferrets needed a turn!]]></title>
-        <id>https://voiceferret.tumblr.com/post/725335504602710016</id>
-        <link href="https://voiceferret.tumblr.com/post/725335504602710016"/>
-        <updated>2023-08-11T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[So my son has been obsessed with taking .5 zoom pictures of us, so naturally the ferrets needed a turn!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>

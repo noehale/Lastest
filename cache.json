@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HUpupRL0gUg",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HUpupRL0gUg",
+          "publishedOn": "2023-09-11T03:17:13.000Z",
+          "wordCount": null,
+          "title": "101 Year Old Meets Ferret #ferret",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.facebook.com/666603538159996/posts/853475079472840",
           "author": "The Modern Ferret",
           "description": "Elijah knocked it out of the park at his latest assisted living facility visit! We took him on a tour to visit all the residents.  \nI saw so much light and hope in there today. It was such a joy to connect with these amazing people and use this platform for good #ferret #jesuschrist(Feed generated with FetchRSS)",
@@ -374,46 +384,6 @@
           "wordCount": 754,
           "title": "what a stinker!",
           "imageUrl": "https://64.media.tumblr.com/60dd01dbe81fb2d99d72a18e94fd951e/4bae51329b11bc54-1a/s1280x1920/3483d56e72e97e821322e8d20a6bad94d330bbd2.jpg"
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/839611217525893",
-          "author": "The Modern Ferret",
-          "description": "Check out my latest Youtube video! It's a resource to help us all find the BEST ferret vets!\nIt's important to take ferret health seriously, and one of the first steps is finding a good ferret vet!Get your 2024 Ferret Calendar Here (#1 on Amazon): ht...(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/839611217525893",
-          "publishedOn": "2023-08-12T10:16:20.000Z",
-          "wordCount": 1675,
-          "title": "Ferret Health : Choosing a GOOD Vet",
-          "imageUrl": "https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/8856609215994442009?url=https%3a%2f%2fi.ytimg.com%2fvi%2fpfXA_3Tf-2M%2fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-emg0_p400x400_q75&ccb=13-1&oh=06_AbFN26vvBouoNBDYwfhKjX6CspA2bnYH3mu78eQ4ZkIPpQ&oe=64D98CDF&_nc_sid=a4f62d"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pfXA_3Tf-2M",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pfXA_3Tf-2M",
-          "publishedOn": "2023-08-12T10:13:42.000Z",
-          "wordCount": null,
-          "title": "Ferret Health : Choosing a GOOD Vet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d0e5BCWQFnQ",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d0e5BCWQFnQ",
-          "publishedOn": "2023-08-12T02:00:29.000Z",
-          "wordCount": null,
-          "title": "\"Part of this World\" Ferret Parody",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/725335504602710016",
-          "author": null,
-          "description": "So my son has been obsessed with taking .5 zoom pictures of us, so naturally the ferrets needed a turn!",
-          "link": "https://voiceferret.tumblr.com/post/725335504602710016",
-          "publishedOn": "2023-08-11T20:04:01.000Z",
-          "wordCount": 819,
-          "title": "So my son has been obsessed with taking .5 zoom pictures of us, so naturally the ferrets needed a turn!",
-          "imageUrl": "https://64.media.tumblr.com/ece2dbc665b3fea662bbf30a20439316/2c0e7bf1d1178b22-ae/s1280x1920/6699f96dfa5752bc7ea5fdd1ee09ebfb9bf3ae67.jpg"
         }
       ]
     }
