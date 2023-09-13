@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T01:37:24.459Z</updated>
+    <updated>2023-09-13T01:39:36.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drug blocks SARS-CoV-2 transmission in ferrets - Futurity: Research News]]></title>
+        <id>https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmZ1dHVyaXR5Lm9yZy9tb2xudXBpcmF2aXItc2Fycy1jb3YtMi1mZXJyZXRzLTI5NzMwNjIv0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmZ1dHVyaXR5Lm9yZy9tb2xudXBpcmF2aXItc2Fycy1jb3YtMi1mZXJyZXRzLTI5NzMwNjIv0gEA?oc=5"/>
+        <updated>2023-09-13T07:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cinnamon, the ferret, is up for adoption at CT Humane Society - FOX61 Hartford]]></title>
+        <id>https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5mb3g2MS5jb20vdmlkZW8vbmV3cy9sb2NhbC9tb3JuaW5nLXNob3cvY2lubmFtb24tdGhlLWZlcnJldC1pcy11cC1mb3ItYWRvcHRpb24tYXQtY3QtaHVtYW5lLXNvY2lldHkvNTIwLTdmN2RjZWExLWE3ZjUtNDRmYS05OWEyLWRiODdiYzI4MzEzNtIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5mb3g2MS5jb20vdmlkZW8vbmV3cy9sb2NhbC9tb3JuaW5nLXNob3cvY2lubmFtb24tdGhlLWZlcnJldC1pcy11cC1mb3ItYWRvcHRpb24tYXQtY3QtaHVtYW5lLXNvY2lldHkvNTIwLTdmN2RjZWExLWE3ZjUtNDRmYS05OWEyLWRiODdiYzI4MzEzNtIBAA?oc=5"/>
+        <updated>2023-09-13T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret Potty : Why Your Ferret Smells!]]></title>
+        <id>https://www.youtube.com/watch?v=DIWPyrOugCs</id>
+        <link href="https://www.youtube.com/watch?v=DIWPyrOugCs"/>
+        <updated>2023-09-13T00:30:02.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probably the worst photos I have of her to date]]></title>
+        <id>https://voiceferret.tumblr.com/post/728234610103844864</id>
+        <link href="https://voiceferret.tumblr.com/post/728234610103844864"/>
+        <updated>2023-09-12T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Probably the worst photos I have of her to date]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[my friend’s ferret wants to be punk so bad]]></title>
         <id>https://voiceferret.tumblr.com/post/728144011522719744</id>
@@ -376,16 +415,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <updated>2023-08-14T19:00:11.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[what a stinker!]]></title>
-        <id>https://voiceferret.tumblr.com/post/725516701343580160</id>
-        <link href="https://voiceferret.tumblr.com/post/725516701343580160"/>
-        <updated>2023-08-13T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[what a stinker!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
