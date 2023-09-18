@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T01:42:06.046Z</updated>
+    <updated>2023-09-18T01:39:28.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[POV]]></title>
+        <id>https://voiceferret.tumblr.com/post/728687598104674304</id>
+        <link href="https://voiceferret.tumblr.com/post/728687598104674304"/>
+        <updated>2023-09-17T20:04:06.000Z</updated>
+        <summary type="html"><![CDATA[POV: You’re brushing a ferret]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
         <id>https://www.facebook.com/666603538159996/posts/857242409096107</id>
@@ -398,16 +408,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/726150881633075200"/>
         <updated>2023-08-20T20:04:05.000Z</updated>
         <summary type="html"><![CDATA[are giant house spiders dangerous to ferrets?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My lil bushy tail when he was 3 months old]]></title>
-        <id>https://voiceferret.tumblr.com/post/725969685984706560</id>
-        <link href="https://voiceferret.tumblr.com/post/725969685984706560"/>
-        <updated>2023-08-18T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[My lil bushy tail when he was 3 months old]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
