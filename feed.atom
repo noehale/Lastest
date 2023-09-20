@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T01:40:37.398Z</updated>
+    <updated>2023-09-20T01:39:21.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Smell Control : Check Your Carpets and Rugs]]></title>
+        <id>https://www.youtube.com/watch?v=RbeBloxljOY</id>
+        <link href="https://www.youtube.com/watch?v=RbeBloxljOY"/>
+        <updated>2023-09-20T00:00:32.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POV]]></title>
         <id>https://voiceferret.tumblr.com/post/728687598104674304</id>
@@ -398,16 +407,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/726241473872445440"/>
         <updated>2023-08-21T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[scrunckly old man photos]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[are giant house spiders dangerous to ferrets?]]></title>
-        <id>https://voiceferret.tumblr.com/post/726150881633075200</id>
-        <link href="https://voiceferret.tumblr.com/post/726150881633075200"/>
-        <updated>2023-08-20T20:04:05.000Z</updated>
-        <summary type="html"><![CDATA[are giant house spiders dangerous to ferrets?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
