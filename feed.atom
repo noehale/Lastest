@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T01:39:21.342Z</updated>
+    <updated>2023-09-21T01:38:29.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transgenic ferret models define pulmonary ionocyte diversity and function - Nature.com]]></title>
+        <id>https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTg2LTAyMy0wNjU0OS050gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTg2LTAyMy0wNjU0OS050gEA?oc=5"/>
+        <updated>2023-09-21T05:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Smell Control : Check Your Carpets and Rugs]]></title>
         <id>https://www.youtube.com/watch?v=RbeBloxljOY</id>
@@ -397,16 +407,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/726332073521102848"/>
         <updated>2023-08-22T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Just found a ferret in my yard. What tf do I do]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[scrunckly old man photos]]></title>
-        <id>https://voiceferret.tumblr.com/post/726241473872445440</id>
-        <link href="https://voiceferret.tumblr.com/post/726241473872445440"/>
-        <updated>2023-08-21T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[scrunckly old man photos]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>

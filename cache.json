@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTg2LTAyMy0wNjU0OS050gEA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTg2LTAyMy0wNjU0OS050gEA?oc=5",
+          "publishedOn": "2023-09-21T05:22:18.000Z",
+          "wordCount": 4966,
+          "title": "Transgenic ferret models define pulmonary ionocyte diversity and function - Nature.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RbeBloxljOY",
           "author": "The Modern Ferret",
           "description": "",
@@ -404,16 +414,6 @@
           "wordCount": 800,
           "title": "Just found a ferret in my yard. What tf do I do",
           "imageUrl": "https://64.media.tumblr.com/dfb47d590b1f16d01d2fc33cf21d2733/38ad73f98d99212e-0d/s1280x1920/60db7a733b5eb70c174853f85af57e31d254b4d9.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/726241473872445440",
-          "author": null,
-          "description": "scrunckly old man photos",
-          "link": "https://voiceferret.tumblr.com/post/726241473872445440",
-          "publishedOn": "2023-08-21T20:04:01.000Z",
-          "wordCount": 759,
-          "title": "scrunckly old man photos",
-          "imageUrl": "https://64.media.tumblr.com/fd77ed9472b262ca005f9d0a708e4abe/464c8f263cc3dd28-76/s1280x1920/c2d0527c9a8c78d0c39154eaed04b6d97eb047b2.jpg"
         }
       ]
     }
