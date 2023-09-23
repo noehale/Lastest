@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T01:39:24.845Z</updated>
+    <updated>2023-09-23T01:36:40.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zoo Guest: Dash the ferret - KRGV]]></title>
+        <id>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmtyZ3YuY29tL25ld3Mvem9vLWd1ZXN0LWRhc2gtdGhlLWZlcnJldC0yNTQ4ODbSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmtyZ3YuY29tL25ld3Mvem9vLWd1ZXN0LWRhc2gtdGhlLWZlcnJldC0yNTQ4ODbSAQA?oc=5"/>
+        <updated>2023-09-23T09:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Musky Ferret : Why They Smell]]></title>
         <id>https://www.youtube.com/watch?v=Ys9WTlzhVdg</id>
@@ -387,16 +397,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/726513266879283200"/>
         <updated>2023-08-24T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Found it in Twitter]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of my ferrets is getting featured in a calendar!!]]></title>
-        <id>https://voiceferret.tumblr.com/post/726422670492811264</id>
-        <link href="https://voiceferret.tumblr.com/post/726422670492811264"/>
-        <updated>2023-08-23T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[One of my ferrets is getting featured in a calendar!!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
