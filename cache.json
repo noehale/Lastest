@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9vcGluaW9uLzIwMjMvMDkvc2F0aXJlLWhpZGluZy1ydWR5LWdpdWxpYW5pLXRlbGwtdGhlbS15b3UtaGF2ZS1mZXJyZXQtbGFyZ2UtZmVycmV0LzM5MDU5MS_SAQA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9vcGluaW9uLzIwMjMvMDkvc2F0aXJlLWhpZGluZy1ydWR5LWdpdWxpYW5pLXRlbGwtdGhlbS15b3UtaGF2ZS1mZXJyZXQtbGFyZ2UtZmVycmV0LzM5MDU5MS_SAQA?oc=5",
+          "publishedOn": "2023-09-25T22:00:00.000Z",
+          "wordCount": 4966,
+          "title": "Satire: Hiding Rudy Giuliani, 'Tell them you have a ferret, a large ferret' - City & State",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/729412367883141120",
+          "author": null,
+          "description": "This is willy",
+          "link": "https://voiceferret.tumblr.com/post/729412367883141120",
+          "publishedOn": "2023-09-25T20:04:01.000Z",
+          "wordCount": 758,
+          "title": "This is willy :)",
+          "imageUrl": "https://64.media.tumblr.com/175cf9ea8840d46439ca243162b3ca17/790f08f849428293-cb/s1280x1920/00c6832e8c39b6d1143d02ed7baba21d4ae87d2e.jpg"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/729231176392441856",
           "author": null,
           "description": "Why is she like this",
@@ -404,16 +424,6 @@
           "wordCount": 769,
           "title": "Made an Instagram account for my little business.",
           "imageUrl": "https://64.media.tumblr.com/c5075a9e7b15d18d93b0323af4e13a6a/81c6a873a3cc4f2b-a3/s1280x1920/23f9d10bb0682bb9e6b78ee84f3a5fc4144089b6.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/726694459042136064",
-          "author": null,
-          "description": "These two noodles take on Grant Wood’s American Gothic.",
-          "link": "https://voiceferret.tumblr.com/post/726694459042136064",
-          "publishedOn": "2023-08-26T20:04:01.000Z",
-          "wordCount": 856,
-          "title": "These two noodles take on Grant Wood’s American Gothic.",
-          "imageUrl": "https://64.media.tumblr.com/ac4907f104536cbb707538bb4d44ec8b/cd60cf141bd364cd-c1/s2048x3072/88deac0ea82a788051cb801724d1bef6cf4caa21.png"
         }
       ]
     }

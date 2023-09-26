@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T01:40:30.214Z</updated>
+    <updated>2023-09-26T01:40:16.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Satire: Hiding Rudy Giuliani, 'Tell them you have a ferret, a large ferret' - City & State]]></title>
+        <id>https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9vcGluaW9uLzIwMjMvMDkvc2F0aXJlLWhpZGluZy1ydWR5LWdpdWxpYW5pLXRlbGwtdGhlbS15b3UtaGF2ZS1mZXJyZXQtbGFyZ2UtZmVycmV0LzM5MDU5MS_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9vcGluaW9uLzIwMjMvMDkvc2F0aXJlLWhpZGluZy1ydWR5LWdpdWxpYW5pLXRlbGwtdGhlbS15b3UtaGF2ZS1mZXJyZXQtbGFyZ2UtZmVycmV0LzM5MDU5MS_SAQA?oc=5"/>
+        <updated>2023-09-25T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is willy :)]]></title>
+        <id>https://voiceferret.tumblr.com/post/729412367883141120</id>
+        <link href="https://voiceferret.tumblr.com/post/729412367883141120"/>
+        <updated>2023-09-25T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[This is willy]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why is she like this]]></title>
         <id>https://voiceferret.tumblr.com/post/729231176392441856</id>
@@ -398,16 +418,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/726875655206207488"/>
         <updated>2023-08-28T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Made an Instagram account for my little business.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These two noodles take on Grant Wood’s American Gothic.]]></title>
-        <id>https://voiceferret.tumblr.com/post/726694459042136064</id>
-        <link href="https://voiceferret.tumblr.com/post/726694459042136064"/>
-        <updated>2023-08-26T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[These two noodles take on Grant Wood’s American Gothic.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
