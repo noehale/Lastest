@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-27T01:40:14.491Z</updated>
+    <updated>2023-09-28T01:39:43.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It finally happened]]></title>
+        <id>https://voiceferret.tumblr.com/post/729593563736948736</id>
+        <link href="https://voiceferret.tumblr.com/post/729593563736948736"/>
+        <updated>2023-09-27T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[It finally happened]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Bedding : Why it Makes Your Ferret Smell]]></title>
         <id>https://www.youtube.com/watch?v=qS34CvbkcaM</id>
@@ -417,16 +427,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LndrcmcuY29tL21vYmlsZS1jb3VudHkvbXlzdGVyeS1vZi1hLW1pc3NpbmctbW9iaWxlLWZlcnJldC_SAUpodHRwczovL3d3dy53a3JnLmNvbS9tb2JpbGUtY291bnR5L215c3Rlcnktb2YtYS1taXNzaW5nLW1vYmlsZS1mZXJyZXQvYW1wLw?oc=5"/>
         <updated>2023-08-29T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Made an Instagram account for my little business.]]></title>
-        <id>https://voiceferret.tumblr.com/post/726875655206207488</id>
-        <link href="https://voiceferret.tumblr.com/post/726875655206207488"/>
-        <updated>2023-08-28T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Made an Instagram account for my little business.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
