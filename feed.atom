@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T01:39:42.304Z</updated>
+    <updated>2023-09-30T01:37:30.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overstimulated with love 😍]]></title>
+        <id>https://voiceferret.tumblr.com/post/729774755979345920</id>
+        <link href="https://voiceferret.tumblr.com/post/729774755979345920"/>
+        <updated>2023-09-29T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Overstimulated with love]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Do Ferrets Smell?]]></title>
         <id>https://www.youtube.com/watch?v=6Uh-cXrooE8</id>
@@ -396,26 +406,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <id>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBYGh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyL9IBYGh0dHBzOi8vd3d3LmZveDEwdHYuY29tLzIwMjMvMDgvMzEvb25saW5lLXNsZXV0aHMtaWRlbnRpZnktYWxsZWdlZC1mZXJyZXQtbmFwcGVyLz9vdXRwdXRUeXBlPWFtcA?oc=5"/>
         <updated>2023-08-31T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Atari has gained his wings and flew over the rainbow bridge. Its been a few days and I still miss him.]]></title>
-        <id>https://voiceferret.tumblr.com/post/727056846978007040</id>
-        <link href="https://voiceferret.tumblr.com/post/727056846978007040"/>
-        <updated>2023-08-30T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Little Atari has gained his wings and flew over the rainbow bridge. Its been a few days and I still miss him.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret missing from Mobile pet shop, MPD want to talk with woman - Fox 10 News]]></title>
-        <id>https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tL3ZpZGVvLzIwMjMvMDgvMzAvZmVycmV0LW1pc3NpbmctbW9iaWxlLXBldC1zaG9wLW1wZC13YW50LXRhbGstd2l0aC13b21hbi_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEwdHYuY29tL3ZpZGVvLzIwMjMvMDgvMzAvZmVycmV0LW1pc3NpbmctbW9iaWxlLXBldC1zaG9wLW1wZC13YW50LXRhbGstd2l0aC13b21hbi_SAQA?oc=5"/>
-        <updated>2023-08-30T17:43:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
