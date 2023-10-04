@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T01:40:48.538Z</updated>
+    <updated>2023-10-04T01:41:45.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Do Ferrets Smell Like? Comment Below!]]></title>
+        <id>https://www.youtube.com/watch?v=iuqVkWZLwuU</id>
+        <link href="https://www.youtube.com/watch?v=iuqVkWZLwuU"/>
+        <updated>2023-10-04T01:00:29.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sister is babysitting and sent me a vid of my old man cleaning up after dinner :’)]]></title>
+        <id>https://voiceferret.tumblr.com/post/730137145497600000</id>
+        <link href="https://voiceferret.tumblr.com/post/730137145497600000"/>
+        <updated>2023-10-03T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Sister is babysitting and sent me a vid of my old man cleaning up after dinner :’)]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I caught her chewing cardboard. Is this normal behaviour like someone chewing their tongue or is she trying to eat it? She has food and I carried her to her food bowl but she ignored it and ran back to the cardboard.]]></title>
         <id>https://voiceferret.tumblr.com/post/730046548206092288</id>
