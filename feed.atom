@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T01:41:45.063Z</updated>
+    <updated>2023-10-05T01:43:07.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Help name my ferrets?]]></title>
+        <id>https://voiceferret.tumblr.com/post/730227742601314304</id>
+        <link href="https://voiceferret.tumblr.com/post/730227742601314304"/>
+        <updated>2023-10-04T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Help name my ferrets?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Do Ferrets Smell Like? Comment Below!]]></title>
         <id>https://www.youtube.com/watch?v=iuqVkWZLwuU</id>
@@ -31,6 +41,16 @@
         <link href="https://voiceferret.tumblr.com/post/730046548206092288"/>
         <updated>2023-10-02T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I caught her chewing cardboard. Is this normal behaviour like someone chewing their tongue or is she trying to eat it? She has food and I carried her to her food bowl but she ignored it and ran back to the cardboard.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ferret daycare center to study how children catch the flu - EL PAÍS USA]]></title>
+        <id>https://news.google.com/rss/articles/CBMic2h0dHBzOi8vZW5nbGlzaC5lbHBhaXMuY29tL3NjaWVuY2UtdGVjaC8yMDIzLTEwLTAxL2EtZmVycmV0LWRheWNhcmUtY2VudGVyLXRvLXN0dWR5LWhvdy1jaGlsZHJlbi1jYXRjaC10aGUtZmx1Lmh0bWzSAYIBaHR0cHM6Ly9lbmdsaXNoLmVscGFpcy5jb20vc2NpZW5jZS10ZWNoLzIwMjMtMTAtMDEvYS1mZXJyZXQtZGF5Y2FyZS1jZW50ZXItdG8tc3R1ZHktaG93LWNoaWxkcmVuLWNhdGNoLXRoZS1mbHUuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMic2h0dHBzOi8vZW5nbGlzaC5lbHBhaXMuY29tL3NjaWVuY2UtdGVjaC8yMDIzLTEwLTAxL2EtZmVycmV0LWRheWNhcmUtY2VudGVyLXRvLXN0dWR5LWhvdy1jaGlsZHJlbi1jYXRjaC10aGUtZmx1Lmh0bWzSAYIBaHR0cHM6Ly9lbmdsaXNoLmVscGFpcy5jb20vc2NpZW5jZS10ZWNoLzIwMjMtMTAtMDEvYS1mZXJyZXQtZGF5Y2FyZS1jZW50ZXItdG8tc3R1ZHktaG93LWNoaWxkcmVuLWNhdGNoLXRoZS1mbHUuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5"/>
+        <updated>2023-10-02T05:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -388,16 +408,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <updated>2023-09-06T00:30:02.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[how can they be so cute]]></title>
-        <id>https://voiceferret.tumblr.com/post/727509831808843776</id>
-        <link href="https://voiceferret.tumblr.com/post/727509831808843776"/>
-        <updated>2023-09-04T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[how can they be so cute]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
