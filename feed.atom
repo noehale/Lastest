@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T01:43:07.445Z</updated>
+    <updated>2023-10-06T01:40:35.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Ferret Smell]]></title>
+        <id>https://www.youtube.com/watch?v=PhUaCOIkW30</id>
+        <link href="https://www.youtube.com/watch?v=PhUaCOIkW30"/>
+        <updated>2023-10-06T02:00:31.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Ginormous Yawns (best for last)]]></title>
+        <id>https://voiceferret.tumblr.com/post/730318339446128640</id>
+        <link href="https://voiceferret.tumblr.com/post/730318339446128640"/>
+        <updated>2023-10-05T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[3 Ginormous Yawns (best for last)]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arizona woman operates rescue for ferrets - FOX 10 News Phoenix]]></title>
+        <id>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0c9IBT2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0cy5hbXA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0c9IBT2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0cy5hbXA?oc=5"/>
+        <updated>2023-10-05T15:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Help name my ferrets?]]></title>
         <id>https://voiceferret.tumblr.com/post/730227742601314304</id>
@@ -399,15 +428,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Smell in House : What to do about it?]]></title>
-        <id>https://www.youtube.com/watch?v=5EBE6dqUptI</id>
-        <link href="https://www.youtube.com/watch?v=5EBE6dqUptI"/>
-        <updated>2023-09-06T00:30:02.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>

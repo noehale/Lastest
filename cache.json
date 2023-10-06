@@ -6,6 +6,36 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PhUaCOIkW30",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PhUaCOIkW30",
+          "publishedOn": "2023-10-06T02:00:31.000Z",
+          "wordCount": null,
+          "title": "How to Reduce Ferret Smell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/730318339446128640",
+          "author": null,
+          "description": "3 Ginormous Yawns (best for last)",
+          "link": "https://voiceferret.tumblr.com/post/730318339446128640",
+          "publishedOn": "2023-10-05T20:04:03.000Z",
+          "wordCount": 767,
+          "title": "3 Ginormous Yawns (best for last)",
+          "imageUrl": "https://64.media.tumblr.com/139c5c729c2b21eb194ed30548b36b54/d32ef101d07e0c46-9a/s1280x1920/e87faf3d665794c644df9e94eee986203bf58b70.jpg"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0c9IBT2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0cy5hbXA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0c9IBT2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9hcml6b25hLXdvbWFuLW9wZXJhdGVzLXJlc2N1ZS1mb3ItZmVycmV0cy5hbXA?oc=5",
+          "publishedOn": "2023-10-05T15:17:12.000Z",
+          "wordCount": 4996,
+          "title": "Arizona woman operates rescue for ferrets - FOX 10 News Phoenix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/730227742601314304",
           "author": null,
           "description": "Help name my ferrets?",
@@ -404,16 +434,6 @@
           "wordCount": 4968,
           "title": "PDS0202 Universal Influenza Preclinical Ferret Data to be Presented in Oral Lecture at 9th ESWI Conference - Yahoo Finance",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5EBE6dqUptI",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5EBE6dqUptI",
-          "publishedOn": "2023-09-06T00:30:02.000Z",
-          "wordCount": null,
-          "title": "Ferret Smell in House : What to do about it?",
-          "imageUrl": null
         }
       ]
     }
