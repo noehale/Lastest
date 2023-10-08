@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T01:38:22.325Z</updated>
+    <updated>2023-10-08T01:43:45.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[They don’t understand it’s my bed]]></title>
+        <id>https://voiceferret.tumblr.com/post/730499533587578880</id>
+        <link href="https://voiceferret.tumblr.com/post/730499533587578880"/>
+        <updated>2023-10-07T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[They don’t understand it’s my bed]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New rules allow AZ landowners to host black-footed ferret colonies - The Arizona Republic]]></title>
+        <id>https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvYXJpem9uYS1lbnZpcm9ubWVudC8yMDIzLzEwLzA2L25ldy1ydWxlcy1hbGxvdy1hcml6b25hLWxhbmRvd25lcnMtdG8taG9zdC1ibGFjay1mb290ZWQtZmVycmV0LWNvbG9uaWVzLzcxMDczNjc5MDA3L9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvYXJpem9uYS1lbnZpcm9ubWVudC8yMDIzLzEwLzA2L25ldy1ydWxlcy1hbGxvdy1hcml6b25hLWxhbmRvd25lcnMtdG8taG9zdC1ibGFjay1mb290ZWQtZmVycmV0LWNvbG9uaWVzLzcxMDczNjc5MDA3L9IBAA?oc=5"/>
+        <updated>2023-10-07T03:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is this normal ferret playing?]]></title>
         <id>https://voiceferret.tumblr.com/post/730408935992016896</id>
@@ -406,26 +426,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/727872220632924160"/>
         <updated>2023-09-08T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Good Vibes]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calling All Ferrets! It's Time To Show Off Your Skills. - Eugene Weekly]]></title>
-        <id>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZXVnZW5ld2Vla2x5LmNvbS8yMDIzLzA5LzA3L2NhbGxpbmctYWxsLWZlcnJldHMtaXRzLXRpbWUtdG8tc2hvdy1vZmYteW91ci1za2lsbHMv0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZXVnZW5ld2Vla2x5LmNvbS8yMDIzLzA5LzA3L2NhbGxpbmctYWxsLWZlcnJldHMtaXRzLXRpbWUtdG8tc2hvdy1vZmYteW91ci1za2lsbHMv0gEA?oc=5"/>
-        <updated>2023-09-07T21:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting ready for date]]></title>
-        <id>https://voiceferret.tumblr.com/post/727781622688186368</id>
-        <link href="https://voiceferret.tumblr.com/post/727781622688186368"/>
-        <updated>2023-09-07T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Getting ready for date]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
