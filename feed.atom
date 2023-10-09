@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T01:43:45.874Z</updated>
+    <updated>2023-10-09T01:40:20.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One of our ladies decided this was the best way to sleep in one of their hammocks]]></title>
+        <id>https://voiceferret.tumblr.com/post/730590130314854400</id>
+        <link href="https://voiceferret.tumblr.com/post/730590130314854400"/>
+        <updated>2023-10-08T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[One of our ladies decided this was the best way to sleep in one of their hammocks]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[They don’t understand it’s my bed]]></title>
         <id>https://voiceferret.tumblr.com/post/730499533587578880</id>
@@ -407,25 +417,6 @@ I saw so much light and hope in there today. It was such a joy to connect with t
         <link href="https://voiceferret.tumblr.com/post/727962817038336000"/>
         <updated>2023-09-09T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[I bought a Marshall ferret today]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Litter Box : It's Making Them Smell!]]></title>
-        <id>https://www.youtube.com/watch?v=oU788eR-byU</id>
-        <link href="https://www.youtube.com/watch?v=oU788eR-byU"/>
-        <updated>2023-09-09T01:00:44.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Vibes]]></title>
-        <id>https://voiceferret.tumblr.com/post/727872220632924160</id>
-        <link href="https://voiceferret.tumblr.com/post/727872220632924160"/>
-        <updated>2023-09-08T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Good Vibes]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
