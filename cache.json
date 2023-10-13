@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DffcsF_k-2w",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DffcsF_k-2w",
+          "publishedOn": "2023-10-13T03:30:07.000Z",
+          "wordCount": null,
+          "title": "How Ferrets Think",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/730952516643258368",
+          "author": null,
+          "description": "i didn’t know my ferret was a boy until i went to the vet",
+          "link": "https://voiceferret.tumblr.com/post/730952516643258368",
+          "publishedOn": "2023-10-12T20:04:01.000Z",
+          "wordCount": 797,
+          "title": "i didn’t know my ferret was a boy until i went to the vet",
+          "imageUrl": "https://64.media.tumblr.com/a185d879f2a95ebc15861638622c31c3/c20f90138e287464-34/s1280x1920/b5c87adde9b11eefedfd359ba7caaa0b483bb8a5.jpg"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/730861921134329857",
           "author": null,
           "description": "Sock thief has been caught red handed",
@@ -384,46 +404,6 @@
           "wordCount": 754,
           "title": "The face before the wake",
           "imageUrl": "https://64.media.tumblr.com/6acab0e3958cb6588f3c9ceff289e08a/a80aab2430164feb-94/s2048x3072/b97710d54d41a901cedefc465aa1ab6b262828cc.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmZ1dHVyaXR5Lm9yZy9tb2xudXBpcmF2aXItc2Fycy1jb3YtMi1mZXJyZXRzLTI5NzMwNjIv0gEA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmZ1dHVyaXR5Lm9yZy9tb2xudXBpcmF2aXItc2Fycy1jb3YtMi1mZXJyZXRzLTI5NzMwNjIv0gEA?oc=5",
-          "publishedOn": "2023-09-13T07:45:56.000Z",
-          "wordCount": 4968,
-          "title": "Drug blocks SARS-CoV-2 transmission in ferrets - Futurity: Research News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5mb3g2MS5jb20vdmlkZW8vbmV3cy9sb2NhbC9tb3JuaW5nLXNob3cvY2lubmFtb24tdGhlLWZlcnJldC1pcy11cC1mb3ItYWRvcHRpb24tYXQtY3QtaHVtYW5lLXNvY2lldHkvNTIwLTdmN2RjZWExLWE3ZjUtNDRmYS05OWEyLWRiODdiYzI4MzEzNtIBAA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5mb3g2MS5jb20vdmlkZW8vbmV3cy9sb2NhbC9tb3JuaW5nLXNob3cvY2lubmFtb24tdGhlLWZlcnJldC1pcy11cC1mb3ItYWRvcHRpb24tYXQtY3QtaHVtYW5lLXNvY2lldHkvNTIwLTdmN2RjZWExLWE3ZjUtNDRmYS05OWEyLWRiODdiYzI4MzEzNtIBAA?oc=5",
-          "publishedOn": "2023-09-13T06:55:00.000Z",
-          "wordCount": 4968,
-          "title": "Cinnamon, the ferret, is up for adoption at CT Humane Society - FOX61 Hartford",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DIWPyrOugCs",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DIWPyrOugCs",
-          "publishedOn": "2023-09-13T00:30:02.000Z",
-          "wordCount": null,
-          "title": "Ferret Potty : Why Your Ferret Smells!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/728234610103844864",
-          "author": null,
-          "description": "Probably the worst photos I have of her to date",
-          "link": "https://voiceferret.tumblr.com/post/728234610103844864",
-          "publishedOn": "2023-09-12T20:04:03.000Z",
-          "wordCount": 790,
-          "title": "Probably the worst photos I have of her to date",
-          "imageUrl": "https://64.media.tumblr.com/32846fbc57e9e0a5534178eb8f7576e8/ae8af54e90475654-2f/s1280x1920/702f8a168ffdcb2e29d53c19f72357ffde5dc8c8.jpg"
         }
       ]
     }
