@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T01:37:23.800Z</updated>
+    <updated>2023-10-15T01:44:22.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[face cleaning!]]></title>
+        <id>https://voiceferret.tumblr.com/post/731133711232516096</id>
+        <link href="https://voiceferret.tumblr.com/post/731133711232516096"/>
+        <updated>2023-10-14T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[face cleaning!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Ferrets Think]]></title>
         <id>https://www.youtube.com/watch?v=DffcsF_k-2w</id>
@@ -377,25 +387,6 @@ Mom, thank you for your hand in all this. Thinking of you a lot today.
         <link href="https://voiceferret.tumblr.com/post/728596997820547072"/>
         <updated>2023-09-16T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[I love him]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Cage : Why it Smells]]></title>
-        <id>https://www.youtube.com/watch?v=xo2C15lUA3o</id>
-        <link href="https://www.youtube.com/watch?v=xo2C15lUA3o"/>
-        <updated>2023-09-15T01:00:44.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The face before the wake]]></title>
-        <id>https://voiceferret.tumblr.com/post/728415809813315584</id>
-        <link href="https://voiceferret.tumblr.com/post/728415809813315584"/>
-        <updated>2023-09-14T20:04:09.000Z</updated>
-        <summary type="html"><![CDATA[The face before the wake]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
