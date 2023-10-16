@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T01:44:22.176Z</updated>
+    <updated>2023-10-16T01:42:17.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[my baby cheerio]]></title>
+        <id>https://voiceferret.tumblr.com/post/731224309059731456</id>
+        <link href="https://voiceferret.tumblr.com/post/731224309059731456"/>
+        <updated>2023-10-15T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[my baby cheerio]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[face cleaning!]]></title>
         <id>https://voiceferret.tumblr.com/post/731133711232516096</id>
