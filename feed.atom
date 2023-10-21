@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T01:40:27.195Z</updated>
+    <updated>2023-10-21T01:37:38.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[the couch belongs to them]]></title>
+        <id>https://voiceferret.tumblr.com/post/731677293357006848</id>
+        <link href="https://voiceferret.tumblr.com/post/731677293357006848"/>
+        <updated>2023-10-20T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[the couch belongs to them]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSPCA Suffolk are looking to rehome trio of abandoned ferrets - BBC.com]]></title>
         <id>https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLXN1ZmZvbGstNjcxNjI2OTPSAThodHRwczovL3d3dy5iYmMuY29tL25ld3MvdWstZW5nbGFuZC1zdWZmb2xrLTY3MTYyNjkzLmFtcA?oc=5</id>
@@ -434,16 +444,6 @@
         <updated>2023-09-21T23:45:01.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transgenic ferret models define pulmonary ionocyte diversity and function - Nature.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTg2LTAyMy0wNjU0OS050gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTg2LTAyMy0wNjU0OS050gEA?oc=5"/>
-        <updated>2023-09-21T05:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
