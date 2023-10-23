@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T01:44:18.470Z</updated>
+    <updated>2023-10-23T01:41:13.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[She is folding the laundry and she’s really proud of it.]]></title>
+        <id>https://voiceferret.tumblr.com/post/731858486839885824</id>
+        <link href="https://voiceferret.tumblr.com/post/731858486839885824"/>
+        <updated>2023-10-22T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[She is folding the laundry and she’s really proud of it.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Look what my son found at the gas station]]></title>
         <id>https://voiceferret.tumblr.com/post/731767891236634624</id>
@@ -432,26 +442,6 @@
         <id>https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtleXNuZXdzLmNvbS9saXZpbmcvY29sdW1ucy9uZXctdmFjY2luZS1mb3ItZmVycmV0cy9hcnRpY2xlXzNmZDU0NTFhLTU3YmMtMTFlZS05OWQ0LTU3ZjY5YjcyNzUyOS5odG1s0gEA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtleXNuZXdzLmNvbS9saXZpbmcvY29sdW1ucy9uZXctdmFjY2luZS1mb3ItZmVycmV0cy9hcnRpY2xlXzNmZDU0NTFhLTU3YmMtMTFlZS05OWQ0LTU3ZjY5YjcyNzUyOS5odG1s0gEA?oc=5"/>
         <updated>2023-09-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoo Guest: Dash the ferret - KRGV]]></title>
-        <id>https://news.google.com/rss/articles/CBMiOmh0dHA6Ly93d3cua3Jndi5jb20vbmV3cy96b28tZ3Vlc3QtZGFzaC10aGUtZmVycmV0LTI1NDg4Ni_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiOmh0dHA6Ly93d3cua3Jndi5jb20vbmV3cy96b28tZ3Vlc3QtZGFzaC10aGUtZmVycmV0LTI1NDg4Ni_SAQA?oc=5"/>
-        <updated>2023-09-23T09:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoo Guest: Dash the ferret - KRGV]]></title>
-        <id>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmtyZ3YuY29tL25ld3Mvem9vLWd1ZXN0LWRhc2gtdGhlLWZlcnJldC0yNTQ4ODbSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmtyZ3YuY29tL25ld3Mvem9vLWd1ZXN0LWRhc2gtdGhlLWZlcnJldC0yNTQ4ODbSAQA?oc=5"/>
-        <updated>2023-09-23T09:12:46.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
