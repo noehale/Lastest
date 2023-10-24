@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T01:41:13.236Z</updated>
+    <updated>2023-10-24T01:40:05.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Proof: DANGEROUS Kitchen Items]]></title>
+        <id>https://www.youtube.com/watch?v=Sb_YST4aXFQ</id>
+        <link href="https://www.youtube.com/watch?v=Sb_YST4aXFQ"/>
+        <updated>2023-10-24T01:30:20.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 years ago, I found my boy being chased by dogs downtown. (swipe to see him today)]]></title>
+        <id>https://voiceferret.tumblr.com/post/731949084679815168</id>
+        <link href="https://voiceferret.tumblr.com/post/731949084679815168"/>
+        <updated>2023-10-23T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[2 years ago, I found my boy being chased by dogs downtown. (swipe to see him today)]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[She is folding the laundry and she’s really proud of it.]]></title>
         <id>https://voiceferret.tumblr.com/post/731858486839885824</id>
@@ -423,26 +442,6 @@
         <link href="https://voiceferret.tumblr.com/post/729412367883141120"/>
         <updated>2023-09-25T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[This is willy]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is she like this]]></title>
-        <id>https://voiceferret.tumblr.com/post/729231176392441856</id>
-        <link href="https://voiceferret.tumblr.com/post/729231176392441856"/>
-        <updated>2023-09-23T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Why is she like this]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New vaccine for ferrets | Columns | keysnews.com - KeysNews.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtleXNuZXdzLmNvbS9saXZpbmcvY29sdW1ucy9uZXctdmFjY2luZS1mb3ItZmVycmV0cy9hcnRpY2xlXzNmZDU0NTFhLTU3YmMtMTFlZS05OWQ0LTU3ZjY5YjcyNzUyOS5odG1s0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmtleXNuZXdzLmNvbS9saXZpbmcvY29sdW1ucy9uZXctdmFjY2luZS1mb3ItZmVycmV0cy9hcnRpY2xlXzNmZDU0NTFhLTU3YmMtMTFlZS05OWQ0LTU3ZjY5YjcyNzUyOS5odG1s0gEA?oc=5"/>
-        <updated>2023-09-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
