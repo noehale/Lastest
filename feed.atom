@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T01:38:48.519Z</updated>
+    <updated>2023-10-28T01:36:58.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[He’s always contemplating life… 😂]]></title>
+        <id>https://voiceferret.tumblr.com/post/732311472107126784</id>
+        <link href="https://voiceferret.tumblr.com/post/732311472107126784"/>
+        <updated>2023-10-27T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[He’s always contemplating life…]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DANGEROUS: Keep Your Ferrets Out of Your Cabinet! #ferret]]></title>
         <id>https://www.youtube.com/watch?v=pA3d1vLCmdA</id>
@@ -452,16 +462,6 @@
         <link href="https://voiceferret.tumblr.com/post/729684163768320000"/>
         <updated>2023-09-28T20:04:06.000Z</updated>
         <summary type="html"><![CDATA[She was in deep sleep with her eyes open and gave me a big fright. Roast her.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It finally happened]]></title>
-        <id>https://voiceferret.tumblr.com/post/729593563736948736</id>
-        <link href="https://voiceferret.tumblr.com/post/729593563736948736"/>
-        <updated>2023-09-27T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[It finally happened]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
