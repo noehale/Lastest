@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://voiceferret.tumblr.com/post/732402070245736448",
+          "author": null,
+          "description": "Whats the most inconvenient place your ferret has pooped?",
+          "link": "https://voiceferret.tumblr.com/post/732402070245736448",
+          "publishedOn": "2023-10-28T20:04:03.000Z",
+          "wordCount": 806,
+          "title": "Whats the most inconvenient place your ferret has pooped?",
+          "imageUrl": "https://64.media.tumblr.com/55f7e37afd54bb0b6dda56150f41f331/4e7124a135b8beea-87/s1280x1920/c37a7b38b2538ad83207c05d5cec35c2808663cb.jpg"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldHMvMjAyMy8xMC8yNy9wZXQtcGFscy1wZXJoYXBzLXRoaXMtcGFpci1vZi1wbGF5ZnVsLXBldC1mZXJyZXRzLXdpbGwtbWVyaXQteW91ci1hdHRlbnRpb24v0gEA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldHMvMjAyMy8xMC8yNy9wZXQtcGFscy1wZXJoYXBzLXRoaXMtcGFpci1vZi1wbGF5ZnVsLXBldC1mZXJyZXRzLXdpbGwtbWVyaXQteW91ci1hdHRlbnRpb24v0gEA?oc=5",
+          "publishedOn": "2023-10-28T17:59:21.000Z",
+          "wordCount": 5003,
+          "title": "Pet Pals: Perhaps this pair of playful pet ferrets will merit your attention - KTVZ",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/732311472107126784",
           "author": null,
           "description": "He’s always contemplating life…",
@@ -454,26 +474,6 @@
           "wordCount": 755,
           "title": "Overstimulated with love 😍",
           "imageUrl": "https://64.media.tumblr.com/b7c5de2d60a50ebbd6da1b4f501cdd4a/ca986a7ffe62ba0e-1b/s2048x3072/f80509bdbe5142fd9372328f727372cfeb8cc4a7.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6Uh-cXrooE8",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6Uh-cXrooE8",
-          "publishedOn": "2023-09-29T12:00:07.000Z",
-          "wordCount": null,
-          "title": "Why Do Ferrets Smell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/729684163768320000",
-          "author": null,
-          "description": "She was in deep sleep with her eyes open and gave me a big fright. Roast her.",
-          "link": "https://voiceferret.tumblr.com/post/729684163768320000",
-          "publishedOn": "2023-09-28T20:04:06.000Z",
-          "wordCount": 819,
-          "title": "She was in deep sleep with her eyes open and gave me a big fright. Roast her.",
-          "imageUrl": "https://64.media.tumblr.com/84d8ce8b0e1d3b866269b4732a05165d/84067bd5874393e3-32/s1280x1920/1ed096426cbce5763a24fb58d5f03008dd259838.jpg"
         }
       ]
     }

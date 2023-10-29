@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T01:36:58.555Z</updated>
+    <updated>2023-10-29T01:42:54.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Whats the most inconvenient place your ferret has pooped?]]></title>
+        <id>https://voiceferret.tumblr.com/post/732402070245736448</id>
+        <link href="https://voiceferret.tumblr.com/post/732402070245736448"/>
+        <updated>2023-10-28T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Whats the most inconvenient place your ferret has pooped?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pet Pals: Perhaps this pair of playful pet ferrets will merit your attention - KTVZ]]></title>
+        <id>https://news.google.com/rss/articles/CBMid2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldHMvMjAyMy8xMC8yNy9wZXQtcGFscy1wZXJoYXBzLXRoaXMtcGFpci1vZi1wbGF5ZnVsLXBldC1mZXJyZXRzLXdpbGwtbWVyaXQteW91ci1hdHRlbnRpb24v0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMid2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldHMvMjAyMy8xMC8yNy9wZXQtcGFscy1wZXJoYXBzLXRoaXMtcGFpci1vZi1wbGF5ZnVsLXBldC1mZXJyZXRzLXdpbGwtbWVyaXQteW91ci1hdHRlbnRpb24v0gEA?oc=5"/>
+        <updated>2023-10-28T17:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[He’s always contemplating life… 😂]]></title>
         <id>https://voiceferret.tumblr.com/post/732311472107126784</id>
@@ -443,25 +463,6 @@
         <link href="https://voiceferret.tumblr.com/post/729774755979345920"/>
         <updated>2023-09-29T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Overstimulated with love]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Do Ferrets Smell?]]></title>
-        <id>https://www.youtube.com/watch?v=6Uh-cXrooE8</id>
-        <link href="https://www.youtube.com/watch?v=6Uh-cXrooE8"/>
-        <updated>2023-09-29T12:00:07.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She was in deep sleep with her eyes open and gave me a big fright. Roast her.]]></title>
-        <id>https://voiceferret.tumblr.com/post/729684163768320000</id>
-        <link href="https://voiceferret.tumblr.com/post/729684163768320000"/>
-        <updated>2023-09-28T20:04:06.000Z</updated>
-        <summary type="html"><![CDATA[She was in deep sleep with her eyes open and gave me a big fright. Roast her.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
