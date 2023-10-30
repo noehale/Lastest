@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T01:42:54.846Z</updated>
+    <updated>2023-10-30T01:41:40.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[raaaawr]]></title>
+        <id>https://voiceferret.tumblr.com/post/732492664863440896</id>
+        <link href="https://voiceferret.tumblr.com/post/732492664863440896"/>
+        <updated>2023-10-29T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[raaaawr]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whats the most inconvenient place your ferret has pooped?]]></title>
         <id>https://voiceferret.tumblr.com/post/732402070245736448</id>
@@ -453,16 +463,6 @@
         <link href="https://voiceferret.tumblr.com/post/729865354923409408"/>
         <updated>2023-09-30T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[He’s perfect.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overstimulated with love 😍]]></title>
-        <id>https://voiceferret.tumblr.com/post/729774755979345920</id>
-        <link href="https://voiceferret.tumblr.com/post/729774755979345920"/>
-        <updated>2023-09-29T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Overstimulated with love]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
