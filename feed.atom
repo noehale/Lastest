@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T01:42:46.587Z</updated>
+    <updated>2023-11-08T01:41:49.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Luna hiking]]></title>
+        <id>https://voiceferret.tumblr.com/post/733308039651786752</id>
+        <link href="https://voiceferret.tumblr.com/post/733308039651786752"/>
+        <updated>2023-11-07T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Luna hiking]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starfield Player Builds Ferret Ship - GameRant]]></title>
+        <id>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vZ2FtZXJhbnQuY29tL3N0YXJmaWVsZC1mZXJyZXQtc2hpcC1idWlsZC_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vZ2FtZXJhbnQuY29tL3N0YXJmaWVsZC1mZXJyZXQtc2hpcC1idWlsZC_SAQA?oc=5"/>
+        <updated>2023-11-07T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Proof : Dishwasher DANGER!]]></title>
         <id>https://www.youtube.com/watch?v=XZUsScLmGJU</id>
@@ -443,16 +463,6 @@
         <link href="https://voiceferret.tumblr.com/post/730680728013225984"/>
         <updated>2023-10-09T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Can ferrets smell sickness/inflammation?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of our ladies decided this was the best way to sleep in one of their hammocks]]></title>
-        <id>https://voiceferret.tumblr.com/post/730590130314854400</id>
-        <link href="https://voiceferret.tumblr.com/post/730590130314854400"/>
-        <updated>2023-10-08T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[One of our ladies decided this was the best way to sleep in one of their hammocks]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
