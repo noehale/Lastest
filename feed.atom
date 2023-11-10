@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T01:42:19.504Z</updated>
+    <updated>2023-11-10T01:41:39.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Proof : Trash DANGER]]></title>
+        <id>https://www.youtube.com/watch?v=lVmMnAc1030</id>
+        <link href="https://www.youtube.com/watch?v=lVmMnAc1030"/>
+        <updated>2023-11-10T04:45:02.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WFH has its benefits]]></title>
+        <id>https://voiceferret.tumblr.com/post/733489232919904256</id>
+        <link href="https://voiceferret.tumblr.com/post/733489232919904256"/>
+        <updated>2023-11-09T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[WFH has its benefits]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefighters rescue chickens, dogs, rabbits, goats, ferret in burning home - WUFT]]></title>
+        <id>https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lnd1ZnQub3JnL25ld3MvMjAyMy8xMS8wOC9maXJlZmlnaHRlcnMtcmVzY3VlLWNoaWNrZW5zLWRvZ3MtcmFiYml0cy1nb2F0cy1mZXJyZXQtaW4tYnVybmluZy1ob21lL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lnd1ZnQub3JnL25ld3MvMjAyMy8xMS8wOC9maXJlZmlnaHRlcnMtcmVzY3VlLWNoaWNrZW5zLWRvZ3MtcmFiYml0cy1nb2F0cy1mZXJyZXQtaW4tYnVybmluZy1ob21lL9IBAA?oc=5"/>
+        <updated>2023-11-09T15:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luna hiking]]></title>
         <id>https://voiceferret.tumblr.com/post/733308039651786752</id>
@@ -434,16 +463,6 @@
         <link href="https://voiceferret.tumblr.com/post/730861921134329857"/>
         <updated>2023-10-11T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Sock thief has been caught red handed]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carpet shark in the moss.]]></title>
-        <id>https://voiceferret.tumblr.com/post/730771323760132096</id>
-        <link href="https://voiceferret.tumblr.com/post/730771323760132096"/>
-        <updated>2023-10-10T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Carpet shark in the moss.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
