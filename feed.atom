@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T01:39:44.414Z</updated>
+    <updated>2023-11-12T01:46:20.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DIP Baby Ruckus]]></title>
+        <id>https://voiceferret.tumblr.com/post/733670426905034752</id>
+        <link href="https://voiceferret.tumblr.com/post/733670426905034752"/>
+        <updated>2023-11-11T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[DIP Baby Ruckus]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lunch time 🥩]]></title>
         <id>https://voiceferret.tumblr.com/post/733579829547565056</id>
@@ -444,25 +454,6 @@
         <link href="https://voiceferret.tumblr.com/post/731133711232516096"/>
         <updated>2023-10-14T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[face cleaning!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Ferrets Think]]></title>
-        <id>https://www.youtube.com/watch?v=DffcsF_k-2w</id>
-        <link href="https://www.youtube.com/watch?v=DffcsF_k-2w"/>
-        <updated>2023-10-13T03:30:07.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i didn’t know my ferret was a boy until i went to the vet]]></title>
-        <id>https://voiceferret.tumblr.com/post/730952516643258368</id>
-        <link href="https://voiceferret.tumblr.com/post/730952516643258368"/>
-        <updated>2023-10-12T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[i didn’t know my ferret was a boy until i went to the vet]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
