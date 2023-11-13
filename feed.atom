@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T01:46:20.569Z</updated>
+    <updated>2023-11-13T01:44:17.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bernie loved the garden this afternoon 🥰]]></title>
+        <id>https://voiceferret.tumblr.com/post/733761023916556288</id>
+        <link href="https://voiceferret.tumblr.com/post/733761023916556288"/>
+        <updated>2023-11-12T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Bernie loved the garden this afternoon]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/886969366123411</id>
+        <link href="https://www.facebook.com/666603538159996/posts/886969366123411"/>
+        <updated>2023-11-12T11:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Elijah came back to the dementia unit to share the love of Jesus with all his favorite residents… and then he had to take a nap! #ferret #ferrets #jesuschrist(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIP Baby Ruckus]]></title>
         <id>https://voiceferret.tumblr.com/post/733670426905034752</id>
