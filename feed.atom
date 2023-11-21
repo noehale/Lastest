@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T01:46:46.707Z</updated>
+    <updated>2023-11-21T01:52:03.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Proof : Watch Out for Bathtubs! #ferret]]></title>
+        <id>https://www.youtube.com/watch?v=S9bSRemtkMc</id>
+        <link href="https://www.youtube.com/watch?v=S9bSRemtkMc"/>
+        <updated>2023-11-21T06:00:29.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My 2 boys are currently very comfy 🥰]]></title>
         <id>https://voiceferret.tumblr.com/post/734395202031190017</id>
@@ -444,16 +453,6 @@
         <link href="https://voiceferret.tumblr.com/post/731858486839885824"/>
         <updated>2023-10-22T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[She is folding the laundry and she’s really proud of it.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look what my son found at the gas station]]></title>
-        <id>https://voiceferret.tumblr.com/post/731767891236634624</id>
-        <link href="https://voiceferret.tumblr.com/post/731767891236634624"/>
-        <updated>2023-10-21T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Look what my son found at the gas station]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
