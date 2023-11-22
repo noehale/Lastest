@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T01:52:03.315Z</updated>
+    <updated>2023-11-22T01:49:18.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pueblo Depot is new home to 22 endangered black-footed ferrets - Pueblo Chieftain]]></title>
+        <id>https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNoaWVmdGFpbi5jb20vc3RvcnkvbmV3cy8yMDIzLzExLzIxL3B1ZWJsby1kZXBvdC1pcy1uZXctaG9tZS10by0yMi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXRzLzcxNjE5ODY3MDA3L9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNoaWVmdGFpbi5jb20vc3RvcnkvbmV3cy8yMDIzLzExLzIxL3B1ZWJsby1kZXBvdC1pcy1uZXctaG9tZS10by0yMi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXRzLzcxNjE5ODY3MDA3L9IBAA?oc=5"/>
+        <updated>2023-11-22T05:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t be such a drag 🤪]]></title>
+        <id>https://voiceferret.tumblr.com/post/734576396695945216</id>
+        <link href="https://voiceferret.tumblr.com/post/734576396695945216"/>
+        <updated>2023-11-21T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Don’t be such a drag]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Proof : Watch Out for Bathtubs! #ferret]]></title>
         <id>https://www.youtube.com/watch?v=S9bSRemtkMc</id>
@@ -443,16 +463,6 @@
         <link href="https://voiceferret.tumblr.com/post/731949084679815168"/>
         <updated>2023-10-23T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[2 years ago, I found my boy being chased by dogs downtown. (swipe to see him today)]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She is folding the laundry and she’s really proud of it.]]></title>
-        <id>https://voiceferret.tumblr.com/post/731858486839885824</id>
-        <link href="https://voiceferret.tumblr.com/post/731858486839885824"/>
-        <updated>2023-10-22T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[She is folding the laundry and she’s really proud of it.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>

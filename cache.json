@@ -6,6 +6,26 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNoaWVmdGFpbi5jb20vc3RvcnkvbmV3cy8yMDIzLzExLzIxL3B1ZWJsby1kZXBvdC1pcy1uZXctaG9tZS10by0yMi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXRzLzcxNjE5ODY3MDA3L9IBAA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNoaWVmdGFpbi5jb20vc3RvcnkvbmV3cy8yMDIzLzExLzIxL3B1ZWJsby1kZXBvdC1pcy1uZXctaG9tZS10by0yMi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXRzLzcxNjE5ODY3MDA3L9IBAA?oc=5",
+          "publishedOn": "2023-11-22T05:04:08.000Z",
+          "wordCount": 5021,
+          "title": "Pueblo Depot is new home to 22 endangered black-footed ferrets - Pueblo Chieftain",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/734576396695945216",
+          "author": null,
+          "description": "Don’t be such a drag",
+          "link": "https://voiceferret.tumblr.com/post/734576396695945216",
+          "publishedOn": "2023-11-21T20:04:02.000Z",
+          "wordCount": 757,
+          "title": "Don’t be such a drag 🤪",
+          "imageUrl": "https://64.media.tumblr.com/c44dcec353b472ffe48ede53677937e2/140261b5081cbeaa-07/s1280x1920/a8f6d90de84c98f383a320b64c9e24703bec8ebc.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S9bSRemtkMc",
           "author": "The Modern Ferret",
           "description": "",
@@ -454,16 +474,6 @@
           "wordCount": 808,
           "title": "2 years ago, I found my boy being chased by dogs downtown. (swipe to see him today)",
           "imageUrl": "https://64.media.tumblr.com/04fcd3e3686174bc43266ef42efd93c6/91f26291d01eb9d1-5a/s1280x1920/5752c7bf6ffd16c450f68b2a47651ec31d13f4aa.png"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/731858486839885824",
-          "author": null,
-          "description": "She is folding the laundry and she’s really proud of it.",
-          "link": "https://voiceferret.tumblr.com/post/731858486839885824",
-          "publishedOn": "2023-10-22T20:04:02.000Z",
-          "wordCount": 796,
-          "title": "She is folding the laundry and she’s really proud of it.",
-          "imageUrl": "https://64.media.tumblr.com/517b07095f9729db3fb2cc3f57c39dfb/389c54261d24ed9e-3d/s1280x1920/a37ad64ee174df8e9074c1fe5d1ceb94368a0408.webp"
         }
       ]
     }
