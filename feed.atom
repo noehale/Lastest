@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T01:45:02.593Z</updated>
+    <updated>2023-11-28T01:46:42.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets: Dangers of Bath Mats]]></title>
+        <id>https://www.youtube.com/watch?v=azn1vpHTZtI</id>
+        <link href="https://www.youtube.com/watch?v=azn1vpHTZtI"/>
+        <updated>2023-11-28T06:00:06.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Found the strangest thing to make my ferret wag his tail!]]></title>
+        <id>https://voiceferret.tumblr.com/post/735119979197956096</id>
+        <link href="https://voiceferret.tumblr.com/post/735119979197956096"/>
+        <updated>2023-11-27T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Found the strangest thing to make my ferret wag his tail!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improving my ferrets quality of life]]></title>
         <id>https://voiceferret.tumblr.com/post/735029381436669952</id>
@@ -424,26 +443,6 @@
         <link href="https://voiceferret.tumblr.com/post/732492664863440896"/>
         <updated>2023-10-29T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[raaaawr]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whats the most inconvenient place your ferret has pooped?]]></title>
-        <id>https://voiceferret.tumblr.com/post/732402070245736448</id>
-        <link href="https://voiceferret.tumblr.com/post/732402070245736448"/>
-        <updated>2023-10-28T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Whats the most inconvenient place your ferret has pooped?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pet Pals: Perhaps this pair of playful pet ferrets will merit your attention - KTVZ]]></title>
-        <id>https://news.google.com/rss/articles/CBMid2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldHMvMjAyMy8xMC8yNy9wZXQtcGFscy1wZXJoYXBzLXRoaXMtcGFpci1vZi1wbGF5ZnVsLXBldC1mZXJyZXRzLXdpbGwtbWVyaXQteW91ci1hdHRlbnRpb24v0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMid2h0dHBzOi8va3R2ei5jb20vbGlmZXN0eWxlL3BldHMvMjAyMy8xMC8yNy9wZXQtcGFscy1wZXJoYXBzLXRoaXMtcGFpci1vZi1wbGF5ZnVsLXBldC1mZXJyZXRzLXdpbGwtbWVyaXQteW91ci1hdHRlbnRpb24v0gEA?oc=5"/>
-        <updated>2023-10-28T17:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
