@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T01:46:42.390Z</updated>
+    <updated>2023-11-29T01:45:14.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Obi taking in the sun]]></title>
+        <id>https://voiceferret.tumblr.com/post/735210575679881216</id>
+        <link href="https://voiceferret.tumblr.com/post/735210575679881216"/>
+        <updated>2023-11-28T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Obi taking in the sun]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferrets: Dangers of Bath Mats]]></title>
         <id>https://www.youtube.com/watch?v=azn1vpHTZtI</id>
@@ -433,16 +443,6 @@
         <link href="https://voiceferret.tumblr.com/post/732583263752847360"/>
         <updated>2023-10-30T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Guys…I literally cannot…]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[raaaawr]]></title>
-        <id>https://voiceferret.tumblr.com/post/732492664863440896</id>
-        <link href="https://voiceferret.tumblr.com/post/732492664863440896"/>
-        <updated>2023-10-29T20:04:01.000Z</updated>
-        <summary type="html"><![CDATA[raaaawr]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
