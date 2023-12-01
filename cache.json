@@ -6,6 +6,46 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL3ZpZGVvL2ZlcnJldC1wZXQtb2YtdGhlLXdlZWsvdmlkZW9fYTQ2ZjM3Y2QtNzZiNS01YzViLTg2Y2UtYWVmNWU3OTM4ZDdhLmh0bWzSAQA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL3ZpZGVvL2ZlcnJldC1wZXQtb2YtdGhlLXdlZWsvdmlkZW9fYTQ2ZjM3Y2QtNzZiNS01YzViLTg2Y2UtYWVmNWU3OTM4ZDdhLmh0bWzSAQA?oc=5",
+          "publishedOn": "2023-12-01T08:50:00.000Z",
+          "wordCount": 5027,
+          "title": "Ferret: Pet of the Week | Video | actionnewsnow.com - Action News Now",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5F3K4i7mdkw",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5F3K4i7mdkw",
+          "publishedOn": "2023-12-01T05:00:10.000Z",
+          "wordCount": null,
+          "title": "Ferret WARNING: Couches!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voiceferret.tumblr.com/post/735391769185927168",
+          "author": null,
+          "description": "Our nutmeg is definitely in the Christmas spirit!",
+          "link": "https://voiceferret.tumblr.com/post/735391769185927168",
+          "publishedOn": "2023-11-30T20:04:02.000Z",
+          "wordCount": 783,
+          "title": "Our nutmeg is definitely in the Christmas spirit!",
+          "imageUrl": "https://64.media.tumblr.com/5ec19451924c4bbbb3985405d740ec13/3ecbeb2b3c960425-ff/s1280x1920/bf430d3f0adfc811f57c543554078c758b6fc7b2.jpg"
+        },
+        {
+          "id": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vb3V0ZG9vcnMvanVzdC1mb3Ita2lkcy9uZXctdGVjaG5vbG9neS10cmFja3MtcHJhaXJpZS1kb2dzLXVuZGVyZ3JvdW5kLW91dGRvb3JzLWp1c3QtZm9yLWtpZHMvYXJ0aWNsZV82OWMzMmQzMi03ZmY0LTExZWUtOGQzZi04MzU0NzU3MjkxNTEuaHRtbNIBAA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vb3V0ZG9vcnMvanVzdC1mb3Ita2lkcy9uZXctdGVjaG5vbG9neS10cmFja3MtcHJhaXJpZS1kb2dzLXVuZGVyZ3JvdW5kLW91dGRvb3JzLWp1c3QtZm9yLWtpZHMvYXJ0aWNsZV82OWMzMmQzMi03ZmY0LTExZWUtOGQzZi04MzU0NzU3MjkxNTEuaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-11-30T14:00:00.000Z",
+          "wordCount": 5027,
+          "title": "New technology tracks prairie dogs underground - Billings Gazette",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://voiceferret.tumblr.com/post/735301172102037504",
           "author": null,
           "description": "Big boy?",
@@ -434,16 +474,6 @@
           "wordCount": 739,
           "title": "found her!",
           "imageUrl": "https://64.media.tumblr.com/db5b22c7a18e3aa4227f0534304c396e/2bc741c32de5da17-96/s1280x1920/f03b8b77174cc61825b4687af0749eea115ddd1b.jpg"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/732673861102010368",
-          "author": null,
-          "description": "How is Petco allowed to do this? Three large ferrets in this tiny like 3×3 octagon.",
-          "link": "https://voiceferret.tumblr.com/post/732673861102010368",
-          "publishedOn": "2023-10-31T20:04:03.000Z",
-          "wordCount": 810,
-          "title": "How is Petco allowed to do this? Three large ferrets in this tiny like 3×3 octagon.",
-          "imageUrl": "https://64.media.tumblr.com/eac8de39dd2f88f17fc1ccde77062439/eb99bcb9dfd4dcbf-ba/s1280x1920/97fe2ca766667a7ed819498d67b5e18c57b7dfe9.jpg"
         }
       ]
     }
