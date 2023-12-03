@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T01:40:50.250Z</updated>
+    <updated>2023-12-03T01:49:25.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Be honest, is he cute or naw?]]></title>
+        <id>https://voiceferret.tumblr.com/post/735572962806267904</id>
+        <link href="https://voiceferret.tumblr.com/post/735572962806267904"/>
+        <updated>2023-12-02T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Be honest, is he cute or naw?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pets with Potential: Meet Marvin & George - WCAX]]></title>
         <id>https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LndjYXguY29tL3ZpZGVvLzIwMjMvMTIvMDEvcGV0cy13aXRoLXBvdGVudGlhbC1tZWV0LW1hcnZpbi1nZW9yZ2Uv0gEA?oc=5</id>
@@ -444,35 +454,6 @@
         <link href="https://voiceferret.tumblr.com/post/732945650523815936"/>
         <updated>2023-11-03T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[“No” -a ferret’s leave favorite  word]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golf tournament raises $14,500 for rare ferret habitat renovation at ZooMontana - NBC Montana]]></title>
-        <id>https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmJjbW9udGFuYS5jb20vbmV3cy9sb2NhbC9nb2xmLXRvdXJuYW1lbnQtcmFpc2VzLTE0NTAwLWZvci1yYXJlLWZlcnJldC1oYWJpdGF0LXJlbm92YXRpb24tYXQtem9vbW9udGFuYdIBc2h0dHBzOi8vbmJjbW9udGFuYS5jb20vYW1wL25ld3MvbG9jYWwvZ29sZi10b3VybmFtZW50LXJhaXNlcy0xNDUwMC1mb3ItcmFyZS1mZXJyZXQtaGFiaXRhdC1yZW5vdmF0aW9uLWF0LXpvb21vbnRhbmE?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmJjbW9udGFuYS5jb20vbmV3cy9sb2NhbC9nb2xmLXRvdXJuYW1lbnQtcmFpc2VzLTE0NTAwLWZvci1yYXJlLWZlcnJldC1oYWJpdGF0LXJlbm92YXRpb24tYXQtem9vbW9udGFuYdIBc2h0dHBzOi8vbmJjbW9udGFuYS5jb20vYW1wL25ld3MvbG9jYWwvZ29sZi10b3VybmFtZW50LXJhaXNlcy0xNDUwMC1mb3ItcmFyZS1mZXJyZXQtaGFiaXRhdC1yZW5vdmF0aW9uLWF0LXpvb21vbnRhbmE?oc=5"/>
-        <updated>2023-11-03T13:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Proof Your Oven!  #ferret]]></title>
-        <id>https://www.youtube.com/watch?v=udsvCd-2TEs</id>
-        <link href="https://www.youtube.com/watch?v=udsvCd-2TEs"/>
-        <updated>2023-11-03T03:00:56.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[who needs a pillow when you have a sister?]]></title>
-        <id>https://voiceferret.tumblr.com/post/732855053610795008</id>
-        <link href="https://voiceferret.tumblr.com/post/732855053610795008"/>
-        <updated>2023-11-02T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[who needs a pillow when you have a sister?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
