@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-03T01:49:25.297Z</updated>
+    <updated>2023-12-04T01:46:19.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why the ankles?!]]></title>
+        <id>https://voiceferret.tumblr.com/post/735663558878199808</id>
+        <link href="https://voiceferret.tumblr.com/post/735663558878199808"/>
+        <updated>2023-12-03T20:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Why the ankles?!]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/897840295036318</id>
+        <link href="https://www.facebook.com/666603538159996/posts/897840295036318"/>
+        <updated>2023-12-03T16:20:55.000Z</updated>
+        <summary type="html"><![CDATA[I honestly never dreamed this day would come, that @themodernferret calendar would be sold at stores across the United States (check the next slide where to buy yours!). What a crazy ride this all has been, that started with a few loyal IG followers and grew into this. I am eternally grateful for everyone’s support. I continue to ask God how to best use this platform for good. Love you all! #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret The Cat - The Daily Nonpareil]]></title>
+        <id>https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbm9ucGFyZWlsb25saW5lLmNvbS9mZXJyZXQtdGhlLWNhdC9hcnRpY2xlXzc1NWI3NDdlLTllNTctNTlkZS1iZjQ0LWMzMTE0YzYyYjczOS5odG1s0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbm9ucGFyZWlsb25saW5lLmNvbS9mZXJyZXQtdGhlLWNhdC9hcnRpY2xlXzc1NWI3NDdlLTllNTctNTlkZS1iZjQ0LWMzMTE0YzYyYjczOS5odG1s0gEA?oc=5"/>
+        <updated>2023-12-03T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Be honest, is he cute or naw?]]></title>
         <id>https://voiceferret.tumblr.com/post/735572962806267904</id>
@@ -444,16 +474,6 @@
         <link href="https://voiceferret.tumblr.com/post/733036248411897856"/>
         <updated>2023-11-04T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Adopted a new ferret, water bowl splashing question]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“No” -a ferret’s leave favorite  word😂]]></title>
-        <id>https://voiceferret.tumblr.com/post/732945650523815936</id>
-        <link href="https://voiceferret.tumblr.com/post/732945650523815936"/>
-        <updated>2023-11-03T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[“No” -a ferret’s leave favorite  word]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
