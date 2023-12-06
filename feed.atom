@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T01:47:06.237Z</updated>
+    <updated>2023-12-06T01:46:08.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Controversial take]]></title>
+        <id>https://voiceferret.tumblr.com/post/735844754324062208</id>
+        <link href="https://voiceferret.tumblr.com/post/735844754324062208"/>
+        <updated>2023-12-05T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Controversial take]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret DANGER : Recliners (please watch) #ferret]]></title>
         <id>https://www.youtube.com/watch?v=NQsL4RlC09w</id>
@@ -483,16 +493,6 @@
         <link href="https://voiceferret.tumblr.com/post/733217441683062784"/>
         <updated>2023-11-06T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[That one time I caught a loaf]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She is being extremely rude right now.]]></title>
-        <id>https://voiceferret.tumblr.com/post/733126844149350400</id>
-        <link href="https://voiceferret.tumblr.com/post/733126844149350400"/>
-        <updated>2023-11-05T19:04:01.000Z</updated>
-        <summary type="html"><![CDATA[She is being extremely rude right now.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
