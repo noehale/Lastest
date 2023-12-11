@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T01:52:06.741Z</updated>
+    <updated>2023-12-11T01:47:15.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Working from home.]]></title>
+        <id>https://voiceferret.tumblr.com/post/736297738741989376</id>
+        <link href="https://voiceferret.tumblr.com/post/736297738741989376"/>
+        <updated>2023-12-10T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Working from home.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Am I lucky for this ?]]></title>
         <id>https://voiceferret.tumblr.com/post/736207141553274881</id>
@@ -464,16 +474,6 @@
         <link href="https://voiceferret.tumblr.com/post/733670426905034752"/>
         <updated>2023-11-11T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[DIP Baby Ruckus]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lunch time 🥩]]></title>
-        <id>https://voiceferret.tumblr.com/post/733579829547565056</id>
-        <link href="https://voiceferret.tumblr.com/post/733579829547565056"/>
-        <updated>2023-11-10T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Lunch time]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
