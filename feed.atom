@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T01:47:15.094Z</updated>
+    <updated>2023-12-12T01:47:18.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What does your ferret love to steal?  #ferret]]></title>
+        <id>https://www.youtube.com/watch?v=-_pXA5fxIXE</id>
+        <link href="https://www.youtube.com/watch?v=-_pXA5fxIXE"/>
+        <updated>2023-12-12T07:00:00.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D.I.P Peter]]></title>
+        <id>https://voiceferret.tumblr.com/post/736388336706568192</id>
+        <link href="https://voiceferret.tumblr.com/post/736388336706568192"/>
+        <updated>2023-12-11T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[D.I.P Peter]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the rare black-footed ferret is making a comeback - PBS NewsHour]]></title>
+        <id>https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvc2hvdy9ob3ctdGhlLWJsYWNrLWZvb3RlZC1mZXJyZXQtaXMtbWFraW5nLWEtY29tZWJhY2stZnJvbS10aGUtYnJpbmstb2YtZXh0aW5jdGlvbtIBc2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvYW1wL3Nob3cvaG93LXRoZS1ibGFjay1mb290ZWQtZmVycmV0LWlzLW1ha2luZy1hLWNvbWViYWNrLWZyb20tdGhlLWJyaW5rLW9mLWV4dGluY3Rpb24?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvc2hvdy9ob3ctdGhlLWJsYWNrLWZvb3RlZC1mZXJyZXQtaXMtbWFraW5nLWEtY29tZWJhY2stZnJvbS10aGUtYnJpbmstb2YtZXh0aW5jdGlvbtIBc2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvYW1wL3Nob3cvaG93LXRoZS1ibGFjay1mb290ZWQtZmVycmV0LWlzLW1ha2luZy1hLWNvbWViYWNrLWZyb20tdGhlLWJyaW5rLW9mLWV4dGluY3Rpb24?oc=5"/>
+        <updated>2023-12-11T12:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Working from home.]]></title>
         <id>https://voiceferret.tumblr.com/post/736297738741989376</id>
@@ -454,26 +483,6 @@
         <link href="https://voiceferret.tumblr.com/post/733761023916556288"/>
         <updated>2023-11-12T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Bernie loved the garden this afternoon]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/886969366123411</id>
-        <link href="https://www.facebook.com/666603538159996/posts/886969366123411"/>
-        <updated>2023-11-12T11:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Elijah came back to the dementia unit to share the love of Jesus with all his favorite residents… and then he had to take a nap! #ferret #ferrets #jesuschrist(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIP Baby Ruckus]]></title>
-        <id>https://voiceferret.tumblr.com/post/733670426905034752</id>
-        <link href="https://voiceferret.tumblr.com/post/733670426905034752"/>
-        <updated>2023-11-11T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[DIP Baby Ruckus]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
