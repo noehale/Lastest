@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T01:43:14.944Z</updated>
+    <updated>2023-12-17T01:51:57.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -434,25 +434,6 @@
         <link href="https://voiceferret.tumblr.com/post/734214009732120576"/>
         <updated>2023-11-17T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[the sweetest babies i could ever ask for.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret vs. Toilet]]></title>
-        <id>https://www.youtube.com/watch?v=_SsPShwEGSI</id>
-        <link href="https://www.youtube.com/watch?v=_SsPShwEGSI"/>
-        <updated>2023-11-17T02:00:34.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[he always tucks himself in :’)]]></title>
-        <id>https://voiceferret.tumblr.com/post/734123411596607488</id>
-        <link href="https://voiceferret.tumblr.com/post/734123411596607488"/>
-        <updated>2023-11-16T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[he always tucks himself in :’)]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
