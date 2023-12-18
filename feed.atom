@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-17T01:51:57.602Z</updated>
+    <updated>2023-12-18T01:46:00.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -424,16 +424,6 @@
         <link href="https://voiceferret.tumblr.com/post/734304605054304256"/>
         <updated>2023-11-18T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[is this grooming?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the sweetest babies i could ever ask for.]]></title>
-        <id>https://voiceferret.tumblr.com/post/734214009732120576</id>
-        <link href="https://voiceferret.tumblr.com/post/734214009732120576"/>
-        <updated>2023-11-17T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[the sweetest babies i could ever ask for.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
