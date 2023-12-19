@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T01:46:00.804Z</updated>
+    <updated>2023-12-19T01:45:25.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret PRO TIP:  Roll Call!  #ferret]]></title>
+        <id>https://www.youtube.com/watch?v=8tnYRkNOJ1M</id>
+        <link href="https://www.youtube.com/watch?v=8tnYRkNOJ1M"/>
+        <updated>2023-12-19T04:00:06.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best and Cutest List of 100 Ferret Names - AZ Animals]]></title>
         <id>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvdGhlLWJlc3QtYW5kLW1vc3QtY3V0ZXN0LWxpc3Qtb2YtZmVycmV0LW5hbWVzL9IBAA?oc=5</id>
@@ -80,6 +89,16 @@
         <link href="https://voiceferret.tumblr.com/post/736207141553274881"/>
         <updated>2023-12-09T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Am I lucky for this ?]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Rabbits and Ferrets Shouldn't Live Together - AZ Animals]]></title>
+        <id>https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvd2h5LXJhYmJpdHMtYW5kLWZlcnJldHMtc2hvdWxkbnQtbGl2ZS10b2dldGhlci_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvd2h5LXJhYmJpdHMtYW5kLWZlcnJldHMtc2hvdWxkbnQtbGl2ZS10b2dldGhlci_SAQA?oc=5"/>
+        <updated>2023-12-09T16:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
@@ -404,26 +423,6 @@
         <link href="https://voiceferret.tumblr.com/post/734395202031190017"/>
         <updated>2023-11-19T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[My 2 boys are currently very comfy]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret - Billings Gazette]]></title>
-        <id>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYmlsbGluZ3NnYXpldHRlLmNvbS9mZXJyZXQvYXJ0aWNsZV8yNzJhMmY2NS00ZWNlLTUwMzQtOWE2Yy1kMDk2NWM2Yjg3MmUuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYmlsbGluZ3NnYXpldHRlLmNvbS9mZXJyZXQvYXJ0aWNsZV8yNzJhMmY2NS00ZWNlLTUwMzQtOWE2Yy1kMDk2NWM2Yjg3MmUuaHRtbNIBAA?oc=5"/>
-        <updated>2023-11-19T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[is this grooming?]]></title>
-        <id>https://voiceferret.tumblr.com/post/734304605054304256</id>
-        <link href="https://voiceferret.tumblr.com/post/734304605054304256"/>
-        <updated>2023-11-18T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[is this grooming?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
