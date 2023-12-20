@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T01:45:25.430Z</updated>
+    <updated>2023-12-20T01:27:34.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The pet I’ll never forget: Hollie McNish on her guinea pigs – ‘my mum fought off a ferret to save them’ - The Guardian]]></title>
+        <id>https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9kZWMvMTkvcGV0LWlsbC1uZXZlci1mb3JnZXQtaG9sbGllLW1jbmlzaC1ndWluZWEtcGlncy1tdW0tZm91Z2h0LWZlcnJldC1zYXZlLXRoZW3SAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvZGVjLzE5L3BldC1pbGwtbmV2ZXItZm9yZ2V0LWhvbGxpZS1tY25pc2gtZ3VpbmVhLXBpZ3MtbXVtLWZvdWdodC1mZXJyZXQtc2F2ZS10aGVt?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9kZWMvMTkvcGV0LWlsbC1uZXZlci1mb3JnZXQtaG9sbGllLW1jbmlzaC1ndWluZWEtcGlncy1tdW0tZm91Z2h0LWZlcnJldC1zYXZlLXRoZW3SAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvZGVjLzE5L3BldC1pbGwtbmV2ZXItZm9yZ2V0LWhvbGxpZS1tY25pc2gtZ3VpbmVhLXBpZ3MtbXVtLWZvdWdodC1mZXJyZXQtc2F2ZS10aGVt?oc=5"/>
+        <updated>2023-12-20T04:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret PRO TIP:  Roll Call!  #ferret]]></title>
         <id>https://www.youtube.com/watch?v=8tnYRkNOJ1M</id>
@@ -415,16 +425,6 @@
         <updated>2023-11-21T06:00:29.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My 2 boys are currently very comfy 🥰]]></title>
-        <id>https://voiceferret.tumblr.com/post/734395202031190017</id>
-        <link href="https://voiceferret.tumblr.com/post/734395202031190017"/>
-        <updated>2023-11-19T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[My 2 boys are currently very comfy]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
