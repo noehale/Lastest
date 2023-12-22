@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t7kFY0JDjmM",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t7kFY0JDjmM",
+          "publishedOn": "2023-12-22T04:00:38.000Z",
+          "wordCount": null,
+          "title": "Don't Let Your Ferret Get In Your Fireplace!",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9kZWMvMTkvcGV0LWlsbC1uZXZlci1mb3JnZXQtaG9sbGllLW1jbmlzaC1ndWluZWEtcGlncy1tdW0tZm91Z2h0LWZlcnJldC1zYXZlLXRoZW3SAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvZGVjLzE5L3BldC1pbGwtbmV2ZXItZm9yZ2V0LWhvbGxpZS1tY25pc2gtZ3VpbmVhLXBpZ3MtbXVtLWZvdWdodC1mZXJyZXQtc2F2ZS10aGVt?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -404,26 +414,6 @@
           "wordCount": 761,
           "title": "Tired playful ferret?",
           "imageUrl": "https://64.media.tumblr.com/2eaf5d3a26fa25faa413294322d382e7/b8158094c1743715-20/s1280x1920/f28dfdb301ae4563307f65f63e412224ad04b534.jpg"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNoaWVmdGFpbi5jb20vc3RvcnkvbmV3cy8yMDIzLzExLzIxL3B1ZWJsby1kZXBvdC1pcy1uZXctaG9tZS10by0yMi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXRzLzcxNjE5ODY3MDA3L9IBAA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNoaWVmdGFpbi5jb20vc3RvcnkvbmV3cy8yMDIzLzExLzIxL3B1ZWJsby1kZXBvdC1pcy1uZXctaG9tZS10by0yMi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXRzLzcxNjE5ODY3MDA3L9IBAA?oc=5",
-          "publishedOn": "2023-11-22T05:04:08.000Z",
-          "wordCount": 5021,
-          "title": "Pueblo Depot is new home to 22 endangered black-footed ferrets - Pueblo Chieftain",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/734576396695945216",
-          "author": null,
-          "description": "Don’t be such a drag",
-          "link": "https://voiceferret.tumblr.com/post/734576396695945216",
-          "publishedOn": "2023-11-21T20:04:02.000Z",
-          "wordCount": 757,
-          "title": "Don’t be such a drag 🤪",
-          "imageUrl": "https://64.media.tumblr.com/c44dcec353b472ffe48ede53677937e2/140261b5081cbeaa-07/s1280x1920/a8f6d90de84c98f383a320b64c9e24703bec8ebc.jpg"
         }
       ]
     }
