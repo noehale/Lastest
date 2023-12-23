@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T01:42:48.182Z</updated>
+    <updated>2023-12-23T01:39:20.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Amarillo Zoo shows off Cosmo the domestic ferret - KAMR - MyHighPlains.com]]></title>
+        <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L9IBbWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L2FtcC8?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L9IBbWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L2FtcC8?oc=5"/>
+        <updated>2023-12-23T05:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't Let Your Ferret Get In Your Fireplace!]]></title>
         <id>https://www.youtube.com/watch?v=t7kFY0JDjmM</id>
@@ -393,16 +403,6 @@
         <link href="https://voiceferret.tumblr.com/post/734757590241787904"/>
         <updated>2023-11-23T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[My guitar was a lot less scary when she realized how fun it is to try and steal my capo]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tired playful ferret?]]></title>
-        <id>https://voiceferret.tumblr.com/post/734666993875271680</id>
-        <link href="https://voiceferret.tumblr.com/post/734666993875271680"/>
-        <updated>2023-11-22T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Tired playful ferret?]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
