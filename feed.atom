@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T01:39:20.906Z</updated>
+    <updated>2023-12-24T01:47:37.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -384,25 +384,6 @@
         <link href="https://voiceferret.tumblr.com/post/734848186700660736"/>
         <updated>2023-11-24T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[I get so jealous. He has done this with my daughter since we got him four years ago. He will not sleep with anyone else. She’s lucky.not one out of our four do this. Ugh.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Proof : Bathroom Cabinets]]></title>
-        <id>https://www.youtube.com/watch?v=_gjeKDZc5ws</id>
-        <link href="https://www.youtube.com/watch?v=_gjeKDZc5ws"/>
-        <updated>2023-11-24T05:00:35.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My guitar was a lot less scary when she realized how fun it is to try and steal my capo]]></title>
-        <id>https://voiceferret.tumblr.com/post/734757590241787904</id>
-        <link href="https://voiceferret.tumblr.com/post/734757590241787904"/>
-        <updated>2023-11-23T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[My guitar was a lot less scary when she realized how fun it is to try and steal my capo]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
