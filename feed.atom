@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T01:47:37.913Z</updated>
+    <updated>2023-12-25T01:44:33.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/909825983837749</id>
+        <link href="https://www.facebook.com/666603538159996/posts/909825983837749"/>
+        <updated>2023-12-25T08:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Merry Christmas Eve, everyone! Thanks to my dear friends for helping me put on another Faith &amp; Ferrets event. No matter what you are walking through, you can always choose to be the light #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Amarillo Zoo shows off Cosmo the domestic ferret - KAMR - MyHighPlains.com]]></title>
         <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L9IBbWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L2FtcC8?oc=5</id>
@@ -374,16 +384,6 @@
         <link href="https://voiceferret.tumblr.com/post/734938783370379264"/>
         <updated>2023-11-25T20:04:01.000Z</updated>
         <summary type="html"><![CDATA[Found a (potentially) ferret?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I get so jealous. He has done this with my daughter since we got him four years ago. He will not sleep with anyone else. She’s lucky.not one out of our four do this. Ugh.]]></title>
-        <id>https://voiceferret.tumblr.com/post/734848186700660736</id>
-        <link href="https://voiceferret.tumblr.com/post/734848186700660736"/>
-        <updated>2023-11-24T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[I get so jealous. He has done this with my daughter since we got him four years ago. He will not sleep with anyone else. She’s lucky.not one out of our four do this. Ugh.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
