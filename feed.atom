@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T01:41:17.339Z</updated>
+    <updated>2023-12-27T01:42:00.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -23,6 +23,16 @@
         <summary type="html"><![CDATA[Merry Christmas Eve, everyone! Thanks to my dear friends for helping me put on another Faith &amp; Ferrets event. No matter what you are walking through, you can always choose to be the light #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Westerham: Appeal for return of pet ferrets stolen in Sundridge - BBC.com]]></title>
+        <id>https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcHY2MXo2NzE5Mm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3B2NjF6NjcxOTJvLmFtcA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcHY2MXo2NzE5Mm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3B2NjF6NjcxOTJvLmFtcA?oc=5"/>
+        <updated>2023-12-24T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
@@ -373,16 +383,6 @@
         <link href="https://voiceferret.tumblr.com/post/735119979197956096"/>
         <updated>2023-11-27T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Found the strangest thing to make my ferret wag his tail!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving my ferrets quality of life]]></title>
-        <id>https://voiceferret.tumblr.com/post/735029381436669952</id>
-        <link href="https://voiceferret.tumblr.com/post/735029381436669952"/>
-        <updated>2023-11-26T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Improving my ferrets quality of life]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
