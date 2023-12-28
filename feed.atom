@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T01:42:00.122Z</updated>
+    <updated>2023-12-28T01:41:41.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -364,25 +364,6 @@
         <link href="https://voiceferret.tumblr.com/post/735210575679881216"/>
         <updated>2023-11-28T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[Obi taking in the sun]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets: Dangers of Bath Mats]]></title>
-        <id>https://www.youtube.com/watch?v=azn1vpHTZtI</id>
-        <link href="https://www.youtube.com/watch?v=azn1vpHTZtI"/>
-        <updated>2023-11-28T06:00:06.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Found the strangest thing to make my ferret wag his tail!]]></title>
-        <id>https://voiceferret.tumblr.com/post/735119979197956096</id>
-        <link href="https://voiceferret.tumblr.com/post/735119979197956096"/>
-        <updated>2023-11-27T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Found the strangest thing to make my ferret wag his tail!]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
