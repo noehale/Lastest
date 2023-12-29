@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T01:41:41.463Z</updated>
+    <updated>2023-12-29T01:34:46.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Authorities seek public help in catching alleged ferret thief - County 17]]></title>
+        <id>https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vY291bnR5MTcuY29tLzIwMjMvMTIvMjgvYXV0aG9yaXRpZXMtc2Vlay1wdWJsaWMtaGVscC1pbi1jYXRjaGluZy1hbGxlZ2VkLWZlcnJldC10aGllZi_SAWRodHRwczovL2NvdW50eTE3LmNvbS8yMDIzLzEyLzI4L2F1dGhvcml0aWVzLXNlZWstcHVibGljLWhlbHAtaW4tY2F0Y2hpbmctYWxsZWdlZC1mZXJyZXQtdGhpZWYvP2FtcD0x?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vY291bnR5MTcuY29tLzIwMjMvMTIvMjgvYXV0aG9yaXRpZXMtc2Vlay1wdWJsaWMtaGVscC1pbi1jYXRjaGluZy1hbGxlZ2VkLWZlcnJldC10aGllZi_SAWRodHRwczovL2NvdW50eTE3LmNvbS8yMDIzLzEyLzI4L2F1dGhvcml0aWVzLXNlZWstcHVibGljLWhlbHAtaW4tY2F0Y2hpbmctYWxsZWdlZC1mZXJyZXQtdGhpZWYvP2FtcD0x?oc=5"/>
+        <updated>2023-12-29T10:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEWARE: Ferrets and Nightstands]]></title>
+        <id>https://www.youtube.com/watch?v=4EI7rzcdL3g</id>
+        <link href="https://www.youtube.com/watch?v=4EI7rzcdL3g"/>
+        <updated>2023-12-29T02:00:03.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret WARNING: Box Springs! (and how to fix it)]]></title>
         <id>https://www.youtube.com/watch?v=9tIw-6zUhQ4</id>
@@ -354,16 +373,6 @@
         <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRha290YW5ld3Nub3cuY29tL3ZpZGVvLzIwMjMvMTEvMjgvZ3JlYXQtcGxhaW5zLXpvby13b3JraW5nLWNvbnNlcnZlLWJsYWNrLWZvb3RlZC1mZXJyZXRzL9IBAA?oc=5"/>
         <updated>2023-11-29T13:55:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obi taking in the sun]]></title>
-        <id>https://voiceferret.tumblr.com/post/735210575679881216</id>
-        <link href="https://voiceferret.tumblr.com/post/735210575679881216"/>
-        <updated>2023-11-28T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Obi taking in the sun]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
