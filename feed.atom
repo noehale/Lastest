@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T01:34:46.338Z</updated>
+    <updated>2023-12-30T01:40:33.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -352,26 +352,6 @@
         <id>https://news.google.com/rss/articles/CBMiqgFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vb3V0ZG9vcnMvanVzdC1mb3Ita2lkcy9uZXctdGVjaG5vbG9neS10cmFja3MtcHJhaXJpZS1kb2dzLXVuZGVyZ3JvdW5kLW91dGRvb3JzLWp1c3QtZm9yLWtpZHMvYXJ0aWNsZV82OWMzMmQzMi03ZmY0LTExZWUtOGQzZi04MzU0NzU3MjkxNTEuaHRtbNIBAA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiqgFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vb3V0ZG9vcnMvanVzdC1mb3Ita2lkcy9uZXctdGVjaG5vbG9neS10cmFja3MtcHJhaXJpZS1kb2dzLXVuZGVyZ3JvdW5kLW91dGRvb3JzLWp1c3QtZm9yLWtpZHMvYXJ0aWNsZV82OWMzMmQzMi03ZmY0LTExZWUtOGQzZi04MzU0NzU3MjkxNTEuaHRtbNIBAA?oc=5"/>
         <updated>2023-11-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big boy?]]></title>
-        <id>https://voiceferret.tumblr.com/post/735301172102037504</id>
-        <link href="https://voiceferret.tumblr.com/post/735301172102037504"/>
-        <updated>2023-11-29T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Big boy?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great Plains Zoo working to conserve black-footed ferrets - Dakota News Now]]></title>
-        <id>https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRha290YW5ld3Nub3cuY29tL3ZpZGVvLzIwMjMvMTEvMjgvZ3JlYXQtcGxhaW5zLXpvby13b3JraW5nLWNvbnNlcnZlLWJsYWNrLWZvb3RlZC1mZXJyZXRzL9IBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRha290YW5ld3Nub3cuY29tL3ZpZGVvLzIwMjMvMTEvMjgvZ3JlYXQtcGxhaW5zLXpvby13b3JraW5nLWNvbnNlcnZlLWJsYWNrLWZvb3RlZC1mZXJyZXRzL9IBAA?oc=5"/>
-        <updated>2023-11-29T13:55:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
