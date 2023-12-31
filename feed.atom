@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T01:40:33.613Z</updated>
+    <updated>2023-12-31T01:49:20.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -304,55 +304,6 @@
         <link href="https://voiceferret.tumblr.com/post/735482366974410752"/>
         <updated>2023-12-01T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[my boyfriend’s brother is ferret sitting while we are away for 2 days  i may be a LITTLE BIT of a helicopter mom]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret: Pet of the Week | Video | actionnewsnow.com - Action News Now]]></title>
-        <id>https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL3ZpZGVvL2ZlcnJldC1wZXQtb2YtdGhlLXdlZWsvdmlkZW9fYTQ2ZjM3Y2QtNzZiNS01YzViLTg2Y2UtYWVmNWU3OTM4ZDdhLmh0bWzSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFjdGlvbm5ld3Nub3cuY29tL3ZpZGVvL2ZlcnJldC1wZXQtb2YtdGhlLXdlZWsvdmlkZW9fYTQ2ZjM3Y2QtNzZiNS01YzViLTg2Y2UtYWVmNWU3OTM4ZDdhLmh0bWzSAQA?oc=5"/>
-        <updated>2023-12-01T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret WARNING: Couches!]]></title>
-        <id>https://www.youtube.com/watch?v=5F3K4i7mdkw</id>
-        <link href="https://www.youtube.com/watch?v=5F3K4i7mdkw"/>
-        <updated>2023-12-01T05:00:10.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our nutmeg is definitely in the Christmas spirit!]]></title>
-        <id>https://voiceferret.tumblr.com/post/735391769185927168</id>
-        <link href="https://voiceferret.tumblr.com/post/735391769185927168"/>
-        <updated>2023-11-30T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Our nutmeg is definitely in the Christmas spirit!]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New technology tracks prairie dogs underground - Missoulian]]></title>
-        <id>https://news.google.com/rss/articles/CBMipQFodHRwczovL21pc3NvdWxpYW4uY29tL291dGRvb3JzL2p1c3QtZm9yLWtpZHMvbmV3LXRlY2hub2xvZ3ktdHJhY2tzLXByYWlyaWUtZG9ncy11bmRlcmdyb3VuZC1vdXRkb29ycy1qdXN0LWZvci1raWRzL2FydGljbGVfZWZmYzkxNDktMzE2NC01NTA4LWIzYzgtZjlmYzJhYzllNTk0Lmh0bWzSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMipQFodHRwczovL21pc3NvdWxpYW4uY29tL291dGRvb3JzL2p1c3QtZm9yLWtpZHMvbmV3LXRlY2hub2xvZ3ktdHJhY2tzLXByYWlyaWUtZG9ncy11bmRlcmdyb3VuZC1vdXRkb29ycy1qdXN0LWZvci1raWRzL2FydGljbGVfZWZmYzkxNDktMzE2NC01NTA4LWIzYzgtZjlmYzJhYzllNTk0Lmh0bWzSAQA?oc=5"/>
-        <updated>2023-11-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New technology tracks prairie dogs underground - Billings Gazette]]></title>
-        <id>https://news.google.com/rss/articles/CBMiqgFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vb3V0ZG9vcnMvanVzdC1mb3Ita2lkcy9uZXctdGVjaG5vbG9neS10cmFja3MtcHJhaXJpZS1kb2dzLXVuZGVyZ3JvdW5kLW91dGRvb3JzLWp1c3QtZm9yLWtpZHMvYXJ0aWNsZV82OWMzMmQzMi03ZmY0LTExZWUtOGQzZi04MzU0NzU3MjkxNTEuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiqgFodHRwczovL2JpbGxpbmdzZ2F6ZXR0ZS5jb20vb3V0ZG9vcnMvanVzdC1mb3Ita2lkcy9uZXctdGVjaG5vbG9neS10cmFja3MtcHJhaXJpZS1kb2dzLXVuZGVyZ3JvdW5kLW91dGRvb3JzLWp1c3QtZm9yLWtpZHMvYXJ0aWNsZV82OWMzMmQzMi03ZmY0LTExZWUtOGQzZi04MzU0NzU3MjkxNTEuaHRtbNIBAA?oc=5"/>
-        <updated>2023-11-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
