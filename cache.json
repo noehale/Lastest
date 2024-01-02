@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xogUfhScIks",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xogUfhScIks",
+          "publishedOn": "2024-01-02T05:00:44.000Z",
+          "wordCount": null,
+          "title": "Ferret Danger #3: Chewing Products",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vY291bnR5MTcuY29tLzIwMjMvMTIvMjgvYXV0aG9yaXRpZXMtc2Vlay1wdWJsaWMtaGVscC1pbi1jYXRjaGluZy1hbGxlZ2VkLWZlcnJldC10aGllZi_SAWRodHRwczovL2NvdW50eTE3LmNvbS8yMDIzLzEyLzI4L2F1dGhvcml0aWVzLXNlZWstcHVibGljLWhlbHAtaW4tY2F0Y2hpbmctYWxsZWdlZC1mZXJyZXQtdGhpZWYvP2FtcD0x?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -274,26 +284,6 @@
           "wordCount": 1720,
           "title": "Photos from The Modern Ferret's post",
           "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/406425406_18367638022075876_6300908357677418976_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ab7367&_nc_ohc=1g1SgX79C0MAX_pqrp2&_nc_ht=scontent-iad3-1.xx&oh=00_AfD5tuxWkQN4QWzoxiovjYWAdB4vJ7-kG_skl5EJCBZRbA&oe=657171BC"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbm9ucGFyZWlsb25saW5lLmNvbS9mZXJyZXQtdGhlLWNhdC9hcnRpY2xlXzc1NWI3NDdlLTllNTctNTlkZS1iZjQ0LWMzMTE0YzYyYjczOS5odG1s0gEA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbm9ucGFyZWlsb25saW5lLmNvbS9mZXJyZXQtdGhlLWNhdC9hcnRpY2xlXzc1NWI3NDdlLTllNTctNTlkZS1iZjQ0LWMzMTE0YzYyYjczOS5odG1s0gEA?oc=5",
-          "publishedOn": "2023-12-03T00:30:00.000Z",
-          "wordCount": 5027,
-          "title": "Ferret The Cat - The Daily Nonpareil",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://voiceferret.tumblr.com/post/735572962806267904",
-          "author": null,
-          "description": "Be honest, is he cute or naw?",
-          "link": "https://voiceferret.tumblr.com/post/735572962806267904",
-          "publishedOn": "2023-12-02T20:04:02.000Z",
-          "wordCount": 784,
-          "title": "Be honest, is he cute or naw?",
-          "imageUrl": "https://64.media.tumblr.com/e25486bf7f277ea86931d238e3a1c648/ffa15efa8947a39f-8f/s1280x1920/1d81b68f84a7795015cfa17be83db859b35a9fa3.jpg"
         }
       ]
     }

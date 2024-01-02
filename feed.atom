@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T01:54:32.320Z</updated>
+    <updated>2024-01-02T01:44:49.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Danger #3: Chewing Products]]></title>
+        <id>https://www.youtube.com/watch?v=xogUfhScIks</id>
+        <link href="https://www.youtube.com/watch?v=xogUfhScIks"/>
+        <updated>2024-01-02T05:00:44.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Authorities seek public help in catching alleged ferret thief - County 17]]></title>
         <id>https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vY291bnR5MTcuY29tLzIwMjMvMTIvMjgvYXV0aG9yaXRpZXMtc2Vlay1wdWJsaWMtaGVscC1pbi1jYXRjaGluZy1hbGxlZ2VkLWZlcnJldC10aGllZi_SAWRodHRwczovL2NvdW50eTE3LmNvbS8yMDIzLzEyLzI4L2F1dGhvcml0aWVzLXNlZWstcHVibGljLWhlbHAtaW4tY2F0Y2hpbmctYWxsZWdlZC1mZXJyZXQtdGhpZWYvP2FtcD0x?oc=5</id>
@@ -266,26 +275,6 @@
         <summary type="html"><![CDATA[I honestly never dreamed this day would come, that @themodernferret calendar would be sold at stores across the United States (check the next slide where to buy yours!). What a crazy ride this all has been, that started with a few loyal IG followers and grew into this. I am eternally grateful for everyone’s support. I continue to ask God how to best use this platform for good. Love you all! #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret The Cat - The Daily Nonpareil]]></title>
-        <id>https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbm9ucGFyZWlsb25saW5lLmNvbS9mZXJyZXQtdGhlLWNhdC9hcnRpY2xlXzc1NWI3NDdlLTllNTctNTlkZS1iZjQ0LWMzMTE0YzYyYjczOS5odG1s0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbm9ucGFyZWlsb25saW5lLmNvbS9mZXJyZXQtdGhlLWNhdC9hcnRpY2xlXzc1NWI3NDdlLTllNTctNTlkZS1iZjQ0LWMzMTE0YzYyYjczOS5odG1s0gEA?oc=5"/>
-        <updated>2023-12-03T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be honest, is he cute or naw?]]></title>
-        <id>https://voiceferret.tumblr.com/post/735572962806267904</id>
-        <link href="https://voiceferret.tumblr.com/post/735572962806267904"/>
-        <updated>2023-12-02T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Be honest, is he cute or naw?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
