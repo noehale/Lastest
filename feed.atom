@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T01:43:09.780Z</updated>
+    <updated>2024-01-07T01:53:54.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -236,15 +236,6 @@
         <summary type="html"><![CDATA[Said goodbye to Honey today. This group will understand more than anyone but the impact these little guys can have on your life is extraordinary. She filled my life with so much joy and laughter. Rest easy little one]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets vs. Bookcases]]></title>
-        <id>https://www.youtube.com/watch?v=Oemn7m9L51U</id>
-        <link href="https://www.youtube.com/watch?v=Oemn7m9L51U"/>
-        <updated>2023-12-08T05:00:20.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
