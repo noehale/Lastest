@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T01:47:12.178Z</updated>
+    <updated>2024-01-09T01:47:44.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TOXIC Plants for Ferrets]]></title>
+        <id>https://www.youtube.com/watch?v=U0w3wBsfgSs</id>
+        <link href="https://www.youtube.com/watch?v=U0w3wBsfgSs"/>
+        <updated>2024-01-09T04:00:18.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A celebrity dog, an injured eagle, a pet ferret: WSU vets treat 10,000+ animals a year - The Seattle Times]]></title>
         <id>https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vcGFjaWZpYy1udy1tYWdhemluZS9mcm9tLXNlYWhhd2tzLW1hc2NvdC10by1pbnN0YS1kb2ctZGFzaC13c3UtdmV0cy10cmVhdC0xMDAwMC1hbmltYWxzLWEteWVhci_SAQA?oc=5</id>
@@ -204,26 +213,6 @@
         <link href="https://voiceferret.tumblr.com/post/736297738741989376"/>
         <updated>2023-12-10T20:04:02.000Z</updated>
         <summary type="html"><![CDATA[Working from home.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Am I lucky for this ?]]></title>
-        <id>https://voiceferret.tumblr.com/post/736207141553274881</id>
-        <link href="https://voiceferret.tumblr.com/post/736207141553274881"/>
-        <updated>2023-12-09T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Am I lucky for this ?]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Rabbits and Ferrets Shouldn't Live Together - AZ Animals]]></title>
-        <id>https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvd2h5LXJhYmJpdHMtYW5kLWZlcnJldHMtc2hvdWxkbnQtbGl2ZS10b2dldGhlci_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvd2h5LXJhYmJpdHMtYW5kLWZlcnJldHMtc2hvdWxkbnQtbGl2ZS10b2dldGhlci_SAQA?oc=5"/>
-        <updated>2023-12-09T16:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
