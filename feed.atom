@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T01:47:44.635Z</updated>
+    <updated>2024-01-10T01:48:33.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -193,26 +193,6 @@
         <link href="https://voiceferret.tumblr.com/post/736388336706568192"/>
         <updated>2023-12-11T20:04:03.000Z</updated>
         <summary type="html"><![CDATA[D.I.P Peter]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the rare black-footed ferret is making a comeback - PBS NewsHour]]></title>
-        <id>https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvc2hvdy9ob3ctdGhlLWJsYWNrLWZvb3RlZC1mZXJyZXQtaXMtbWFraW5nLWEtY29tZWJhY2stZnJvbS10aGUtYnJpbmstb2YtZXh0aW5jdGlvbtIBc2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvYW1wL3Nob3cvaG93LXRoZS1ibGFjay1mb290ZWQtZmVycmV0LWlzLW1ha2luZy1hLWNvbWViYWNrLWZyb20tdGhlLWJyaW5rLW9mLWV4dGluY3Rpb24?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvc2hvdy9ob3ctdGhlLWJsYWNrLWZvb3RlZC1mZXJyZXQtaXMtbWFraW5nLWEtY29tZWJhY2stZnJvbS10aGUtYnJpbmstb2YtZXh0aW5jdGlvbtIBc2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvYW1wL3Nob3cvaG93LXRoZS1ibGFjay1mb290ZWQtZmVycmV0LWlzLW1ha2luZy1hLWNvbWViYWNrLWZyb20tdGhlLWJyaW5rLW9mLWV4dGluY3Rpb24?oc=5"/>
-        <updated>2023-12-11T12:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working from home.]]></title>
-        <id>https://voiceferret.tumblr.com/post/736297738741989376</id>
-        <link href="https://voiceferret.tumblr.com/post/736297738741989376"/>
-        <updated>2023-12-10T20:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Working from home.]]></summary>
         <author>
             <name>Latest Ferret News</name>
         </author>
