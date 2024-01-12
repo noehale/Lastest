@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i52ofVF7TRE",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i52ofVF7TRE",
+          "publishedOn": "2024-01-12T04:00:34.000Z",
+          "wordCount": null,
+          "title": "Ferrets: Don't Put That In Your Purse!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U0w3wBsfgSs",
           "author": "The Modern Ferret",
           "description": "",
@@ -174,16 +184,6 @@
           "wordCount": null,
           "title": "Ferret ESCAPE: Heater Vents",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaG93LXNtYXJ0LWFyZS1mZXJyZXRzLWV2ZXJ5dGhpbmctd2Uta25vdy1hYm91dC10aGVpci1pbnRlbGxpZ2VuY2Uv0gEA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaG93LXNtYXJ0LWFyZS1mZXJyZXRzLWV2ZXJ5dGhpbmctd2Uta25vdy1hYm91dC10aGVpci1pbnRlbGxpZ2VuY2Uv0gEA?oc=5",
-          "publishedOn": "2023-12-13T09:44:38.000Z",
-          "wordCount": 5045,
-          "title": "How Smart Are Ferrets? - AZ Animals",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }
