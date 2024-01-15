@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T01:54:08.761Z</updated>
+    <updated>2024-01-15T01:52:31.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - KPVI News 6]]></title>
+        <id>https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5rcHZpLmNvbS9pbnRlcmVzdHMvYS13b21hbi1vd25zLW5lYXJseS01MC1wZXQtZmVycmV0cy13aG8tYWxsLWxpdmUtaW4tdGhlaXItb3duLWZlcnJldC1tYW5zaW9uL3ZpZGVvXzYwNDU0ZjM1LWRkNWYtNTJhOS1hOTUzLTA5OGZmMWYyZTU5Yi5odG1s0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5rcHZpLmNvbS9pbnRlcmVzdHMvYS13b21hbi1vd25zLW5lYXJseS01MC1wZXQtZmVycmV0cy13aG8tYWxsLWxpdmUtaW4tdGhlaXItb3duLWZlcnJldC1tYW5zaW9uL3ZpZGVvXzYwNDU0ZjM1LWRkNWYtNTJhOS1hOTUzLTA5OGZmMWYyZTU5Yi5odG1s0gEA?oc=5"/>
+        <updated>2024-01-15T07:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lost ferret rescued from under cattle grid - AOL]]></title>
         <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFvbC5jb20vbmV3cy9sb3N0LWZlcnJldC1yZXNjdWVkLXVuZGVyLWNhdHRsZS0xMTIyNDIxODkuaHRtbNIBS2h0dHBzOi8vd3d3LmFvbC5jb20vYW1waHRtbC9sb3N0LWZlcnJldC1yZXNjdWVkLXVuZGVyLWNhdHRsZS0xMTIyNDIxODkuaHRtbA?oc=5</id>
