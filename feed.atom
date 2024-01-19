@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T01:45:44.325Z</updated>
+    <updated>2024-01-19T01:49:23.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to prevent ferret ESCAPE]]></title>
+        <id>https://www.youtube.com/watch?v=o00UIFUkmi0</id>
+        <link href="https://www.youtube.com/watch?v=o00UIFUkmi0"/>
+        <updated>2024-01-19T04:00:39.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret, cat and two dogs evacuated from apartment fire in Dauphin Co. - WHP Harrisburg]]></title>
+        <id>https://news.google.com/rss/articles/CBMiuAFodHRwczovL2xvY2FsMjFuZXdzLmNvbS9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh0gG8AWh0dHBzOi8vbG9jYWwyMW5ld3MuY29tL2FtcC9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiuAFodHRwczovL2xvY2FsMjFuZXdzLmNvbS9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh0gG8AWh0dHBzOi8vbG9jYWwyMW5ld3MuY29tL2FtcC9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh?oc=5"/>
+        <updated>2024-01-19T00:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Human Foods You Can Safely Feed to Ferrets - AZ Animals]]></title>
         <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5</id>
@@ -177,16 +196,6 @@
         <updated>2023-12-22T04:00:38.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The pet I’ll never forget: Hollie McNish on her guinea pigs – ‘my mum fought off a ferret to save them’ - The Guardian]]></title>
-        <id>https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9kZWMvMTkvcGV0LWlsbC1uZXZlci1mb3JnZXQtaG9sbGllLW1jbmlzaC1ndWluZWEtcGlncy1tdW0tZm91Z2h0LWZlcnJldC1zYXZlLXRoZW3SAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvZGVjLzE5L3BldC1pbGwtbmV2ZXItZm9yZ2V0LWhvbGxpZS1tY25pc2gtZ3VpbmVhLXBpZ3MtbXVtLWZvdWdodC1mZXJyZXQtc2F2ZS10aGVt?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9kZWMvMTkvcGV0LWlsbC1uZXZlci1mb3JnZXQtaG9sbGllLW1jbmlzaC1ndWluZWEtcGlncy1tdW0tZm91Z2h0LWZlcnJldC1zYXZlLXRoZW3SAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvZGVjLzE5L3BldC1pbGwtbmV2ZXItZm9yZ2V0LWhvbGxpZS1tY25pc2gtZ3VpbmVhLXBpZ3MtbXVtLWZvdWdodC1mZXJyZXQtc2F2ZS10aGVt?oc=5"/>
-        <updated>2023-12-20T04:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
