@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T01:44:34.379Z</updated>
+    <updated>2024-01-21T01:54:35.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -30,6 +30,16 @@
         <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5"/>
         <updated>2024-01-17T11:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - Grand Junction Daily Sentinel]]></title>
+        <id>https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5nanNlbnRpbmVsLmNvbS9saWZlc3R5bGUvZW50ZXJ0YWlubWVudC9hLXdvbWFuLW93bnMtbmVhcmx5LTUwLXBldC1mZXJyZXRzLXdoby1hbGwtbGl2ZS1pbi10aGVpci1vd24tZmVycmV0LW1hbnNpb24vdmlkZW9fNGJkN2ZiNzktYmM0YS01MWI1LTg3OTUtNGZlYTVmODA2NTkwLmh0bWzSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5nanNlbnRpbmVsLmNvbS9saWZlc3R5bGUvZW50ZXJ0YWlubWVudC9hLXdvbWFuLW93bnMtbmVhcmx5LTUwLXBldC1mZXJyZXRzLXdoby1hbGwtbGl2ZS1pbi10aGVpci1vd24tZmVycmV0LW1hbnNpb24vdmlkZW9fNGJkN2ZiNzktYmM0YS01MWI1LTg3OTUtNGZlYTVmODA2NTkwLmh0bWzSAQA?oc=5"/>
+        <updated>2024-01-15T07:12:10.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
@@ -187,15 +197,6 @@
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Let Your Ferret Get In Your Fireplace!]]></title>
-        <id>https://www.youtube.com/watch?v=t7kFY0JDjmM</id>
-        <link href="https://www.youtube.com/watch?v=t7kFY0JDjmM"/>
-        <updated>2023-12-22T04:00:38.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
