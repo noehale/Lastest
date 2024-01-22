@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T01:54:35.944Z</updated>
+    <updated>2024-01-22T01:53:48.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -184,16 +184,6 @@
         <id>https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcHY2MXo2NzE5Mm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3B2NjF6NjcxOTJvLmFtcA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcHY2MXo2NzE5Mm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3B2NjF6NjcxOTJvLmFtcA?oc=5"/>
         <updated>2023-12-24T00:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Amarillo Zoo shows off Cosmo the domestic ferret - KAMR - MyHighPlains.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L9IBbWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L2FtcC8?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L9IBbWh0dHBzOi8vd3d3Lm15aGlnaHBsYWlucy5jb20vbmV3cy90b2RheS1pbi1hbWFyaWxsby90aGUtYW1hcmlsbG8tem9vLXNob3dzLW9mZi1jb3Ntby10aGUtZG9tZXN0aWMtZmVycmV0L2FtcC8?oc=5"/>
-        <updated>2023-12-23T05:24:53.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
