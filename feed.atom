@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T01:51:21.819Z</updated>
+    <updated>2024-01-24T01:50:37.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -30,6 +30,16 @@
         <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5"/>
         <updated>2024-01-17T11:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - 69News WFMZ-TV]]></title>
+        <id>https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53Zm16LmNvbS9lbnRlcnRhaW5tZW50L2Etd29tYW4tb3ducy1uZWFybHktNTAtcGV0LWZlcnJldHMtd2hvLWFsbC1saXZlLWluLXRoZWlyLW93bi1mZXJyZXQtbWFuc2lvbi92aWRlb19hZjljM2JkYS04YzE0LTUwNGUtYWE5YS0yNWE2NzRhMzIwNjYuaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53Zm16LmNvbS9lbnRlcnRhaW5tZW50L2Etd29tYW4tb3ducy1uZWFybHktNTAtcGV0LWZlcnJldHMtd2hvLWFsbC1saXZlLWluLXRoZWlyLW93bi1mZXJyZXQtbWFuc2lvbi92aWRlb19hZjljM2JkYS04YzE0LTUwNGUtYWE5YS0yNWE2NzRhMzIwNjYuaHRtbNIBAA?oc=5"/>
+        <updated>2024-01-15T07:45:15.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
@@ -165,16 +175,6 @@
         <id>https://www.youtube.com/watch?v=9tIw-6zUhQ4</id>
         <link href="https://www.youtube.com/watch?v=9tIw-6zUhQ4"/>
         <updated>2023-12-26T04:00:11.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/909825983837749</id>
-        <link href="https://www.facebook.com/666603538159996/posts/909825983837749"/>
-        <updated>2023-12-25T08:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Merry Christmas Eve, everyone! Thanks to my dear friends for helping me put on another Faith &amp; Ferrets event. No matter what you are walking through, you can always choose to be the light #ferret #ferrets #ferretsofinstagram(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
         </author>
