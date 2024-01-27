@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T01:40:04.291Z</updated>
+    <updated>2024-01-27T01:36:50.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turtle and ferret safely escape two-alarm fire in DC - FOX 5 DC]]></title>
+        <id>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtY9IBVWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtYy5hbXA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtY9IBVWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtYy5hbXA?oc=5"/>
+        <updated>2024-01-27T08:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[News Couple Helps Lost Ferret Find New Home - erienewsnow.com]]></title>
         <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmVyaWVuZXdzbm93LmNvbS9zdG9yeS81MDM4NDkwMy9uZXdzLWNvdXBsZS1oZWxwcy1sb3N0LWZlcnJldC1maW5kLW5ldy1ob21l0gEA?oc=5</id>
