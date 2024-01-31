@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T01:38:28.164Z</updated>
+    <updated>2024-01-31T01:38:49.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -50,6 +50,16 @@
         <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5"/>
         <updated>2024-01-17T11:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A celebrity dog, an injured eagle, a pet ferret: WSU vets treat 10000+ animals a year - The Columbian]]></title>
+        <id>https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNvbHVtYmlhbi5jb20vbmV3cy8yMDI0L2phbi8xNS9hLWNlbGVicml0eS1kb2ctYW4taW5qdXJlZC1lYWdsZS1hLXBldC1mZXJyZXQtd3N1LXZldHMtdHJlYXQtMTAwMDAtYW5pbWFscy1hLXllYXIv0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNvbHVtYmlhbi5jb20vbmV3cy8yMDI0L2phbi8xNS9hLWNlbGVicml0eS1kb2ctYW4taW5qdXJlZC1lYWdsZS1hLXBldC1mZXJyZXQtd3N1LXZldHMtdHJlYXQtMTAwMDAtYW5pbWFscy1hLXllYXIv0gEA?oc=5"/>
+        <updated>2024-01-15T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
