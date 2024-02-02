@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T01:42:16.554Z</updated>
+    <updated>2024-02-02T01:38:28.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -170,16 +170,6 @@
         <updated>2024-01-05T02:15:00.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siberian Girl Illustrates Funny Moments In Life With Her Two Cat-Snakes (39 New Pics) - Bored Panda]]></title>
-        <id>https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJvcmVkcGFuZGEuY29tL2Z1bm55LWZlcnJldHMtY29taWNzLXNpYmVyaWFuLWFydGlzdC1saXphLW5lY2hhZXZhLXBhcnQtMi_SAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJvcmVkcGFuZGEuY29tL2Z1bm55LWZlcnJldHMtY29taWNzLXNpYmVyaWFuLWFydGlzdC1saXphLW5lY2hhZXZhLXBhcnQtMi_SAQA?oc=5"/>
-        <updated>2024-01-03T01:14:50.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
