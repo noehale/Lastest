@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T01:42:20.617Z</updated>
+    <updated>2024-02-06T01:37:36.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[With resurgence of endangered black-footed ferret, a reason to cheer in Kansas - Kansas Reflector]]></title>
+        <id>https://news.google.com/rss/articles/CBMidWh0dHBzOi8va2Fuc2FzcmVmbGVjdG9yLmNvbS8yMDI0LzAyLzA1L3dpdGgtcmVzdXJnZW5jZS1vZi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXQtYS1yZWFzb24tdG8tY2hlZXItaW4ta2Fuc2FzL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMidWh0dHBzOi8va2Fuc2FzcmVmbGVjdG9yLmNvbS8yMDI0LzAyLzA1L3dpdGgtcmVzdXJnZW5jZS1vZi1lbmRhbmdlcmVkLWJsYWNrLWZvb3RlZC1mZXJyZXQtYS1yZWFzb24tdG8tY2hlZXItaW4ta2Fuc2FzL9IBAA?oc=5"/>
+        <updated>2024-02-05T23:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turtle and ferret safely escape two-alarm fire in DC - FOX 5 DC]]></title>
         <id>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtY9IBVWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtYy5hbXA?oc=5</id>
