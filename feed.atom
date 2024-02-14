@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T01:37:57.007Z</updated>
+    <updated>2024-02-14T01:38:48.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -90,56 +90,6 @@
         <id>https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNvbHVtYmlhbi5jb20vbmV3cy8yMDI0L2phbi8xNS9hLWNlbGVicml0eS1kb2ctYW4taW5qdXJlZC1lYWdsZS1hLXBldC1mZXJyZXQtd3N1LXZldHMtdHJlYXQtMTAwMDAtYW5pbWFscy1hLXllYXIv0gEA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNvbHVtYmlhbi5jb20vbmV3cy8yMDI0L2phbi8xNS9hLWNlbGVicml0eS1kb2ctYW4taW5qdXJlZC1lYWdsZS1hLXBldC1mZXJyZXQtd3N1LXZldHMtdHJlYXQtMTAwMDAtYW5pbWFscy1hLXllYXIv0gEA?oc=5"/>
         <updated>2024-01-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - 69News WFMZ-TV]]></title>
-        <id>https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53Zm16LmNvbS9lbnRlcnRhaW5tZW50L2Etd29tYW4tb3ducy1uZWFybHktNTAtcGV0LWZlcnJldHMtd2hvLWFsbC1saXZlLWluLXRoZWlyLW93bi1mZXJyZXQtbWFuc2lvbi92aWRlb19hZjljM2JkYS04YzE0LTUwNGUtYWE5YS0yNWE2NzRhMzIwNjYuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy53Zm16LmNvbS9lbnRlcnRhaW5tZW50L2Etd29tYW4tb3ducy1uZWFybHktNTAtcGV0LWZlcnJldHMtd2hvLWFsbC1saXZlLWluLXRoZWlyLW93bi1mZXJyZXQtbWFuc2lvbi92aWRlb19hZjljM2JkYS04YzE0LTUwNGUtYWE5YS0yNWE2NzRhMzIwNjYuaHRtbNIBAA?oc=5"/>
-        <updated>2024-01-15T07:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - Wyoming Tribune]]></title>
-        <id>https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy53eW9taW5nbmV3cy5jb20vbGlmZXN0eWxlcy9lbnRlcnRhaW5tZW50L2Etd29tYW4tb3ducy1uZWFybHktNTAtcGV0LWZlcnJldHMtd2hvLWFsbC1saXZlLWluLXRoZWlyLW93bi1mZXJyZXQtbWFuc2lvbi92aWRlb185ZTRjNmRlNS04Mjc4LTUzYzAtODJlNS03ZjA3YjY0OTllNWMuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy53eW9taW5nbmV3cy5jb20vbGlmZXN0eWxlcy9lbnRlcnRhaW5tZW50L2Etd29tYW4tb3ducy1uZWFybHktNTAtcGV0LWZlcnJldHMtd2hvLWFsbC1saXZlLWluLXRoZWlyLW93bi1mZXJyZXQtbWFuc2lvbi92aWRlb185ZTRjNmRlNS04Mjc4LTUzYzAtODJlNS03ZjA3YjY0OTllNWMuaHRtbNIBAA?oc=5"/>
-        <updated>2024-01-15T07:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - Grand Junction Daily Sentinel]]></title>
-        <id>https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5nanNlbnRpbmVsLmNvbS9saWZlc3R5bGUvZW50ZXJ0YWlubWVudC9hLXdvbWFuLW93bnMtbmVhcmx5LTUwLXBldC1mZXJyZXRzLXdoby1hbGwtbGl2ZS1pbi10aGVpci1vd24tZmVycmV0LW1hbnNpb24vdmlkZW9fNGJkN2ZiNzktYmM0YS01MWI1LTg3OTUtNGZlYTVmODA2NTkwLmh0bWzSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5nanNlbnRpbmVsLmNvbS9saWZlc3R5bGUvZW50ZXJ0YWlubWVudC9hLXdvbWFuLW93bnMtbmVhcmx5LTUwLXBldC1mZXJyZXRzLXdoby1hbGwtbGl2ZS1pbi10aGVpci1vd24tZmVycmV0LW1hbnNpb24vdmlkZW9fNGJkN2ZiNzktYmM0YS01MWI1LTg3OTUtNGZlYTVmODA2NTkwLmh0bWzSAQA?oc=5"/>
-        <updated>2024-01-15T07:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - pdclarion.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5wZGNsYXJpb24uY29tL2xpZmVzdHlsZXMvZW50ZXJ0YWlubWVudC9hLXdvbWFuLW93bnMtbmVhcmx5LTUwLXBldC1mZXJyZXRzLXdoby1hbGwtbGl2ZS1pbi10aGVpci1vd24tZmVycmV0LW1hbnNpb24vdmlkZW9fYjE0MzJiYWItMGY2Ni01ZWU3LWFlZDItYzU4NGYxNDUzZDZkLmh0bWzSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5wZGNsYXJpb24uY29tL2xpZmVzdHlsZXMvZW50ZXJ0YWlubWVudC9hLXdvbWFuLW93bnMtbmVhcmx5LTUwLXBldC1mZXJyZXRzLXdoby1hbGwtbGl2ZS1pbi10aGVpci1vd24tZmVycmV0LW1hbnNpb24vdmlkZW9fYjE0MzJiYWItMGY2Ni01ZWU3LWFlZDItYzU4NGYxNDUzZDZkLmh0bWzSAQA?oc=5"/>
-        <updated>2024-01-15T07:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A woman owns nearly 50 pet ferrets who all live in their own "ferret mansion" - KPVI News 6]]></title>
-        <id>https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5rcHZpLmNvbS9pbnRlcmVzdHMvYS13b21hbi1vd25zLW5lYXJseS01MC1wZXQtZmVycmV0cy13aG8tYWxsLWxpdmUtaW4tdGhlaXItb3duLWZlcnJldC1tYW5zaW9uL3ZpZGVvXzYwNDU0ZjM1LWRkNWYtNTJhOS1hOTUzLTA5OGZmMWYyZTU5Yi5odG1s0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5rcHZpLmNvbS9pbnRlcmVzdHMvYS13b21hbi1vd25zLW5lYXJseS01MC1wZXQtZmVycmV0cy13aG8tYWxsLWxpdmUtaW4tdGhlaXItb3duLWZlcnJldC1tYW5zaW9uL3ZpZGVvXzYwNDU0ZjM1LWRkNWYtNTJhOS1hOTUzLTA5OGZmMWYyZTU5Yi5odG1s0gEA?oc=5"/>
-        <updated>2024-01-15T07:12:10.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
