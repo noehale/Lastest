@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T01:38:36.972Z</updated>
+    <updated>2024-02-16T01:37:42.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Infographic: How to Ferret Out SARS-CoV-2 in Sewage - The Scientist]]></title>
+        <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljLWhvdy10by1mZXJyZXQtb3V0LXNhcnMtY292LTItaW4tc2V3YWdlLTY4NzA30gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljLWhvdy10by1mZXJyZXQtb3V0LXNhcnMtY292LTItaW4tc2V3YWdlLTY4NzA30gEA?oc=5"/>
+        <updated>2024-02-13T09:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In pictures: Britain's Ferret Racing Championship - February 8, 2024 - Reuters]]></title>
         <id>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3BpY3R1cmVzL3BpY3R1cmVzLWJyaXRhaW5zLWZlcnJldC1yYWNpbmctY2hhbXBpb25zaGlwLTIwMjQtMDItMDgv0gEA?oc=5</id>
@@ -70,16 +80,6 @@
         <id>https://news.google.com/rss/articles/CBMiuAFodHRwczovL2xvY2FsMjFuZXdzLmNvbS9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh0gG8AWh0dHBzOi8vbG9jYWwyMW5ld3MuY29tL2FtcC9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiuAFodHRwczovL2xvY2FsMjFuZXdzLmNvbS9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh0gG8AWh0dHBzOi8vbG9jYWwyMW5ld3MuY29tL2FtcC9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh?oc=5"/>
         <updated>2024-01-19T00:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Human Foods You Can Safely Feed to Ferrets - AZ Animals]]></title>
-        <id>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvaHVtYW4tZm9vZHMteW91LWNhbi1zYWZlbHktZmVlZC10by1mZXJyZXRzL9IBAA?oc=5"/>
-        <updated>2024-01-17T11:08:37.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
