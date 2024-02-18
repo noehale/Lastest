@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T01:36:40.844Z</updated>
+    <updated>2024-02-18T01:41:09.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
+        <id>https://www.facebook.com/666603538159996/posts/941046094049071</id>
+        <link href="https://www.facebook.com/666603538159996/posts/941046094049071"/>
+        <updated>2024-02-17T13:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Back at the dementia unit with Elijah the Ferret! He was a hit. Thanks for celebrating Valentine’s with us, and thanks to my followers for letting me share this meaningful ministry with you all! #jesus #ferret(Feed generated with FetchRSS)]]></summary>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infographic: How to Ferret Out SARS-CoV-2 in Sewage - The Scientist]]></title>
         <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljLWhvdy10by1mZXJyZXQtb3V0LXNhcnMtY292LTItaW4tc2V3YWdlLTY4NzA30gEA?oc=5</id>
@@ -71,25 +81,6 @@
         <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmVyaWVuZXdzbm93LmNvbS9zdG9yeS81MDM4NDkwMy9uZXdzLWNvdXBsZS1oZWxwcy1sb3N0LWZlcnJldC1maW5kLW5ldy1ob21l0gEA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmVyaWVuZXdzbm93LmNvbS9zdG9yeS81MDM4NDkwMy9uZXdzLWNvdXBsZS1oZWxwcy1sb3N0LWZlcnJldC1maW5kLW5ldy1ob21l0gEA?oc=5"/>
         <updated>2024-01-26T12:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to prevent ferret ESCAPE]]></title>
-        <id>https://www.youtube.com/watch?v=o00UIFUkmi0</id>
-        <link href="https://www.youtube.com/watch?v=o00UIFUkmi0"/>
-        <updated>2024-01-19T04:00:39.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret, cat and two dogs evacuated from apartment fire in Dauphin Co. - WHP Harrisburg]]></title>
-        <id>https://news.google.com/rss/articles/CBMiuAFodHRwczovL2xvY2FsMjFuZXdzLmNvbS9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh0gG8AWh0dHBzOi8vbG9jYWwyMW5ld3MuY29tL2FtcC9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiuAFodHRwczovL2xvY2FsMjFuZXdzLmNvbS9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh0gG8AWh0dHBzOi8vbG9jYWwyMW5ld3MuY29tL2FtcC9uZXdzL2xvY2FsL2ZlcnJldC1jYXQtYW5kLXR3by1kb2dzLWV2YWN1YXRlZC1mcm9tLWFwYXJ0bWVudC1maXJlLWluLWRhdXBoaW4tY291bnR5LXN0YXRlLXN0cmVldC1jYXRoeXMtY3JpdHRlcnMtaGFsaWZheC1yZWxpYW5jZS1ob3NlLWVsaXphYmV0aHRvd24tcGVubnN5bHZhbmlh?oc=5"/>
-        <updated>2024-01-19T00:55:45.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
