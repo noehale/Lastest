@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T01:34:29.048Z</updated>
+    <updated>2024-02-25T01:41:15.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bingley ferrets take top titles at national championship - AOL]]></title>
+        <id>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmFvbC5jb20vbmV3cy9iaW5nbGV5LWZlcnJldHMtdG9wLXRpdGxlcy1uYXRpb25hbC0wODA0MTI3NTEuaHRtbNIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmFvbC5jb20vbmV3cy9iaW5nbGV5LWZlcnJldHMtdG9wLXRpdGxlcy1uYXRpb25hbC0wODA0MTI3NTEuaHRtbNIBAA?oc=5"/>
+        <updated>2024-02-21T22:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
         <id>https://www.facebook.com/666603538159996/posts/941046094049071</id>
@@ -71,16 +81,6 @@
         <id>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtY9IBVWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtYy5hbXA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtY9IBVWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy90dXJ0bGUtYW5kLWZlcnJldC1zYWZlbHktZXNjYXBlLXR3by1hbGFybS1maXJlLWluLWQtYy5hbXA?oc=5"/>
         <updated>2024-01-27T08:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[News Couple Helps Lost Ferret Find New Home - erienewsnow.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmVyaWVuZXdzbm93LmNvbS9zdG9yeS81MDM4NDkwMy9uZXdzLWNvdXBsZS1oZWxwcy1sb3N0LWZlcnJldC1maW5kLW5ldy1ob21l0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmVyaWVuZXdzbm93LmNvbS9zdG9yeS81MDM4NDkwMy9uZXdzLWNvdXBsZS1oZWxwcy1sb3N0LWZlcnJldC1maW5kLW5ldy1ob21l0gEA?oc=5"/>
-        <updated>2024-01-26T12:09:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
