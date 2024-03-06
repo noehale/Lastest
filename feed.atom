@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T01:37:29.572Z</updated>
+    <updated>2024-03-06T01:37:45.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -59,6 +59,16 @@
         <id>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2F0YXB1bHRzLXNlaXplZC1kb2dzLWZlcnJldHMtdXNlZC0xNTUyMDU1MzcuaHRtbNIBAA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2F0YXB1bHRzLXNlaXplZC1kb2dzLWZlcnJldHMtdXNlZC0xNTUyMDU1MzcuaHRtbNIBAA?oc=5"/>
         <updated>2024-02-11T05:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoo Guest: Violet the ferret - KRGV]]></title>
+        <id>https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cua3Jndi5jb20vdmlkZW9zL3pvby1ndWVzdC12aW9sZXQtdGhlLWZlcnJldC0xMTI5MTQv0gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cua3Jndi5jb20vdmlkZW9zL3pvby1ndWVzdC12aW9sZXQtdGhlLWZlcnJldC0xMTI5MTQv0gEA?oc=5"/>
+        <updated>2024-02-10T12:55:55.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
