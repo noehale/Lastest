@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T01:33:50.367Z</updated>
+    <updated>2024-03-10T01:41:51.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -85,10 +85,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In pictures: Britain's Ferret Racing Championship - February 8, 2024 - Reuters]]></title>
-        <id>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3BpY3R1cmVzL3BpY3R1cmVzLWJyaXRhaW5zLWZlcnJldC1yYWNpbmctY2hhbXBpb25zaGlwLTIwMjQtMDItMDgv0gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3BpY3R1cmVzL3BpY3R1cmVzLWJyaXRhaW5zLWZlcnJldC1yYWNpbmctY2hhbXBpb25zaGlwLTIwMjQtMDItMDgv0gEA?oc=5"/>
-        <updated>2024-02-09T06:07:00.000Z</updated>
+        <title type="html"><![CDATA[Photos of the Week: Ferret Racing, Ice Castles, Sauna Marathon - The Atlantic]]></title>
+        <id>https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9waG90by8yMDI0LzAyL3Bob3Rvcy13ZWVrLWZlcnJldC1yYWNpbmctaWNlLWNhc3RsZXMtc2F1bmEtbWFyYXRob24vNjc3MzkzL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9waG90by8yMDI0LzAyL3Bob3Rvcy13ZWVrLWZlcnJldC1yYWNpbmctaWNlLWNhc3RsZXMtc2F1bmEtbWFyYXRob24vNjc3MzkzL9IBAA?oc=5"/>
+        <updated>2024-02-09T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
