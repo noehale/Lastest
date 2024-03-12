@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3eJUZyp4AsQ",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3eJUZyp4AsQ",
+          "publishedOn": "2024-03-12T01:00:07.000Z",
+          "wordCount": null,
+          "title": "Ferret Bathing: Tricks and Tips!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=56U7B0VPE9U",
           "author": "The Modern Ferret",
           "description": "",
@@ -63,16 +73,6 @@
           "publishedOn": "2024-02-13T09:32:13.000Z",
           "wordCount": 4979,
           "title": "Infographic: How to Ferret Out SARS-CoV-2 in Sewage - The Scientist",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2F0YXB1bHRzLXNlaXplZC1kb2dzLWZlcnJldHMtdXNlZC0xNTUyMDU1MzcuaHRtbNIBAA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2F0YXB1bHRzLXNlaXplZC1kb2dzLWZlcnJldHMtdXNlZC0xNTUyMDU1MzcuaHRtbNIBAA?oc=5",
-          "publishedOn": "2024-02-11T05:52:05.000Z",
-          "wordCount": 4979,
-          "title": "Catapults seized after 'dogs and ferrets used to illegally hunt wildlife' - Yahoo News UK",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]

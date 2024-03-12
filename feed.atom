@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T01:38:19.606Z</updated>
+    <updated>2024-03-12T01:37:32.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferret Bathing: Tricks and Tips!]]></title>
+        <id>https://www.youtube.com/watch?v=3eJUZyp4AsQ</id>
+        <link href="https://www.youtube.com/watch?v=3eJUZyp4AsQ"/>
+        <updated>2024-03-12T01:00:07.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Bathe Ferrets: BEST Supplies]]></title>
         <id>https://www.youtube.com/watch?v=56U7B0VPE9U</id>
@@ -59,16 +68,6 @@
         <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljLWhvdy10by1mZXJyZXQtb3V0LXNhcnMtY292LTItaW4tc2V3YWdlLTY4NzA30gEA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljLWhvdy10by1mZXJyZXQtb3V0LXNhcnMtY292LTItaW4tc2V3YWdlLTY4NzA30gEA?oc=5"/>
         <updated>2024-02-13T09:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catapults seized after 'dogs and ferrets used to illegally hunt wildlife' - Yahoo News UK]]></title>
-        <id>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2F0YXB1bHRzLXNlaXplZC1kb2dzLWZlcnJldHMtdXNlZC0xNTUyMDU1MzcuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2F0YXB1bHRzLXNlaXplZC1kb2dzLWZlcnJldHMtdXNlZC0xNTUyMDU1MzcuaHRtbNIBAA?oc=5"/>
-        <updated>2024-02-11T05:52:05.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
