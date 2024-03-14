@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T01:40:34.575Z</updated>
+    <updated>2024-03-14T01:37:58.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets Abandoned At Putnam Park-And-Ride Lot, Signs Of Neglect: SPCA - Southeast, NY Patch]]></title>
+        <id>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL3NvdXRoZWFzdC9mZXJyZXRzLWZvdW5kLWFiYW5kb25lZC1wdXRuYW0tY291bnR5LXBhcmstcmlkZS1sb3TSAXVodHRwczovL3BhdGNoLmNvbS9uZXcteW9yay9zb3V0aGVhc3QvYW1wLzMxNjkzOTUxL2ZlcnJldHMtYWJhbmRvbmVkLWF0LXB1dG5hbS1wYXJrLWFuZC1yaWRlLWxvdC1zaWducy1vZi1uZWdsZWN0LXNwY2E?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL3NvdXRoZWFzdC9mZXJyZXRzLWZvdW5kLWFiYW5kb25lZC1wdXRuYW0tY291bnR5LXBhcmstcmlkZS1sb3TSAXVodHRwczovL3BhdGNoLmNvbS9uZXcteW9yay9zb3V0aGVhc3QvYW1wLzMxNjkzOTUxL2ZlcnJldHMtYWJhbmRvbmVkLWF0LXB1dG5hbS1wYXJrLWFuZC1yaWRlLWxvdC1zaWducy1vZi1uZWdsZWN0LXNwY2E?oc=5"/>
+        <updated>2024-03-14T08:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Bathing: Tricks and Tips!]]></title>
         <id>https://www.youtube.com/watch?v=3eJUZyp4AsQ</id>
@@ -61,16 +71,6 @@
         <summary type="html"><![CDATA[Back at the dementia unit with Elijah the Ferret! He was a hit. Thanks for celebrating Valentine’s with us, and thanks to my followers for letting me share this meaningful ministry with you all! #jesus #ferret(Feed generated with FetchRSS)]]></summary>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infographic: How to Ferret Out SARS-CoV-2 in Sewage - The Scientist]]></title>
-        <id>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljLWhvdy10by1mZXJyZXQtb3V0LXNhcnMtY292LTItaW4tc2V3YWdlLTY4NzA30gEA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZS1zY2llbnRpc3QuY29tL2luZm9ncmFwaGljLWhvdy10by1mZXJyZXQtb3V0LXNhcnMtY292LTItaW4tc2V3YWdlLTY4NzA30gEA?oc=5"/>
-        <updated>2024-02-13T09:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
