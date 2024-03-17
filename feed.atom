@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T01:35:58.088Z</updated>
+    <updated>2024-03-17T01:41:33.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Long Should a Species Stay on Life Support? - The Atlantic]]></title>
+        <id>https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9zY2llbmNlL2FyY2hpdmUvMjAyNC8wMy9ibGFjay1mb290ZWQtZmVycmV0LXZhY2NpbmUtY29uc2VydmF0aW9uLzY3NzczMy_SAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9zY2llbmNlL2FyY2hpdmUvMjAyNC8wMy9ibGFjay1mb290ZWQtZmVycmV0LXZhY2NpbmUtY29uc2VydmF0aW9uLzY3NzczMy_SAQA?oc=5"/>
+        <updated>2024-03-16T04:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Hold Your Ferret During Bath Time]]></title>
         <id>https://www.youtube.com/watch?v=a7lo92jRab0</id>
