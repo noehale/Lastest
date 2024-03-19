@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T01:38:41.205Z</updated>
+    <updated>2024-03-19T01:38:13.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SPCA Investigating Case of Abandoned Ferrets - The Putnam County Courier]]></title>
+        <id>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnB1dG5hbWNvdW50eWNvdXJpZXIuY29tL2FydGljbGVzL3NwY2EtaW52ZXN0aWdhdGluZy1jYXNlLW9mLWFiYW5kb25lZC1mZXJyZXRzL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnB1dG5hbWNvdW50eWNvdXJpZXIuY29tL2FydGljbGVzL3NwY2EtaW52ZXN0aWdhdGluZy1jYXNlLW9mLWFiYW5kb25lZC1mZXJyZXRzL9IBAA?oc=5"/>
+        <updated>2024-03-19T09:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bathe Ferrets: Wash the Face!]]></title>
+        <id>https://www.youtube.com/watch?v=o8YLhwP7GXU</id>
+        <link href="https://www.youtube.com/watch?v=o8YLhwP7GXU"/>
+        <updated>2024-03-19T01:00:45.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Long Should a Species Stay on Life Support? - The Atlantic]]></title>
         <id>https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9zY2llbmNlL2FyY2hpdmUvMjAyNC8wMy9ibGFjay1mb290ZWQtZmVycmV0LXZhY2NpbmUtY29uc2VydmF0aW9uLzY3NzczMy_SAQA?oc=5</id>
@@ -90,16 +109,6 @@
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/941046094049071</id>
-        <link href="https://www.facebook.com/666603538159996/posts/941046094049071"/>
-        <updated>2024-02-17T13:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Back at the dementia unit with Elijah the Ferret! He was a hit. Thanks for celebrating Valentine’s with us, and thanks to my followers for letting me share this meaningful ministry with you all! #jesus #ferret(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
