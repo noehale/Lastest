@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=l_KFHFh5xm0",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l_KFHFh5xm0",
+          "publishedOn": "2024-03-22T01:00:44.000Z",
+          "wordCount": null,
+          "title": "How to Bathe Ferrets: Get the armpits!",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnB1dG5hbWNvdW50eWNvdXJpZXIuY29tL2FydGljbGVzL3NwY2EtaW52ZXN0aWdhdGluZy1jYXNlLW9mLWFiYW5kb25lZC1mZXJyZXRzL9IBAA?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",

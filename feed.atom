@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T01:39:17.703Z</updated>
+    <updated>2024-03-22T01:37:35.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Bathe Ferrets: Get the armpits!]]></title>
+        <id>https://www.youtube.com/watch?v=l_KFHFh5xm0</id>
+        <link href="https://www.youtube.com/watch?v=l_KFHFh5xm0"/>
+        <updated>2024-03-22T01:00:44.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPCA Investigating Case of Abandoned Ferrets - The Putnam County Courier]]></title>
         <id>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnB1dG5hbWNvdW50eWNvdXJpZXIuY29tL2FydGljbGVzL3NwY2EtaW52ZXN0aWdhdGluZy1jYXNlLW9mLWFiYW5kb25lZC1mZXJyZXRzL9IBAA?oc=5</id>
