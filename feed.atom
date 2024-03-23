@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T01:37:35.846Z</updated>
+    <updated>2024-03-23T01:35:41.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -105,16 +105,6 @@
         <id>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmFvbC5jb20vYmluZ2xleS1mZXJyZXRzLXRvcC10aXRsZXMtbmF0aW9uYWwtMDgwNDEyNzUxLmh0bWzSAQA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmFvbC5jb20vYmluZ2xleS1mZXJyZXRzLXRvcC10aXRsZXMtbmF0aW9uYWwtMDgwNDEyNzUxLmh0bWzSAQA?oc=5"/>
         <updated>2024-02-27T19:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bingley ferrets take top titles at national championship - AOL]]></title>
-        <id>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmFvbC5jb20vbmV3cy9iaW5nbGV5LWZlcnJldHMtdG9wLXRpdGxlcy1uYXRpb25hbC0wODA0MTI3NTEuaHRtbNIBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmFvbC5jb20vbmV3cy9iaW5nbGV5LWZlcnJldHMtdG9wLXRpdGxlcy1uYXRpb25hbC0wODA0MTI3NTEuaHRtbNIBAA?oc=5"/>
-        <updated>2024-02-21T22:04:12.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
