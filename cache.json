@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=l9U333-pWIg",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l9U333-pWIg",
+          "publishedOn": "2024-03-26T01:00:49.000Z",
+          "wordCount": null,
+          "title": "How to dry ferret after a bath",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=l_KFHFh5xm0",
           "author": "The Modern Ferret",
           "description": "",
