@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T01:39:00.435Z</updated>
+    <updated>2024-03-28T01:39:00.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -77,6 +77,16 @@
         <id>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL3NvdXRoZWFzdC9mZXJyZXRzLWZvdW5kLWFiYW5kb25lZC1wdXRuYW0tY291bnR5LXBhcmstcmlkZS1sb3TSAXVodHRwczovL3BhdGNoLmNvbS9uZXcteW9yay9zb3V0aGVhc3QvYW1wLzMxNjkzOTUxL2ZlcnJldHMtYWJhbmRvbmVkLWF0LXB1dG5hbS1wYXJrLWFuZC1yaWRlLWxvdC1zaWducy1vZi1uZWdsZWN0LXNwY2E?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL3NvdXRoZWFzdC9mZXJyZXRzLWZvdW5kLWFiYW5kb25lZC1wdXRuYW0tY291bnR5LXBhcmstcmlkZS1sb3TSAXVodHRwczovL3BhdGNoLmNvbS9uZXcteW9yay9zb3V0aGVhc3QvYW1wLzMxNjkzOTUxL2ZlcnJldHMtYWJhbmRvbmVkLWF0LXB1dG5hbS1wYXJrLWFuZC1yaWRlLWxvdC1zaWducy1vZi1uZWdsZWN0LXNwY2E?oc=5"/>
         <updated>2024-03-14T08:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferrets Abandoned At Putnam Park-And-Ride Lot, Signs Of Neglect: SPCA - Patch]]></title>
+        <id>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL3NvdXRoZWFzdC9mZXJyZXRzLWZvdW5kLWFiYW5kb25lZC1wdXRuYW0tY291bnR5LXBhcmstcmlkZS1sb3TSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL3NvdXRoZWFzdC9mZXJyZXRzLWZvdW5kLWFiYW5kb25lZC1wdXRuYW0tY291bnR5LXBhcmstcmlkZS1sb3TSAQA?oc=5"/>
+        <updated>2024-03-13T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
