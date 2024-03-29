@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T01:39:00.241Z</updated>
+    <updated>2024-03-29T01:38:20.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ferrets playing: after bath time! #ferret]]></title>
+        <id>https://www.youtube.com/watch?v=nYmgN1EembM</id>
+        <link href="https://www.youtube.com/watch?v=nYmgN1EembM"/>
+        <updated>2024-03-29T01:00:49.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to dry ferret after a bath]]></title>
         <id>https://www.youtube.com/watch?v=l9U333-pWIg</id>
@@ -117,16 +126,6 @@
         <updated>2024-03-01T02:00:12.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bingley ferrets take top titles at national championship - AOL]]></title>
-        <id>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmFvbC5jb20vYmluZ2xleS1mZXJyZXRzLXRvcC10aXRsZXMtbmF0aW9uYWwtMDgwNDEyNzUxLmh0bWzSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmFvbC5jb20vYmluZ2xleS1mZXJyZXRzLXRvcC10aXRsZXMtbmF0aW9uYWwtMDgwNDEyNzUxLmh0bWzSAQA?oc=5"/>
-        <updated>2024-02-27T19:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
         </author>
     </entry>
 </feed>
