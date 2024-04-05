@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_kRNd9ZP3HY",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_kRNd9ZP3HY",
+          "publishedOn": "2024-04-05T01:00:33.000Z",
+          "wordCount": null,
+          "title": "How to Bathe Ferrets: Shampoo Recommendations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zotayGwlFjI",
           "author": "The Modern Ferret",
           "description": "",
