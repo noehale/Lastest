@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T01:39:47.976Z</updated>
+    <updated>2024-04-11T01:40:57.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Carolina ferret ‘Mumbo Jumbo’ recognized in unusual popularity contest - WGHP FOX8 Greensboro]]></title>
+        <id>https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L9IBdmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L2FtcC8?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L9IBdmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L2FtcC8?oc=5"/>
+        <updated>2024-04-11T02:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NC ferret ‘Mumbo Jumbo’ recognized in unusual popularity contest - CBS17.com]]></title>
         <id>https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvbmMtZmVycmV0LW11bWJvLWp1bWJvLXJlY29nbml6ZWQtaW4tdW51c3VhbC1wb3B1bGFyaXR5LWNvbnRlc3Qv0gFyaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3Mvbm9ydGgtY2Fyb2xpbmEtbmV3cy9uYy1mZXJyZXQtbXVtYm8tanVtYm8tcmVjb2duaXplZC1pbi11bnVzdWFsLXBvcHVsYXJpdHktY29udGVzdC9hbXAv?oc=5</id>
@@ -167,15 +177,6 @@ When this happens, it's usually because the owner only shared it with a small gr
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferret Bathing: Tricks and Tips!]]></title>
-        <id>https://www.youtube.com/watch?v=3eJUZyp4AsQ</id>
-        <link href="https://www.youtube.com/watch?v=3eJUZyp4AsQ"/>
-        <updated>2024-03-12T01:00:07.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>

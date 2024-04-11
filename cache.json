@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L9IBdmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L2FtcC8?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L9IBdmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L2FtcC8?oc=5",
+          "publishedOn": "2024-04-11T02:16:49.000Z",
+          "wordCount": 8717,
+          "title": "North Carolina ferret ‘Mumbo Jumbo’ recognized in unusual popularity contest - WGHP FOX8 Greensboro",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvbmMtZmVycmV0LW11bWJvLWp1bWJvLXJlY29nbml6ZWQtaW4tdW51c3VhbC1wb3B1bGFyaXR5LWNvbnRlc3Qv0gFyaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3Mvbm9ydGgtY2Fyb2xpbmEtbmV3cy9uYy1mZXJyZXQtbXVtYm8tanVtYm8tcmVjb2duaXplZC1pbi11bnVzdWFsLXBvcHVsYXJpdHktY29udGVzdC9hbXAv?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -174,16 +184,6 @@
           "wordCount": 5051,
           "title": "Ferrets Abandoned At Putnam Park-And-Ride Lot, Signs Of Neglect: SPCA - Patch",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3eJUZyp4AsQ",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3eJUZyp4AsQ",
-          "publishedOn": "2024-03-12T01:00:07.000Z",
-          "wordCount": null,
-          "title": "Ferret Bathing: Tricks and Tips!",
-          "imageUrl": null
         }
       ]
     }
