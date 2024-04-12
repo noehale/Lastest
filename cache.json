@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3H7BoicTSIo",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3H7BoicTSIo",
+          "publishedOn": "2024-04-12T01:00:02.000Z",
+          "wordCount": null,
+          "title": "Ferret Bathing: How Often Should I Do It?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L9IBdmh0dHBzOi8vbXlmb3g4LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hL25vcnRoLWNhcm9saW5hLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L2FtcC8?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
