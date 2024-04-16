@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T03:45:40.412Z</updated>
+    <updated>2024-04-16T01:40:14.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rockland County Offers Free Rabies Shots for Cats, Dogs, Ferrets - Patch]]></title>
+        <id>https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL255YWNrL3JvY2tsYW5kLWNvdW50eS1vZmZlcnMtZnJlZS1yYWJpZXMtc2hvdHMtY2F0cy1kb2dzLWZlcnJldHPSAWxodHRwczovL3BhdGNoLmNvbS9uZXcteW9yay9ueWFjay9hbXAvMzE3MjI0MDAvcm9ja2xhbmQtY291bnR5LW9mZmVycy1mcmVlLXJhYmllcy1zaG90cy1mb3ItY2F0cy1kb2dzLWZlcnJldHM?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL255YWNrL3JvY2tsYW5kLWNvdW50eS1vZmZlcnMtZnJlZS1yYWJpZXMtc2hvdHMtY2F0cy1kb2dzLWZlcnJldHPSAWxodHRwczovL3BhdGNoLmNvbS9uZXcteW9yay9ueWFjay9hbXAvMzE3MjI0MDAvcm9ja2xhbmQtY291bnR5LW9mZmVycy1mcmVlLXJhYmllcy1zaG90cy1mb3ItY2F0cy1kb2dzLWZlcnJldHM?oc=5"/>
+        <updated>2024-04-16T05:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEST Ferret Bathing Temperature]]></title>
+        <id>https://www.youtube.com/watch?v=0XSP0CXxClM</id>
+        <link href="https://www.youtube.com/watch?v=0XSP0CXxClM"/>
+        <updated>2024-04-16T01:00:02.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos from The Modern Ferret's post]]></title>
         <id>https://www.facebook.com/666603538159996/posts/972479584239055</id>
