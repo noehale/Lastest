@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T01:40:06.412Z</updated>
+    <updated>2024-04-18T01:39:47.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Officials have cloned two black-footed ferrets, an endangered species - The Washington Post]]></title>
+        <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjQvMDQvMTcvYmxhY2stZm9vdGVkLWZlcnJldHMtY2xvbmVkLW5vcmVlbi1hbnRvbmlhL9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjQvMDQvMTcvYmxhY2stZm9vdGVkLWZlcnJldHMtY2xvbmVkLW5vcmVlbi1hbnRvbmlhL9IBAA?oc=5"/>
+        <updated>2024-04-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rockland County Offers Free Rabies Shots for Cats, Dogs, Ferrets - Patch]]></title>
         <id>https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL255YWNrL3JvY2tsYW5kLWNvdW50eS1vZmZlcnMtZnJlZS1yYWJpZXMtc2hvdHMtY2F0cy1kb2dzLWZlcnJldHPSAWxodHRwczovL3BhdGNoLmNvbS9uZXcteW9yay9ueWFjay9hbXAvMzE3MjI0MDAvcm9ja2xhbmQtY291bnR5LW9mZmVycy1mcmVlLXJhYmllcy1zaG90cy1mb3ItY2F0cy1kb2dzLWZlcnJldHM?oc=5</id>
@@ -175,25 +185,6 @@ When this happens, it's usually because the owner only shared it with a small gr
         <id>https://www.youtube.com/watch?v=l_KFHFh5xm0</id>
         <link href="https://www.youtube.com/watch?v=l_KFHFh5xm0"/>
         <updated>2024-03-22T01:00:44.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPCA Investigating Case of Abandoned Ferrets - The Putnam County Courier]]></title>
-        <id>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnB1dG5hbWNvdW50eWNvdXJpZXIuY29tL2FydGljbGVzL3NwY2EtaW52ZXN0aWdhdGluZy1jYXNlLW9mLWFiYW5kb25lZC1mZXJyZXRzL9IBAA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnB1dG5hbWNvdW50eWNvdXJpZXIuY29tL2FydGljbGVzL3NwY2EtaW52ZXN0aWdhdGluZy1jYXNlLW9mLWFiYW5kb25lZC1mZXJyZXRzL9IBAA?oc=5"/>
-        <updated>2024-03-19T09:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Bathe Ferrets: Wash the Face!]]></title>
-        <id>https://www.youtube.com/watch?v=o8YLhwP7GXU</id>
-        <link href="https://www.youtube.com/watch?v=o8YLhwP7GXU"/>
-        <updated>2024-03-19T01:00:45.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
         </author>
