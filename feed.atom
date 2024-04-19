@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T01:39:47.379Z</updated>
+    <updated>2024-04-19T01:41:05.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two endangered black-footed ferrets cloned from frozen tissue samples - The Guardian]]></title>
+        <id>https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9lbnZpcm9ubWVudC8yMDI0L2Fwci8xOC9lbmRhbmdlcmVkLWZlcnJldHMtY2xvbmVk0gFNaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50LzIwMjQvYXByLzE4L2VuZGFuZ2VyZWQtZmVycmV0cy1jbG9uZWQ?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9lbnZpcm9ubWVudC8yMDI0L2Fwci8xOC9lbmRhbmdlcmVkLWZlcnJldHMtY2xvbmVk0gFNaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50LzIwMjQvYXByLzE4L2VuZGFuZ2VyZWQtZmVycmV0cy1jbG9uZWQ?oc=5"/>
+        <updated>2024-04-19T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does My Ferret Hate Baths?]]></title>
+        <id>https://www.youtube.com/watch?v=gHj4p_IuNrM</id>
+        <link href="https://www.youtube.com/watch?v=gHj4p_IuNrM"/>
+        <updated>2024-04-19T01:00:38.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Officials have cloned two black-footed ferrets, an endangered species - The Washington Post]]></title>
         <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjQvMDQvMTcvYmxhY2stZm9vdGVkLWZlcnJldHMtY2xvbmVkLW5vcmVlbi1hbnRvbmlhL9IBAA?oc=5</id>
