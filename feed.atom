@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T01:42:00.138Z</updated>
+    <updated>2024-04-24T01:43:07.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -23,6 +23,16 @@
         <updated>2024-04-23T01:00:40.000Z</updated>
         <author>
             <name>The Modern Ferret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 more endangered ferrets are gene copies of critter frozen in 1980s - KSL.com]]></title>
+        <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MDk4Mzk2My8yLW1vcmUtZW5kYW5nZXJlZC1mZXJyZXRzLWFyZS1nZW5lLWNvcGllcy1vZi1jcml0dGVyLWZyb3plbi1pbi0xOTgwc9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MDk4Mzk2My8yLW1vcmUtZW5kYW5nZXJlZC1mZXJyZXRzLWFyZS1nZW5lLWNvcGllcy1vZi1jcml0dGVyLWZyb3plbi1pbi0xOTgwc9IBAA?oc=5"/>
+        <updated>2024-04-21T15:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
         </author>
     </entry>
     <entry>
