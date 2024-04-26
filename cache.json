@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DeY1mxum2JY",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DeY1mxum2JY",
+          "publishedOn": "2024-04-26T01:00:11.000Z",
+          "wordCount": null,
+          "title": "How to Bathe Ferrets: Anxious Pets",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9rZWxvbGFuZC1jb20tb3JpZ2luYWwvcHJhaXJpZS1kb2ctaHVudGluZy1iYW4tcHJvdGVjdHMtYmxhY2stZm9vdGVkLWZlcnJldHMv0gEA?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",

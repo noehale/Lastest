@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T01:43:08.630Z</updated>
+    <updated>2024-04-26T01:41:47.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Bathe Ferrets: Anxious Pets]]></title>
+        <id>https://www.youtube.com/watch?v=DeY1mxum2JY</id>
+        <link href="https://www.youtube.com/watch?v=DeY1mxum2JY"/>
+        <updated>2024-04-26T01:00:11.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prairie dog hunting ban protects black-footed ferrets - KELOLAND.com]]></title>
         <id>https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9rZWxvbGFuZC1jb20tb3JpZ2luYWwvcHJhaXJpZS1kb2ctaHVudGluZy1iYW4tcHJvdGVjdHMtYmxhY2stZm9vdGVkLWZlcnJldHMv0gEA?oc=5</id>
