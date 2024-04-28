@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T01:40:17.310Z</updated>
+    <updated>2024-04-28T01:45:53.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -217,15 +217,6 @@ When this happens, it's usually because the owner only shared it with a small gr
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets playing: after bath time! #ferret]]></title>
-        <id>https://www.youtube.com/watch?v=nYmgN1EembM</id>
-        <link href="https://www.youtube.com/watch?v=nYmgN1EembM"/>
-        <updated>2024-03-29T01:00:49.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
