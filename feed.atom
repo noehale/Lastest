@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T01:43:14.758Z</updated>
+    <updated>2024-04-30T01:41:46.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Spoil Ferrets During Bath Time]]></title>
+        <id>https://www.youtube.com/watch?v=Di2Hj6UMjRw</id>
+        <link href="https://www.youtube.com/watch?v=Di2Hj6UMjRw"/>
+        <updated>2024-04-30T01:00:10.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Bathe Ferrets: Anxious Pets]]></title>
         <id>https://www.youtube.com/watch?v=DeY1mxum2JY</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Di2Hj6UMjRw",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Di2Hj6UMjRw",
+          "publishedOn": "2024-04-30T01:00:10.000Z",
+          "wordCount": null,
+          "title": "How to Spoil Ferrets During Bath Time",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DeY1mxum2JY",
           "author": "The Modern Ferret",
           "description": "",
