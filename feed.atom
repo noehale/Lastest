@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-01T01:50:17.378Z</updated>
+    <updated>2024-05-02T01:42:08.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mobile County rabies clinics planned in May for dogs, cats, ferrets - NBC 15 WPMI]]></title>
+        <id>https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tbWF5LWZvci1kb2dzLWNhdHMtZmVycmV0c9IBZGh0dHBzOi8vbXluYmMxNS5jb20vYW1wL25ld3MvbG9jYWwvbW9iaWxlLWNvdW50eS1yYWJpZXMtY2xpbmljcy1wbGFubmVkLWluLW1heS1mb3ItZG9ncy1jYXRzLWZlcnJldHM?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tbWF5LWZvci1kb2dzLWNhdHMtZmVycmV0c9IBZGh0dHBzOi8vbXluYmMxNS5jb20vYW1wL25ld3MvbG9jYWwvbW9iaWxlLWNvdW50eS1yYWJpZXMtY2xpbmljcy1wbGFubmVkLWluLW1heS1mb3ItZG9ncy1jYXRzLWZlcnJldHM?oc=5"/>
+        <updated>2024-05-02T04:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Spoil Ferrets During Bath Time]]></title>
         <id>https://www.youtube.com/watch?v=Di2Hj6UMjRw</id>
