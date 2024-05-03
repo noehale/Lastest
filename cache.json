@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T4dCLJzQ_UA",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T4dCLJzQ_UA",
+          "publishedOn": "2024-05-03T01:00:21.000Z",
+          "wordCount": null,
+          "title": "Ferret Bathing Tip: How to Stop Scratching",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbXluYmMxNS5jb20vbmV3cy9sb2NhbC9tb2JpbGUtY291bnR5LXJhYmllcy1jbGluaWNzLXBsYW5uZWQtaW4tbWF5LWZvci1kb2dzLWNhdHMtZmVycmV0c9IBZGh0dHBzOi8vbXluYmMxNS5jb20vYW1wL25ld3MvbG9jYWwvbW9iaWxlLWNvdW50eS1yYWJpZXMtY2xpbmljcy1wbGFubmVkLWluLW1heS1mb3ItZG9ncy1jYXRzLWZlcnJldHM?oc=5",
           "author": null,
           "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -214,26 +224,6 @@
           "wordCount": null,
           "title": "How to Bathe Ferrets: Shampoo Recommendations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zotayGwlFjI",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zotayGwlFjI",
-          "publishedOn": "2024-04-03T01:00:47.000Z",
-          "wordCount": null,
-          "title": "Happy National you-know-what day from this… well we’ll ask Jerry what this little guy is 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJ5d2xrazV3MG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyeXdsa2s1dzBvLmFtcA?oc=5",
-          "author": null,
-          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJ5d2xrazV3MG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyeXdsa2s1dzBvLmFtcA?oc=5",
-          "publishedOn": "2024-04-02T20:15:09.000Z",
-          "wordCount": 5041,
-          "title": "RSPCA Suffolk: Homeless ferrets overlooked by pet adopters - BBC.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     }
