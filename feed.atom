@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T01:44:36.372Z</updated>
+    <updated>2024-05-04T01:40:37.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -67,6 +67,16 @@
         <id>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MDk4Mzk2My8yLW1vcmUtZW5kYW5nZXJlZC1mZXJyZXRzLWFyZS1nZW5lLWNvcGllcy1vZi1jcml0dGVyLWZyb3plbi1pbi0xOTgwc9IBAA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MDk4Mzk2My8yLW1vcmUtZW5kYW5nZXJlZC1mZXJyZXRzLWFyZS1nZW5lLWNvcGllcy1vZi1jcml0dGVyLWZyb3plbi1pbi0xOTgwc9IBAA?oc=5"/>
         <updated>2024-04-21T15:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferret Once Thought Extinct Has Been Cloned - Newsweek]]></title>
+        <id>https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ibGFjay1mb290ZWQtZmVycmV0LWNsb25lZC1lbmRhbmdlcmVkLXNwZWNpZXMtMTg5MjIyM9IBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ibGFjay1mb290ZWQtZmVycmV0LWNsb25lZC1lbmRhbmdlcmVkLXNwZWNpZXMtMTg5MjIyM9IBAA?oc=5"/>
+        <updated>2024-04-19T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
