@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-05T01:47:04.096Z</updated>
+    <updated>2024-05-06T01:44:10.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
@@ -155,6 +155,16 @@
         <id>https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndpc2h0di5jb20vbGlmZXN0eWxlbGl2ZS9hZG9wdC1hLWZlcnJldC1tb250aC13aXRoLW5vYWhzLWFuaW1hbC1ob3NwaXRhbHMtdG9tLWRvY2sv0gEA?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndpc2h0di5jb20vbGlmZXN0eWxlbGl2ZS9hZG9wdC1hLWZlcnJldC1tb250aC13aXRoLW5vYWhzLWFuaW1hbC1ob3NwaXRhbHMtdG9tLWRvY2sv0gEA?oc=5"/>
         <updated>2024-04-13T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Department Offers Free Rabies Shots for Cats, Dogs, And Ferrets on Sunday, April 28, 2024, 9 am – 12 pm | Latest News - Rockland County (.gov)]]></title>
+        <id>https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LnJvY2tsYW5kY291bnR5bnkuZ292L0hvbWUvQ29tcG9uZW50cy9OZXdzL05ld3MvMjkzLzc0NtIBAA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LnJvY2tsYW5kY291bnR5bnkuZ292L0hvbWUvQ29tcG9uZW50cy9OZXdzL05ld3MvMjkzLzc0NtIBAA?oc=5"/>
+        <updated>2024-04-12T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
