@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=amTzPgr7MTg",
+          "author": "The Modern Ferret",
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=amTzPgr7MTg",
+          "publishedOn": "2024-05-07T01:00:05.000Z",
+          "wordCount": null,
+          "title": "Ferret Bathing: Check for Health Problems!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T4dCLJzQ_UA",
           "author": "The Modern Ferret",
           "description": "",
