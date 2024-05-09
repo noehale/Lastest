@@ -6,6 +6,16 @@
       "siteUrl": "https://ferretvoice.com",
       "articles": [
         {
+          "id": "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5qb3BsaW5nbG9iZS5jb20vcmVnaW9uL2xvbmctdGltZS1mZXJyZXQtYWN0aXZpc3QtcGF0LXdyaWdodC1maWxlcy1sYXdzdWl0LWFnYWluc3QtY2FsaWZvcm5pYS1maXNoLWFuZC1nYW1lLWNvbW1pc3Npb24tcHJlc2lkZW50L2FydGljbGVfOTczNjgyNDMtMTM2OC01NjIyLWExYWMtYWNjZjIzOGViMzljLmh0bWzSAQA?oc=5",
+          "author": null,
+          "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "link": "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5qb3BsaW5nbG9iZS5jb20vcmVnaW9uL2xvbmctdGltZS1mZXJyZXQtYWN0aXZpc3QtcGF0LXdyaWdodC1maWxlcy1sYXdzdWl0LWFnYWluc3QtY2FsaWZvcm5pYS1maXNoLWFuZC1nYW1lLWNvbW1pc3Npb24tcHJlc2lkZW50L2FydGljbGVfOTczNjgyNDMtMTM2OC01NjIyLWExYWMtYWNjZjIzOGViMzljLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-05-09T03:07:39.000Z",
+          "wordCount": 8695,
+          "title": "Long Time Ferret Activist Pat Wright Files Lawsuit Against California Fish and Game Commission President Eric Sklar - Joplin Globe",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=amTzPgr7MTg",
           "author": "The Modern Ferret",
           "description": "",
@@ -234,26 +244,6 @@
           "wordCount": 8695,
           "title": "Two free rabies vaccine drive-thru clinics planned for Erie County's dogs, cats and ferrets in May | Erie County Department of Health (ECDOH) - Erie.gov",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rDzSaBQYSYw",
-          "author": "The Modern Ferret",
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rDzSaBQYSYw",
-          "publishedOn": "2024-04-09T01:00:51.000Z",
-          "wordCount": null,
-          "title": "Ferrets Bathing: Do Baths Reduce Smell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.facebook.com/666603538159996/posts/969230004564013",
-          "author": "The Modern Ferret",
-          "description": "This seems like another lifetime ago, when The Modern Ferret auditioned for Shark Tank. Moose made some incredible friends.\nWhen this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.(Feed generated with FetchRSS)",
-          "link": "https://www.facebook.com/666603538159996/posts/969230004564013",
-          "publishedOn": "2024-04-09T00:43:11.000Z",
-          "wordCount": 1798,
-          "title": "This content isn't available right now",
-          "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/56381605_10218686081926593_6943073994174103552_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Q19tWqYCrjQAb51rzsY&_nc_ht=scontent-iad3-2.xx&oh=00_AfACvbykjUffWE6g-OckLm_Fiyz_RL80XO-JNmLe9UeoiQ&oe=663BF593"
         }
       ]
     }

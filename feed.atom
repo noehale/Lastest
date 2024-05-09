@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T01:27:28.272Z</updated>
+    <updated>2024-05-09T01:45:06.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Long Time Ferret Activist Pat Wright Files Lawsuit Against California Fish and Game Commission President Eric Sklar - Joplin Globe]]></title>
+        <id>https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5qb3BsaW5nbG9iZS5jb20vcmVnaW9uL2xvbmctdGltZS1mZXJyZXQtYWN0aXZpc3QtcGF0LXdyaWdodC1maWxlcy1sYXdzdWl0LWFnYWluc3QtY2FsaWZvcm5pYS1maXNoLWFuZC1nYW1lLWNvbW1pc3Npb24tcHJlc2lkZW50L2FydGljbGVfOTczNjgyNDMtMTM2OC01NjIyLWExYWMtYWNjZjIzOGViMzljLmh0bWzSAQA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5qb3BsaW5nbG9iZS5jb20vcmVnaW9uL2xvbmctdGltZS1mZXJyZXQtYWN0aXZpc3QtcGF0LXdyaWdodC1maWxlcy1sYXdzdWl0LWFnYWluc3QtY2FsaWZvcm5pYS1maXNoLWFuZC1nYW1lLWNvbW1pc3Npb24tcHJlc2lkZW50L2FydGljbGVfOTczNjgyNDMtMTM2OC01NjIyLWExYWMtYWNjZjIzOGViMzljLmh0bWzSAQA?oc=5"/>
+        <updated>2024-05-09T03:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ferret Bathing: Check for Health Problems!]]></title>
         <id>https://www.youtube.com/watch?v=amTzPgr7MTg</id>
@@ -226,26 +236,6 @@
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrets Bathing: Do Baths Reduce Smell?]]></title>
-        <id>https://www.youtube.com/watch?v=rDzSaBQYSYw</id>
-        <link href="https://www.youtube.com/watch?v=rDzSaBQYSYw"/>
-        <updated>2024-04-09T01:00:51.000Z</updated>
-        <author>
-            <name>The Modern Ferret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This content isn't available right now]]></title>
-        <id>https://www.facebook.com/666603538159996/posts/969230004564013</id>
-        <link href="https://www.facebook.com/666603538159996/posts/969230004564013"/>
-        <updated>2024-04-09T00:43:11.000Z</updated>
-        <summary type="html"><![CDATA[This seems like another lifetime ago, when The Modern Ferret auditioned for Shark Tank. Moose made some incredible friends.
-When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.(Feed generated with FetchRSS)]]></summary>
-        <author>
-            <name>The Modern Ferret</name>
         </author>
     </entry>
 </feed>
