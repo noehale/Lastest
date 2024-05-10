@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noehale.github.io/lastest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-09T01:45:06.083Z</updated>
+    <updated>2024-05-10T01:46:30.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://noehale.github.io/lastest/index.html"/>
     <link rel="self" href="https://noehale.github.io/lastest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Rathlin's newest furry resident detecting ferrets - BBC.com]]></title>
+        <id>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hdi91ay1ub3J0aGVybi1pcmVsYW5kLTY4OTg2ODY00gEA?oc=5</id>
+        <link href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hdi91ay1ub3J0aGVybi1pcmVsYW5kLTY4OTg2ODY00gEA?oc=5"/>
+        <updated>2024-05-10T06:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
+        <author>
+            <name>Latest Ferret News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bathe Ferrets: Prepare Your Bathroom First]]></title>
+        <id>https://www.youtube.com/watch?v=-XrekUsy9wc</id>
+        <link href="https://www.youtube.com/watch?v=-XrekUsy9wc"/>
+        <updated>2024-05-10T01:00:00.000Z</updated>
+        <author>
+            <name>The Modern Ferret</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Long Time Ferret Activist Pat Wright Files Lawsuit Against California Fish and Game Commission President Eric Sklar - Joplin Globe]]></title>
         <id>https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5qb3BsaW5nbG9iZS5jb20vcmVnaW9uL2xvbmctdGltZS1mZXJyZXQtYWN0aXZpc3QtcGF0LXdyaWdodC1maWxlcy1sYXdzdWl0LWFnYWluc3QtY2FsaWZvcm5pYS1maXNoLWFuZC1nYW1lLWNvbW1pc3Npb24tcHJlc2lkZW50L2FydGljbGVfOTczNjgyNDMtMTM2OC01NjIyLWExYWMtYWNjZjIzOGViMzljLmh0bWzSAQA?oc=5</id>
@@ -213,26 +232,6 @@
         <id>https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnduY3QuY29tL25ld3Mvb2ZmYmVhdC1hbmQtdW5pcXVlL25jLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L9IBcGh0dHBzOi8vd3d3LnduY3QuY29tL25ld3Mvb2ZmYmVhdC1hbmQtdW5pcXVlL25jLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L2FtcC8?oc=5</id>
         <link href="https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnduY3QuY29tL25ld3Mvb2ZmYmVhdC1hbmQtdW5pcXVlL25jLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L9IBcGh0dHBzOi8vd3d3LnduY3QuY29tL25ld3Mvb2ZmYmVhdC1hbmQtdW5pcXVlL25jLWZlcnJldC1tdW1iby1qdW1iby1yZWNvZ25pemVkLWluLXVudXN1YWwtcG9wdWxhcml0eS1jb250ZXN0L2FtcC8?oc=5"/>
         <updated>2024-04-10T18:38:30.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NC ferret ‘Mumbo Jumbo’ recognized in unusual popularity contest - CBS17.com]]></title>
-        <id>https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvbmMtZmVycmV0LW11bWJvLWp1bWJvLXJlY29nbml6ZWQtaW4tdW51c3VhbC1wb3B1bGFyaXR5LWNvbnRlc3Qv0gFyaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3Mvbm9ydGgtY2Fyb2xpbmEtbmV3cy9uYy1mZXJyZXQtbXVtYm8tanVtYm8tcmVjb2duaXplZC1pbi11bnVzdWFsLXBvcHVsYXJpdHktY29udGVzdC9hbXAv?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNiczE3LmNvbS9uZXdzL25vcnRoLWNhcm9saW5hLW5ld3MvbmMtZmVycmV0LW11bWJvLWp1bWJvLXJlY29nbml6ZWQtaW4tdW51c3VhbC1wb3B1bGFyaXR5LWNvbnRlc3Qv0gFyaHR0cHM6Ly93d3cuY2JzMTcuY29tL25ld3Mvbm9ydGgtY2Fyb2xpbmEtbmV3cy9uYy1mZXJyZXQtbXVtYm8tanVtYm8tcmVjb2duaXplZC1pbi11bnVzdWFsLXBvcHVsYXJpdHktY29udGVzdC9hbXAv?oc=5"/>
-        <updated>2024-04-10T11:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
-        <author>
-            <name>Latest Ferret News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two free rabies vaccine drive-thru clinics planned for Erie County's dogs, cats and ferrets in May | Erie County Department of Health (ECDOH) - Erie.gov]]></title>
-        <id>https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3My5lcmllLmdvdi9oZWFsdGgvcHJlc3MvdHdvLWZyZWUtcmFiaWVzLXZhY2NpbmUtZHJpdmUtdGhydS1jbGluaWNzLXBsYW5uZWQtZXJpZS1jb3VudHlzLWRvZ3MtY2F0cy1hbmQtZmVycmV0cy1tYXnSAQA?oc=5</id>
-        <link href="https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3My5lcmllLmdvdi9oZWFsdGgvcHJlc3MvdHdvLWZyZWUtcmFiaWVzLXZhY2NpbmUtZHJpdmUtdGhydS1jbGluaWNzLXBsYW5uZWQtZXJpZS1jb3VudHlzLWRvZ3MtY2F0cy1hbmQtZmVycmV0cy1tYXnSAQA?oc=5"/>
-        <updated>2024-04-09T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.]]></summary>
         <author>
             <name>Latest Ferret News</name>
